@@ -1,0 +1,152 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 38,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 35000
+                        },
+                        {
+                            "lease": 20,
+                            "price": 41600
+                        },
+                        {
+                            "lease": 25,
+                            "price": 47000
+                        },
+                        {
+                            "lease": 30,
+                            "price": 51400
+                        },
+                        {
+                            "lease": 35,
+                            "price": 55200
+                        },
+                        {
+                            "lease": 40,
+                            "price": 58400
+                        },
+                        {
+                            "lease": 45,
+                            "price": 61100
+                        },
+                        {
+                            "lease": 99,
+                            "price": 100500
+                        }
+                    ],
+                    "unit": 86
+                }
+            ],
+            "block_code": {
+                "block_num": "140D",
+                "contract": "C29B",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 5,
+                "day": 31,
+                "quarter": null,
+                "months_since": 24
+            },
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 13
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "CORPORATION DRIVE",
+            "town": "Jurong West",
+            "title": "YUNG HO SPRING I",
+            "lat": 1.32759320275873,
+            "long": 103.724631531896,
+            "postal": 614140
+        },
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 18,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 45500
+                        },
+                        {
+                            "lease": 20,
+                            "price": 54100
+                        },
+                        {
+                            "lease": 25,
+                            "price": 61100
+                        },
+                        {
+                            "lease": 30,
+                            "price": 66900
+                        },
+                        {
+                            "lease": 35,
+                            "price": 71800
+                        },
+                        {
+                            "lease": 40,
+                            "price": 76000
+                        },
+                        {
+                            "lease": 45,
+                            "price": 79500
+                        },
+                        {
+                            "lease": 99,
+                            "price": 131100
+                        }
+                    ],
+                    "unit": 21
+                }
+            ],
+            "block_code": {
+                "block_num": "150A",
+                "contract": "C32",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 4,
+                "day": 30,
+                "quarter": null,
+                "months_since": 23
+            },
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 13
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "CORPORATION DRIVE",
+            "town": "Jurong West",
+            "title": "YUNG HO SPRING II",
+            "lat": 1.32672023915097,
+            "long": 103.722377848685,
+            "postal": 611150
+        }
+    ]
+}

@@ -1,0 +1,356 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 54800
+                        },
+                        {
+                            "lease": 20,
+                            "price": 63300
+                        },
+                        {
+                            "lease": 25,
+                            "price": 70200
+                        },
+                        {
+                            "lease": 30,
+                            "price": 76000
+                        },
+                        {
+                            "lease": 35,
+                            "price": 80800
+                        },
+                        {
+                            "lease": 40,
+                            "price": 84900
+                        },
+                        {
+                            "lease": 45,
+                            "price": 88400
+                        }
+                    ],
+                    "unit": 526
+                }
+            ],
+            "block_code": {
+                "block_num": "494E",
+                "contract": "C27",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "TAMPINES STREET 43",
+            "town": "Tampines",
+            "title": "TAMPINES ALCOVES",
+            "lat": 1.36421531545347,
+            "long": 103.953511202271,
+            "postal": 525494
+        },
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 63000
+                        },
+                        {
+                            "lease": 20,
+                            "price": 73100
+                        },
+                        {
+                            "lease": 25,
+                            "price": 81400
+                        },
+                        {
+                            "lease": 30,
+                            "price": 88200
+                        },
+                        {
+                            "lease": 35,
+                            "price": 94000
+                        },
+                        {
+                            "lease": 40,
+                            "price": 98900
+                        },
+                        {
+                            "lease": 45,
+                            "price": 103100
+                        }
+                    ],
+                    "unit": 390
+                },
+                {
+                    "area": 47,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 61000
+                        },
+                        {
+                            "lease": 20,
+                            "price": 70700
+                        },
+                        {
+                            "lease": 25,
+                            "price": 78700
+                        },
+                        {
+                            "lease": 30,
+                            "price": 85200
+                        },
+                        {
+                            "lease": 35,
+                            "price": 90800
+                        },
+                        {
+                            "lease": 40,
+                            "price": 95500
+                        },
+                        {
+                            "lease": 45,
+                            "price": 99500
+                        }
+                    ],
+                    "unit": 392
+                }
+            ],
+            "block_code": {
+                "block_num": "609C",
+                "contract": "C2A",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 9,
+                "day": 30,
+                "quarter": null,
+                "months_since": 40
+            },
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 28
+            },
+            "quota_chinese": 2,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "TAMPINES NORTH DRIVE 1",
+            "town": "Tampines",
+            "title": "TAMPINES GREENWEAVE",
+            "lat": 1.36368978070611,
+            "long": 103.936514982808,
+            "postal": 523609
+        },
+        {
+            "apartments": [
+                {
+                    "area": 45,
+                    "floor": 3,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 70000
+                        },
+                        {
+                            "lease": 20,
+                            "price": 82200
+                        },
+                        {
+                            "lease": 25,
+                            "price": 92300
+                        },
+                        {
+                            "lease": 30,
+                            "price": 100500
+                        },
+                        {
+                            "lease": 35,
+                            "price": 107500
+                        },
+                        {
+                            "lease": 40,
+                            "price": 113500
+                        },
+                        {
+                            "lease": 45,
+                            "price": 118500
+                        }
+                    ],
+                    "unit": 352
+                },
+                {
+                    "area": 45,
+                    "floor": 14,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 75300
+                        },
+                        {
+                            "lease": 20,
+                            "price": 88500
+                        },
+                        {
+                            "lease": 25,
+                            "price": 99500
+                        },
+                        {
+                            "lease": 30,
+                            "price": 108400
+                        },
+                        {
+                            "lease": 35,
+                            "price": 116000
+                        },
+                        {
+                            "lease": 40,
+                            "price": 122500
+                        },
+                        {
+                            "lease": 45,
+                            "price": 127900
+                        }
+                    ],
+                    "unit": 358
+                },
+                {
+                    "area": 45,
+                    "floor": 15,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 75300
+                        },
+                        {
+                            "lease": 20,
+                            "price": 88500
+                        },
+                        {
+                            "lease": 25,
+                            "price": 99500
+                        },
+                        {
+                            "lease": 30,
+                            "price": 108400
+                        },
+                        {
+                            "lease": 35,
+                            "price": 116000
+                        },
+                        {
+                            "lease": 40,
+                            "price": 122500
+                        },
+                        {
+                            "lease": 45,
+                            "price": 127900
+                        }
+                    ],
+                    "unit": 378
+                }
+            ],
+            "block_code": {
+                "block_num": "827A",
+                "contract": "C4C",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "TAMPINES STREET 81",
+            "town": "Tampines",
+            "title": "GOLDEN PINES",
+            "lat": 1.3498113294263,
+            "long": 103.932607934056,
+            "postal": 521827
+        },
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 14,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 64600
+                        },
+                        {
+                            "lease": 20,
+                            "price": 75000
+                        },
+                        {
+                            "lease": 25,
+                            "price": 83600
+                        },
+                        {
+                            "lease": 30,
+                            "price": 90600
+                        },
+                        {
+                            "lease": 35,
+                            "price": 96600
+                        },
+                        {
+                            "lease": 40,
+                            "price": 101700
+                        },
+                        {
+                            "lease": 45,
+                            "price": 105900
+                        }
+                    ],
+                    "unit": 544
+                }
+            ],
+            "block_code": {
+                "block_num": "868B",
+                "contract": "C26",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "TAMPINES AVENUE 8",
+            "town": "Tampines",
+            "title": "TAMPINES GREENWOOD",
+            "lat": 1.35592432083151,
+            "long": 103.932912367489,
+            "postal": 522868
+        }
+    ]
+}

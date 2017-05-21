@@ -1,0 +1,332 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 50,
+                    "floor": 5,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 82700
+                        },
+                        {
+                            "lease": 20,
+                            "price": 97700
+                        },
+                        {
+                            "lease": 25,
+                            "price": 110100
+                        },
+                        {
+                            "lease": 30,
+                            "price": 120200
+                        },
+                        {
+                            "lease": 35,
+                            "price": 128800
+                        },
+                        {
+                            "lease": 40,
+                            "price": 136200
+                        },
+                        {
+                            "lease": 45,
+                            "price": 142300
+                        }
+                    ],
+                    "unit": 457
+                },
+                {
+                    "area": 39,
+                    "floor": 19,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 66700
+                        },
+                        {
+                            "lease": 20,
+                            "price": 78900
+                        },
+                        {
+                            "lease": 25,
+                            "price": 89000
+                        },
+                        {
+                            "lease": 30,
+                            "price": 97200
+                        },
+                        {
+                            "lease": 35,
+                            "price": 104200
+                        },
+                        {
+                            "lease": 40,
+                            "price": 110200
+                        },
+                        {
+                            "lease": 45,
+                            "price": 115200
+                        }
+                    ],
+                    "unit": 459
+                }
+            ],
+            "block_code": {
+                "block_num": "307C",
+                "contract": "RC10",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 0,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "ANG MO KIO AVENUE 1",
+            "town": "Ang Mo Kio",
+            "title": "TECK GHEE VISTA",
+            "lat": 1.36556092881158,
+            "long": 103.845167432592,
+            "postal": 563307
+        },
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 30,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 95100
+                        },
+                        {
+                            "lease": 20,
+                            "price": 111600
+                        },
+                        {
+                            "lease": 25,
+                            "price": 125200
+                        },
+                        {
+                            "lease": 30,
+                            "price": 136300
+                        },
+                        {
+                            "lease": 35,
+                            "price": 145800
+                        },
+                        {
+                            "lease": 40,
+                            "price": 153800
+                        },
+                        {
+                            "lease": 45,
+                            "price": 160600
+                        }
+                    ],
+                    "unit": 9
+                }
+            ],
+            "block_code": {
+                "block_num": "590A",
+                "contract": "C26",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 1,
+                "day": 31,
+                "quarter": null,
+                "months_since": 20
+            },
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": null,
+                "quarter": null,
+                "months_since": 2
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "ANG MO KIO STREET 51",
+            "town": "Ang Mo Kio",
+            "title": "CHENG SAN COURT",
+            "lat": 1.37122178516984,
+            "long": 103.853853154442,
+            "postal": 561590
+        },
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 23,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 95100
+                        },
+                        {
+                            "lease": 20,
+                            "price": 111600
+                        },
+                        {
+                            "lease": 25,
+                            "price": 125200
+                        },
+                        {
+                            "lease": 30,
+                            "price": 136300
+                        },
+                        {
+                            "lease": 35,
+                            "price": 145800
+                        },
+                        {
+                            "lease": 40,
+                            "price": 153800
+                        },
+                        {
+                            "lease": 45,
+                            "price": 160600
+                        }
+                    ],
+                    "unit": 17
+                },
+                {
+                    "area": 47,
+                    "floor": 32,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 99100
+                        },
+                        {
+                            "lease": 20,
+                            "price": 116400
+                        },
+                        {
+                            "lease": 25,
+                            "price": 130600
+                        },
+                        {
+                            "lease": 30,
+                            "price": 142300
+                        },
+                        {
+                            "lease": 35,
+                            "price": 152200
+                        },
+                        {
+                            "lease": 40,
+                            "price": 160700
+                        },
+                        {
+                            "lease": 45,
+                            "price": 167800
+                        }
+                    ],
+                    "unit": 17
+                }
+            ],
+            "block_code": {
+                "block_num": "590B",
+                "contract": "C26",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 1,
+                "day": 31,
+                "quarter": null,
+                "months_since": 20
+            },
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 9,
+                "day": null,
+                "quarter": null,
+                "months_since": 4
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "ANG MO KIO STREET 51",
+            "town": "Ang Mo Kio",
+            "title": "CHENG SAN COURT",
+            "lat": 1.37118642598514,
+            "long": 103.852980282648,
+            "postal": 562590
+        },
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 5,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 72000
+                        },
+                        {
+                            "lease": 20,
+                            "price": 83900
+                        },
+                        {
+                            "lease": 25,
+                            "price": 93700
+                        },
+                        {
+                            "lease": 30,
+                            "price": 101700
+                        },
+                        {
+                            "lease": 35,
+                            "price": 108500
+                        },
+                        {
+                            "lease": 40,
+                            "price": 114300
+                        },
+                        {
+                            "lease": 45,
+                            "price": 119200
+                        }
+                    ],
+                    "unit": 15
+                }
+            ],
+            "block_code": {
+                "block_num": "650",
+                "contract": "C28",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "ANG MO KIO STREET 61",
+            "town": "Ang Mo Kio",
+            "title": "YIO CHU KANG VISTA",
+            "lat": 1.37769118043961,
+            "long": 103.84274515222,
+            "postal": 560650
+        }
+    ]
+}

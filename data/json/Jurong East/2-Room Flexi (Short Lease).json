@@ -1,0 +1,170 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 45,
+                    "floor": 8,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 63300
+                        },
+                        {
+                            "lease": 20,
+                            "price": 74400
+                        },
+                        {
+                            "lease": 25,
+                            "price": 83500
+                        },
+                        {
+                            "lease": 30,
+                            "price": 91000
+                        },
+                        {
+                            "lease": 35,
+                            "price": 97400
+                        },
+                        {
+                            "lease": 40,
+                            "price": 102800
+                        },
+                        {
+                            "lease": 45,
+                            "price": 107300
+                        }
+                    ],
+                    "unit": 310
+                },
+                {
+                    "area": 45,
+                    "floor": 4,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 60500
+                        },
+                        {
+                            "lease": 20,
+                            "price": 71000
+                        },
+                        {
+                            "lease": 25,
+                            "price": 79700
+                        },
+                        {
+                            "lease": 30,
+                            "price": 86800
+                        },
+                        {
+                            "lease": 35,
+                            "price": 92800
+                        },
+                        {
+                            "lease": 40,
+                            "price": 97900
+                        },
+                        {
+                            "lease": 45,
+                            "price": 102200
+                        }
+                    ],
+                    "unit": 312
+                },
+                {
+                    "area": 45,
+                    "floor": 4,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 60500
+                        },
+                        {
+                            "lease": 20,
+                            "price": 71000
+                        },
+                        {
+                            "lease": 25,
+                            "price": 79700
+                        },
+                        {
+                            "lease": 30,
+                            "price": 86800
+                        },
+                        {
+                            "lease": 35,
+                            "price": 92800
+                        },
+                        {
+                            "lease": 40,
+                            "price": 97900
+                        },
+                        {
+                            "lease": 45,
+                            "price": 102200
+                        }
+                    ],
+                    "unit": 314
+                },
+                {
+                    "area": 45,
+                    "floor": 4,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 60000
+                        },
+                        {
+                            "lease": 20,
+                            "price": 70400
+                        },
+                        {
+                            "lease": 25,
+                            "price": 79000
+                        },
+                        {
+                            "lease": 30,
+                            "price": 86100
+                        },
+                        {
+                            "lease": 35,
+                            "price": 92000
+                        },
+                        {
+                            "lease": 40,
+                            "price": 97100
+                        },
+                        {
+                            "lease": 45,
+                            "price": 101400
+                        }
+                    ],
+                    "unit": 320
+                }
+            ],
+            "block_code": {
+                "block_num": "318A",
+                "contract": "C12",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 4,
+            "quota_malay": 4,
+            "quota_other": 4,
+            "street": "JURONG EAST AVENUE 1",
+            "town": "Jurong East",
+            "title": "GOLDEN WILLOWS",
+            "lat": 1.34762352486592,
+            "long": 103.731009078651,
+            "postal": 601318
+        }
+    ]
+}

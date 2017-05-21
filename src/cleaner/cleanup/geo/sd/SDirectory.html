@@ -1,0 +1,57 @@
+<html>
+<head>
+<title>Result Queryer</title>
+<script type="text/javascript" language="javascript" src="http://www.streetdirectory.com/js/map_api/m.php"></script>
+<script type="text/javascript">
+
+    // Auto-called when query is completed
+    function set_data(something) {
+        prettyJson = JSON.stringify(something);
+        document.getElementById('query_results').innerText += prettyJson;
+    }
+
+    // Runs on page load
+    function initialize() {
+        // Initialize
+        var map = new SD.genmap.Map(
+            document.getElementById("map_canvas"), {}
+        );
+        var geocode = new SDGeocode(map);
+
+        // Parse query
+        var option = window.location.search.charAt(1);
+        var query;
+        switch (option) {
+            case 'r':
+                // ctype = location, d = detailed
+                query = decodeURI(window.location.search.substring(3));
+                params = query.split(',')
+                geocode.reverse(SDGeocode.SG, { "ctype": 1, "x": params[1], "y": params[0], "dist": 0.5, "d": 1 })
+                break;
+            case 'g':
+                // ctype = location, d = detailed
+                query = decodeURI(window.location.search.substring(3));
+                geocode.requestData(SDGeocode.SG, { "q": query, "ctype": 1, "d": 1, "limit": 10 });
+                break;
+            default:
+                // ctype = location, d = detailed
+                query = decodeURI(window.location.search.substring(1));
+                geocode.requestData(SDGeocode.SG, { "q": query, "ctype": 1, "d": 1, "limit": 10 });
+                break;
+        }
+        document.getElementById('query_term').innerText += query;
+    }
+</script>
+
+</head>
+<body onload="initialize()">
+    Browse to URL?Query<br />
+    Or, URL?g=Geocode<br />
+    Alternatively URL?r=ReverseGeocode<br />
+    <hr />
+    <div id="map_canvas" style="width:50px; height:50px"></div>
+    <div id="query_term"></div>
+    <hr />
+    <div id="query_results"></div>
+</body>
+</html>

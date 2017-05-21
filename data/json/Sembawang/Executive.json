@@ -1,0 +1,84 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 136,
+                    "floor": 15,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 81,
+                            "price": 477000
+                        }
+                    ],
+                    "unit": 160
+                }
+            ],
+            "block_code": {
+                "block_num": "338",
+                "contract": "C15",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "Executive",
+            "lcd_date": {
+                "year": 1999,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": -214
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "SEMBAWANG CRESCENT",
+            "town": "Sembawang",
+            "title": "HDB-SEMBAWANG",
+            "lat": 1.44577476058771,
+            "long": 103.815316349165,
+            "postal": 750338
+        },
+        {
+            "apartments": [
+                {
+                    "area": 137,
+                    "floor": 10,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 83,
+                            "price": 405000
+                        }
+                    ],
+                    "unit": 213
+                }
+            ],
+            "block_code": {
+                "block_num": "468D",
+                "contract": "C5",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "Executive",
+            "lcd_date": {
+                "year": 2001,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": -192
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "ADMIRALTY DRIVE",
+            "town": "Sembawang",
+            "title": "BLUE RIVERVIEW",
+            "lat": 1.45083059926033,
+            "long": 103.814273470438,
+            "postal": 754468
+        }
+    ]
+}

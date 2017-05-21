@@ -1,0 +1,98 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 18,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 71900
+                        },
+                        {
+                            "lease": 20,
+                            "price": 84000
+                        },
+                        {
+                            "lease": 25,
+                            "price": 94000
+                        },
+                        {
+                            "lease": 30,
+                            "price": 102100
+                        },
+                        {
+                            "lease": 35,
+                            "price": 109000
+                        },
+                        {
+                            "lease": 40,
+                            "price": 114900
+                        },
+                        {
+                            "lease": 45,
+                            "price": 119900
+                        }
+                    ],
+                    "unit": 413
+                },
+                {
+                    "area": 47,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 68900
+                        },
+                        {
+                            "lease": 20,
+                            "price": 80400
+                        },
+                        {
+                            "lease": 25,
+                            "price": 89900
+                        },
+                        {
+                            "lease": 30,
+                            "price": 97600
+                        },
+                        {
+                            "lease": 35,
+                            "price": 104200
+                        },
+                        {
+                            "lease": 40,
+                            "price": 109800
+                        },
+                        {
+                            "lease": 45,
+                            "price": 114500
+                        }
+                    ],
+                    "unit": 417
+                }
+            ],
+            "block_code": {
+                "block_num": "230A",
+                "contract": "C21",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "BUKIT BATOK STREET 21",
+            "town": "Bukit Batok",
+            "title": "NIL",
+            "lat": 1.34755153967046,
+            "long": 103.755783055819,
+            "postal": 651230
+        }
+    ]
+}

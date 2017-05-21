@@ -1,0 +1,90 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 117,
+                    "floor": 2,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 61,
+                            "price": 448000
+                        }
+                    ],
+                    "unit": 196
+                }
+            ],
+            "block_code": {
+                "block_num": "139",
+                "contract": "C3",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 1979,
+                "month": 1,
+                "day": 1,
+                "quarter": null,
+                "months_since": -460
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BEDOK NORTH AVENUE 3",
+            "town": "Bedok",
+            "title": "HDB-BEDOK",
+            "lat": 1.32941001130629,
+            "long": 103.935397269548,
+            "postal": 460139
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 497800
+                        }
+                    ],
+                    "unit": 8
+                }
+            ],
+            "block_code": {
+                "block_num": "186A",
+                "contract": "C20",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 11,
+                "day": 30,
+                "quarter": null,
+                "months_since": 18
+            },
+            "flat_type": "5-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": null,
+                "day": null,
+                "quarter": 4,
+                "months_since": 7
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BEDOK NORTH STREET 4",
+            "town": "Bedok",
+            "title": "FENGSHAN GREENVILLE",
+            "lat": 1.32991427421907,
+            "long": 103.940310513079,
+            "postal": 461186
+        }
+    ]
+}

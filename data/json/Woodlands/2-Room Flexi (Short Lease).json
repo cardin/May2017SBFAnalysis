@@ -1,0 +1,436 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 46,
+                    "floor": 28,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 68900
+                        },
+                        {
+                            "lease": 20,
+                            "price": 80300
+                        },
+                        {
+                            "lease": 25,
+                            "price": 89800
+                        },
+                        {
+                            "lease": 30,
+                            "price": 97500
+                        },
+                        {
+                            "lease": 35,
+                            "price": 104100
+                        },
+                        {
+                            "lease": 40,
+                            "price": 109700
+                        },
+                        {
+                            "lease": 45,
+                            "price": 114400
+                        }
+                    ],
+                    "unit": 2208
+                },
+                {
+                    "area": 46,
+                    "floor": 29,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 69100
+                        },
+                        {
+                            "lease": 20,
+                            "price": 80600
+                        },
+                        {
+                            "lease": 25,
+                            "price": 90100
+                        },
+                        {
+                            "lease": 30,
+                            "price": 97900
+                        },
+                        {
+                            "lease": 35,
+                            "price": 104500
+                        },
+                        {
+                            "lease": 40,
+                            "price": 110100
+                        },
+                        {
+                            "lease": 45,
+                            "price": 114900
+                        }
+                    ],
+                    "unit": 2208
+                }
+            ],
+            "block_code": {
+                "block_num": "180A",
+                "contract": "C19",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 0,
+            "quota_other": 1,
+            "street": "MARSILING ROAD",
+            "town": "Woodlands",
+            "title": "MARSILING HEIGHTS",
+            "lat": 1.43905616085406,
+            "long": 103.778144908408,
+            "postal": 731180
+        },
+        {
+            "apartments": [
+                {
+                    "area": 36,
+                    "floor": 6,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 47300
+                        },
+                        {
+                            "lease": 20,
+                            "price": 54700
+                        },
+                        {
+                            "lease": 25,
+                            "price": 60700
+                        },
+                        {
+                            "lease": 30,
+                            "price": 65700
+                        },
+                        {
+                            "lease": 35,
+                            "price": 69900
+                        },
+                        {
+                            "lease": 40,
+                            "price": 73500
+                        },
+                        {
+                            "lease": 45,
+                            "price": 76500
+                        }
+                    ],
+                    "unit": 2214
+                }
+            ],
+            "block_code": {
+                "block_num": "180B",
+                "contract": "C19",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 0,
+            "street": "MARSILING ROAD",
+            "town": "Woodlands",
+            "title": "MARSILING HEIGHTS",
+            "lat": 1.43905659750826,
+            "long": 103.778349763028,
+            "postal": 732180
+        },
+        {
+            "apartments": [
+                {
+                    "area": 38,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 54500
+                        },
+                        {
+                            "lease": 20,
+                            "price": 62700
+                        },
+                        {
+                            "lease": 25,
+                            "price": 69400
+                        },
+                        {
+                            "lease": 30,
+                            "price": 75000
+                        },
+                        {
+                            "lease": 35,
+                            "price": 79700
+                        },
+                        {
+                            "lease": 40,
+                            "price": 83600
+                        },
+                        {
+                            "lease": 45,
+                            "price": 87000
+                        }
+                    ],
+                    "unit": 60
+                }
+            ],
+            "block_code": {
+                "block_num": "676B",
+                "contract": "C26",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 9,
+                "day": 30,
+                "quarter": null,
+                "months_since": 16
+            },
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 8,
+                "day": null,
+                "quarter": null,
+                "months_since": 3
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "WOODLANDS DRIVE 71",
+            "town": "Woodlands",
+            "title": "KAMPUNG ADMIRALTY",
+            "lat": 1.43956715655106,
+            "long": 103.801031184281,
+            "postal": 732676
+        },
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 53300
+                        },
+                        {
+                            "lease": 20,
+                            "price": 61400
+                        },
+                        {
+                            "lease": 25,
+                            "price": 68100
+                        },
+                        {
+                            "lease": 30,
+                            "price": 73600
+                        },
+                        {
+                            "lease": 35,
+                            "price": 78300
+                        },
+                        {
+                            "lease": 40,
+                            "price": 82200
+                        },
+                        {
+                            "lease": 45,
+                            "price": 85600
+                        }
+                    ],
+                    "unit": 216
+                }
+            ],
+            "block_code": {
+                "block_num": "764B",
+                "contract": "C32",
+                "neighbourhood": "N7"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "WOODLANDS CIRCLE",
+            "town": "Woodlands",
+            "title": "GOLDEN SAFFRON",
+            "lat": 1.44506585872388,
+            "long": 103.797607810105,
+            "postal": 732764
+        },
+        {
+            "apartments": [
+                {
+                    "area": 36,
+                    "floor": 12,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 46700
+                        },
+                        {
+                            "lease": 20,
+                            "price": 54200
+                        },
+                        {
+                            "lease": 25,
+                            "price": 60300
+                        },
+                        {
+                            "lease": 30,
+                            "price": 65300
+                        },
+                        {
+                            "lease": 35,
+                            "price": 69600
+                        },
+                        {
+                            "lease": 40,
+                            "price": 73200
+                        },
+                        {
+                            "lease": 45,
+                            "price": 76300
+                        }
+                    ],
+                    "unit": 533
+                },
+                {
+                    "area": 36,
+                    "floor": 11,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 45600
+                        },
+                        {
+                            "lease": 20,
+                            "price": 52800
+                        },
+                        {
+                            "lease": 25,
+                            "price": 58700
+                        },
+                        {
+                            "lease": 30,
+                            "price": 63600
+                        },
+                        {
+                            "lease": 35,
+                            "price": 67700
+                        },
+                        {
+                            "lease": 40,
+                            "price": 71300
+                        },
+                        {
+                            "lease": 45,
+                            "price": 74200
+                        }
+                    ],
+                    "unit": 545
+                }
+            ],
+            "block_code": {
+                "block_num": "886D",
+                "contract": "C20",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 1,
+            "street": "WOODLANDS DRIVE 50",
+            "town": "Woodlands",
+            "title": "TREEGROVE@WOODLANDS",
+            "lat": 1.43792628146015,
+            "long": 103.794619055782,
+            "postal": 734886
+        },
+        {
+            "apartments": [
+                {
+                    "area": 46,
+                    "floor": 12,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 57500
+                        },
+                        {
+                            "lease": 20,
+                            "price": 66900
+                        },
+                        {
+                            "lease": 25,
+                            "price": 74700
+                        },
+                        {
+                            "lease": 30,
+                            "price": 81000
+                        },
+                        {
+                            "lease": 35,
+                            "price": 86400
+                        },
+                        {
+                            "lease": 40,
+                            "price": 91000
+                        },
+                        {
+                            "lease": 45,
+                            "price": 94800
+                        }
+                    ],
+                    "unit": 603
+                }
+            ],
+            "block_code": {
+                "block_num": "887C",
+                "contract": "C20",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 0,
+            "street": "WOODLANDS DRIVE 50",
+            "town": "Woodlands",
+            "title": "TREEGROVE@WOODLANDS",
+            "lat": 1.43713545018273,
+            "long": 103.794669291745,
+            "postal": 733887
+        }
+    ]
+}

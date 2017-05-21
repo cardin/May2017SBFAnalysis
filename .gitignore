@@ -1,13 +1,24 @@
+# /abc matches top-level folder
+# abc matches any folder/file
+
 # Git
-/.git
+.git/
 
 # Visual Studio
-/.vs
-*.sln
-*.pyproj*
+.vs/
+*.pyproj.user
 
 # Python specifics
-*/pycache/*
+py_env/
+__pycache__/
+.mypy_cache/
 *.pyc
-/env
-*/.mypy_cache/*
+
+# Lib
+lib/phantomjs-*
+
+# Others
+*.cache
+*.key
+*.log
+*.sqlite

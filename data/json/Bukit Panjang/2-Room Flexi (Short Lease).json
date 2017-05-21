@@ -1,0 +1,322 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 57500
+                        },
+                        {
+                            "lease": 20,
+                            "price": 66400
+                        },
+                        {
+                            "lease": 25,
+                            "price": 73800
+                        },
+                        {
+                            "lease": 30,
+                            "price": 79900
+                        },
+                        {
+                            "lease": 35,
+                            "price": 85100
+                        },
+                        {
+                            "lease": 40,
+                            "price": 89400
+                        },
+                        {
+                            "lease": 45,
+                            "price": 93100
+                        }
+                    ],
+                    "unit": 584
+                },
+                {
+                    "area": 37,
+                    "floor": 10,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 45200
+                        },
+                        {
+                            "lease": 20,
+                            "price": 51900
+                        },
+                        {
+                            "lease": 25,
+                            "price": 57500
+                        },
+                        {
+                            "lease": 30,
+                            "price": 62000
+                        },
+                        {
+                            "lease": 35,
+                            "price": 65900
+                        },
+                        {
+                            "lease": 40,
+                            "price": 69100
+                        },
+                        {
+                            "lease": 45,
+                            "price": 71900
+                        }
+                    ],
+                    "unit": 590
+                },
+                {
+                    "area": 37,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 45500
+                        },
+                        {
+                            "lease": 20,
+                            "price": 52200
+                        },
+                        {
+                            "lease": 25,
+                            "price": 57800
+                        },
+                        {
+                            "lease": 30,
+                            "price": 62400
+                        },
+                        {
+                            "lease": 35,
+                            "price": 66300
+                        },
+                        {
+                            "lease": 40,
+                            "price": 69600
+                        },
+                        {
+                            "lease": 45,
+                            "price": 72400
+                        }
+                    ],
+                    "unit": 590
+                },
+                {
+                    "area": 37,
+                    "floor": 12,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 45700
+                        },
+                        {
+                            "lease": 20,
+                            "price": 52600
+                        },
+                        {
+                            "lease": 25,
+                            "price": 58200
+                        },
+                        {
+                            "lease": 30,
+                            "price": 62800
+                        },
+                        {
+                            "lease": 35,
+                            "price": 66700
+                        },
+                        {
+                            "lease": 40,
+                            "price": 70100
+                        },
+                        {
+                            "lease": 45,
+                            "price": 72900
+                        }
+                    ],
+                    "unit": 600
+                }
+            ],
+            "block_code": {
+                "block_num": "454",
+                "contract": "C17",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 4,
+            "quota_malay": 4,
+            "quota_other": 4,
+            "street": "FAJAR ROAD",
+            "town": "Bukit Panjang",
+            "title": "FAJAR SPRING",
+            "lat": 1.38450243119905,
+            "long": 103.771537431563,
+            "postal": 670454
+        },
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 24,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 63300
+                        },
+                        {
+                            "lease": 20,
+                            "price": 73900
+                        },
+                        {
+                            "lease": 25,
+                            "price": 82600
+                        },
+                        {
+                            "lease": 30,
+                            "price": 89700
+                        },
+                        {
+                            "lease": 35,
+                            "price": 95800
+                        },
+                        {
+                            "lease": 40,
+                            "price": 100900
+                        },
+                        {
+                            "lease": 45,
+                            "price": 105300
+                        }
+                    ],
+                    "unit": 217
+                },
+                {
+                    "area": 47,
+                    "floor": 11,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 58900
+                        },
+                        {
+                            "lease": 20,
+                            "price": 68500
+                        },
+                        {
+                            "lease": 25,
+                            "price": 76500
+                        },
+                        {
+                            "lease": 30,
+                            "price": 83000
+                        },
+                        {
+                            "lease": 35,
+                            "price": 88600
+                        },
+                        {
+                            "lease": 40,
+                            "price": 93300
+                        },
+                        {
+                            "lease": 45,
+                            "price": 97200
+                        }
+                    ],
+                    "unit": 225
+                }
+            ],
+            "block_code": {
+                "block_num": "634A",
+                "contract": "C10",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "SENJA ROAD",
+            "town": "Bukit Panjang",
+            "title": "SENJA GATEWAY",
+            "lat": 1.3857980921864,
+            "long": 103.757614659363,
+            "postal": 671634
+        },
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 10,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 58600
+                        },
+                        {
+                            "lease": 20,
+                            "price": 68200
+                        },
+                        {
+                            "lease": 25,
+                            "price": 76100
+                        },
+                        {
+                            "lease": 30,
+                            "price": 82600
+                        },
+                        {
+                            "lease": 35,
+                            "price": 88100
+                        },
+                        {
+                            "lease": 40,
+                            "price": 92800
+                        },
+                        {
+                            "lease": 45,
+                            "price": 96800
+                        }
+                    ],
+                    "unit": 235
+                }
+            ],
+            "block_code": {
+                "block_num": "634B",
+                "contract": "C10",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "SENJA ROAD",
+            "town": "Bukit Panjang",
+            "title": "SENJA GATEWAY",
+            "lat": 1.38611988630204,
+            "long": 103.758328624429,
+            "postal": 672634
+        }
+    ]
+}

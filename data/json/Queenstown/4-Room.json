@@ -1,0 +1,1886 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 544100
+                        }
+                    ],
+                    "unit": 320
+                }
+            ],
+            "block_code": {
+                "block_num": "29",
+                "contract": "R25A",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 5,
+                "day": 31,
+                "quarter": null,
+                "months_since": 12
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 6,
+                "day": null,
+                "quarter": null,
+                "months_since": 1
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "GHIM MOH LINK",
+            "town": "Queenstown",
+            "title": "GHIM MOH EDGE",
+            "lat": 1.30869473784384,
+            "long": 103.784048768238,
+            "postal": 270029
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 26,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 562900
+                        }
+                    ],
+                    "unit": 332
+                },
+                {
+                    "area": 93,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 513400
+                        }
+                    ],
+                    "unit": 334
+                }
+            ],
+            "block_code": {
+                "block_num": "30",
+                "contract": "R25A",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 5,
+                "day": 31,
+                "quarter": null,
+                "months_since": 12
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 6,
+                "day": null,
+                "quarter": null,
+                "months_since": 1
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "GHIM MOH LINK",
+            "town": "Queenstown",
+            "title": "GHIM MOH EDGE",
+            "lat": 1.30881985260162,
+            "long": 103.7838389718,
+            "postal": 272030
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 29,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 576400
+                        }
+                    ],
+                    "unit": 282
+                }
+            ],
+            "block_code": {
+                "block_num": "31",
+                "contract": "R25A",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 5,
+                "day": 31,
+                "quarter": null,
+                "months_since": 12
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 6,
+                "day": null,
+                "quarter": null,
+                "months_since": 1
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "GHIM MOH LINK",
+            "town": "Queenstown",
+            "title": "GHIM MOH EDGE",
+            "lat": 1.30960366323026,
+            "long": 103.784023479632,
+            "postal": 271031
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 561900
+                        }
+                    ],
+                    "unit": 308
+                }
+            ],
+            "block_code": {
+                "block_num": "33",
+                "contract": "R25A",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": 13
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "GHIM MOH LINK",
+            "town": "Queenstown",
+            "title": "GHIM MOH EDGE",
+            "lat": 1.30977118024451,
+            "long": 103.784714017294,
+            "postal": 270033
+        },
+        {
+            "apartments": [
+                {
+                    "area": 88,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 560800
+                        }
+                    ],
+                    "unit": 502
+                }
+            ],
+            "block_code": {
+                "block_num": "50",
+                "contract": "RC30",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2015,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": -27
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "COMMONWEALTH DRIVE",
+            "town": "Queenstown",
+            "title": "COMMONWEALTH 10",
+            "lat": 1.30112909158396,
+            "long": 103.797123032464,
+            "postal": 142050
+        },
+        {
+            "apartments": [
+                {
+                    "area": 88,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 551800
+                        }
+                    ],
+                    "unit": 538
+                },
+                {
+                    "area": 88,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 556300
+                        }
+                    ],
+                    "unit": 538
+                },
+                {
+                    "area": 88,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 556300
+                        }
+                    ],
+                    "unit": 542
+                }
+            ],
+            "block_code": {
+                "block_num": "52",
+                "contract": "RC30",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2015,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": -27
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 2,
+            "quota_other": 3,
+            "street": "COMMONWEALTH DRIVE",
+            "town": "Queenstown",
+            "title": "COMMONWEALTH 10",
+            "lat": 1.30190334034962,
+            "long": 103.797243238583,
+            "postal": 142052
+        },
+        {
+            "apartments": [
+                {
+                    "area": 88,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 551800
+                        }
+                    ],
+                    "unit": 554
+                },
+                {
+                    "area": 88,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 560800
+                        }
+                    ],
+                    "unit": 554
+                },
+                {
+                    "area": 93,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 615800
+                        }
+                    ],
+                    "unit": 554
+                },
+                {
+                    "area": 88,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 556300
+                        }
+                    ],
+                    "unit": 558
+                },
+                {
+                    "area": 88,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 545800
+                        }
+                    ],
+                    "unit": 560
+                },
+                {
+                    "area": 88,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 556300
+                        }
+                    ],
+                    "unit": 560
+                }
+            ],
+            "block_code": {
+                "block_num": "53",
+                "contract": "RC30",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2015,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": -27
+            },
+            "pcd_date": null,
+            "quota_chinese": 6,
+            "quota_malay": 6,
+            "quota_other": 6,
+            "street": "COMMONWEALTH DRIVE",
+            "town": "Queenstown",
+            "title": "COMMONWEALTH 10",
+            "lat": 1.30205878257015,
+            "long": 103.796581739102,
+            "postal": 142053
+        },
+        {
+            "apartments": [
+                {
+                    "area": 87,
+                    "floor": 9,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 558800
+                        }
+                    ],
+                    "unit": 9
+                }
+            ],
+            "block_code": {
+                "block_num": "86",
+                "contract": "C1",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 8,
+                "day": 1,
+                "quarter": null,
+                "months_since": -9
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "DAWSON ROAD",
+            "town": "Queenstown",
+            "title": "SKYVILLE @ DAWSON",
+            "lat": 1.29564903068444,
+            "long": 103.810230517871,
+            "postal": 141086
+        },
+        {
+            "apartments": [
+                {
+                    "area": 83,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 454600
+                        }
+                    ],
+                    "unit": 42
+                },
+                {
+                    "area": 83,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 467300
+                        }
+                    ],
+                    "unit": 42
+                },
+                {
+                    "area": 83,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 481900
+                        }
+                    ],
+                    "unit": 42
+                },
+                {
+                    "area": 83,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 487400
+                        }
+                    ],
+                    "unit": 42
+                },
+                {
+                    "area": 83,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 488800
+                        }
+                    ],
+                    "unit": 42
+                },
+                {
+                    "area": 83,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 490200
+                        }
+                    ],
+                    "unit": 42
+                },
+                {
+                    "area": 83,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 491600
+                        }
+                    ],
+                    "unit": 42
+                },
+                {
+                    "area": 83,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 494400
+                        }
+                    ],
+                    "unit": 42
+                },
+                {
+                    "area": 83,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 495800
+                        }
+                    ],
+                    "unit": 42
+                },
+                {
+                    "area": 83,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 498600
+                        }
+                    ],
+                    "unit": 42
+                },
+                {
+                    "area": 83,
+                    "floor": 18,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 500000
+                        }
+                    ],
+                    "unit": 42
+                },
+                {
+                    "area": 83,
+                    "floor": 19,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 501400
+                        }
+                    ],
+                    "unit": 42
+                },
+                {
+                    "area": 83,
+                    "floor": 20,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 502800
+                        }
+                    ],
+                    "unit": 42
+                },
+                {
+                    "area": 83,
+                    "floor": 21,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 504200
+                        }
+                    ],
+                    "unit": 42
+                },
+                {
+                    "area": 83,
+                    "floor": 22,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 505600
+                        }
+                    ],
+                    "unit": 42
+                },
+                {
+                    "area": 83,
+                    "floor": 23,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 507000
+                        }
+                    ],
+                    "unit": 42
+                },
+                {
+                    "area": 83,
+                    "floor": 24,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 508400
+                        }
+                    ],
+                    "unit": 42
+                },
+                {
+                    "area": 83,
+                    "floor": 26,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 511200
+                        }
+                    ],
+                    "unit": 42
+                },
+                {
+                    "area": 83,
+                    "floor": 27,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 512600
+                        }
+                    ],
+                    "unit": 42
+                },
+                {
+                    "area": 83,
+                    "floor": 28,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 514000
+                        }
+                    ],
+                    "unit": 42
+                },
+                {
+                    "area": 83,
+                    "floor": 29,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 515400
+                        }
+                    ],
+                    "unit": 42
+                },
+                {
+                    "area": 83,
+                    "floor": 30,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 516800
+                        }
+                    ],
+                    "unit": 42
+                },
+                {
+                    "area": 83,
+                    "floor": 31,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 518200
+                        }
+                    ],
+                    "unit": 42
+                },
+                {
+                    "area": 83,
+                    "floor": 32,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 519600
+                        }
+                    ],
+                    "unit": 42
+                },
+                {
+                    "area": 83,
+                    "floor": 34,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 522400
+                        }
+                    ],
+                    "unit": 42
+                },
+                {
+                    "area": 83,
+                    "floor": 35,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 523800
+                        }
+                    ],
+                    "unit": 42
+                },
+                {
+                    "area": 83,
+                    "floor": 36,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 525200
+                        }
+                    ],
+                    "unit": 42
+                },
+                {
+                    "area": 83,
+                    "floor": 37,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 526600
+                        }
+                    ],
+                    "unit": 42
+                },
+                {
+                    "area": 83,
+                    "floor": 38,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 526600
+                        }
+                    ],
+                    "unit": 42
+                },
+                {
+                    "area": 83,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 467300
+                        }
+                    ],
+                    "unit": 44
+                },
+                {
+                    "area": 83,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 470800
+                        }
+                    ],
+                    "unit": 44
+                },
+                {
+                    "area": 83,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 474300
+                        }
+                    ],
+                    "unit": 44
+                },
+                {
+                    "area": 83,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 481900
+                        }
+                    ],
+                    "unit": 44
+                },
+                {
+                    "area": 83,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 487400
+                        }
+                    ],
+                    "unit": 44
+                },
+                {
+                    "area": 83,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 488800
+                        }
+                    ],
+                    "unit": 44
+                },
+                {
+                    "area": 83,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 490200
+                        }
+                    ],
+                    "unit": 44
+                },
+                {
+                    "area": 83,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 491600
+                        }
+                    ],
+                    "unit": 44
+                },
+                {
+                    "area": 83,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 493000
+                        }
+                    ],
+                    "unit": 44
+                },
+                {
+                    "area": 83,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 495800
+                        }
+                    ],
+                    "unit": 44
+                },
+                {
+                    "area": 83,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 498600
+                        }
+                    ],
+                    "unit": 44
+                },
+                {
+                    "area": 83,
+                    "floor": 18,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 500000
+                        }
+                    ],
+                    "unit": 44
+                },
+                {
+                    "area": 83,
+                    "floor": 19,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 501400
+                        }
+                    ],
+                    "unit": 44
+                },
+                {
+                    "area": 83,
+                    "floor": 21,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 504200
+                        }
+                    ],
+                    "unit": 44
+                },
+                {
+                    "area": 83,
+                    "floor": 22,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 505600
+                        }
+                    ],
+                    "unit": 44
+                },
+                {
+                    "area": 83,
+                    "floor": 23,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 507000
+                        }
+                    ],
+                    "unit": 44
+                },
+                {
+                    "area": 83,
+                    "floor": 24,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 508400
+                        }
+                    ],
+                    "unit": 44
+                },
+                {
+                    "area": 83,
+                    "floor": 25,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 509800
+                        }
+                    ],
+                    "unit": 44
+                },
+                {
+                    "area": 83,
+                    "floor": 26,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 511200
+                        }
+                    ],
+                    "unit": 44
+                },
+                {
+                    "area": 83,
+                    "floor": 27,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 512600
+                        }
+                    ],
+                    "unit": 44
+                },
+                {
+                    "area": 83,
+                    "floor": 28,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 514000
+                        }
+                    ],
+                    "unit": 44
+                },
+                {
+                    "area": 83,
+                    "floor": 29,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 515400
+                        }
+                    ],
+                    "unit": 44
+                },
+                {
+                    "area": 83,
+                    "floor": 30,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 516800
+                        }
+                    ],
+                    "unit": 44
+                },
+                {
+                    "area": 83,
+                    "floor": 31,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 518200
+                        }
+                    ],
+                    "unit": 44
+                },
+                {
+                    "area": 83,
+                    "floor": 32,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 519600
+                        }
+                    ],
+                    "unit": 44
+                },
+                {
+                    "area": 83,
+                    "floor": 34,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 522400
+                        }
+                    ],
+                    "unit": 44
+                },
+                {
+                    "area": 83,
+                    "floor": 35,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 523800
+                        }
+                    ],
+                    "unit": 44
+                },
+                {
+                    "area": 83,
+                    "floor": 36,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 525200
+                        }
+                    ],
+                    "unit": 44
+                },
+                {
+                    "area": 83,
+                    "floor": 38,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 526600
+                        }
+                    ],
+                    "unit": 44
+                },
+                {
+                    "area": 88,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 489900
+                        }
+                    ],
+                    "unit": 46
+                },
+                {
+                    "area": 88,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 494400
+                        }
+                    ],
+                    "unit": 46
+                },
+                {
+                    "area": 88,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 498900
+                        }
+                    ],
+                    "unit": 46
+                },
+                {
+                    "area": 88,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 516000
+                        }
+                    ],
+                    "unit": 46
+                },
+                {
+                    "area": 88,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 519500
+                        }
+                    ],
+                    "unit": 46
+                },
+                {
+                    "area": 88,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 524400
+                        }
+                    ],
+                    "unit": 46
+                },
+                {
+                    "area": 88,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 525800
+                        }
+                    ],
+                    "unit": 46
+                },
+                {
+                    "area": 88,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 527200
+                        }
+                    ],
+                    "unit": 46
+                },
+                {
+                    "area": 88,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 499000
+                        }
+                    ],
+                    "unit": 48
+                },
+                {
+                    "area": 88,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 503500
+                        }
+                    ],
+                    "unit": 48
+                },
+                {
+                    "area": 88,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 508000
+                        }
+                    ],
+                    "unit": 48
+                },
+                {
+                    "area": 88,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 512500
+                        }
+                    ],
+                    "unit": 48
+                },
+                {
+                    "area": 88,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 516000
+                        }
+                    ],
+                    "unit": 48
+                },
+                {
+                    "area": 88,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 519500
+                        }
+                    ],
+                    "unit": 48
+                },
+                {
+                    "area": 88,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 523000
+                        }
+                    ],
+                    "unit": 48
+                },
+                {
+                    "area": 88,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 524400
+                        }
+                    ],
+                    "unit": 48
+                },
+                {
+                    "area": 88,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 525800
+                        }
+                    ],
+                    "unit": 48
+                },
+                {
+                    "area": 88,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 527200
+                        }
+                    ],
+                    "unit": 48
+                }
+            ],
+            "block_code": {
+                "block_num": "94",
+                "contract": "C5",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2021,
+                "month": 9,
+                "day": 30,
+                "quarter": null,
+                "months_since": 52
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2020,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 40
+            },
+            "quota_chinese": 69,
+            "quota_malay": 13,
+            "quota_other": 32,
+            "street": "DAWSON ROAD",
+            "town": "Queenstown",
+            "title": "SKYPARC @ DAWSON",
+            "lat": 1.29627483410183,
+            "long": 103.811206437575,
+            "postal": 141094
+        },
+        {
+            "apartments": [
+                {
+                    "area": 83,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 458300
+                        }
+                    ],
+                    "unit": 82
+                },
+                {
+                    "area": 83,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 462800
+                        }
+                    ],
+                    "unit": 82
+                },
+                {
+                    "area": 83,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 470800
+                        }
+                    ],
+                    "unit": 82
+                },
+                {
+                    "area": 83,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 477800
+                        }
+                    ],
+                    "unit": 82
+                },
+                {
+                    "area": 83,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 479200
+                        }
+                    ],
+                    "unit": 82
+                },
+                {
+                    "area": 83,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 480600
+                        }
+                    ],
+                    "unit": 82
+                },
+                {
+                    "area": 83,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 484800
+                        }
+                    ],
+                    "unit": 82
+                },
+                {
+                    "area": 83,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 486200
+                        }
+                    ],
+                    "unit": 82
+                },
+                {
+                    "area": 86,
+                    "floor": 31,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 526300
+                        }
+                    ],
+                    "unit": 82
+                },
+                {
+                    "area": 83,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 466500
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 83,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 471000
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 83,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 475500
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 83,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 479000
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 83,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 482500
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 83,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 486000
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 83,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 488800
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 83,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 491600
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 83,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 493000
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 83,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 494400
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 83,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 495800
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 83,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 498600
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 83,
+                    "floor": 19,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 501400
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 83,
+                    "floor": 20,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 502800
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 83,
+                    "floor": 21,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 504200
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 83,
+                    "floor": 22,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 505600
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 83,
+                    "floor": 23,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 507000
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 83,
+                    "floor": 24,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 508400
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 83,
+                    "floor": 25,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 509800
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 83,
+                    "floor": 26,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 511200
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 83,
+                    "floor": 27,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 512600
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 83,
+                    "floor": 28,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 514000
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 83,
+                    "floor": 29,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 515400
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 83,
+                    "floor": 30,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 516800
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 83,
+                    "floor": 31,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 518200
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 83,
+                    "floor": 32,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 519600
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 83,
+                    "floor": 34,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 522400
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 83,
+                    "floor": 35,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 523800
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 83,
+                    "floor": 36,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 525200
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 83,
+                    "floor": 37,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 526600
+                        }
+                    ],
+                    "unit": 88
+                }
+            ],
+            "block_code": {
+                "block_num": "96",
+                "contract": "C5",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2021,
+                "month": 9,
+                "day": 30,
+                "quarter": null,
+                "months_since": 52
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2020,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 40
+            },
+            "quota_chinese": 39,
+            "quota_malay": 6,
+            "quota_other": 14,
+            "street": "DAWSON ROAD",
+            "town": "Queenstown",
+            "title": "SKYPARC @ DAWSON",
+            "lat": 1.29627814728274,
+            "long": 103.81254495717,
+            "postal": 141096
+        }
+    ]
+}

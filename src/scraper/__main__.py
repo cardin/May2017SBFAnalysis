@@ -1,65 +1,63 @@
 import os
-import pickle
+from random import random
 import re
 import time
-from random import random
-from enum import Enum
+from typing import List
 
+import ProjUtils
+from objects.Block import Block
+from objects.FlatType import FlatType
 from Hdb import Hdb
 
-THROTTLE = 1.5  # seconds
+
+THROTTLE: float = 1.5
+""" Throttle speed during web scraping, in seconds """
+
 SAFE_FOLDER_PATH_REGEX = re.compile(r'[\\/]')
+""" Regex used to detect portions of paths that needs to be
+    sanitized into comma during serialisation """
 
 
-class DataFormat(Enum):
-    """
-    Class for choice of output data format
-    """
-    JSON = 0
-    PICKLE = 1
-
-
-def _set_project_cwd():
-    """ Changes current working directory to project level folder """
-    curr_dir = os.getcwd()
-    while os.path.basename(curr_dir) != 'May2017SBFAnalysis':
-        curr_dir = os.path.dirname(curr_dir)
-    os.chdir(curr_dir)
-
-
-def _get_file_path(data_format, town, flat_type):
+def _get_file_path(town: str, flat_type: FlatType) -> str:
     """
     Returns a filepath corresponding to the requested parameters
-    """
-    file_path = None
 
+    Args:
+        town (str): The target town. Human-readable form (e.g. Ang Mo Kio)
+        flat_type (FlatType): The target flat type.
+
+    Returns:
+        str: Absolute path to the location to save at
+    """
     # format flat type
     town_label = SAFE_FOLDER_PATH_REGEX.sub(',', town)
     flat_type_label = SAFE_FOLDER_PATH_REGEX.sub(',', flat_type.label)
 
-    data_path = os.path.join(os.getcwd(), 'data')
-    if data_format is DataFormat.JSON:
-        file_path = os.path.join(
-            data_path, 'json', town_label, '{}.json'.format(flat_type_label))
-    elif data_format is DataFormat.PICKLE:
-        file_path = os.path.join(
-            data_path, 'pickle', town_label, flat_type_label)
-    else:
-        raise ValueError(
-            '"format"({}) was not part of Enumeration'.format(data_format))
-    return file_path
+    data_path = os.path.join(os.getcwd(), 'data',
+                             'json', town_label, '{}.json'.format(flat_type_label))
+    return data_path
 
 
-def _is_completed(town, flat_type):
-    """ Checks if the particular town and flat type has been scraped yet """
-    json_path = _get_file_path(DataFormat.JSON, town, flat_type)
-    pickle_path = _get_file_path(DataFormat.PICKLE, town, flat_type)
-    return os.path.exists(json_path) and os.path.exists(pickle_path)
+def _is_completed(town: str, flat_type: FlatType) -> bool:
+    """
+    Checks if the particular `town` and `flat_type` has been scraped yet
+
+    Args:
+        town (str): The target town. Human-readable form (e.g. Ang Mo Kio)
+        flat_type (FlatType): The target flat type.
+
+    Returns:
+        bool: Whether the specified parameters have been web-scraped yet
+    """
+    json_path = _get_file_path(town, flat_type)
+    return os.path.exists(json_path)
 
 
-def main():
-    """ Main function """
-    _set_project_cwd()
+def main() -> None:
+    """
+    Main function
+    """
+    ProjUtils.set_project_cwd()
 
     hdb = Hdb()
     # for each Town
@@ -103,14 +101,18 @@ def main():
             else:
                 print('\t\t Already done, skipping ...\n')
 
-    input('Press any key to exit')
-    exit(0)
 
+def _serialize_blocks(town: str, flat_type: FlatType, blocks: List[Block]) -> None:
+    """
+    Saves the blocks to disk
 
-def _serialize_blocks(town, flat_type, blocks):
-    """ Saves the blocks to disk """
+    Args:
+        town (str): The target town. Human-readable form (e.g. Ang Mo Kio)
+        flat_type (FlatType): The target flat type.
+        blocks (list): List of `Block`s to serialize to disk
+    """
     # JSON serialisation
-    json_path = _get_file_path(DataFormat.JSON, town, flat_type)
+    json_path = _get_file_path(town, flat_type)
     json_folder = os.path.dirname(json_path)
     if not os.path.exists(json_folder):
         os.makedirs(json_folder)
@@ -124,15 +126,8 @@ def _serialize_blocks(town, flat_type, blocks):
         file.write(']\n')
         file.close()
 
-    # Pickle serialisation
-    pickle_path = _get_file_path(DataFormat.PICKLE, town, flat_type)
-    pickle_folder = os.path.dirname(pickle_path)
-    if not os.path.exists(pickle_folder):
-        os.makedirs(pickle_folder)
-
-    with open(pickle_path, 'wb') as file:
-        pickle.dump(blocks, file)
-
 
 if __name__ == '__main__':
     main()
+    input('Press any key to exit')
+    exit(0)

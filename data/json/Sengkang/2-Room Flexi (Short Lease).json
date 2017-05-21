@@ -1,0 +1,684 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 69700
+                        },
+                        {
+                            "lease": 20,
+                            "price": 81200
+                        },
+                        {
+                            "lease": 25,
+                            "price": 90600
+                        },
+                        {
+                            "lease": 30,
+                            "price": 98300
+                        },
+                        {
+                            "lease": 35,
+                            "price": 104900
+                        },
+                        {
+                            "lease": 40,
+                            "price": 110400
+                        },
+                        {
+                            "lease": 45,
+                            "price": 115200
+                        }
+                    ],
+                    "unit": 503
+                },
+                {
+                    "area": 48,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 69300
+                        },
+                        {
+                            "lease": 20,
+                            "price": 80600
+                        },
+                        {
+                            "lease": 25,
+                            "price": 90000
+                        },
+                        {
+                            "lease": 30,
+                            "price": 97600
+                        },
+                        {
+                            "lease": 35,
+                            "price": 104100
+                        },
+                        {
+                            "lease": 40,
+                            "price": 109600
+                        },
+                        {
+                            "lease": 45,
+                            "price": 114300
+                        }
+                    ],
+                    "unit": 507
+                },
+                {
+                    "area": 37,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 52700
+                        },
+                        {
+                            "lease": 20,
+                            "price": 60900
+                        },
+                        {
+                            "lease": 25,
+                            "price": 67700
+                        },
+                        {
+                            "lease": 30,
+                            "price": 73200
+                        },
+                        {
+                            "lease": 35,
+                            "price": 77900
+                        },
+                        {
+                            "lease": 40,
+                            "price": 81900
+                        },
+                        {
+                            "lease": 45,
+                            "price": 85300
+                        }
+                    ],
+                    "unit": 511
+                }
+            ],
+            "block_code": {
+                "block_num": "274C",
+                "contract": "C42",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "COMPASSVALE BOW",
+            "town": "Sengkang",
+            "title": "COMPASSVALE HELM",
+            "lat": 1.38228150257069,
+            "long": 103.891117553843,
+            "postal": 543274
+        },
+        {
+            "apartments": [
+                {
+                    "area": 37,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 53300
+                        },
+                        {
+                            "lease": 20,
+                            "price": 61700
+                        },
+                        {
+                            "lease": 25,
+                            "price": 68600
+                        },
+                        {
+                            "lease": 30,
+                            "price": 74200
+                        },
+                        {
+                            "lease": 35,
+                            "price": 79000
+                        },
+                        {
+                            "lease": 40,
+                            "price": 83100
+                        },
+                        {
+                            "lease": 45,
+                            "price": 86500
+                        }
+                    ],
+                    "unit": 577
+                }
+            ],
+            "block_code": {
+                "block_num": "278C",
+                "contract": "C42",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "COMPASSVALE BOW",
+            "town": "Sengkang",
+            "title": "COMPASSVALE HELM",
+            "lat": 1.38286231178179,
+            "long": 103.890985106599,
+            "postal": 543278
+        },
+        {
+            "apartments": [
+                {
+                    "area": 37,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 59100
+                        },
+                        {
+                            "lease": 20,
+                            "price": 68800
+                        },
+                        {
+                            "lease": 25,
+                            "price": 76800
+                        },
+                        {
+                            "lease": 30,
+                            "price": 83400
+                        },
+                        {
+                            "lease": 35,
+                            "price": 89000
+                        },
+                        {
+                            "lease": 40,
+                            "price": 93700
+                        },
+                        {
+                            "lease": 45,
+                            "price": 97700
+                        }
+                    ],
+                    "unit": 513
+                },
+                {
+                    "area": 47,
+                    "floor": 14,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 71900
+                        },
+                        {
+                            "lease": 20,
+                            "price": 83900
+                        },
+                        {
+                            "lease": 25,
+                            "price": 93900
+                        },
+                        {
+                            "lease": 30,
+                            "price": 102000
+                        },
+                        {
+                            "lease": 35,
+                            "price": 108900
+                        },
+                        {
+                            "lease": 40,
+                            "price": 114800
+                        },
+                        {
+                            "lease": 45,
+                            "price": 119800
+                        }
+                    ],
+                    "unit": 521
+                },
+                {
+                    "area": 47,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 71900
+                        },
+                        {
+                            "lease": 20,
+                            "price": 83900
+                        },
+                        {
+                            "lease": 25,
+                            "price": 93900
+                        },
+                        {
+                            "lease": 30,
+                            "price": 102000
+                        },
+                        {
+                            "lease": 35,
+                            "price": 108900
+                        },
+                        {
+                            "lease": 40,
+                            "price": 114800
+                        },
+                        {
+                            "lease": 45,
+                            "price": 119800
+                        }
+                    ],
+                    "unit": 523
+                }
+            ],
+            "block_code": {
+                "block_num": "279A",
+                "contract": "C40",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "SENGKANG EAST AVENUE",
+            "town": "Sengkang",
+            "title": "COMPASSVALE ANCILLA",
+            "lat": 1.38577466101389,
+            "long": 103.893065739187,
+            "postal": 541279
+        },
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 72900
+                        },
+                        {
+                            "lease": 20,
+                            "price": 85200
+                        },
+                        {
+                            "lease": 25,
+                            "price": 95300
+                        },
+                        {
+                            "lease": 30,
+                            "price": 103600
+                        },
+                        {
+                            "lease": 35,
+                            "price": 110700
+                        },
+                        {
+                            "lease": 40,
+                            "price": 116600
+                        },
+                        {
+                            "lease": 45,
+                            "price": 121700
+                        }
+                    ],
+                    "unit": 529
+                }
+            ],
+            "block_code": {
+                "block_num": "279C",
+                "contract": "C40",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "SENGKANG EAST AVENUE",
+            "town": "Sengkang",
+            "title": "COMPASSVALE ANCILLA",
+            "lat": 1.38572932197008,
+            "long": 103.892595434586,
+            "postal": 543279
+        },
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 66500
+                        },
+                        {
+                            "lease": 20,
+                            "price": 77300
+                        },
+                        {
+                            "lease": 25,
+                            "price": 86200
+                        },
+                        {
+                            "lease": 30,
+                            "price": 93500
+                        },
+                        {
+                            "lease": 35,
+                            "price": 99700
+                        },
+                        {
+                            "lease": 40,
+                            "price": 105000
+                        },
+                        {
+                            "lease": 45,
+                            "price": 109400
+                        }
+                    ],
+                    "unit": 131
+                },
+                {
+                    "area": 47,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 67300
+                        },
+                        {
+                            "lease": 20,
+                            "price": 78300
+                        },
+                        {
+                            "lease": 25,
+                            "price": 87300
+                        },
+                        {
+                            "lease": 30,
+                            "price": 94700
+                        },
+                        {
+                            "lease": 35,
+                            "price": 101000
+                        },
+                        {
+                            "lease": 40,
+                            "price": 106300
+                        },
+                        {
+                            "lease": 45,
+                            "price": 110800
+                        }
+                    ],
+                    "unit": 133
+                }
+            ],
+            "block_code": {
+                "block_num": "286C",
+                "contract": "C43A",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "COMPASSVALE CRESCENT",
+            "town": "Sengkang",
+            "title": "COMPASSVALE CAPE",
+            "lat": 1.39794631367752,
+            "long": 103.896376748487,
+            "postal": 543286
+        },
+        {
+            "apartments": [
+                {
+                    "area": 37,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 52500
+                        },
+                        {
+                            "lease": 20,
+                            "price": 60700
+                        },
+                        {
+                            "lease": 25,
+                            "price": 67500
+                        },
+                        {
+                            "lease": 30,
+                            "price": 73000
+                        },
+                        {
+                            "lease": 35,
+                            "price": 77700
+                        },
+                        {
+                            "lease": 40,
+                            "price": 81700
+                        },
+                        {
+                            "lease": 45,
+                            "price": 85100
+                        }
+                    ],
+                    "unit": 137
+                }
+            ],
+            "block_code": {
+                "block_num": "287A",
+                "contract": "C43A",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "COMPASSVALE CRESCENT",
+            "town": "Sengkang",
+            "title": "COMPASSVALE CAPE",
+            "lat": 1.39830448706533,
+            "long": 103.895959126637,
+            "postal": 541287
+        },
+        {
+            "apartments": [
+                {
+                    "area": 46,
+                    "floor": 5,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 62100
+                        },
+                        {
+                            "lease": 20,
+                            "price": 72200
+                        },
+                        {
+                            "lease": 25,
+                            "price": 80500
+                        },
+                        {
+                            "lease": 30,
+                            "price": 87300
+                        },
+                        {
+                            "lease": 35,
+                            "price": 93100
+                        },
+                        {
+                            "lease": 40,
+                            "price": 98000
+                        },
+                        {
+                            "lease": 45,
+                            "price": 102200
+                        }
+                    ],
+                    "unit": 322
+                }
+            ],
+            "block_code": {
+                "block_num": "327B",
+                "contract": "C19",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "ANCHORVALE ROAD",
+            "town": "Sengkang",
+            "title": "ANCHORVALE HORIZON",
+            "lat": 1.39564692396474,
+            "long": 103.888633285424,
+            "postal": 542327
+        },
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 12,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 55500
+                        },
+                        {
+                            "lease": 20,
+                            "price": 64000
+                        },
+                        {
+                            "lease": 25,
+                            "price": 71100
+                        },
+                        {
+                            "lease": 30,
+                            "price": 76900
+                        },
+                        {
+                            "lease": 35,
+                            "price": 81800
+                        },
+                        {
+                            "lease": 40,
+                            "price": 86000
+                        },
+                        {
+                            "lease": 45,
+                            "price": 89500
+                        }
+                    ],
+                    "unit": 19
+                },
+                {
+                    "area": 47,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 56000
+                        },
+                        {
+                            "lease": 20,
+                            "price": 64700
+                        },
+                        {
+                            "lease": 25,
+                            "price": 71800
+                        },
+                        {
+                            "lease": 30,
+                            "price": 77700
+                        },
+                        {
+                            "lease": 35,
+                            "price": 82700
+                        },
+                        {
+                            "lease": 40,
+                            "price": 86900
+                        },
+                        {
+                            "lease": 45,
+                            "price": 90500
+                        }
+                    ],
+                    "unit": 19
+                }
+            ],
+            "block_code": {
+                "block_num": "473A",
+                "contract": "C27",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "FERNVALE STREET",
+            "town": "Sengkang",
+            "title": "FERNVALE RIVERGROVE",
+            "lat": 1.39785974876815,
+            "long": 103.881232764244,
+            "postal": 791473
+        }
+    ]
+}

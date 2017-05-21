@@ -1,0 +1,608 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 45,
+                    "floor": 3,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 61,
+                            "price": 171000
+                        }
+                    ],
+                    "unit": 233
+                }
+            ],
+            "block_code": {
+                "block_num": "514",
+                "contract": "C7",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": {
+                "year": 1979,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": -454
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BEDOK NORTH AVENUE 2",
+            "town": "Bedok",
+            "title": "HDB-BEDOK",
+            "lat": 1.33224019718697,
+            "long": 103.92890624288,
+            "postal": 460514
+        },
+        {
+            "apartments": [
+                {
+                    "area": 45,
+                    "floor": 5,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 68000
+                        },
+                        {
+                            "lease": 20,
+                            "price": 81600
+                        },
+                        {
+                            "lease": 25,
+                            "price": 92800
+                        },
+                        {
+                            "lease": 30,
+                            "price": 102000
+                        },
+                        {
+                            "lease": 35,
+                            "price": 109800
+                        },
+                        {
+                            "lease": 40,
+                            "price": 116500
+                        },
+                        {
+                            "lease": 45,
+                            "price": 122100
+                        },
+                        {
+                            "lease": 68,
+                            "price": 176000
+                        }
+                    ],
+                    "unit": 836
+                }
+            ],
+            "block_code": {
+                "block_num": "534",
+                "contract": "C12A",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": {
+                "year": 1986,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": -375
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BEDOK NORTH STREET 3",
+            "town": "Bedok",
+            "title": "HDB-BEDOK",
+            "lat": 1.33303740610174,
+            "long": 103.924813319126,
+            "postal": 460534
+        },
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 69200
+                        },
+                        {
+                            "lease": 20,
+                            "price": 82900
+                        },
+                        {
+                            "lease": 25,
+                            "price": 94200
+                        },
+                        {
+                            "lease": 30,
+                            "price": 103500
+                        },
+                        {
+                            "lease": 35,
+                            "price": 111300
+                        },
+                        {
+                            "lease": 40,
+                            "price": 118000
+                        },
+                        {
+                            "lease": 45,
+                            "price": 123700
+                        },
+                        {
+                            "lease": 99,
+                            "price": 206000
+                        }
+                    ],
+                    "unit": 24
+                },
+                {
+                    "area": 47,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 67800
+                        },
+                        {
+                            "lease": 20,
+                            "price": 81200
+                        },
+                        {
+                            "lease": 25,
+                            "price": 92300
+                        },
+                        {
+                            "lease": 30,
+                            "price": 101400
+                        },
+                        {
+                            "lease": 35,
+                            "price": 109100
+                        },
+                        {
+                            "lease": 40,
+                            "price": 115600
+                        },
+                        {
+                            "lease": 45,
+                            "price": 121200
+                        },
+                        {
+                            "lease": 99,
+                            "price": 201800
+                        }
+                    ],
+                    "unit": 40
+                },
+                {
+                    "area": 47,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 68600
+                        },
+                        {
+                            "lease": 20,
+                            "price": 82200
+                        },
+                        {
+                            "lease": 25,
+                            "price": 93400
+                        },
+                        {
+                            "lease": 30,
+                            "price": 102600
+                        },
+                        {
+                            "lease": 35,
+                            "price": 110400
+                        },
+                        {
+                            "lease": 40,
+                            "price": 117100
+                        },
+                        {
+                            "lease": 45,
+                            "price": 122700
+                        },
+                        {
+                            "lease": 99,
+                            "price": 204300
+                        }
+                    ],
+                    "unit": 40
+                }
+            ],
+            "block_code": {
+                "block_num": "807B",
+                "contract": "C20",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": {
+                "year": 2016,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": -6
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "CHAI CHEE ROAD",
+            "town": "Bedok",
+            "title": "PING YI GREENS",
+            "lat": 1.32750585189987,
+            "long": 103.923264046182,
+            "postal": 462807
+        },
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 61300
+                        },
+                        {
+                            "lease": 20,
+                            "price": 73400
+                        },
+                        {
+                            "lease": 25,
+                            "price": 83500
+                        },
+                        {
+                            "lease": 30,
+                            "price": 91700
+                        },
+                        {
+                            "lease": 35,
+                            "price": 98600
+                        },
+                        {
+                            "lease": 40,
+                            "price": 104500
+                        },
+                        {
+                            "lease": 45,
+                            "price": 109600
+                        },
+                        {
+                            "lease": 99,
+                            "price": 182500
+                        }
+                    ],
+                    "unit": 86
+                },
+                {
+                    "area": 47,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 62200
+                        },
+                        {
+                            "lease": 20,
+                            "price": 74500
+                        },
+                        {
+                            "lease": 25,
+                            "price": 84600
+                        },
+                        {
+                            "lease": 30,
+                            "price": 93000
+                        },
+                        {
+                            "lease": 35,
+                            "price": 100000
+                        },
+                        {
+                            "lease": 40,
+                            "price": 106000
+                        },
+                        {
+                            "lease": 45,
+                            "price": 111100
+                        },
+                        {
+                            "lease": 99,
+                            "price": 185000
+                        }
+                    ],
+                    "unit": 86
+                },
+                {
+                    "area": 47,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 64100
+                        },
+                        {
+                            "lease": 20,
+                            "price": 76800
+                        },
+                        {
+                            "lease": 25,
+                            "price": 87300
+                        },
+                        {
+                            "lease": 30,
+                            "price": 95900
+                        },
+                        {
+                            "lease": 35,
+                            "price": 103200
+                        },
+                        {
+                            "lease": 40,
+                            "price": 109400
+                        },
+                        {
+                            "lease": 45,
+                            "price": 114600
+                        },
+                        {
+                            "lease": 99,
+                            "price": 190900
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 47,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 67700
+                        },
+                        {
+                            "lease": 20,
+                            "price": 81200
+                        },
+                        {
+                            "lease": 25,
+                            "price": 92200
+                        },
+                        {
+                            "lease": 30,
+                            "price": 101300
+                        },
+                        {
+                            "lease": 35,
+                            "price": 109000
+                        },
+                        {
+                            "lease": 40,
+                            "price": 115600
+                        },
+                        {
+                            "lease": 45,
+                            "price": 121100
+                        },
+                        {
+                            "lease": 99,
+                            "price": 201700
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 47,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 63000
+                        },
+                        {
+                            "lease": 20,
+                            "price": 75500
+                        },
+                        {
+                            "lease": 25,
+                            "price": 85800
+                        },
+                        {
+                            "lease": 30,
+                            "price": 94300
+                        },
+                        {
+                            "lease": 35,
+                            "price": 101400
+                        },
+                        {
+                            "lease": 40,
+                            "price": 107500
+                        },
+                        {
+                            "lease": 45,
+                            "price": 112700
+                        },
+                        {
+                            "lease": 99,
+                            "price": 187600
+                        }
+                    ],
+                    "unit": 98
+                },
+                {
+                    "area": 47,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 69400
+                        },
+                        {
+                            "lease": 20,
+                            "price": 83200
+                        },
+                        {
+                            "lease": 25,
+                            "price": 94600
+                        },
+                        {
+                            "lease": 30,
+                            "price": 103900
+                        },
+                        {
+                            "lease": 35,
+                            "price": 111800
+                        },
+                        {
+                            "lease": 40,
+                            "price": 118500
+                        },
+                        {
+                            "lease": 45,
+                            "price": 124200
+                        },
+                        {
+                            "lease": 99,
+                            "price": 206800
+                        }
+                    ],
+                    "unit": 98
+                },
+                {
+                    "area": 47,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 68600
+                        },
+                        {
+                            "lease": 20,
+                            "price": 82200
+                        },
+                        {
+                            "lease": 25,
+                            "price": 93500
+                        },
+                        {
+                            "lease": 30,
+                            "price": 102700
+                        },
+                        {
+                            "lease": 35,
+                            "price": 110500
+                        },
+                        {
+                            "lease": 40,
+                            "price": 117100
+                        },
+                        {
+                            "lease": 45,
+                            "price": 122700
+                        },
+                        {
+                            "lease": 99,
+                            "price": 204400
+                        }
+                    ],
+                    "unit": 100
+                },
+                {
+                    "area": 47,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 69900
+                        },
+                        {
+                            "lease": 20,
+                            "price": 83300
+                        },
+                        {
+                            "lease": 25,
+                            "price": 94400
+                        },
+                        {
+                            "lease": 30,
+                            "price": 103500
+                        },
+                        {
+                            "lease": 35,
+                            "price": 111200
+                        },
+                        {
+                            "lease": 40,
+                            "price": 117700
+                        },
+                        {
+                            "lease": 45,
+                            "price": 123300
+                        },
+                        {
+                            "lease": 99,
+                            "price": 203900
+                        }
+                    ],
+                    "unit": 102
+                }
+            ],
+            "block_code": {
+                "block_num": "808B",
+                "contract": "C20",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": {
+                "year": 2016,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": -6
+            },
+            "pcd_date": null,
+            "quota_chinese": 8,
+            "quota_malay": 5,
+            "quota_other": 7,
+            "street": "CHAI CHEE ROAD",
+            "town": "Bedok",
+            "title": "PING YI GREENS",
+            "lat": 1.32747242201871,
+            "long": 103.923868263972,
+            "postal": 462808
+        }
+    ]
+}

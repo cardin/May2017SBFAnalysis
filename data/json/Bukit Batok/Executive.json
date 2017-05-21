@@ -1,0 +1,44 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 152,
+                    "floor": 3,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 75,
+                            "price": 510000
+                        }
+                    ],
+                    "unit": 30
+                }
+            ],
+            "block_code": {
+                "block_num": "402",
+                "contract": "C4",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "Executive",
+            "lcd_date": {
+                "year": 1993,
+                "month": 3,
+                "day": 28,
+                "quarter": null,
+                "months_since": -290
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BUKIT BATOK WEST AVENUE 7",
+            "town": "Bukit Batok",
+            "title": "HDB-BUKIT BATOK",
+            "lat": 1.36470350565863,
+            "long": 103.744246776207,
+            "postal": 650402
+        }
+    ]
+}

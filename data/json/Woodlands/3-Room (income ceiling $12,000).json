@@ -1,0 +1,44 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 12,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 196900
+                        }
+                    ],
+                    "unit": 519
+                }
+            ],
+            "block_code": {
+                "block_num": "886A",
+                "contract": "C20",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $12,000)",
+            "lcd_date": {
+                "year": 2015,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": -27
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 1,
+            "street": "WOODLANDS DRIVE 50",
+            "town": "Woodlands",
+            "title": "TREEGROVE@WOODLANDS",
+            "lat": 1.43828976019643,
+            "long": 103.794611821332,
+            "postal": 731886
+        }
+    ]
+}

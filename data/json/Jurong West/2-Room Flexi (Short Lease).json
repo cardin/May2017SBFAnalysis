@@ -1,0 +1,120 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 37,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 48100
+                        },
+                        {
+                            "lease": 20,
+                            "price": 55800
+                        },
+                        {
+                            "lease": 25,
+                            "price": 62200
+                        },
+                        {
+                            "lease": 30,
+                            "price": 67400
+                        },
+                        {
+                            "lease": 35,
+                            "price": 71800
+                        },
+                        {
+                            "lease": 40,
+                            "price": 75600
+                        },
+                        {
+                            "lease": 45,
+                            "price": 78800
+                        }
+                    ],
+                    "unit": 21
+                }
+            ],
+            "block_code": {
+                "block_num": "175B",
+                "contract": "C30",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "YUNG KUANG ROAD",
+            "town": "Jurong West",
+            "title": "CORPORATION TIARA",
+            "lat": 1.33283359282702,
+            "long": 103.721043381424,
+            "postal": 612175
+        },
+        {
+            "apartments": [
+                {
+                    "area": 49,
+                    "floor": 14,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 61400
+                        },
+                        {
+                            "lease": 20,
+                            "price": 71700
+                        },
+                        {
+                            "lease": 25,
+                            "price": 80200
+                        },
+                        {
+                            "lease": 30,
+                            "price": 87100
+                        },
+                        {
+                            "lease": 35,
+                            "price": 93000
+                        },
+                        {
+                            "lease": 40,
+                            "price": 98000
+                        },
+                        {
+                            "lease": 45,
+                            "price": 102300
+                        }
+                    ],
+                    "unit": 302
+                }
+            ],
+            "block_code": {
+                "block_num": "338B",
+                "contract": "C30B",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "KANG CHING ROAD",
+            "town": "Jurong West",
+            "title": "NIL",
+            "lat": 1.33813942890644,
+            "long": 103.72191384164,
+            "postal": 612338
+        }
+    ]
+}

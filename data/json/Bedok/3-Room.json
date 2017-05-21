@@ -1,0 +1,420 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 3,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 67,
+                            "price": 209000
+                        }
+                    ],
+                    "unit": 230
+                }
+            ],
+            "block_code": {
+                "block_num": "113",
+                "contract": "C2",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 1985,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": -383
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 0,
+            "street": "BEDOK RESERVOIR ROAD",
+            "town": "Bedok",
+            "title": "EUNOS VISTA",
+            "lat": 1.32996671002495,
+            "long": 103.910782526741,
+            "postal": 470113
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 259000
+                        }
+                    ],
+                    "unit": 90
+                },
+                {
+                    "area": 68,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 276500
+                        }
+                    ],
+                    "unit": 92
+                }
+            ],
+            "block_code": {
+                "block_num": "188C",
+                "contract": "C20",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 12,
+                "day": 31,
+                "quarter": null,
+                "months_since": 31
+            },
+            "flat_type": "3-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 4,
+                "months_since": 19
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "BEDOK NORTH STREET 4",
+            "town": "Bedok",
+            "title": "FENGSHAN GREENVILLE",
+            "lat": 1.33180346002148,
+            "long": 103.940785939953,
+            "postal": 463188
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 271800
+                        }
+                    ],
+                    "unit": 118
+                }
+            ],
+            "block_code": {
+                "block_num": "188D",
+                "contract": "C20",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 12,
+                "day": 31,
+                "quarter": null,
+                "months_since": 31
+            },
+            "flat_type": "3-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 4,
+                "months_since": 19
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BEDOK NORTH STREET 4",
+            "town": "Bedok",
+            "title": "FENGSHAN GREENVILLE",
+            "lat": 1.33168420406759,
+            "long": 103.940493118435,
+            "postal": 464188
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 15,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 62,
+                            "price": 244000
+                        }
+                    ],
+                    "unit": 890
+                }
+            ],
+            "block_code": {
+                "block_num": "536",
+                "contract": "C12",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 1980,
+                "month": 1,
+                "day": 1,
+                "quarter": null,
+                "months_since": -448
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BEDOK NORTH STREET 3",
+            "town": "Bedok",
+            "title": "HDB-BEDOK",
+            "lat": 1.33354118946052,
+            "long": 103.923190774432,
+            "postal": 460536
+        },
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 4,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 67,
+                            "price": 209000
+                        }
+                    ],
+                    "unit": 1270
+                }
+            ],
+            "block_code": {
+                "block_num": "542",
+                "contract": "C14",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 1985,
+                "month": 9,
+                "day": 1,
+                "quarter": null,
+                "months_since": -380
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BEDOK NORTH STREET 3",
+            "town": "Bedok",
+            "title": "BEDOK NORTH GREEN",
+            "lat": 1.33066590908488,
+            "long": 103.922843972485,
+            "postal": 460542
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 307000
+                        }
+                    ],
+                    "unit": 12
+                },
+                {
+                    "area": 68,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 321500
+                        }
+                    ],
+                    "unit": 12
+                },
+                {
+                    "area": 68,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 323500
+                        }
+                    ],
+                    "unit": 12
+                }
+            ],
+            "block_code": {
+                "block_num": "807A",
+                "contract": "C20",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": -6
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 2,
+            "quota_other": 3,
+            "street": "CHAI CHEE ROAD",
+            "town": "Bedok",
+            "title": "PING YI GREENS",
+            "lat": 1.32707387863853,
+            "long": 103.923188202853,
+            "postal": 461807
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 306500
+                        }
+                    ],
+                    "unit": 26
+                }
+            ],
+            "block_code": {
+                "block_num": "807B",
+                "contract": "C20",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": -6
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "CHAI CHEE ROAD",
+            "town": "Bedok",
+            "title": "PING YI GREENS",
+            "lat": 1.32750585189987,
+            "long": 103.923264046182,
+            "postal": 462807
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 298500
+                        }
+                    ],
+                    "unit": 70
+                },
+                {
+                    "area": 68,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 309000
+                        }
+                    ],
+                    "unit": 70
+                },
+                {
+                    "area": 68,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 311000
+                        }
+                    ],
+                    "unit": 70
+                },
+                {
+                    "area": 68,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 320300
+                        }
+                    ],
+                    "unit": 70
+                },
+                {
+                    "area": 68,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 320300
+                        }
+                    ],
+                    "unit": 70
+                }
+            ],
+            "block_code": {
+                "block_num": "808C",
+                "contract": "C20",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": -6
+            },
+            "pcd_date": null,
+            "quota_chinese": 5,
+            "quota_malay": 5,
+            "quota_other": 5,
+            "street": "CHAI CHEE ROAD",
+            "town": "Bedok",
+            "title": "PING YI GREENS",
+            "lat": 1.3278930296847,
+            "long": 103.923874941007,
+            "postal": 463808
+        }
+    ]
+}

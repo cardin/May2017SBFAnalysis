@@ -1,0 +1,432 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 527200
+                        }
+                    ],
+                    "unit": 500
+                },
+                {
+                    "area": 93,
+                    "floor": 22,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 546200
+                        }
+                    ],
+                    "unit": 500
+                },
+                {
+                    "area": 93,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 494000
+                        }
+                    ],
+                    "unit": 504
+                },
+                {
+                    "area": 93,
+                    "floor": 25,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 553900
+                        }
+                    ],
+                    "unit": 504
+                }
+            ],
+            "block_code": {
+                "block_num": "130A",
+                "contract": "C28",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 8,
+                "day": 1,
+                "quarter": null,
+                "months_since": 15
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 4,
+            "quota_other": 4,
+            "street": "LORONG 1 TOA PAYOH",
+            "town": "Toa Payoh",
+            "title": "TOA PAYOH CREST",
+            "lat": 1.33739340446846,
+            "long": 103.843183636059,
+            "postal": 311130
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 30,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 569400
+                        }
+                    ],
+                    "unit": 514
+                },
+                {
+                    "area": 93,
+                    "floor": 26,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 555300
+                        }
+                    ],
+                    "unit": 520
+                },
+                {
+                    "area": 93,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 541400
+                        }
+                    ],
+                    "unit": 522
+                }
+            ],
+            "block_code": {
+                "block_num": "130B",
+                "contract": "C28",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 8,
+                "day": 1,
+                "quarter": null,
+                "months_since": 15
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "LORONG 1 TOA PAYOH",
+            "town": "Toa Payoh",
+            "title": "TOA PAYOH CREST",
+            "lat": 1.33737930602079,
+            "long": 103.842653920722,
+            "postal": 312130
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 35,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 567800
+                        }
+                    ],
+                    "unit": 532
+                }
+            ],
+            "block_code": {
+                "block_num": "131A",
+                "contract": "C28",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 7,
+                "day": 31,
+                "quarter": null,
+                "months_since": 14
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": null,
+                "quarter": null,
+                "months_since": 2
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "LORONG 1 TOA PAYOH",
+            "town": "Toa Payoh",
+            "title": "TOA PAYOH CREST",
+            "lat": 1.33844074404188,
+            "long": 103.843388798524,
+            "postal": 311131
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 534200
+                        }
+                    ],
+                    "unit": 548
+                }
+            ],
+            "block_code": {
+                "block_num": "131B",
+                "contract": "C28",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 7,
+                "day": 31,
+                "quarter": null,
+                "months_since": 14
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": null,
+                "quarter": null,
+                "months_since": 2
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "LORONG 1 TOA PAYOH",
+            "town": "Toa Payoh",
+            "title": "TOA PAYOH CREST",
+            "lat": 1.33830495965698,
+            "long": 103.84284315696,
+            "postal": 312131
+        },
+        {
+            "apartments": [
+                {
+                    "area": 82,
+                    "floor": 9,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 58,
+                            "price": 288800
+                        }
+                    ],
+                    "unit": 112
+                }
+            ],
+            "block_code": {
+                "block_num": "226",
+                "contract": "C12",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 1976,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": -492
+            },
+            "pcd_date": null,
+            "quota_chinese": 0,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "LORONG 8 TOA PAYOH",
+            "town": "Toa Payoh",
+            "title": "TOA PAYOH EIGHT",
+            "lat": 1.33951566601809,
+            "long": 103.857051021906,
+            "postal": 310226
+        },
+        {
+            "apartments": [
+                {
+                    "area": 82,
+                    "floor": 11,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 58,
+                            "price": 281200
+                        }
+                    ],
+                    "unit": 156
+                }
+            ],
+            "block_code": {
+                "block_num": "228",
+                "contract": "C13",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 1976,
+                "month": 9,
+                "day": 1,
+                "quarter": null,
+                "months_since": -488
+            },
+            "pcd_date": null,
+            "quota_chinese": 0,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "LORONG 8 TOA PAYOH",
+            "town": "Toa Payoh",
+            "title": "TOA PAYOH EIGHT",
+            "lat": 1.33914880025233,
+            "long": 103.858779661838,
+            "postal": 310228
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 31,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 501300
+                        }
+                    ],
+                    "unit": 6
+                },
+                {
+                    "area": 93,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 481400
+                        }
+                    ],
+                    "unit": 8
+                }
+            ],
+            "block_code": {
+                "block_num": "261",
+                "contract": "C23A",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 11,
+                "day": 30,
+                "quarter": null,
+                "months_since": 30
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 4,
+                "months_since": 19
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "TOA PAYOH EAST",
+            "town": "Toa Payoh",
+            "title": "TOA PAYOH APEX",
+            "lat": 1.33350386216853,
+            "long": 103.855237846252,
+            "postal": 310261
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 25,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 492400
+                        }
+                    ],
+                    "unit": 28
+                },
+                {
+                    "area": 93,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 430400
+                        }
+                    ],
+                    "unit": 30
+                }
+            ],
+            "block_code": {
+                "block_num": "264",
+                "contract": "C23A",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 11,
+                "day": 30,
+                "quarter": null,
+                "months_since": 30
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 4,
+                "months_since": 19
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "TOA PAYOH EAST",
+            "town": "Toa Payoh",
+            "title": "TOA PAYOH APEX",
+            "lat": 1.33246453640502,
+            "long": 103.855237512058,
+            "postal": 310264
+        }
+    ]
+}

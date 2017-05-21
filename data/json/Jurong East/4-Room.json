@@ -1,0 +1,136 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 19,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 359200
+                        }
+                    ],
+                    "unit": 455
+                },
+                {
+                    "area": 92,
+                    "floor": 22,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 360400
+                        }
+                    ],
+                    "unit": 459
+                }
+            ],
+            "block_code": {
+                "block_num": "55",
+                "contract": "C16",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": -6
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "TEBAN GARDENS ROAD",
+            "town": "Jurong East",
+            "title": "TEBAN VIEW",
+            "lat": 1.32189196960036,
+            "long": 103.737551586606,
+            "postal": 600055
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 22,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 342600
+                        }
+                    ],
+                    "unit": 461
+                }
+            ],
+            "block_code": {
+                "block_num": "56",
+                "contract": "C16",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": -6
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "TEBAN GARDENS ROAD",
+            "town": "Jurong East",
+            "title": "TEBAN VIEW",
+            "lat": 1.32220164224486,
+            "long": 103.737751694996,
+            "postal": 600056
+        },
+        {
+            "apartments": [
+                {
+                    "area": 104,
+                    "floor": 2,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 66,
+                            "price": 296000
+                        }
+                    ],
+                    "unit": 1638
+                }
+            ],
+            "block_code": {
+                "block_num": "338",
+                "contract": "C9",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 1984,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": -394
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 0,
+            "street": "JURONG EAST AVENUE 1",
+            "town": "Jurong East",
+            "title": "HDB-JURONG EAST",
+            "lat": 1.35022056905633,
+            "long": 103.731260625944,
+            "postal": 600338
+        }
+    ]
+}

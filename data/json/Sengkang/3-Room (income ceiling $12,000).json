@@ -1,0 +1,256 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 11,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 245500
+                        }
+                    ],
+                    "unit": 517
+                }
+            ],
+            "block_code": {
+                "block_num": "279A",
+                "contract": "C40",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $12,000)",
+            "lcd_date": {
+                "year": 2015,
+                "month": 8,
+                "day": 1,
+                "quarter": null,
+                "months_since": -21
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "SENGKANG EAST AVENUE",
+            "town": "Sengkang",
+            "title": "COMPASSVALE ANCILLA",
+            "lat": 1.38577466101389,
+            "long": 103.893065739187,
+            "postal": 541279
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 239700
+                        }
+                    ],
+                    "unit": 111
+                },
+                {
+                    "area": 68,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 238700
+                        }
+                    ],
+                    "unit": 113
+                }
+            ],
+            "block_code": {
+                "block_num": "286C",
+                "contract": "C43A",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $12,000)",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "COMPASSVALE CRESCENT",
+            "town": "Sengkang",
+            "title": "COMPASSVALE CAPE",
+            "lat": 1.39794631367752,
+            "long": 103.896376748487,
+            "postal": 543286
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 224900
+                        }
+                    ],
+                    "unit": 319
+                }
+            ],
+            "block_code": {
+                "block_num": "289A",
+                "contract": "C43A",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $12,000)",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "COMPASSVALE CRESCENT",
+            "town": "Sengkang",
+            "title": "COMPASSVALE CAPE",
+            "lat": 1.39772087571644,
+            "long": 103.897720371229,
+            "postal": 541289
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 233400
+                        }
+                    ],
+                    "unit": 341
+                }
+            ],
+            "block_code": {
+                "block_num": "289B",
+                "contract": "C43A",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $12,000)",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "COMPASSVALE CRESCENT",
+            "town": "Sengkang",
+            "title": "COMPASSVALE CAPE",
+            "lat": 1.39767889426174,
+            "long": 103.897388721059,
+            "postal": 542289
+        },
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 234000
+                        }
+                    ],
+                    "unit": 122
+                }
+            ],
+            "block_code": {
+                "block_num": "334B",
+                "contract": "C21",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $12,000)",
+            "lcd_date": {
+                "year": 2015,
+                "month": 12,
+                "day": 1,
+                "quarter": null,
+                "months_since": -17
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "ANCHORVALE CRESCENT",
+            "town": "Sengkang",
+            "title": "ANCHORVALE COVE",
+            "lat": 1.39846172684415,
+            "long": 103.889969214694,
+            "postal": 542334
+        },
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 226800
+                        }
+                    ],
+                    "unit": 6
+                }
+            ],
+            "block_code": {
+                "block_num": "334C",
+                "contract": "C21",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $12,000)",
+            "lcd_date": {
+                "year": 2015,
+                "month": 12,
+                "day": 1,
+                "quarter": null,
+                "months_since": -17
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "ANCHORVALE CRESCENT",
+            "town": "Sengkang",
+            "title": "ANCHORVALE COVE",
+            "lat": 1.39742222673839,
+            "long": 103.889703923973,
+            "postal": 543334
+        }
+    ]
+}

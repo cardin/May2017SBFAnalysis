@@ -1,0 +1,1034 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 84,
+                    "floor": 2,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 68,
+                            "price": 380000
+                        }
+                    ],
+                    "unit": 113
+                }
+            ],
+            "block_code": {
+                "block_num": "49",
+                "contract": "C11",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 1986,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": -370
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "HOY FATT ROAD",
+            "town": "Bukit Merah",
+            "title": "HDB-BUKIT MERAH",
+            "lat": 1.2874890500186,
+            "long": 103.811714119673,
+            "postal": 150049
+        },
+        {
+            "apartments": [
+                {
+                    "area": 89,
+                    "floor": 6,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 95,
+                            "price": 584200
+                        }
+                    ],
+                    "unit": 158
+                }
+            ],
+            "block_code": {
+                "block_num": "57",
+                "contract": "RC23",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2013,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": -48
+            },
+            "pcd_date": null,
+            "quota_chinese": 0,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "HAVELOCK ROAD",
+            "town": "Bukit Merah",
+            "title": "HAVELOCK VIEW",
+            "lat": 1.29013858517151,
+            "long": 103.828453293371,
+            "postal": 161057
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 19,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 543400
+                        }
+                    ],
+                    "unit": 503
+                },
+                {
+                    "area": 93,
+                    "floor": 25,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 545300
+                        }
+                    ],
+                    "unit": 503
+                },
+                {
+                    "area": 93,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 511100
+                        }
+                    ],
+                    "unit": 507
+                }
+            ],
+            "block_code": {
+                "block_num": "70A",
+                "contract": "C52",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": 0
+            },
+            "pcd_date": null,
+            "quota_chinese": 0,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "TELOK BLANGAH HEIGHTS",
+            "town": "Bukit Merah",
+            "title": "TELOK BLANGAH RIDGEVIEW",
+            "lat": 1.27637559527955,
+            "long": 103.811373599535,
+            "postal": 101070
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 506200
+                        }
+                    ],
+                    "unit": 521
+                },
+                {
+                    "area": 93,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 536100
+                        }
+                    ],
+                    "unit": 527
+                }
+            ],
+            "block_code": {
+                "block_num": "70B",
+                "contract": "C52",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": 0
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "TELOK BLANGAH HEIGHTS",
+            "town": "Bukit Merah",
+            "title": "TELOK BLANGAH RIDGEVIEW",
+            "lat": 1.27655652134682,
+            "long": 103.810687833727,
+            "postal": 102070
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 483700
+                        }
+                    ],
+                    "unit": 537
+                },
+                {
+                    "area": 93,
+                    "floor": 21,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 542300
+                        }
+                    ],
+                    "unit": 537
+                },
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 488100
+                        }
+                    ],
+                    "unit": 539
+                },
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 479400
+                        }
+                    ],
+                    "unit": 541
+                },
+                {
+                    "area": 93,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 483700
+                        }
+                    ],
+                    "unit": 541
+                }
+            ],
+            "block_code": {
+                "block_num": "70C",
+                "contract": "C52",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": 0
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 5,
+            "quota_other": 5,
+            "street": "TELOK BLANGAH HEIGHTS",
+            "town": "Bukit Merah",
+            "title": "TELOK BLANGAH RIDGEVIEW",
+            "lat": 1.27599594887501,
+            "long": 103.810863425283,
+            "postal": 103070
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 521700
+                        }
+                    ],
+                    "unit": 241
+                },
+                {
+                    "area": 93,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 531300
+                        }
+                    ],
+                    "unit": 243
+                },
+                {
+                    "area": 93,
+                    "floor": 28,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 566800
+                        }
+                    ],
+                    "unit": 249
+                }
+            ],
+            "block_code": {
+                "block_num": "90A",
+                "contract": "C50",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 11,
+                "day": 30,
+                "quarter": null,
+                "months_since": 18
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": null,
+                "day": null,
+                "quarter": 4,
+                "months_since": 7
+            },
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "TELOK BLANGAH STREET 31",
+            "town": "Bukit Merah",
+            "title": "TELOK BLANGAH PARCVIEW",
+            "lat": 1.2777382003521,
+            "long": 103.807097180814,
+            "postal": 101090
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 535700
+                        }
+                    ],
+                    "unit": 237
+                }
+            ],
+            "block_code": {
+                "block_num": "90B",
+                "contract": "C50",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 11,
+                "day": 30,
+                "quarter": null,
+                "months_since": 18
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": null,
+                "quarter": null,
+                "months_since": 2
+            },
+            "quota_chinese": 0,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "TELOK BLANGAH STREET 31",
+            "town": "Bukit Merah",
+            "title": "TELOK BLANGAH PARCVIEW",
+            "lat": 1.27724329133639,
+            "long": 103.806910773919,
+            "postal": 102090
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 496900
+                        }
+                    ],
+                    "unit": 203
+                },
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 513000
+                        }
+                    ],
+                    "unit": 209
+                }
+            ],
+            "block_code": {
+                "block_num": "91A",
+                "contract": "C50",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 11,
+                "day": 30,
+                "quarter": null,
+                "months_since": 18
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 10,
+                "day": null,
+                "quarter": null,
+                "months_since": 5
+            },
+            "quota_chinese": 1,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "TELOK BLANGAH STREET 31",
+            "town": "Bukit Merah",
+            "title": "TELOK BLANGAH PARCVIEW",
+            "lat": 1.27666082698261,
+            "long": 103.807130946622,
+            "postal": 101091
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 492400
+                        }
+                    ],
+                    "unit": 187
+                },
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 531500
+                        }
+                    ],
+                    "unit": 191
+                },
+                {
+                    "area": 93,
+                    "floor": 27,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 547500
+                        }
+                    ],
+                    "unit": 191
+                }
+            ],
+            "block_code": {
+                "block_num": "92B",
+                "contract": "C50",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 11,
+                "day": 30,
+                "quarter": null,
+                "months_since": 18
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": null,
+                "day": null,
+                "quarter": 4,
+                "months_since": 7
+            },
+            "quota_chinese": 0,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "TELOK BLANGAH STREET 31",
+            "town": "Bukit Merah",
+            "title": "TELOK BLANGAH PARCVIEW",
+            "lat": 1.27587336458339,
+            "long": 103.80733260564,
+            "postal": 102092
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 470000
+                        }
+                    ],
+                    "unit": 151
+                },
+                {
+                    "area": 93,
+                    "floor": 24,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 547800
+                        }
+                    ],
+                    "unit": 151
+                },
+                {
+                    "area": 93,
+                    "floor": 30,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 554800
+                        }
+                    ],
+                    "unit": 151
+                },
+                {
+                    "area": 93,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 516900
+                        }
+                    ],
+                    "unit": 155
+                }
+            ],
+            "block_code": {
+                "block_num": "93A",
+                "contract": "C50",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 11,
+                "day": 30,
+                "quarter": null,
+                "months_since": 18
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 10,
+                "day": null,
+                "quarter": null,
+                "months_since": 5
+            },
+            "quota_chinese": 4,
+            "quota_malay": 4,
+            "quota_other": 4,
+            "street": "TELOK BLANGAH STREET 31",
+            "town": "Bukit Merah",
+            "title": "TELOK BLANGAH PARCVIEW",
+            "lat": 1.27532678702069,
+            "long": 103.807325814897,
+            "postal": 101093
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 23,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 546400
+                        }
+                    ],
+                    "unit": 169
+                },
+                {
+                    "area": 93,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 520600
+                        }
+                    ],
+                    "unit": 173
+                },
+                {
+                    "area": 93,
+                    "floor": 26,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 541600
+                        }
+                    ],
+                    "unit": 173
+                },
+                {
+                    "area": 93,
+                    "floor": 18,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 534900
+                        }
+                    ],
+                    "unit": 177
+                },
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 527000
+                        }
+                    ],
+                    "unit": 183
+                },
+                {
+                    "area": 93,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 507400
+                        }
+                    ],
+                    "unit": 185
+                }
+            ],
+            "block_code": {
+                "block_num": "93B",
+                "contract": "C50",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 11,
+                "day": 30,
+                "quarter": null,
+                "months_since": 18
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": null,
+                "day": null,
+                "quarter": 4,
+                "months_since": 7
+            },
+            "quota_chinese": 3,
+            "quota_malay": 6,
+            "quota_other": 6,
+            "street": "TELOK BLANGAH STREET 31",
+            "town": "Bukit Merah",
+            "title": "TELOK BLANGAH PARCVIEW",
+            "lat": 1.27542242415933,
+            "long": 103.807653233671,
+            "postal": 102093
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 587300
+                        }
+                    ],
+                    "unit": 8
+                },
+                {
+                    "area": 93,
+                    "floor": 30,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 619000
+                        }
+                    ],
+                    "unit": 8
+                }
+            ],
+            "block_code": {
+                "block_num": "95A",
+                "contract": "RC53",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 4,
+                "day": 30,
+                "quarter": null,
+                "months_since": 23
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 13
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "HENDERSON ROAD",
+            "town": "Bukit Merah",
+            "title": "CITY VUE @HENDERSON",
+            "lat": 1.28660028044273,
+            "long": 103.821363610139,
+            "postal": 151095
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 33,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 613900
+                        }
+                    ],
+                    "unit": 24
+                }
+            ],
+            "block_code": {
+                "block_num": "95B",
+                "contract": "RC53",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 4,
+                "day": 30,
+                "quarter": null,
+                "months_since": 23
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 13
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "HENDERSON ROAD",
+            "town": "Bukit Merah",
+            "title": "CITY VUE @HENDERSON",
+            "lat": 1.28696720363234,
+            "long": 103.821708097136,
+            "postal": 152095
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 566100
+                        }
+                    ],
+                    "unit": 70
+                },
+                {
+                    "area": 93,
+                    "floor": 37,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 638100
+                        }
+                    ],
+                    "unit": 70
+                },
+                {
+                    "area": 93,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 569600
+                        }
+                    ],
+                    "unit": 72
+                }
+            ],
+            "block_code": {
+                "block_num": "96B",
+                "contract": "RC53",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 4,
+                "day": 30,
+                "quarter": null,
+                "months_since": 23
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 13
+            },
+            "quota_chinese": 1,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "HENDERSON ROAD",
+            "town": "Bukit Merah",
+            "title": "CITY VUE @HENDERSON",
+            "lat": 1.28811352890678,
+            "long": 103.821266641903,
+            "postal": 152096
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 470100
+                        }
+                    ],
+                    "unit": 613
+                },
+                {
+                    "area": 92,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 485100
+                        }
+                    ],
+                    "unit": 613
+                }
+            ],
+            "block_code": {
+                "block_num": "105A",
+                "contract": "C19C",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "DEPOT ROAD",
+            "town": "Bukit Merah",
+            "title": "DEPOT HEIGHTS",
+            "lat": 1.28107116546838,
+            "long": 103.811405730352,
+            "postal": 101105
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 479600
+                        }
+                    ],
+                    "unit": 621
+                },
+                {
+                    "area": 92,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 486600
+                        }
+                    ],
+                    "unit": 621
+                },
+                {
+                    "area": 92,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 502700
+                        }
+                    ],
+                    "unit": 621
+                },
+                {
+                    "area": 92,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 503200
+                        }
+                    ],
+                    "unit": 625
+                },
+                {
+                    "area": 92,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 482900
+                        }
+                    ],
+                    "unit": 627
+                }
+            ],
+            "block_code": {
+                "block_num": "110A",
+                "contract": "C19D",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 4,
+            "quota_malay": 5,
+            "quota_other": 5,
+            "street": "DEPOT ROAD",
+            "town": "Bukit Merah",
+            "title": "DEPOT HEIGHTS",
+            "lat": 1.28142873293303,
+            "long": 103.809242971473,
+            "postal": 101110
+        }
+    ]
+}

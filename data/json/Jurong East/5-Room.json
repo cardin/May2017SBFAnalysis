@@ -1,0 +1,44 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 114,
+                    "floor": 3,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 61,
+                            "price": 328000
+                        }
+                    ],
+                    "unit": 40
+                }
+            ],
+            "block_code": {
+                "block_num": "406",
+                "contract": "C3B",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 1979,
+                "month": 4,
+                "day": 1,
+                "quarter": null,
+                "months_since": -457
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "PANDAN GARDENS",
+            "town": "Jurong East",
+            "title": "HDB-JURONG EAST",
+            "lat": 1.31882147257102,
+            "long": 103.74922637213,
+            "postal": 600406
+        }
+    ]
+}

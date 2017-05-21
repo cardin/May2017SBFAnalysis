@@ -1,0 +1,1378 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 166000
+                        }
+                    ],
+                    "unit": 475
+                },
+                {
+                    "area": 67,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 167000
+                        }
+                    ],
+                    "unit": 475
+                }
+            ],
+            "block_code": {
+                "block_num": "104A",
+                "contract": "C2",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 6,
+                "day": 30,
+                "quarter": null,
+                "months_since": 13
+            },
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 6,
+                "day": null,
+                "quarter": null,
+                "months_since": 1
+            },
+            "quota_chinese": 2,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "CANBERRA STREET",
+            "town": "Sembawang",
+            "title": "EASTBROOK @ CANBERRA",
+            "lat": 1.45036083357963,
+            "long": 103.832264216095,
+            "postal": 751104
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 167800
+                        }
+                    ],
+                    "unit": 557
+                },
+                {
+                    "area": 68,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 168800
+                        }
+                    ],
+                    "unit": 557
+                }
+            ],
+            "block_code": {
+                "block_num": "104D",
+                "contract": "C2",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 2018,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": 14
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 1,
+            "quota_other": 0,
+            "street": "CANBERRA STREET",
+            "town": "Sembawang",
+            "title": "EASTBROOK @ CANBERRA",
+            "lat": 1.44986411375676,
+            "long": 103.832472736521,
+            "postal": 754104
+        },
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 173800
+                        }
+                    ],
+                    "unit": 563
+                }
+            ],
+            "block_code": {
+                "block_num": "107A",
+                "contract": "C2",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 2018,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": 14
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "CANBERRA STREET",
+            "town": "Sembawang",
+            "title": "EASTBROOK @ CANBERRA",
+            "lat": 1.44976517242699,
+            "long": 103.833142445998,
+            "postal": 751107
+        },
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 169000
+                        }
+                    ],
+                    "unit": 581
+                }
+            ],
+            "block_code": {
+                "block_num": "107B",
+                "contract": "C2",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 2018,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": 14
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "CANBERRA STREET",
+            "town": "Sembawang",
+            "title": "EASTBROOK @ CANBERRA",
+            "lat": 1.44916591171602,
+            "long": 103.83350690389,
+            "postal": 752107
+        },
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 160000
+                        }
+                    ],
+                    "unit": 601
+                }
+            ],
+            "block_code": {
+                "block_num": "107C",
+                "contract": "C2",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 2018,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": 14
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "CANBERRA STREET",
+            "town": "Sembawang",
+            "title": "EASTBROOK @ CANBERRA",
+            "lat": 1.44856094662816,
+            "long": 103.833871606379,
+            "postal": 753107
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 176300
+                        }
+                    ],
+                    "unit": 139
+                },
+                {
+                    "area": 68,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 164200
+                        }
+                    ],
+                    "unit": 141
+                },
+                {
+                    "area": 68,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 175700
+                        }
+                    ],
+                    "unit": 141
+                },
+                {
+                    "area": 68,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 173300
+                        }
+                    ],
+                    "unit": 141
+                }
+            ],
+            "block_code": {
+                "block_num": "115B",
+                "contract": "C5",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 6,
+                "day": 30,
+                "quarter": null,
+                "months_since": 13
+            },
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": null,
+                "quarter": null,
+                "months_since": 2
+            },
+            "quota_chinese": 4,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "CANBERRA WALK",
+            "town": "Sembawang",
+            "title": "EASTLACE @ CANBERRA",
+            "lat": 1.44631122878784,
+            "long": 103.829416902418,
+            "postal": 752115
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 169700
+                        }
+                    ],
+                    "unit": 163
+                }
+            ],
+            "block_code": {
+                "block_num": "115C",
+                "contract": "C5",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 6,
+                "day": 30,
+                "quarter": null,
+                "months_since": 13
+            },
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": null,
+                "quarter": null,
+                "months_since": 2
+            },
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 1,
+            "street": "CANBERRA WALK",
+            "town": "Sembawang",
+            "title": "EASTLACE @ CANBERRA",
+            "lat": 1.44607590012956,
+            "long": 103.829826244984,
+            "postal": 753115
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 155200
+                        }
+                    ],
+                    "unit": 181
+                },
+                {
+                    "area": 68,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 175800
+                        }
+                    ],
+                    "unit": 181
+                },
+                {
+                    "area": 68,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 160800
+                        }
+                    ],
+                    "unit": 193
+                },
+                {
+                    "area": 68,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 174700
+                        }
+                    ],
+                    "unit": 193
+                },
+                {
+                    "area": 68,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 172300
+                        }
+                    ],
+                    "unit": 195
+                }
+            ],
+            "block_code": {
+                "block_num": "115D",
+                "contract": "C5",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 6,
+                "day": 30,
+                "quarter": null,
+                "months_since": 13
+            },
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": null,
+                "quarter": null,
+                "months_since": 2
+            },
+            "quota_chinese": 5,
+            "quota_malay": 1,
+            "quota_other": 0,
+            "street": "CANBERRA WALK",
+            "town": "Sembawang",
+            "title": "EASTLACE @ CANBERRA",
+            "lat": 1.44554357187772,
+            "long": 103.828991632152,
+            "postal": 754115
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 184700
+                        }
+                    ],
+                    "unit": 304
+                },
+                {
+                    "area": 68,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 189700
+                        }
+                    ],
+                    "unit": 304
+                }
+            ],
+            "block_code": {
+                "block_num": "116A",
+                "contract": "C6",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 4,
+                "day": 30,
+                "quarter": null,
+                "months_since": 35
+            },
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 25
+            },
+            "quota_chinese": 2,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "CANBERRA CRESCENT",
+            "town": "Sembawang",
+            "title": "EASTLINK II @ CANBERRA",
+            "lat": 1.44538508707197,
+            "long": 103.830023269172,
+            "postal": 751116
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 187900
+                        }
+                    ],
+                    "unit": 386
+                }
+            ],
+            "block_code": {
+                "block_num": "117A",
+                "contract": "C6",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 4,
+                "day": 30,
+                "quarter": null,
+                "months_since": 35
+            },
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 25
+            },
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "CANBERRA CRESCENT",
+            "town": "Sembawang",
+            "title": "EASTLINK II @ CANBERRA",
+            "lat": 1.44496776810685,
+            "long": 103.83054519512,
+            "postal": 751117
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 176900
+                        }
+                    ],
+                    "unit": 520
+                }
+            ],
+            "block_code": {
+                "block_num": "128B",
+                "contract": "C10",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 9,
+                "day": 30,
+                "quarter": null,
+                "months_since": 16
+            },
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 6,
+                "day": null,
+                "quarter": null,
+                "months_since": 1
+            },
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "CANBERRA STREET",
+            "town": "Sembawang",
+            "title": "EASTCROWN @ CANBERRA",
+            "lat": 1.44510121195889,
+            "long": 103.833922131658,
+            "postal": 752128
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 176900
+                        }
+                    ],
+                    "unit": 433
+                }
+            ],
+            "block_code": {
+                "block_num": "130A",
+                "contract": "C10",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 2018,
+                "month": 10,
+                "day": 1,
+                "quarter": null,
+                "months_since": 17
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "CANBERRA CRESCENT",
+            "town": "Sembawang",
+            "title": "EASTCROWN @ CANBERRA",
+            "lat": 1.4447639261162,
+            "long": 103.831866874987,
+            "postal": 751130
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 192300
+                        }
+                    ],
+                    "unit": 538
+                },
+                {
+                    "area": 68,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 195300
+                        }
+                    ],
+                    "unit": 542
+                }
+            ],
+            "block_code": {
+                "block_num": "131A",
+                "contract": "C12",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 8,
+                "day": 31,
+                "quarter": null,
+                "months_since": 39
+            },
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 28
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "CANBERRA CRESCENT",
+            "town": "Sembawang",
+            "title": "EASTLINK I @ CANBERRA",
+            "lat": 1.44372340899626,
+            "long": 103.831027075319,
+            "postal": 751131
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 174500
+                        }
+                    ],
+                    "unit": 556
+                },
+                {
+                    "area": 68,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 180500
+                        }
+                    ],
+                    "unit": 556
+                },
+                {
+                    "area": 68,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 189100
+                        }
+                    ],
+                    "unit": 556
+                },
+                {
+                    "area": 68,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 193300
+                        }
+                    ],
+                    "unit": 556
+                }
+            ],
+            "block_code": {
+                "block_num": "131B",
+                "contract": "C12",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 8,
+                "day": 31,
+                "quarter": null,
+                "months_since": 39
+            },
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 28
+            },
+            "quota_chinese": 4,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "CANBERRA CRESCENT",
+            "town": "Sembawang",
+            "title": "EASTLINK I @ CANBERRA",
+            "lat": 1.44414801416241,
+            "long": 103.83085950107,
+            "postal": 752131
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 180500
+                        }
+                    ],
+                    "unit": 570
+                },
+                {
+                    "area": 68,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 198400
+                        }
+                    ],
+                    "unit": 570
+                },
+                {
+                    "area": 68,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 177500
+                        }
+                    ],
+                    "unit": 578
+                },
+                {
+                    "area": 68,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 182700
+                        }
+                    ],
+                    "unit": 578
+                }
+            ],
+            "block_code": {
+                "block_num": "131C",
+                "contract": "C12",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 8,
+                "day": 31,
+                "quarter": null,
+                "months_since": 39
+            },
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 28
+            },
+            "quota_chinese": 4,
+            "quota_malay": 4,
+            "quota_other": 3,
+            "street": "CANBERRA CRESCENT",
+            "town": "Sembawang",
+            "title": "EASTLINK I @ CANBERRA",
+            "lat": 1.44396691422205,
+            "long": 103.830575737297,
+            "postal": 753131
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 177600
+                        }
+                    ],
+                    "unit": 504
+                },
+                {
+                    "area": 68,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 189100
+                        }
+                    ],
+                    "unit": 508
+                },
+                {
+                    "area": 68,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 174400
+                        }
+                    ],
+                    "unit": 510
+                },
+                {
+                    "area": 68,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 177400
+                        }
+                    ],
+                    "unit": 510
+                }
+            ],
+            "block_code": {
+                "block_num": "132A",
+                "contract": "C12",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 8,
+                "day": 31,
+                "quarter": null,
+                "months_since": 39
+            },
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 28
+            },
+            "quota_chinese": 4,
+            "quota_malay": 4,
+            "quota_other": 4,
+            "street": "CANBERRA CRESCENT",
+            "town": "Sembawang",
+            "title": "EASTLINK I @ CANBERRA",
+            "lat": 1.44343727702649,
+            "long": 103.831268697471,
+            "postal": 751132
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 179700
+                        }
+                    ],
+                    "unit": 65
+                }
+            ],
+            "block_code": {
+                "block_num": "132B",
+                "contract": "C12",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 8,
+                "day": 31,
+                "quarter": null,
+                "months_since": 39
+            },
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 28
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "CANBERRA VIEW",
+            "town": "Sembawang",
+            "title": "EASTLINK I @ CANBERRA",
+            "lat": 1.44312203722884,
+            "long": 103.831650744888,
+            "postal": 752132
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 186800
+                        }
+                    ],
+                    "unit": 843
+                }
+            ],
+            "block_code": {
+                "block_num": "362A",
+                "contract": "C8",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 4,
+                "day": 30,
+                "quarter": null,
+                "months_since": 23
+            },
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 13
+            },
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "SEMBAWANG CRESCENT",
+            "town": "Sembawang",
+            "title": "SUN NATURA",
+            "lat": 1.44719485060318,
+            "long": 103.814007986875,
+            "postal": 751362
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 168300
+                        }
+                    ],
+                    "unit": 799
+                },
+                {
+                    "area": 68,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 184800
+                        }
+                    ],
+                    "unit": 799
+                },
+                {
+                    "area": 68,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 187800
+                        }
+                    ],
+                    "unit": 799
+                },
+                {
+                    "area": 68,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 168300
+                        }
+                    ],
+                    "unit": 801
+                },
+                {
+                    "area": 68,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 173800
+                        }
+                    ],
+                    "unit": 801
+                },
+                {
+                    "area": 68,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 180300
+                        }
+                    ],
+                    "unit": 801
+                },
+                {
+                    "area": 68,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 182800
+                        }
+                    ],
+                    "unit": 801
+                }
+            ],
+            "block_code": {
+                "block_num": "362C",
+                "contract": "C8",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 4,
+                "day": 30,
+                "quarter": null,
+                "months_since": 23
+            },
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 13
+            },
+            "quota_chinese": 7,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "SEMBAWANG CRESCENT",
+            "town": "Sembawang",
+            "title": "SUN NATURA",
+            "lat": 1.44668372388677,
+            "long": 103.813225771052,
+            "postal": 753362
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 188800
+                        }
+                    ],
+                    "unit": 723
+                }
+            ],
+            "block_code": {
+                "block_num": "363A",
+                "contract": "C8",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 4,
+                "day": 30,
+                "quarter": null,
+                "months_since": 23
+            },
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 13
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 0,
+            "street": "SEMBAWANG CRESCENT",
+            "town": "Sembawang",
+            "title": "SUN NATURA",
+            "lat": 1.44576016585331,
+            "long": 103.814267716736,
+            "postal": 751363
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 177500
+                        }
+                    ],
+                    "unit": 747
+                }
+            ],
+            "block_code": {
+                "block_num": "363B",
+                "contract": "C8",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 4,
+                "day": 30,
+                "quarter": null,
+                "months_since": 23
+            },
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 13
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "SEMBAWANG CRESCENT",
+            "town": "Sembawang",
+            "title": "SUN NATURA",
+            "lat": 1.44575590718726,
+            "long": 103.813638043808,
+            "postal": 752363
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 176400
+                        }
+                    ],
+                    "unit": 183
+                }
+            ],
+            "block_code": {
+                "block_num": "366B",
+                "contract": "C7",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 3,
+                "day": 31,
+                "quarter": null,
+                "months_since": 22
+            },
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 1,
+                "months_since": 10
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "SEMBAWANG CRESCENT",
+            "town": "Sembawang",
+            "title": "SUN BREEZE",
+            "lat": 1.44392167964019,
+            "long": 103.815957543756,
+            "postal": 752366
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 12,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 184900
+                        }
+                    ],
+                    "unit": 47
+                }
+            ],
+            "block_code": {
+                "block_num": "590B",
+                "contract": "C1A",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 2015,
+                "month": 4,
+                "day": 1,
+                "quarter": null,
+                "months_since": -25
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "MONTREAL LINK",
+            "town": "Sembawang",
+            "title": "MONTREAL DALE",
+            "lat": 1.45008621870703,
+            "long": 103.827067209255,
+            "postal": 752590
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 11,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 183100
+                        }
+                    ],
+                    "unit": 48
+                }
+            ],
+            "block_code": {
+                "block_num": "593B",
+                "contract": "C1B",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 2015,
+                "month": 4,
+                "day": 1,
+                "quarter": null,
+                "months_since": -25
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "MONTREAL LINK",
+            "town": "Sembawang",
+            "title": "MONTREAL VILLE",
+            "lat": 1.45136997019675,
+            "long": 103.828324578002,
+            "postal": 752593
+        }
+    ]
+}

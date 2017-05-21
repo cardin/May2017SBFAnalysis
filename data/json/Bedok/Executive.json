@@ -1,0 +1,44 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 144,
+                    "floor": 2,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 75,
+                            "price": 595000
+                        }
+                    ],
+                    "unit": 9
+                }
+            ],
+            "block_code": {
+                "block_num": "634",
+                "contract": "C11",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": null,
+            "flat_type": "Executive",
+            "lcd_date": {
+                "year": 1993,
+                "month": 4,
+                "day": 29,
+                "quarter": null,
+                "months_since": -289
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BEDOK RESERVOIR ROAD",
+            "town": "Bedok",
+            "title": "EUNOS TENAGA VILLE",
+            "lat": 1.33016740105577,
+            "long": 103.904849291949,
+            "postal": 410634
+        }
+    ]
+}

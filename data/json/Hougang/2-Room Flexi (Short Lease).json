@@ -1,0 +1,596 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 65700
+                        },
+                        {
+                            "lease": 20,
+                            "price": 76300
+                        },
+                        {
+                            "lease": 25,
+                            "price": 85000
+                        },
+                        {
+                            "lease": 30,
+                            "price": 92200
+                        },
+                        {
+                            "lease": 35,
+                            "price": 98300
+                        },
+                        {
+                            "lease": 40,
+                            "price": 103500
+                        },
+                        {
+                            "lease": 45,
+                            "price": 107900
+                        }
+                    ],
+                    "unit": 1014
+                },
+                {
+                    "area": 47,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 65900
+                        },
+                        {
+                            "lease": 20,
+                            "price": 76600
+                        },
+                        {
+                            "lease": 25,
+                            "price": 85400
+                        },
+                        {
+                            "lease": 30,
+                            "price": 92600
+                        },
+                        {
+                            "lease": 35,
+                            "price": 98700
+                        },
+                        {
+                            "lease": 40,
+                            "price": 103900
+                        },
+                        {
+                            "lease": 45,
+                            "price": 108300
+                        }
+                    ],
+                    "unit": 1014
+                }
+            ],
+            "block_code": {
+                "block_num": "364A",
+                "contract": "C14",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "UPPER SERANGOON ROAD",
+            "town": "Hougang",
+            "title": "HOUGANG MEADOW",
+            "lat": 1.37060840744454,
+            "long": 103.896776019259,
+            "postal": 531364
+        },
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 67900
+                        },
+                        {
+                            "lease": 20,
+                            "price": 79000
+                        },
+                        {
+                            "lease": 25,
+                            "price": 88100
+                        },
+                        {
+                            "lease": 30,
+                            "price": 95600
+                        },
+                        {
+                            "lease": 35,
+                            "price": 102000
+                        },
+                        {
+                            "lease": 40,
+                            "price": 107400
+                        },
+                        {
+                            "lease": 45,
+                            "price": 111900
+                        }
+                    ],
+                    "unit": 1026
+                },
+                {
+                    "area": 47,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 58800
+                        },
+                        {
+                            "lease": 20,
+                            "price": 68100
+                        },
+                        {
+                            "lease": 25,
+                            "price": 75700
+                        },
+                        {
+                            "lease": 30,
+                            "price": 82000
+                        },
+                        {
+                            "lease": 35,
+                            "price": 87300
+                        },
+                        {
+                            "lease": 40,
+                            "price": 91800
+                        },
+                        {
+                            "lease": 45,
+                            "price": 95600
+                        }
+                    ],
+                    "unit": 1028
+                },
+                {
+                    "area": 37,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 54300
+                        },
+                        {
+                            "lease": 20,
+                            "price": 62800
+                        },
+                        {
+                            "lease": 25,
+                            "price": 69800
+                        },
+                        {
+                            "lease": 30,
+                            "price": 75600
+                        },
+                        {
+                            "lease": 35,
+                            "price": 80500
+                        },
+                        {
+                            "lease": 40,
+                            "price": 84700
+                        },
+                        {
+                            "lease": 45,
+                            "price": 88200
+                        }
+                    ],
+                    "unit": 1034
+                },
+                {
+                    "area": 37,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 53700
+                        },
+                        {
+                            "lease": 20,
+                            "price": 62200
+                        },
+                        {
+                            "lease": 25,
+                            "price": 69100
+                        },
+                        {
+                            "lease": 30,
+                            "price": 74800
+                        },
+                        {
+                            "lease": 35,
+                            "price": 79600
+                        },
+                        {
+                            "lease": 40,
+                            "price": 83800
+                        },
+                        {
+                            "lease": 45,
+                            "price": 87200
+                        }
+                    ],
+                    "unit": 1036
+                },
+                {
+                    "area": 37,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 52900
+                        },
+                        {
+                            "lease": 20,
+                            "price": 61200
+                        },
+                        {
+                            "lease": 25,
+                            "price": 68000
+                        },
+                        {
+                            "lease": 30,
+                            "price": 73600
+                        },
+                        {
+                            "lease": 35,
+                            "price": 78400
+                        },
+                        {
+                            "lease": 40,
+                            "price": 82400
+                        },
+                        {
+                            "lease": 45,
+                            "price": 85800
+                        }
+                    ],
+                    "unit": 1038
+                }
+            ],
+            "block_code": {
+                "block_num": "364B",
+                "contract": "C14",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 5,
+            "quota_malay": 5,
+            "quota_other": 5,
+            "street": "UPPER SERANGOON ROAD",
+            "town": "Hougang",
+            "title": "HOUGANG MEADOW",
+            "lat": 1.37051434802162,
+            "long": 103.897132658546,
+            "postal": 532364
+        },
+        {
+            "apartments": [
+                {
+                    "area": 46,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 57200
+                        },
+                        {
+                            "lease": 20,
+                            "price": 66100
+                        },
+                        {
+                            "lease": 25,
+                            "price": 73500
+                        },
+                        {
+                            "lease": 30,
+                            "price": 79500
+                        },
+                        {
+                            "lease": 35,
+                            "price": 84600
+                        },
+                        {
+                            "lease": 40,
+                            "price": 89000
+                        },
+                        {
+                            "lease": 45,
+                            "price": 92700
+                        }
+                    ],
+                    "unit": 500
+                },
+                {
+                    "area": 46,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 56700
+                        },
+                        {
+                            "lease": 20,
+                            "price": 65500
+                        },
+                        {
+                            "lease": 25,
+                            "price": 72800
+                        },
+                        {
+                            "lease": 30,
+                            "price": 78700
+                        },
+                        {
+                            "lease": 35,
+                            "price": 83800
+                        },
+                        {
+                            "lease": 40,
+                            "price": 88100
+                        },
+                        {
+                            "lease": 45,
+                            "price": 91700
+                        }
+                    ],
+                    "unit": 502
+                },
+                {
+                    "area": 46,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 58000
+                        },
+                        {
+                            "lease": 20,
+                            "price": 67100
+                        },
+                        {
+                            "lease": 25,
+                            "price": 74600
+                        },
+                        {
+                            "lease": 30,
+                            "price": 80700
+                        },
+                        {
+                            "lease": 35,
+                            "price": 85900
+                        },
+                        {
+                            "lease": 40,
+                            "price": 90300
+                        },
+                        {
+                            "lease": 45,
+                            "price": 94100
+                        }
+                    ],
+                    "unit": 502
+                }
+            ],
+            "block_code": {
+                "block_num": "581",
+                "contract": "C23",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "BUANGKOK GREEN",
+            "town": "Hougang",
+            "title": "GOLDEN MINT",
+            "lat": 1.37950924163006,
+            "long": 103.886990765254,
+            "postal": 530581
+        },
+        {
+            "apartments": [
+                {
+                    "area": 46,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 52700
+                        },
+                        {
+                            "lease": 20,
+                            "price": 60800
+                        },
+                        {
+                            "lease": 25,
+                            "price": 67400
+                        },
+                        {
+                            "lease": 30,
+                            "price": 72800
+                        },
+                        {
+                            "lease": 35,
+                            "price": 77400
+                        },
+                        {
+                            "lease": 40,
+                            "price": 81300
+                        },
+                        {
+                            "lease": 45,
+                            "price": 84600
+                        }
+                    ],
+                    "unit": 530
+                },
+                {
+                    "area": 46,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 57700
+                        },
+                        {
+                            "lease": 20,
+                            "price": 66700
+                        },
+                        {
+                            "lease": 25,
+                            "price": 74100
+                        },
+                        {
+                            "lease": 30,
+                            "price": 80200
+                        },
+                        {
+                            "lease": 35,
+                            "price": 85400
+                        },
+                        {
+                            "lease": 40,
+                            "price": 89800
+                        },
+                        {
+                            "lease": 45,
+                            "price": 93500
+                        }
+                    ],
+                    "unit": 530
+                },
+                {
+                    "area": 46,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 59500
+                        },
+                        {
+                            "lease": 20,
+                            "price": 68900
+                        },
+                        {
+                            "lease": 25,
+                            "price": 76700
+                        },
+                        {
+                            "lease": 30,
+                            "price": 83000
+                        },
+                        {
+                            "lease": 35,
+                            "price": 88400
+                        },
+                        {
+                            "lease": 40,
+                            "price": 93000
+                        },
+                        {
+                            "lease": 45,
+                            "price": 96800
+                        }
+                    ],
+                    "unit": 532
+                },
+                {
+                    "area": 46,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 58500
+                        },
+                        {
+                            "lease": 20,
+                            "price": 67600
+                        },
+                        {
+                            "lease": 25,
+                            "price": 75200
+                        },
+                        {
+                            "lease": 30,
+                            "price": 81400
+                        },
+                        {
+                            "lease": 35,
+                            "price": 86700
+                        },
+                        {
+                            "lease": 40,
+                            "price": 91100
+                        },
+                        {
+                            "lease": 45,
+                            "price": 94900
+                        }
+                    ],
+                    "unit": 534
+                }
+            ],
+            "block_code": {
+                "block_num": "582",
+                "contract": "C23",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 4,
+            "quota_malay": 4,
+            "quota_other": 4,
+            "street": "BUANGKOK GREEN",
+            "town": "Hougang",
+            "title": "GOLDEN MINT",
+            "lat": 1.37929886407745,
+            "long": 103.887412190686,
+            "postal": 530582
+        }
+    ]
+}

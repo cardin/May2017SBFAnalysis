@@ -1,0 +1,490 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 418600
+                        }
+                    ],
+                    "unit": 301
+                },
+                {
+                    "area": 113,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 423400
+                        }
+                    ],
+                    "unit": 301
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 377600
+                        }
+                    ],
+                    "unit": 307
+                },
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 389600
+                        }
+                    ],
+                    "unit": 307
+                }
+            ],
+            "block_code": {
+                "block_num": "473A",
+                "contract": "C20",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room/3Gen",
+            "lcd_date": {
+                "year": 2017,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": 1
+            },
+            "pcd_date": null,
+            "quota_chinese": 4,
+            "quota_malay": 3,
+            "quota_other": 4,
+            "street": "UPPER SERANGOON CRESCENT",
+            "town": "Hougang",
+            "title": "HOUGANG PARKEDGE",
+            "lat": 1.37682896002803,
+            "long": 103.900640875151,
+            "postal": 531473
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 409200
+                        }
+                    ],
+                    "unit": 343
+                }
+            ],
+            "block_code": {
+                "block_num": "473C",
+                "contract": "C20",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room/3Gen",
+            "lcd_date": {
+                "year": 2017,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": 1
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "UPPER SERANGOON CRESCENT",
+            "town": "Hougang",
+            "title": "HOUGANG PARKEDGE",
+            "lat": 1.37626441903594,
+            "long": 103.901389208657,
+            "postal": 533473
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 418100
+                        }
+                    ],
+                    "unit": 365
+                }
+            ],
+            "block_code": {
+                "block_num": "473D",
+                "contract": "C20",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room/3Gen",
+            "lcd_date": {
+                "year": 2017,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": 1
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "UPPER SERANGOON CRESCENT",
+            "town": "Hougang",
+            "title": "HOUGANG PARKEDGE",
+            "lat": 1.37667210338336,
+            "long": 103.901954743274,
+            "postal": 538473
+        },
+        {
+            "apartments": [
+                {
+                    "area": 120,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 368300
+                        }
+                    ],
+                    "unit": 805
+                },
+                {
+                    "area": 120,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 374300
+                        }
+                    ],
+                    "unit": 805
+                },
+                {
+                    "area": 120,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 380300
+                        }
+                    ],
+                    "unit": 805
+                },
+                {
+                    "area": 120,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 386300
+                        }
+                    ],
+                    "unit": 805
+                },
+                {
+                    "area": 120,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 390800
+                        }
+                    ],
+                    "unit": 805
+                },
+                {
+                    "area": 120,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 408400
+                        }
+                    ],
+                    "unit": 805
+                },
+                {
+                    "area": 120,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 375300
+                        }
+                    ],
+                    "unit": 815
+                },
+                {
+                    "area": 120,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 381300
+                        }
+                    ],
+                    "unit": 815
+                },
+                {
+                    "area": 120,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 387300
+                        }
+                    ],
+                    "unit": 815
+                },
+                {
+                    "area": 120,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 393300
+                        }
+                    ],
+                    "unit": 815
+                },
+                {
+                    "area": 120,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 397800
+                        }
+                    ],
+                    "unit": 815
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 365800
+                        }
+                    ],
+                    "unit": 817
+                }
+            ],
+            "block_code": {
+                "block_num": "997A",
+                "contract": "C19",
+                "neighbourhood": "N9"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 10,
+                "day": 31,
+                "quarter": null,
+                "months_since": 17
+            },
+            "flat_type": "5-Room/3Gen",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": null,
+                "day": null,
+                "quarter": 4,
+                "months_since": 7
+            },
+            "quota_chinese": 12,
+            "quota_malay": 1,
+            "quota_other": 7,
+            "street": "BUANGKOK CRESCENT",
+            "town": "Hougang",
+            "title": "BUANGKOK EDGEVIEW",
+            "lat": 1.38504599856503,
+            "long": 103.881166649447,
+            "postal": 531997
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 392000
+                        }
+                    ],
+                    "unit": 853
+                },
+                {
+                    "area": 120,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 360400
+                        }
+                    ],
+                    "unit": 863
+                },
+                {
+                    "area": 120,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 379400
+                        }
+                    ],
+                    "unit": 863
+                }
+            ],
+            "block_code": {
+                "block_num": "997B",
+                "contract": "C19",
+                "neighbourhood": "N9"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 10,
+                "day": 31,
+                "quarter": null,
+                "months_since": 17
+            },
+            "flat_type": "5-Room/3Gen",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": null,
+                "day": null,
+                "quarter": 4,
+                "months_since": 7
+            },
+            "quota_chinese": 3,
+            "quota_malay": 2,
+            "quota_other": 3,
+            "street": "BUANGKOK CRESCENT",
+            "town": "Hougang",
+            "title": "BUANGKOK EDGEVIEW",
+            "lat": 1.38590156781202,
+            "long": 103.8813870478,
+            "postal": 532997
+        },
+        {
+            "apartments": [
+                {
+                    "area": 120,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 382300
+                        }
+                    ],
+                    "unit": 825
+                },
+                {
+                    "area": 120,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 388300
+                        }
+                    ],
+                    "unit": 825
+                },
+                {
+                    "area": 120,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 394300
+                        }
+                    ],
+                    "unit": 825
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 367600
+                        }
+                    ],
+                    "unit": 831
+                }
+            ],
+            "block_code": {
+                "block_num": "997C",
+                "contract": "C19",
+                "neighbourhood": "N9"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 10,
+                "day": 31,
+                "quarter": null,
+                "months_since": 17
+            },
+            "flat_type": "5-Room/3Gen",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": null,
+                "day": null,
+                "quarter": 4,
+                "months_since": 7
+            },
+            "quota_chinese": 4,
+            "quota_malay": 4,
+            "quota_other": 4,
+            "street": "BUANGKOK CRESCENT",
+            "town": "Hougang",
+            "title": "BUANGKOK EDGEVIEW",
+            "lat": 1.38553018206229,
+            "long": 103.881587879925,
+            "postal": 534997
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 145,
+                    "floor": 3,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 75,
+                            "price": 430000
+                        }
+                    ],
+                    "unit": 312
+                }
+            ],
+            "block_code": {
+                "block_num": "829",
+                "contract": "C6",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "Executive",
+            "lcd_date": {
+                "year": 1993,
+                "month": 5,
+                "day": 27,
+                "quarter": null,
+                "months_since": -288
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 1,
+            "street": "JURONG WEST STREET 81",
+            "town": "Jurong West",
+            "title": "HDB-JURONG WEST",
+            "lat": 1.34497742351866,
+            "long": 103.693882164907,
+            "postal": 640829
+        }
+    ]
+}

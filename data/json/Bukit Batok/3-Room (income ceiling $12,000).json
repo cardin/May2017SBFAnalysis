@@ -1,0 +1,132 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 242400
+                        }
+                    ],
+                    "unit": 231
+                }
+            ],
+            "block_code": {
+                "block_num": "194B",
+                "contract": "C13",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $12,000)",
+            "lcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": 2
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BUKIT BATOK WEST AVENUE 6",
+            "town": "Bukit Batok",
+            "title": "SKYLINE I @ BUKIT BATOK",
+            "lat": 1.34513283900191,
+            "long": 103.744861953262,
+            "postal": 652194
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 241200
+                        }
+                    ],
+                    "unit": 70
+                },
+                {
+                    "area": 68,
+                    "floor": 24,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 250200
+                        }
+                    ],
+                    "unit": 72
+                },
+                {
+                    "area": 68,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 244000
+                        }
+                    ],
+                    "unit": 74
+                },
+                {
+                    "area": 68,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 240400
+                        }
+                    ],
+                    "unit": 74
+                },
+                {
+                    "area": 68,
+                    "floor": 28,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 265900
+                        }
+                    ],
+                    "unit": 78
+                }
+            ],
+            "block_code": {
+                "block_num": "296B",
+                "contract": "C23",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $12,000)",
+            "lcd_date": {
+                "year": 2018,
+                "month": 3,
+                "day": 1,
+                "quarter": null,
+                "months_since": 10
+            },
+            "pcd_date": null,
+            "quota_chinese": 5,
+            "quota_malay": 5,
+            "quota_other": 5,
+            "street": "BUKIT BATOK STREET 22",
+            "town": "Bukit Batok",
+            "title": "SKYLINE II @ BUKIT BATOK",
+            "lat": 1.34369381417081,
+            "long": 103.747356802144,
+            "postal": 652296
+        }
+    ]
+}

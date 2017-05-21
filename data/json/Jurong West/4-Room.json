@@ -1,0 +1,1034 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 18,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 333100
+                        }
+                    ],
+                    "unit": 10
+                }
+            ],
+            "block_code": {
+                "block_num": "140A",
+                "contract": "C29B",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 5,
+                "day": 31,
+                "quarter": null,
+                "months_since": 24
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 13
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "CORPORATION DRIVE",
+            "town": "Jurong West",
+            "title": "YUNG HO SPRING I",
+            "lat": 1.32735549941003,
+            "long": 103.723135218753,
+            "postal": 611140
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 290700
+                        }
+                    ],
+                    "unit": 46
+                }
+            ],
+            "block_code": {
+                "block_num": "140B",
+                "contract": "C29B",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 5,
+                "day": 31,
+                "quarter": null,
+                "months_since": 24
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 13
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "CORPORATION DRIVE",
+            "town": "Jurong West",
+            "title": "YUNG HO SPRING I",
+            "lat": 1.3272798867908,
+            "long": 103.723574309009,
+            "postal": 612140
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 289300
+                        }
+                    ],
+                    "unit": 74
+                },
+                {
+                    "area": 93,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 326600
+                        }
+                    ],
+                    "unit": 76
+                }
+            ],
+            "block_code": {
+                "block_num": "140D",
+                "contract": "C29B",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 5,
+                "day": 31,
+                "quarter": null,
+                "months_since": 24
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 13
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "CORPORATION DRIVE",
+            "town": "Jurong West",
+            "title": "YUNG HO SPRING I",
+            "lat": 1.32759320275873,
+            "long": 103.724631531896,
+            "postal": 614140
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 319000
+                        }
+                    ],
+                    "unit": 48
+                }
+            ],
+            "block_code": {
+                "block_num": "165A",
+                "contract": "C31",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 9,
+                "day": 30,
+                "quarter": null,
+                "months_since": 16
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 6,
+                "day": null,
+                "quarter": null,
+                "months_since": 1
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "YUNG KUANG ROAD",
+            "town": "Jurong West",
+            "title": "YUNG KUANG COURT",
+            "lat": 1.33072674480718,
+            "long": 103.721910058308,
+            "postal": 611165
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 317600
+                        }
+                    ],
+                    "unit": 34
+                }
+            ],
+            "block_code": {
+                "block_num": "165B",
+                "contract": "C31",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 9,
+                "day": 30,
+                "quarter": null,
+                "months_since": 16
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 6,
+                "day": null,
+                "quarter": null,
+                "months_since": 1
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "YUNG KUANG ROAD",
+            "town": "Jurong West",
+            "title": "YUNG KUANG COURT",
+            "lat": 1.3306457884819,
+            "long": 103.722321068084,
+            "postal": 612165
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 315100
+                        }
+                    ],
+                    "unit": 8
+                }
+            ],
+            "block_code": {
+                "block_num": "166A",
+                "contract": "C31",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 9,
+                "day": 30,
+                "quarter": null,
+                "months_since": 16
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 9,
+                "day": null,
+                "quarter": null,
+                "months_since": 4
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "YUNG KUANG ROAD",
+            "town": "Jurong West",
+            "title": "YUNG KUANG COURT",
+            "lat": 1.33128892389881,
+            "long": 103.721959879988,
+            "postal": 611166
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 323200
+                        }
+                    ],
+                    "unit": 24
+                },
+                {
+                    "area": 93,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 327400
+                        }
+                    ],
+                    "unit": 24
+                },
+                {
+                    "area": 93,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 309400
+                        }
+                    ],
+                    "unit": 26
+                }
+            ],
+            "block_code": {
+                "block_num": "166B",
+                "contract": "C31",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 9,
+                "day": 30,
+                "quarter": null,
+                "months_since": 16
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 8,
+                "day": null,
+                "quarter": null,
+                "months_since": 3
+            },
+            "quota_chinese": 3,
+            "quota_malay": 0,
+            "quota_other": 2,
+            "street": "YUNG KUANG ROAD",
+            "town": "Jurong West",
+            "title": "YUNG KUANG COURT",
+            "lat": 1.33124810076272,
+            "long": 103.722254173272,
+            "postal": 612166
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 327800
+                        }
+                    ],
+                    "unit": 117
+                }
+            ],
+            "block_code": {
+                "block_num": "197D",
+                "contract": "C19",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2015,
+                "month": 4,
+                "day": 1,
+                "quarter": null,
+                "months_since": -25
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BOON LAY DRIVE",
+            "town": "Jurong West",
+            "title": "BOON LAY FIELDS",
+            "lat": 1.34360788485589,
+            "long": 103.713869400316,
+            "postal": 644197
+        },
+        {
+            "apartments": [
+                {
+                    "area": 94,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 301600
+                        }
+                    ],
+                    "unit": 211
+                }
+            ],
+            "block_code": {
+                "block_num": "216B",
+                "contract": "C17",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": 14
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 0,
+            "street": "BOON LAY AVENUE",
+            "town": "Jurong West",
+            "title": "BOON LAY VIEW",
+            "lat": 1.35045090220437,
+            "long": 103.712258843807,
+            "postal": 642216
+        },
+        {
+            "apartments": [
+                {
+                    "area": 94,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 314000
+                        }
+                    ],
+                    "unit": 295
+                }
+            ],
+            "block_code": {
+                "block_num": "218C",
+                "contract": "C17",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": 14
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BOON LAY AVENUE",
+            "town": "Jurong West",
+            "title": "BOON LAY VIEW",
+            "lat": 1.35069413829075,
+            "long": 103.711460026009,
+            "postal": 643218
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 322300
+                        }
+                    ],
+                    "unit": 1131
+                },
+                {
+                    "area": 93,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 296900
+                        }
+                    ],
+                    "unit": 1141
+                }
+            ],
+            "block_code": {
+                "block_num": "561A",
+                "contract": "C16",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": 9
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 1,
+            "street": "JURONG WEST STREET 42",
+            "town": "Jurong West",
+            "title": "SPRING HAVEN @ JURONG",
+            "lat": 1.35429464192909,
+            "long": 103.719757228756,
+            "postal": 641561
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 320600
+                        }
+                    ],
+                    "unit": 1169
+                },
+                {
+                    "area": 93,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 305000
+                        }
+                    ],
+                    "unit": 1173
+                }
+            ],
+            "block_code": {
+                "block_num": "561B",
+                "contract": "C16",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": 9
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 1,
+            "street": "JURONG WEST STREET 42",
+            "town": "Jurong West",
+            "title": "SPRING HAVEN @ JURONG",
+            "lat": 1.35477181637431,
+            "long": 103.719673241285,
+            "postal": 642561
+        },
+        {
+            "apartments": [
+                {
+                    "area": 91,
+                    "floor": 1,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 83,
+                            "price": 286000
+                        }
+                    ],
+                    "unit": 286
+                }
+            ],
+            "block_code": {
+                "block_num": "632",
+                "contract": "C12",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2001,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": -186
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "JURONG WEST STREET 65",
+            "town": "Jurong West",
+            "title": "HDB-JURONG WEST",
+            "lat": 1.34395708826045,
+            "long": 103.69981557618,
+            "postal": 640632
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 358100
+                        }
+                    ],
+                    "unit": 5
+                },
+                {
+                    "area": 93,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 362600
+                        }
+                    ],
+                    "unit": 5
+                },
+                {
+                    "area": 93,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 379300
+                        }
+                    ],
+                    "unit": 5
+                },
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 347200
+                        }
+                    ],
+                    "unit": 7
+                },
+                {
+                    "area": 93,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 383500
+                        }
+                    ],
+                    "unit": 9
+                }
+            ],
+            "block_code": {
+                "block_num": "697A",
+                "contract": "C31",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 10,
+                "day": 1,
+                "quarter": null,
+                "months_since": 5
+            },
+            "pcd_date": null,
+            "quota_chinese": 5,
+            "quota_malay": 5,
+            "quota_other": 5,
+            "street": "JURONG WEST CENTRAL 3",
+            "town": "Jurong West",
+            "title": "JURONG WEST BLOSSOM",
+            "lat": 1.34103410334896,
+            "long": 103.708337218342,
+            "postal": 641697
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 363800
+                        }
+                    ],
+                    "unit": 21
+                },
+                {
+                    "area": 93,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 380100
+                        }
+                    ],
+                    "unit": 23
+                }
+            ],
+            "block_code": {
+                "block_num": "697B",
+                "contract": "C31",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 10,
+                "day": 1,
+                "quarter": null,
+                "months_since": 5
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "JURONG WEST CENTRAL 3",
+            "town": "Jurong West",
+            "title": "JURONG WEST BLOSSOM",
+            "lat": 1.34068066261581,
+            "long": 103.708441475943,
+            "postal": 642697
+        },
+        {
+            "apartments": [
+                {
+                    "area": 83,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 323100
+                        }
+                    ],
+                    "unit": 35
+                },
+                {
+                    "area": 83,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 339900
+                        }
+                    ],
+                    "unit": 35
+                }
+            ],
+            "block_code": {
+                "block_num": "697C",
+                "contract": "C31",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 10,
+                "day": 1,
+                "quarter": null,
+                "months_since": 5
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "JURONG WEST CENTRAL 3",
+            "town": "Jurong West",
+            "title": "JURONG WEST BLOSSOM",
+            "lat": 1.34047466181283,
+            "long": 103.708350028734,
+            "postal": 643697
+        },
+        {
+            "apartments": [
+                {
+                    "area": 83,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 330700
+                        }
+                    ],
+                    "unit": 61
+                },
+                {
+                    "area": 83,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 336100
+                        }
+                    ],
+                    "unit": 61
+                },
+                {
+                    "area": 93,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 354800
+                        }
+                    ],
+                    "unit": 67
+                },
+                {
+                    "area": 83,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 321400
+                        }
+                    ],
+                    "unit": 71
+                },
+                {
+                    "area": 83,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 330300
+                        }
+                    ],
+                    "unit": 71
+                }
+            ],
+            "block_code": {
+                "block_num": "698B",
+                "contract": "C31",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 10,
+                "day": 1,
+                "quarter": null,
+                "months_since": 5
+            },
+            "pcd_date": null,
+            "quota_chinese": 5,
+            "quota_malay": 5,
+            "quota_other": 5,
+            "street": "JURONG WEST CENTRAL 3",
+            "town": "Jurong West",
+            "title": "JURONG WEST BLOSSOM",
+            "lat": 1.34065581312925,
+            "long": 103.707499681404,
+            "postal": 642698
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 395300
+                        }
+                    ],
+                    "unit": 73
+                },
+                {
+                    "area": 93,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 386300
+                        }
+                    ],
+                    "unit": 75
+                },
+                {
+                    "area": 93,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 354800
+                        }
+                    ],
+                    "unit": 79
+                },
+                {
+                    "area": 93,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 382100
+                        }
+                    ],
+                    "unit": 79
+                },
+                {
+                    "area": 83,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 336100
+                        }
+                    ],
+                    "unit": 83
+                }
+            ],
+            "block_code": {
+                "block_num": "698C",
+                "contract": "C31",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 10,
+                "day": 1,
+                "quarter": null,
+                "months_since": 5
+            },
+            "pcd_date": null,
+            "quota_chinese": 5,
+            "quota_malay": 5,
+            "quota_other": 5,
+            "street": "JURONG WEST CENTRAL 3",
+            "town": "Jurong West",
+            "title": "JURONG WEST BLOSSOM",
+            "lat": 1.34027050035546,
+            "long": 103.707830601575,
+            "postal": 643698
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 11,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 71,
+                            "price": 296000
+                        }
+                    ],
+                    "unit": 329
+                }
+            ],
+            "block_code": {
+                "block_num": "979",
+                "contract": "C12",
+                "neighbourhood": "N9"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 1989,
+                "month": 9,
+                "day": 1,
+                "quarter": null,
+                "months_since": -332
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "JURONG WEST STREET 93",
+            "town": "Jurong West",
+            "title": "HDB-JURONG WEST",
+            "lat": 1.33973321578171,
+            "long": 103.694494312117,
+            "postal": 640979
+        }
+    ]
+}

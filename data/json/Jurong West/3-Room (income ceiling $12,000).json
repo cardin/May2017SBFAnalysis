@@ -1,0 +1,44 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 7,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 96,
+                            "price": 345000
+                        }
+                    ],
+                    "unit": 151
+                }
+            ],
+            "block_code": {
+                "block_num": "138D",
+                "contract": "PH1",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $12,000)",
+            "lcd_date": {
+                "year": 2014,
+                "month": 9,
+                "day": 4,
+                "quarter": null,
+                "months_since": -32
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "YUAN CHING ROAD",
+            "town": "Jurong West",
+            "title": "LAKE VISTA @ YUAN CHING",
+            "lat": 1.32846031138007,
+            "long": 103.723287795397,
+            "postal": 614138
+        }
+    ]
+}

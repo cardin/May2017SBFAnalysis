@@ -1,0 +1,392 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 40600
+                        },
+                        {
+                            "lease": 20,
+                            "price": 48100
+                        },
+                        {
+                            "lease": 25,
+                            "price": 54300
+                        },
+                        {
+                            "lease": 30,
+                            "price": 59400
+                        },
+                        {
+                            "lease": 35,
+                            "price": 63700
+                        },
+                        {
+                            "lease": 40,
+                            "price": 67300
+                        },
+                        {
+                            "lease": 45,
+                            "price": 70400
+                        },
+                        {
+                            "lease": 99,
+                            "price": 115500
+                        }
+                    ],
+                    "unit": 719
+                },
+                {
+                    "area": 47,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 39800
+                        },
+                        {
+                            "lease": 20,
+                            "price": 47200
+                        },
+                        {
+                            "lease": 25,
+                            "price": 53200
+                        },
+                        {
+                            "lease": 30,
+                            "price": 58200
+                        },
+                        {
+                            "lease": 35,
+                            "price": 62400
+                        },
+                        {
+                            "lease": 40,
+                            "price": 65900
+                        },
+                        {
+                            "lease": 45,
+                            "price": 69000
+                        },
+                        {
+                            "lease": 99,
+                            "price": 113100
+                        }
+                    ],
+                    "unit": 727
+                },
+                {
+                    "area": 47,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 39800
+                        },
+                        {
+                            "lease": 20,
+                            "price": 47200
+                        },
+                        {
+                            "lease": 25,
+                            "price": 53200
+                        },
+                        {
+                            "lease": 30,
+                            "price": 58200
+                        },
+                        {
+                            "lease": 35,
+                            "price": 62400
+                        },
+                        {
+                            "lease": 40,
+                            "price": 65900
+                        },
+                        {
+                            "lease": 45,
+                            "price": 69000
+                        },
+                        {
+                            "lease": 99,
+                            "price": 113100
+                        }
+                    ],
+                    "unit": 731
+                },
+                {
+                    "area": 47,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 40900
+                        },
+                        {
+                            "lease": 20,
+                            "price": 48500
+                        },
+                        {
+                            "lease": 25,
+                            "price": 54700
+                        },
+                        {
+                            "lease": 30,
+                            "price": 59800
+                        },
+                        {
+                            "lease": 35,
+                            "price": 64100
+                        },
+                        {
+                            "lease": 40,
+                            "price": 67800
+                        },
+                        {
+                            "lease": 45,
+                            "price": 70900
+                        },
+                        {
+                            "lease": 99,
+                            "price": 116400
+                        }
+                    ],
+                    "unit": 731
+                },
+                {
+                    "area": 47,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 41500
+                        },
+                        {
+                            "lease": 20,
+                            "price": 49200
+                        },
+                        {
+                            "lease": 25,
+                            "price": 55500
+                        },
+                        {
+                            "lease": 30,
+                            "price": 60700
+                        },
+                        {
+                            "lease": 35,
+                            "price": 65100
+                        },
+                        {
+                            "lease": 40,
+                            "price": 68800
+                        },
+                        {
+                            "lease": 45,
+                            "price": 71900
+                        },
+                        {
+                            "lease": 99,
+                            "price": 118100
+                        }
+                    ],
+                    "unit": 731
+                },
+                {
+                    "area": 47,
+                    "floor": 25,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 44200
+                        },
+                        {
+                            "lease": 20,
+                            "price": 52400
+                        },
+                        {
+                            "lease": 25,
+                            "price": 59100
+                        },
+                        {
+                            "lease": 30,
+                            "price": 64700
+                        },
+                        {
+                            "lease": 35,
+                            "price": 69400
+                        },
+                        {
+                            "lease": 40,
+                            "price": 73400
+                        },
+                        {
+                            "lease": 45,
+                            "price": 76700
+                        },
+                        {
+                            "lease": 99,
+                            "price": 126100
+                        }
+                    ],
+                    "unit": 731
+                }
+            ],
+            "block_code": {
+                "block_num": "182A",
+                "contract": "C26",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 9,
+                "day": 30,
+                "quarter": null,
+                "months_since": 28
+            },
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 16
+            },
+            "quota_chinese": 6,
+            "quota_malay": 6,
+            "quota_other": 6,
+            "street": "WOODLANDS STREET 13",
+            "town": "Woodlands",
+            "title": "MARSILING GREENVIEW",
+            "lat": 1.43569654168683,
+            "long": 103.775515756855,
+            "postal": 731182
+        },
+        {
+            "apartments": [
+                {
+                    "area": 38,
+                    "floor": 18,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 34300
+                        },
+                        {
+                            "lease": 20,
+                            "price": 40700
+                        },
+                        {
+                            "lease": 25,
+                            "price": 46000
+                        },
+                        {
+                            "lease": 30,
+                            "price": 50300
+                        },
+                        {
+                            "lease": 35,
+                            "price": 54000
+                        },
+                        {
+                            "lease": 40,
+                            "price": 57100
+                        },
+                        {
+                            "lease": 45,
+                            "price": 59700
+                        },
+                        {
+                            "lease": 99,
+                            "price": 98300
+                        }
+                    ],
+                    "unit": 667
+                },
+                {
+                    "area": 38,
+                    "floor": 21,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 35100
+                        },
+                        {
+                            "lease": 20,
+                            "price": 41700
+                        },
+                        {
+                            "lease": 25,
+                            "price": 47100
+                        },
+                        {
+                            "lease": 30,
+                            "price": 51500
+                        },
+                        {
+                            "lease": 35,
+                            "price": 55300
+                        },
+                        {
+                            "lease": 40,
+                            "price": 58500
+                        },
+                        {
+                            "lease": 45,
+                            "price": 61200
+                        },
+                        {
+                            "lease": 99,
+                            "price": 100700
+                        }
+                    ],
+                    "unit": 667
+                }
+            ],
+            "block_code": {
+                "block_num": "185B",
+                "contract": "C26",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 9,
+                "day": 30,
+                "quarter": null,
+                "months_since": 28
+            },
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 16
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "WOODLANDS STREET 13",
+            "town": "Woodlands",
+            "title": "MARSILING GREENVIEW",
+            "lat": 1.435856503832,
+            "long": 103.776294109996,
+            "postal": 732185
+        }
+    ]
+}

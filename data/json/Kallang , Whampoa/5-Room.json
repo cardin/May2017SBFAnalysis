@@ -1,0 +1,160 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 116,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 701000
+                        }
+                    ],
+                    "unit": 518
+                },
+                {
+                    "area": 116,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 734900
+                        }
+                    ],
+                    "unit": 518
+                },
+                {
+                    "area": 116,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 746800
+                        }
+                    ],
+                    "unit": 518
+                }
+            ],
+            "block_code": {
+                "block_num": "8A",
+                "contract": "C23B",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": 2
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 3,
+            "street": "UPPER BOON KENG ROAD",
+            "town": "Kallang / Whampoa",
+            "title": "KALLANG TRIVISTA",
+            "lat": 1.31292297822303,
+            "long": 103.869749922284,
+            "postal": 381008
+        },
+        {
+            "apartments": [
+                {
+                    "area": 116,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 711900
+                        }
+                    ],
+                    "unit": 520
+                }
+            ],
+            "block_code": {
+                "block_num": "8B",
+                "contract": "C23B",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": 2
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "UPPER BOON KENG ROAD",
+            "town": "Kallang / Whampoa",
+            "title": "KALLANG TRIVISTA",
+            "lat": 1.31245374000854,
+            "long": 103.870051873232,
+            "postal": 382008
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 676300
+                        }
+                    ],
+                    "unit": 546
+                },
+                {
+                    "area": 113,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 681100
+                        }
+                    ],
+                    "unit": 546
+                }
+            ],
+            "block_code": {
+                "block_num": "8C",
+                "contract": "C23B",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": 2
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "UPPER BOON KENG ROAD",
+            "town": "Kallang / Whampoa",
+            "title": "KALLANG TRIVISTA",
+            "lat": 1.31316722452963,
+            "long": 103.87082333372,
+            "postal": 383008
+        }
+    ]
+}

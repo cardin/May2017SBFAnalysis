@@ -1,0 +1,322 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 36,
+                    "floor": 15,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 49800
+                        },
+                        {
+                            "lease": 20,
+                            "price": 58200
+                        },
+                        {
+                            "lease": 25,
+                            "price": 65100
+                        },
+                        {
+                            "lease": 30,
+                            "price": 70700
+                        },
+                        {
+                            "lease": 35,
+                            "price": 75500
+                        },
+                        {
+                            "lease": 40,
+                            "price": 79600
+                        },
+                        {
+                            "lease": 45,
+                            "price": 83000
+                        }
+                    ],
+                    "unit": 318
+                }
+            ],
+            "block_code": {
+                "block_num": "265A",
+                "contract": "C19",
+                "neighbourhood": "S2"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "PUNGGOL WAY",
+            "town": "Punggol",
+            "title": "PUNGGOL EMERALD",
+            "lat": 1.40566686857543,
+            "long": 103.898715616217,
+            "postal": 821265
+        },
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 6,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 61800
+                        },
+                        {
+                            "lease": 20,
+                            "price": 71600
+                        },
+                        {
+                            "lease": 25,
+                            "price": 79800
+                        },
+                        {
+                            "lease": 30,
+                            "price": 86400
+                        },
+                        {
+                            "lease": 35,
+                            "price": 92100
+                        },
+                        {
+                            "lease": 40,
+                            "price": 96900
+                        },
+                        {
+                            "lease": 45,
+                            "price": 100900
+                        }
+                    ],
+                    "unit": 792
+                },
+                {
+                    "area": 37,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 51200
+                        },
+                        {
+                            "lease": 20,
+                            "price": 59100
+                        },
+                        {
+                            "lease": 25,
+                            "price": 65600
+                        },
+                        {
+                            "lease": 30,
+                            "price": 71000
+                        },
+                        {
+                            "lease": 35,
+                            "price": 75500
+                        },
+                        {
+                            "lease": 40,
+                            "price": 79400
+                        },
+                        {
+                            "lease": 45,
+                            "price": 82600
+                        }
+                    ],
+                    "unit": 794
+                },
+                {
+                    "area": 47,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 64500
+                        },
+                        {
+                            "lease": 20,
+                            "price": 74800
+                        },
+                        {
+                            "lease": 25,
+                            "price": 83400
+                        },
+                        {
+                            "lease": 30,
+                            "price": 90400
+                        },
+                        {
+                            "lease": 35,
+                            "price": 96400
+                        },
+                        {
+                            "lease": 40,
+                            "price": 101400
+                        },
+                        {
+                            "lease": 45,
+                            "price": 105700
+                        }
+                    ],
+                    "unit": 798
+                }
+            ],
+            "block_code": {
+                "block_num": "677A",
+                "contract": "C40",
+                "neighbourhood": "S6"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "PUNGGOL DRIVE",
+            "town": "Punggol",
+            "title": "WATERWAY BROOKS",
+            "lat": 1.40529572889276,
+            "long": 103.909203488028,
+            "postal": 821677
+        },
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 68200
+                        },
+                        {
+                            "lease": 20,
+                            "price": 79400
+                        },
+                        {
+                            "lease": 25,
+                            "price": 88500
+                        },
+                        {
+                            "lease": 30,
+                            "price": 96100
+                        },
+                        {
+                            "lease": 35,
+                            "price": 102400
+                        },
+                        {
+                            "lease": 40,
+                            "price": 107900
+                        },
+                        {
+                            "lease": 45,
+                            "price": 112500
+                        }
+                    ],
+                    "unit": 774
+                },
+                {
+                    "area": 47,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 64700
+                        },
+                        {
+                            "lease": 20,
+                            "price": 75200
+                        },
+                        {
+                            "lease": 25,
+                            "price": 83800
+                        },
+                        {
+                            "lease": 30,
+                            "price": 90800
+                        },
+                        {
+                            "lease": 35,
+                            "price": 96800
+                        },
+                        {
+                            "lease": 40,
+                            "price": 101900
+                        },
+                        {
+                            "lease": 45,
+                            "price": 106200
+                        }
+                    ],
+                    "unit": 784
+                },
+                {
+                    "area": 47,
+                    "floor": 13,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 67400
+                        },
+                        {
+                            "lease": 20,
+                            "price": 78400
+                        },
+                        {
+                            "lease": 25,
+                            "price": 87400
+                        },
+                        {
+                            "lease": 30,
+                            "price": 94900
+                        },
+                        {
+                            "lease": 35,
+                            "price": 101200
+                        },
+                        {
+                            "lease": 40,
+                            "price": 106500
+                        },
+                        {
+                            "lease": 45,
+                            "price": 111000
+                        }
+                    ],
+                    "unit": 786
+                }
+            ],
+            "block_code": {
+                "block_num": "677B",
+                "contract": "C40",
+                "neighbourhood": "S6"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "PUNGGOL DRIVE",
+            "town": "Punggol",
+            "title": "WATERWAY BROOKS",
+            "lat": 1.40535711185685,
+            "long": 103.909518298032,
+            "postal": 822677
+        }
+    ]
+}

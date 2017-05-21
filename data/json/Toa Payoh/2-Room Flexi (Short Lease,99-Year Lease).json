@@ -1,0 +1,152 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 43,
+                    "floor": 9,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 71700
+                        },
+                        {
+                            "lease": 20,
+                            "price": 86000
+                        },
+                        {
+                            "lease": 25,
+                            "price": 97800
+                        },
+                        {
+                            "lease": 30,
+                            "price": 107500
+                        },
+                        {
+                            "lease": 35,
+                            "price": 115700
+                        },
+                        {
+                            "lease": 40,
+                            "price": 122700
+                        },
+                        {
+                            "lease": 45,
+                            "price": 128600
+                        },
+                        {
+                            "lease": 65,
+                            "price": 182000
+                        }
+                    ],
+                    "unit": 24
+                }
+            ],
+            "block_code": {
+                "block_num": "52",
+                "contract": "C2",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": {
+                "year": 1983,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": -407
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "LORONG 6 TOA PAYOH",
+            "town": "Toa Payoh",
+            "title": "EAST PAYOH PALM",
+            "lat": 1.33824914332835,
+            "long": 103.852481978622,
+            "postal": 310052
+        },
+        {
+            "apartments": [
+                {
+                    "area": 43,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 49,
+                            "price": 183000
+                        }
+                    ],
+                    "unit": 178
+                }
+            ],
+            "block_code": {
+                "block_num": "55",
+                "contract": "C6",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": {
+                "year": 1967,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": -599
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "LORONG 5 TOA PAYOH",
+            "town": "Toa Payoh",
+            "title": "TOA PAYOH VISTA",
+            "lat": 1.33735977355324,
+            "long": 103.851197793444,
+            "postal": 310055
+        },
+        {
+            "apartments": [
+                {
+                    "area": 45,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 49,
+                            "price": 180000
+                        }
+                    ],
+                    "unit": 51
+                }
+            ],
+            "block_code": {
+                "block_num": "58",
+                "contract": "C6",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": {
+                "year": 1967,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": -599
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "LORONG 4 TOA PAYOH",
+            "town": "Toa Payoh",
+            "title": "TOA PAYOH VISTA",
+            "lat": 1.33674625537368,
+            "long": 103.850524640565,
+            "postal": 310058
+        }
+    ]
+}

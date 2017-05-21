@@ -1,0 +1,204 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 121,
+                    "floor": 9,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 75,
+                            "price": 423000
+                        }
+                    ],
+                    "unit": 521
+                }
+            ],
+            "block_code": {
+                "block_num": "487",
+                "contract": "C9B",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 1992,
+                "month": 11,
+                "day": 28,
+                "quarter": null,
+                "months_since": -294
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "PASIR RIS DRIVE 4",
+            "town": "Pasir Ris",
+            "title": "HDB-PASIR RIS",
+            "lat": 1.37494128665346,
+            "long": 103.96059003892,
+            "postal": 510487
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 13,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 444700
+                        }
+                    ],
+                    "unit": 627
+                }
+            ],
+            "block_code": {
+                "block_num": "524A",
+                "contract": "C19",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2015,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": -22
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "PASIR RIS STREET 51",
+            "town": "Pasir Ris",
+            "title": "COSTA RIS",
+            "lat": 1.37127969347367,
+            "long": 103.94771493702,
+            "postal": 511524
+        },
+        {
+            "apartments": [
+                {
+                    "area": 121,
+                    "floor": 5,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 77,
+                            "price": 393000
+                        }
+                    ],
+                    "unit": 390
+                }
+            ],
+            "block_code": {
+                "block_num": "631",
+                "contract": "C6",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 1995,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": -262
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "PASIR RIS DRIVE 3",
+            "town": "Pasir Ris",
+            "title": "HDB-PASIR RIS",
+            "lat": 1.37889015464229,
+            "long": 103.940140226886,
+            "postal": 510631
+        },
+        {
+            "apartments": [
+                {
+                    "area": 127,
+                    "floor": 4,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 78,
+                            "price": 398000
+                        }
+                    ],
+                    "unit": 87
+                }
+            ],
+            "block_code": {
+                "block_num": "719",
+                "contract": "C3",
+                "neighbourhood": "N7"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 1996,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": -250
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "PASIR RIS STREET 72",
+            "town": "Pasir Ris",
+            "title": "HDB-PASIR RIS",
+            "lat": 1.38224267910056,
+            "long": 103.936646781252,
+            "postal": 510719
+        },
+        {
+            "apartments": [
+                {
+                    "area": 126,
+                    "floor": 4,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 78,
+                            "price": 403000
+                        }
+                    ],
+                    "unit": 13
+                }
+            ],
+            "block_code": {
+                "block_num": "739",
+                "contract": "C5",
+                "neighbourhood": "N7"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 1996,
+                "month": 9,
+                "day": 1,
+                "quarter": null,
+                "months_since": -248
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "PASIR RIS DRIVE 10",
+            "town": "Pasir Ris",
+            "title": "HDB-PASIR RIS",
+            "lat": 1.37850572542889,
+            "long": 103.936796194368,
+            "postal": 510739
+        }
+    ]
+}

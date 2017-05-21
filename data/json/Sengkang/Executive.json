@@ -1,0 +1,44 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 130,
+                    "floor": 3,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 85,
+                            "price": 435000
+                        }
+                    ],
+                    "unit": 11
+                }
+            ],
+            "block_code": {
+                "block_num": "310B",
+                "contract": "C8",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "Executive",
+            "lcd_date": {
+                "year": 2003,
+                "month": 1,
+                "day": 1,
+                "quarter": null,
+                "months_since": -172
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 1,
+            "street": "ANCHORVALE ROAD",
+            "town": "Sengkang",
+            "title": "ANCHORVALE VISTA",
+            "lat": 1.39090460679767,
+            "long": 103.884682862492,
+            "postal": 542310
+        }
+    ]
+}

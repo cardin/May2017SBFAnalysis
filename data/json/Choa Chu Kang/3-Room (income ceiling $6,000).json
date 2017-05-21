@@ -1,0 +1,96 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 203100
+                        }
+                    ],
+                    "unit": 353
+                },
+                {
+                    "area": 68,
+                    "floor": 21,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 216800
+                        }
+                    ],
+                    "unit": 355
+                }
+            ],
+            "block_code": {
+                "block_num": "166A",
+                "contract": "C12",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 2015,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": -27
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "TECK WHYE CRESCENT",
+            "town": "Choa Chu Kang",
+            "title": "TECK WHYE CREST",
+            "lat": 1.38329360087489,
+            "long": 103.753025884378,
+            "postal": 681166
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 206500
+                        }
+                    ],
+                    "unit": 371
+                }
+            ],
+            "block_code": {
+                "block_num": "166B",
+                "contract": "C12",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 2015,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": -27
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 1,
+            "street": "TECK WHYE CRESCENT",
+            "town": "Choa Chu Kang",
+            "title": "TECK WHYE CREST",
+            "lat": 1.38315989308267,
+            "long": 103.753400918803,
+            "postal": 682166
+        }
+    ]
+}

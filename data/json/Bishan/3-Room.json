@@ -1,0 +1,84 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 2,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 55,
+                            "price": 200000
+                        }
+                    ],
+                    "unit": 210
+                }
+            ],
+            "block_code": {
+                "block_num": "22",
+                "contract": "C2",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 1973,
+                "month": 10,
+                "day": 1,
+                "quarter": null,
+                "months_since": -523
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "SIN MING ROAD",
+            "town": "Bishan",
+            "title": "HDB-SIN MING IND EST",
+            "lat": 1.35728444108241,
+            "long": 103.839396679952,
+            "postal": 570022
+        },
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 12,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 67,
+                            "price": 307800
+                        }
+                    ],
+                    "unit": 187
+                }
+            ],
+            "block_code": {
+                "block_num": "309",
+                "contract": "C1",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 1984,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": -390
+            },
+            "pcd_date": null,
+            "quota_chinese": 0,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "SHUNFU ROAD",
+            "town": "Bishan",
+            "title": "SHUNFU GARDENS",
+            "lat": 1.35091296258287,
+            "long": 103.837585157698,
+            "postal": 570309
+        }
+    ]
+}

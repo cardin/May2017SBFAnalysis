@@ -1,0 +1,152 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 49000
+                        },
+                        {
+                            "lease": 20,
+                            "price": 58200
+                        },
+                        {
+                            "lease": 25,
+                            "price": 65800
+                        },
+                        {
+                            "lease": 30,
+                            "price": 72000
+                        },
+                        {
+                            "lease": 35,
+                            "price": 77200
+                        },
+                        {
+                            "lease": 40,
+                            "price": 81700
+                        },
+                        {
+                            "lease": 45,
+                            "price": 85500
+                        },
+                        {
+                            "lease": 99,
+                            "price": 140700
+                        }
+                    ],
+                    "unit": 904
+                }
+            ],
+            "block_code": {
+                "block_num": "327A",
+                "contract": "C32",
+                "neighbourhood": "S3"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 10,
+                "day": 31,
+                "quarter": null,
+                "months_since": 17
+            },
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": null,
+                "quarter": null,
+                "months_since": 2
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "SUMANG WALK",
+            "town": "Punggol",
+            "title": "PUNGGOL VUE",
+            "lat": 1.41243613191503,
+            "long": 103.899133553079,
+            "postal": 821327
+        },
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 48000
+                        },
+                        {
+                            "lease": 20,
+                            "price": 56900
+                        },
+                        {
+                            "lease": 25,
+                            "price": 64300
+                        },
+                        {
+                            "lease": 30,
+                            "price": 70400
+                        },
+                        {
+                            "lease": 35,
+                            "price": 75500
+                        },
+                        {
+                            "lease": 40,
+                            "price": 79900
+                        },
+                        {
+                            "lease": 45,
+                            "price": 83600
+                        },
+                        {
+                            "lease": 99,
+                            "price": 137500
+                        }
+                    ],
+                    "unit": 916
+                }
+            ],
+            "block_code": {
+                "block_num": "327B",
+                "contract": "C32",
+                "neighbourhood": "S3"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 10,
+                "day": 31,
+                "quarter": null,
+                "months_since": 17
+            },
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 9,
+                "day": null,
+                "quarter": null,
+                "months_since": 4
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "SUMANG WALK",
+            "town": "Punggol",
+            "title": "PUNGGOL VUE",
+            "lat": 1.41225569065018,
+            "long": 103.899575835016,
+            "postal": 822327
+        }
+    ]
+}

@@ -1,0 +1,762 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 339500
+                        }
+                    ],
+                    "unit": 113
+                },
+                {
+                    "area": 68,
+                    "floor": 33,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 361800
+                        }
+                    ],
+                    "unit": 113
+                },
+                {
+                    "area": 68,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 337800
+                        }
+                    ],
+                    "unit": 115
+                },
+                {
+                    "area": 68,
+                    "floor": 21,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 346500
+                        }
+                    ],
+                    "unit": 115
+                },
+                {
+                    "area": 68,
+                    "floor": 32,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 360800
+                        }
+                    ],
+                    "unit": 115
+                },
+                {
+                    "area": 68,
+                    "floor": 35,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 360500
+                        }
+                    ],
+                    "unit": 115
+                }
+            ],
+            "block_code": {
+                "block_num": "208A",
+                "contract": "C2",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 10,
+                "day": 1,
+                "quarter": null,
+                "months_since": 5
+            },
+            "pcd_date": null,
+            "quota_chinese": 5,
+            "quota_malay": 6,
+            "quota_other": 6,
+            "street": "CLEMENTI AVENUE 6",
+            "town": "Clementi",
+            "title": "CLEMENTI GATEWAY",
+            "lat": 1.32200240528559,
+            "long": 103.762448319374,
+            "postal": 121208
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 328500
+                        }
+                    ],
+                    "unit": 125
+                },
+                {
+                    "area": 68,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 338500
+                        }
+                    ],
+                    "unit": 127
+                },
+                {
+                    "area": 68,
+                    "floor": 18,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 343500
+                        }
+                    ],
+                    "unit": 127
+                },
+                {
+                    "area": 68,
+                    "floor": 28,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 353500
+                        }
+                    ],
+                    "unit": 127
+                }
+            ],
+            "block_code": {
+                "block_num": "208B",
+                "contract": "C2",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 10,
+                "day": 1,
+                "quarter": null,
+                "months_since": 5
+            },
+            "pcd_date": null,
+            "quota_chinese": 4,
+            "quota_malay": 4,
+            "quota_other": 4,
+            "street": "CLEMENTI AVENUE 6",
+            "town": "Clementi",
+            "title": "CLEMENTI GATEWAY",
+            "lat": 1.32262137935124,
+            "long": 103.762449443017,
+            "postal": 122208
+        },
+        {
+            "apartments": [
+                {
+                    "area": 69,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 354200
+                        }
+                    ],
+                    "unit": 161
+                },
+                {
+                    "area": 69,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 358400
+                        }
+                    ],
+                    "unit": 161
+                },
+                {
+                    "area": 69,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 359200
+                        }
+                    ],
+                    "unit": 161
+                },
+                {
+                    "area": 69,
+                    "floor": 20,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 368400
+                        }
+                    ],
+                    "unit": 161
+                },
+                {
+                    "area": 69,
+                    "floor": 21,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 369400
+                        }
+                    ],
+                    "unit": 161
+                }
+            ],
+            "block_code": {
+                "block_num": "312A",
+                "contract": "C18B",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 8,
+                "day": 1,
+                "quarter": null,
+                "months_since": 3
+            },
+            "pcd_date": null,
+            "quota_chinese": 4,
+            "quota_malay": 5,
+            "quota_other": 5,
+            "street": "CLEMENTI AVENUE 4",
+            "town": "Clementi",
+            "title": "CLEMENTI RIDGES",
+            "lat": 1.31908894426182,
+            "long": 103.764441220265,
+            "postal": 121312
+        },
+        {
+            "apartments": [
+                {
+                    "area": 69,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 360000
+                        }
+                    ],
+                    "unit": 173
+                },
+                {
+                    "area": 69,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 366500
+                        }
+                    ],
+                    "unit": 179
+                },
+                {
+                    "area": 69,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 369500
+                        }
+                    ],
+                    "unit": 179
+                },
+                {
+                    "area": 69,
+                    "floor": 38,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 392500
+                        }
+                    ],
+                    "unit": 179
+                }
+            ],
+            "block_code": {
+                "block_num": "312B",
+                "contract": "C18B",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 8,
+                "day": 1,
+                "quarter": null,
+                "months_since": 3
+            },
+            "pcd_date": null,
+            "quota_chinese": 4,
+            "quota_malay": 4,
+            "quota_other": 4,
+            "street": "CLEMENTI AVENUE 4",
+            "town": "Clementi",
+            "title": "CLEMENTI RIDGES",
+            "lat": 1.31967296994218,
+            "long": 103.764466646222,
+            "postal": 122312
+        },
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 4,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 60,
+                            "price": 239000
+                        }
+                    ],
+                    "unit": 47
+                }
+            ],
+            "block_code": {
+                "block_num": "351",
+                "contract": "C11",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 1978,
+                "month": 9,
+                "day": 1,
+                "quarter": null,
+                "months_since": -464
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "CLEMENTI AVENUE 2",
+            "town": "Clementi",
+            "title": "HDB-CLEMENTI",
+            "lat": 1.31535006995346,
+            "long": 103.770861377512,
+            "postal": 120351
+        },
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 4,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 60,
+                            "price": 239000
+                        }
+                    ],
+                    "unit": 459
+                }
+            ],
+            "block_code": {
+                "block_num": "364",
+                "contract": "C10",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 1978,
+                "month": 1,
+                "day": 1,
+                "quarter": null,
+                "months_since": -472
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "CLEMENTI AVENUE 2",
+            "town": "Clementi",
+            "title": "HDB-CLEMENTI",
+            "lat": 1.31240641918891,
+            "long": 103.768752275192,
+            "postal": 120364
+        },
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 4,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 61,
+                            "price": 255500
+                        }
+                    ],
+                    "unit": 368
+                }
+            ],
+            "block_code": {
+                "block_num": "430",
+                "contract": "C2E",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 1979,
+                "month": 10,
+                "day": 1,
+                "quarter": null,
+                "months_since": -451
+            },
+            "pcd_date": null,
+            "quota_chinese": 0,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "CLEMENTI AVENUE 3",
+            "town": "Clementi",
+            "title": "HDB-CLEMENTI",
+            "lat": 1.31329277085707,
+            "long": 103.762553042236,
+            "postal": 120430
+        },
+        {
+            "apartments": [
+                {
+                    "area": 82,
+                    "floor": 4,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 61,
+                            "price": 336300
+                        }
+                    ],
+                    "unit": 296
+                }
+            ],
+            "block_code": {
+                "block_num": "431",
+                "contract": "C2E",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 1979,
+                "month": 10,
+                "day": 1,
+                "quarter": null,
+                "months_since": -451
+            },
+            "pcd_date": null,
+            "quota_chinese": 0,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "CLEMENTI AVENUE 3",
+            "town": "Clementi",
+            "title": "HDB-CLEMENTI",
+            "lat": 1.313774387248,
+            "long": 103.762535189721,
+            "postal": 120431
+        },
+        {
+            "apartments": [
+                {
+                    "area": 69,
+                    "floor": 35,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 422300
+                        }
+                    ],
+                    "unit": 22
+                }
+            ],
+            "block_code": {
+                "block_num": "440B",
+                "contract": "C10",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 7,
+                "day": 31,
+                "quarter": null,
+                "months_since": 14
+            },
+            "flat_type": "3-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 9,
+                "day": null,
+                "quarter": null,
+                "months_since": 4
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "CLEMENTI AVENUE 3",
+            "town": "Clementi",
+            "title": "CLEMENTI CASCADIA",
+            "lat": 1.31623681443322,
+            "long": 103.763565191157,
+            "postal": 122440
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 3,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 62,
+                            "price": 294000
+                        }
+                    ],
+                    "unit": 115
+                }
+            ],
+            "block_code": {
+                "block_num": "442",
+                "contract": "C1",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 1980,
+                "month": 4,
+                "day": 1,
+                "quarter": null,
+                "months_since": -445
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "CLEMENTI AVENUE 3",
+            "town": "Clementi",
+            "title": "HDB-CLEMENTI",
+            "lat": 1.31412254184758,
+            "long": 103.764518594142,
+            "postal": 120442
+        },
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 9,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 62,
+                            "price": 248000
+                        }
+                    ],
+                    "unit": 421
+                },
+                {
+                    "area": 67,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 62,
+                            "price": 248000
+                        }
+                    ],
+                    "unit": 441
+                }
+            ],
+            "block_code": {
+                "block_num": "704",
+                "contract": "C1A",
+                "neighbourhood": "N7"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 1980,
+                "month": 9,
+                "day": 1,
+                "quarter": null,
+                "months_since": -440
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "WEST COAST ROAD",
+            "town": "Clementi",
+            "title": "HDB-CLEMENTI",
+            "lat": 1.30634643294356,
+            "long": 103.760539038621,
+            "postal": 120704
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 9,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 62,
+                            "price": 234000
+                        }
+                    ],
+                    "unit": 365
+                }
+            ],
+            "block_code": {
+                "block_num": "706",
+                "contract": "C7",
+                "neighbourhood": "N7"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 1980,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": -442
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "CLEMENTI WEST STREET 2",
+            "town": "Clementi",
+            "title": "HDB-CLEMENTI",
+            "lat": 1.30676376130171,
+            "long": 103.762356424351,
+            "postal": 120706
+        },
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 2,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 67,
+                            "price": 199000
+                        }
+                    ],
+                    "unit": 113
+                }
+            ],
+            "block_code": {
+                "block_num": "713",
+                "contract": "C2",
+                "neighbourhood": "N7"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 1985,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": -382
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "CLEMENTI WEST STREET 2",
+            "town": "Clementi",
+            "title": "HDB-CLEMENTI",
+            "lat": 1.30412914869337,
+            "long": 103.762207052776,
+            "postal": 120713
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 67,
+                            "price": 194000
+                        }
+                    ],
+                    "unit": 212
+                }
+            ],
+            "block_code": {
+                "block_num": "725",
+                "contract": "C5",
+                "neighbourhood": "N7"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 1985,
+                "month": 10,
+                "day": 1,
+                "quarter": null,
+                "months_since": -379
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 1,
+            "street": "CLEMENTI WEST STREET 2",
+            "town": "Clementi",
+            "title": "NIL",
+            "lat": 1.30350620241082,
+            "long": 103.76377401929,
+            "postal": 120725
+        }
+    ]
+}

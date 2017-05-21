@@ -1,0 +1,98 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 37,
+                    "floor": 13,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 64900
+                        },
+                        {
+                            "lease": 20,
+                            "price": 75900
+                        },
+                        {
+                            "lease": 25,
+                            "price": 85000
+                        },
+                        {
+                            "lease": 30,
+                            "price": 92500
+                        },
+                        {
+                            "lease": 35,
+                            "price": 98900
+                        },
+                        {
+                            "lease": 40,
+                            "price": 104200
+                        },
+                        {
+                            "lease": 45,
+                            "price": 108800
+                        }
+                    ],
+                    "unit": 263
+                },
+                {
+                    "area": 47,
+                    "floor": 5,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 77900
+                        },
+                        {
+                            "lease": 20,
+                            "price": 91500
+                        },
+                        {
+                            "lease": 25,
+                            "price": 102800
+                        },
+                        {
+                            "lease": 30,
+                            "price": 112000
+                        },
+                        {
+                            "lease": 35,
+                            "price": 119900
+                        },
+                        {
+                            "lease": 40,
+                            "price": 126500
+                        },
+                        {
+                            "lease": 45,
+                            "price": 132100
+                        }
+                    ],
+                    "unit": 265
+                }
+            ],
+            "block_code": {
+                "block_num": "152B",
+                "contract": "C32",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 0,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "BISHAN STREET 11",
+            "town": "Bishan",
+            "title": "GOLDEN JASMINE",
+            "lat": 1.34531554483147,
+            "long": 103.853985123244,
+            "postal": 572152
+        }
+    ]
+}

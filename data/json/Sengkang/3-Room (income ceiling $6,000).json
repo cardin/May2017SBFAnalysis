@@ -1,0 +1,366 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 69,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 189300
+                        }
+                    ],
+                    "unit": 184
+                }
+            ],
+            "block_code": {
+                "block_num": "417A",
+                "contract": "C19",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 6,
+                "day": 30,
+                "quarter": null,
+                "months_since": 13
+            },
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 6,
+                "day": null,
+                "quarter": null,
+                "months_since": 1
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "FERNVALE LINK",
+            "town": "Sengkang",
+            "title": "FERNVALE RIVERWALK",
+            "lat": 1.39157738825823,
+            "long": 103.880681615474,
+            "postal": 791417
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 21,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 196300
+                        }
+                    ],
+                    "unit": 122
+                },
+                {
+                    "area": 68,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 190900
+                        }
+                    ],
+                    "unit": 126
+                }
+            ],
+            "block_code": {
+                "block_num": "418A",
+                "contract": "C19",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 2018,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": 14
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "FERNVALE LINK",
+            "town": "Sengkang",
+            "title": "FERNVALE RIVERWALK",
+            "lat": 1.39100681228699,
+            "long": 103.879606153016,
+            "postal": 791418
+        },
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 9,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 96,
+                            "price": 192900
+                        }
+                    ],
+                    "unit": 331
+                }
+            ],
+            "block_code": {
+                "block_num": "450A",
+                "contract": "C10",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 2014,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": -34
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "SENGKANG WEST WAY",
+            "town": "Sengkang",
+            "title": "FERNVALE CREST",
+            "lat": 1.3944681484158,
+            "long": 103.873506723327,
+            "postal": 791450
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 190600
+                        }
+                    ],
+                    "unit": 39
+                }
+            ],
+            "block_code": {
+                "block_num": "455A",
+                "contract": "C30",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 8,
+                "day": 31,
+                "quarter": null,
+                "months_since": 39
+            },
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 28
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "SENGKANG WEST AVENUE",
+            "town": "Sengkang",
+            "title": "FERNVALE WOODS",
+            "lat": 1.39157665293204,
+            "long": 103.870444622949,
+            "postal": 791455
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 191000
+                        }
+                    ],
+                    "unit": 320
+                }
+            ],
+            "block_code": {
+                "block_num": "456A",
+                "contract": "C30",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 8,
+                "day": 31,
+                "quarter": null,
+                "months_since": 39
+            },
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 28
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "SENGKANG WEST ROAD",
+            "town": "Sengkang",
+            "title": "FERNVALE WOODS",
+            "lat": 1.39165830772867,
+            "long": 103.869883932345,
+            "postal": 791456
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 26,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 193500
+                        }
+                    ],
+                    "unit": 511
+                }
+            ],
+            "block_code": {
+                "block_num": "467A",
+                "contract": "C24",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 2016,
+                "month": 8,
+                "day": 1,
+                "quarter": null,
+                "months_since": -9
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "FERNVALE LINK",
+            "town": "Sengkang",
+            "title": "FERNVALE LEA",
+            "lat": 1.39798359035229,
+            "long": 103.8784589917,
+            "postal": 791467
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 22,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 192500
+                        }
+                    ],
+                    "unit": 523
+                }
+            ],
+            "block_code": {
+                "block_num": "467B",
+                "contract": "C24",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 2016,
+                "month": 8,
+                "day": 1,
+                "quarter": null,
+                "months_since": -9
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "FERNVALE LINK",
+            "town": "Sengkang",
+            "title": "FERNVALE LEA",
+            "lat": 1.39807105476617,
+            "long": 103.877933381661,
+            "postal": 792467
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 187200
+                        }
+                    ],
+                    "unit": 440
+                },
+                {
+                    "area": 68,
+                    "floor": 21,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 191200
+                        }
+                    ],
+                    "unit": 442
+                }
+            ],
+            "block_code": {
+                "block_num": "470B",
+                "contract": "C26",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 2016,
+                "month": 9,
+                "day": 1,
+                "quarter": null,
+                "months_since": -8
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "FERNVALE LINK",
+            "town": "Sengkang",
+            "title": "FERNVALE RIVERGROVE",
+            "lat": 1.3968711786565,
+            "long": 103.879859508141,
+            "postal": 792470
+        }
+    ]
+}

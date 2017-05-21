@@ -1,0 +1,544 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 73,
+                    "floor": 3,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 67,
+                            "price": 244000
+                        }
+                    ],
+                    "unit": 42
+                }
+            ],
+            "block_code": {
+                "block_num": "219",
+                "contract": "C16",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 1985,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": -387
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "TAMPINES STREET 24",
+            "town": "Tampines",
+            "title": "HDB-TAMPINES",
+            "lat": 1.35479327366298,
+            "long": 103.952613528834,
+            "postal": 520219
+        },
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 96,
+                            "price": 215400
+                        }
+                    ],
+                    "unit": 206
+                }
+            ],
+            "block_code": {
+                "block_num": "499A",
+                "contract": "C26",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 2014,
+                "month": 3,
+                "day": 1,
+                "quarter": null,
+                "months_since": -38
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 0,
+            "street": "TAMPINES AVENUE 9",
+            "town": "Tampines",
+            "title": "TAMPINES RIA",
+            "lat": 1.35898074323004,
+            "long": 103.955770191568,
+            "postal": 521499
+        },
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 96,
+                            "price": 217900
+                        }
+                    ],
+                    "unit": 240
+                }
+            ],
+            "block_code": {
+                "block_num": "499B",
+                "contract": "C26",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 2014,
+                "month": 3,
+                "day": 1,
+                "quarter": null,
+                "months_since": -38
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "TAMPINES AVENUE 9",
+            "town": "Tampines",
+            "title": "TAMPINES RIA",
+            "lat": 1.35887020526728,
+            "long": 103.956331658876,
+            "postal": 522499
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 222300
+                        }
+                    ],
+                    "unit": 830
+                }
+            ],
+            "block_code": {
+                "block_num": "601B",
+                "contract": "C1A",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 1,
+                "day": 31,
+                "quarter": null,
+                "months_since": 32
+            },
+            "flat_type": "3-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 1,
+                "months_since": 22
+            },
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "TAMPINES AVENUE 9",
+            "town": "Tampines",
+            "title": "TAMPINES GREENRIDGES",
+            "lat": 1.36088858554875,
+            "long": 103.937509015767,
+            "postal": 522601
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 233300
+                        }
+                    ],
+                    "unit": 888
+                }
+            ],
+            "block_code": {
+                "block_num": "604A",
+                "contract": "C1A",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 1,
+                "day": 31,
+                "quarter": null,
+                "months_since": 32
+            },
+            "flat_type": "3-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 1,
+                "months_since": 22
+            },
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 1,
+            "street": "TAMPINES AVENUE 9",
+            "town": "Tampines",
+            "title": "TAMPINES GREENRIDGES",
+            "lat": 1.36136735465849,
+            "long": 103.935193332453,
+            "postal": 521604
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 211800
+                        }
+                    ],
+                    "unit": 328
+                }
+            ],
+            "block_code": {
+                "block_num": "605B",
+                "contract": "C1A",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 1,
+                "day": 31,
+                "quarter": null,
+                "months_since": 32
+            },
+            "flat_type": "3-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 1,
+                "months_since": 22
+            },
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "TAMPINES STREET 61",
+            "town": "Tampines",
+            "title": "TAMPINES GREENRIDGES",
+            "lat": 1.36237118346963,
+            "long": 103.935192775972,
+            "postal": 522605
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 232700
+                        }
+                    ],
+                    "unit": 354
+                }
+            ],
+            "block_code": {
+                "block_num": "605D",
+                "contract": "C1A",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 1,
+                "day": 31,
+                "quarter": null,
+                "months_since": 32
+            },
+            "flat_type": "3-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 1,
+                "months_since": 22
+            },
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "TAMPINES STREET 61",
+            "town": "Tampines",
+            "title": "TAMPINES GREENRIDGES",
+            "lat": 1.36179025953789,
+            "long": 103.935871959816,
+            "postal": 524605
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 204000
+                        }
+                    ],
+                    "unit": 342
+                }
+            ],
+            "block_code": {
+                "block_num": "608C",
+                "contract": "C2A",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 9,
+                "day": 30,
+                "quarter": null,
+                "months_since": 40
+            },
+            "flat_type": "3-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 28
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "TAMPINES NORTH DRIVE 1",
+            "town": "Tampines",
+            "title": "TAMPINES GREENWEAVE",
+            "lat": 1.36311517141267,
+            "long": 103.936402646417,
+            "postal": 523608
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 227200
+                        }
+                    ],
+                    "unit": 384
+                },
+                {
+                    "area": 68,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 206200
+                        }
+                    ],
+                    "unit": 386
+                }
+            ],
+            "block_code": {
+                "block_num": "609C",
+                "contract": "C2A",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 9,
+                "day": 30,
+                "quarter": null,
+                "months_since": 40
+            },
+            "flat_type": "3-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 28
+            },
+            "quota_chinese": 2,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "TAMPINES NORTH DRIVE 1",
+            "town": "Tampines",
+            "title": "TAMPINES GREENWEAVE",
+            "lat": 1.36368978070611,
+            "long": 103.936514982808,
+            "postal": 523609
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 223100
+                        }
+                    ],
+                    "unit": 5
+                }
+            ],
+            "block_code": {
+                "block_num": "878A",
+                "contract": "C29",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": 1
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 1,
+            "street": "TAMPINES AVENUE 8",
+            "town": "Tampines",
+            "title": "TAMPINES GREENFOREST",
+            "lat": 1.35166373353575,
+            "long": 103.929646035306,
+            "postal": 521878
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 213800
+                        }
+                    ],
+                    "unit": 19
+                }
+            ],
+            "block_code": {
+                "block_num": "878B",
+                "contract": "C29",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": 1
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "TAMPINES AVENUE 8",
+            "town": "Tampines",
+            "title": "TAMPINES GREENFOREST",
+            "lat": 1.3509263669499,
+            "long": 103.929191231421,
+            "postal": 522878
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 210800
+                        }
+                    ],
+                    "unit": 63
+                },
+                {
+                    "area": 68,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 227300
+                        }
+                    ],
+                    "unit": 63
+                }
+            ],
+            "block_code": {
+                "block_num": "879B",
+                "contract": "C29",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": 1
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "TAMPINES AVENUE 8",
+            "town": "Tampines",
+            "title": "TAMPINES GREENFOREST",
+            "lat": 1.35158903554131,
+            "long": 103.928804430639,
+            "postal": 522879
+        }
+    ]
+}

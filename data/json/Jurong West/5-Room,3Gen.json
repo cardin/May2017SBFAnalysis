@@ -1,0 +1,406 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 382500
+                        }
+                    ],
+                    "unit": 14
+                },
+                {
+                    "area": 113,
+                    "floor": 18,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 398900
+                        }
+                    ],
+                    "unit": 16
+                }
+            ],
+            "block_code": {
+                "block_num": "166A",
+                "contract": "C31",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 9,
+                "day": 30,
+                "quarter": null,
+                "months_since": 16
+            },
+            "flat_type": "5-Room/3Gen",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 9,
+                "day": null,
+                "quarter": null,
+                "months_since": 4
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "YUNG KUANG ROAD",
+            "town": "Jurong West",
+            "title": "YUNG KUANG COURT",
+            "lat": 1.33128892389881,
+            "long": 103.721959879988,
+            "postal": 611166
+        },
+        {
+            "apartments": [
+                {
+                    "area": 121,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 381600
+                        }
+                    ],
+                    "unit": 219
+                },
+                {
+                    "area": 114,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 385300
+                        }
+                    ],
+                    "unit": 229
+                }
+            ],
+            "block_code": {
+                "block_num": "216A",
+                "contract": "C17",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room/3Gen",
+            "lcd_date": {
+                "year": 2018,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": 14
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "BOON LAY AVENUE",
+            "town": "Jurong West",
+            "title": "BOON LAY VIEW",
+            "lat": 1.35011840899724,
+            "long": 103.711878431487,
+            "postal": 641216
+        },
+        {
+            "apartments": [
+                {
+                    "area": 114,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 351100
+                        }
+                    ],
+                    "unit": 231
+                }
+            ],
+            "block_code": {
+                "block_num": "217A",
+                "contract": "C17",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room/3Gen",
+            "lcd_date": {
+                "year": 2018,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": 14
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 0,
+            "street": "BOON LAY AVENUE",
+            "town": "Jurong West",
+            "title": "BOON LAY VIEW",
+            "lat": 1.34975528848511,
+            "long": 103.711299286924,
+            "postal": 641217
+        },
+        {
+            "apartments": [
+                {
+                    "area": 114,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 357300
+                        }
+                    ],
+                    "unit": 275
+                }
+            ],
+            "block_code": {
+                "block_num": "218B",
+                "contract": "C17",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room/3Gen",
+            "lcd_date": {
+                "year": 2018,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": 14
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BOON LAY AVENUE",
+            "town": "Jurong West",
+            "title": "BOON LAY VIEW",
+            "lat": 1.35032300441897,
+            "long": 103.710891359405,
+            "postal": 642218
+        },
+        {
+            "apartments": [
+                {
+                    "area": 121,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 391900
+                        }
+                    ],
+                    "unit": 305
+                }
+            ],
+            "block_code": {
+                "block_num": "218D",
+                "contract": "C17",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room/3Gen",
+            "lcd_date": {
+                "year": 2018,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": 14
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BOON LAY AVENUE",
+            "town": "Jurong West",
+            "title": "BOON LAY VIEW",
+            "lat": 1.35085259170778,
+            "long": 103.712084210458,
+            "postal": 644218
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 470200
+                        }
+                    ],
+                    "unit": 31
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 409700
+                        }
+                    ],
+                    "unit": 33
+                }
+            ],
+            "block_code": {
+                "block_num": "697C",
+                "contract": "C31",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room/3Gen",
+            "lcd_date": {
+                "year": 2017,
+                "month": 10,
+                "day": 1,
+                "quarter": null,
+                "months_since": 5
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "JURONG WEST CENTRAL 3",
+            "town": "Jurong West",
+            "title": "JURONG WEST BLOSSOM",
+            "lat": 1.34047466181283,
+            "long": 103.708350028734,
+            "postal": 643697
+        },
+        {
+            "apartments": [
+                {
+                    "area": 126,
+                    "floor": 5,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 78,
+                            "price": 343000
+                        }
+                    ],
+                    "unit": 548
+                }
+            ],
+            "block_code": {
+                "block_num": "857",
+                "contract": "C12",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room/3Gen",
+            "lcd_date": {
+                "year": 1996,
+                "month": 8,
+                "day": 1,
+                "quarter": null,
+                "months_since": -249
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "JURONG WEST STREET 81",
+            "town": "Jurong West",
+            "title": "HDB-JURONG WEST",
+            "lat": 1.34802602908551,
+            "long": 103.696737818833,
+            "postal": 640857
+        },
+        {
+            "apartments": [
+                {
+                    "area": 121,
+                    "floor": 6,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 71,
+                            "price": 333000
+                        }
+                    ],
+                    "unit": 431
+                }
+            ],
+            "block_code": {
+                "block_num": "940",
+                "contract": "C11",
+                "neighbourhood": "N9"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room/3Gen",
+            "lcd_date": {
+                "year": 1989,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": -336
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "JURONG WEST STREET 91",
+            "town": "Jurong West",
+            "title": "HDB-JURONG WEST",
+            "lat": 1.34330790784968,
+            "long": 103.688873352514,
+            "postal": 640940
+        },
+        {
+            "apartments": [
+                {
+                    "area": 110,
+                    "floor": 2,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 90,
+                            "price": 398000
+                        }
+                    ],
+                    "unit": 573
+                }
+            ],
+            "block_code": {
+                "block_num": "987B",
+                "contract": "C14",
+                "neighbourhood": "N9"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room/3Gen",
+            "lcd_date": {
+                "year": 2008,
+                "month": 8,
+                "day": 1,
+                "quarter": null,
+                "months_since": -105
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "JURONG WEST STREET 93",
+            "town": "Jurong West",
+            "title": "NIL",
+            "lat": 1.33659334547657,
+            "long": 103.694773888467,
+            "postal": 642987
+        }
+    ]
+}

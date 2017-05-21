@@ -1,0 +1,414 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 74,
+                    "floor": 8,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 59,
+                            "price": 209000
+                        }
+                    ],
+                    "unit": 276
+                }
+            ],
+            "block_code": {
+                "block_num": "34",
+                "contract": "C1C",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 1977,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": -479
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "TEBAN GARDENS ROAD",
+            "town": "Jurong East",
+            "title": "HDB-JURONG EAST",
+            "lat": 1.31987963533784,
+            "long": 103.741754021124,
+            "postal": 600034
+        },
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 26,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 222300
+                        }
+                    ],
+                    "unit": 451
+                }
+            ],
+            "block_code": {
+                "block_num": "55",
+                "contract": "C16",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 2016,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": -6
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "TEBAN GARDENS ROAD",
+            "town": "Jurong East",
+            "title": "TEBAN VIEW",
+            "lat": 1.32189196960036,
+            "long": 103.737551586606,
+            "postal": 600055
+        },
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 27,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 223300
+                        }
+                    ],
+                    "unit": 477
+                }
+            ],
+            "block_code": {
+                "block_num": "57",
+                "contract": "C16",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 2016,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": -6
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "TEBAN GARDENS ROAD",
+            "town": "Jurong East",
+            "title": "TEBAN VIEW",
+            "lat": 1.32254226544255,
+            "long": 103.737560699176,
+            "postal": 600057
+        },
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 8,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 65,
+                            "price": 239000
+                        }
+                    ],
+                    "unit": 365
+                }
+            ],
+            "block_code": {
+                "block_num": "210",
+                "contract": "C7",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 1983,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": -407
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "JURONG EAST STREET 21",
+            "town": "Jurong East",
+            "title": "HDB-JURONG EAST",
+            "lat": 1.33889493784686,
+            "long": 103.73855509854,
+            "postal": 600210
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 242000
+                        }
+                    ],
+                    "unit": 5
+                }
+            ],
+            "block_code": {
+                "block_num": "240A",
+                "contract": "C25",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 4,
+                "day": 30,
+                "quarter": null,
+                "months_since": 35
+            },
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 25
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "JURONG EAST AVENUE 1",
+            "town": "Jurong East",
+            "title": "JURONG EAST VISTA",
+            "lat": 1.34100349945544,
+            "long": 103.742339009867,
+            "postal": 601240
+        },
+        {
+            "apartments": [
+                {
+                    "area": 70,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 67,
+                            "price": 234000
+                        }
+                    ],
+                    "unit": 143
+                }
+            ],
+            "block_code": {
+                "block_num": "252",
+                "contract": "C14",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 1985,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": -383
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "JURONG EAST STREET 24",
+            "town": "Jurong East",
+            "title": "YUHUA VILLAGE",
+            "lat": 1.3430264426306,
+            "long": 103.7381452862,
+            "postal": 600252
+        },
+        {
+            "apartments": [
+                {
+                    "area": 64,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 96,
+                            "price": 228400
+                        }
+                    ],
+                    "unit": 362
+                },
+                {
+                    "area": 64,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 96,
+                            "price": 235700
+                        }
+                    ],
+                    "unit": 372
+                },
+                {
+                    "area": 64,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 96,
+                            "price": 236700
+                        }
+                    ],
+                    "unit": 374
+                }
+            ],
+            "block_code": {
+                "block_num": "371",
+                "contract": "C13",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 2014,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": -39
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 0,
+            "quota_other": 2,
+            "street": "JURONG EAST STREET 32",
+            "town": "Jurong East",
+            "title": "JURONG EAST COURT",
+            "lat": 1.34830835912942,
+            "long": 103.731919903016,
+            "postal": 600371
+        },
+        {
+            "apartments": [
+                {
+                    "area": 64,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 96,
+                            "price": 226400
+                        }
+                    ],
+                    "unit": 376
+                },
+                {
+                    "area": 64,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 96,
+                            "price": 203200
+                        }
+                    ],
+                    "unit": 382
+                },
+                {
+                    "area": 64,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 96,
+                            "price": 216900
+                        }
+                    ],
+                    "unit": 386
+                },
+                {
+                    "area": 64,
+                    "floor": 3,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 96,
+                            "price": 215800
+                        }
+                    ],
+                    "unit": 400
+                },
+                {
+                    "area": 64,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 96,
+                            "price": 210900
+                        }
+                    ],
+                    "unit": 402
+                },
+                {
+                    "area": 64,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 96,
+                            "price": 229400
+                        }
+                    ],
+                    "unit": 402
+                }
+            ],
+            "block_code": {
+                "block_num": "372",
+                "contract": "C13",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 2014,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": -39
+            },
+            "pcd_date": null,
+            "quota_chinese": 6,
+            "quota_malay": 1,
+            "quota_other": 2,
+            "street": "JURONG EAST STREET 32",
+            "town": "Jurong East",
+            "title": "JURONG EAST COURT",
+            "lat": 1.34865823382571,
+            "long": 103.731789499274,
+            "postal": 600372
+        }
+    ]
+}

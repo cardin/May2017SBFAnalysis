@@ -1,0 +1,84 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 110,
+                    "floor": 10,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 94,
+                            "price": 765000
+                        }
+                    ],
+                    "unit": 18
+                }
+            ],
+            "block_code": {
+                "block_num": "138B",
+                "contract": "PH1",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2012,
+                "month": 4,
+                "day": 23,
+                "quarter": null,
+                "months_since": -61
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "LORONG 1A TOA PAYOH",
+            "town": "Toa Payoh",
+            "title": "THE PEAK @ TOA PAYOH",
+            "lat": 1.33626408939967,
+            "long": 103.845626191384,
+            "postal": 312138
+        },
+        {
+            "apartments": [
+                {
+                    "area": 124,
+                    "floor": 2,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 77,
+                            "price": 638000
+                        }
+                    ],
+                    "unit": 1154
+                }
+            ],
+            "block_code": {
+                "block_num": "172",
+                "contract": "RC3",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 1995,
+                "month": 4,
+                "day": 1,
+                "quarter": null,
+                "months_since": -265
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "LORONG 1 TOA PAYOH",
+            "town": "Toa Payoh",
+            "title": "TOA PAYOH GREEN",
+            "lat": 1.33035489391145,
+            "long": 103.843053387382,
+            "postal": 310172
+        }
+    ]
+}

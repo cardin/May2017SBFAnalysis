@@ -1,0 +1,124 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 142,
+                    "floor": 11,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 82,
+                            "price": 495000
+                        }
+                    ],
+                    "unit": 73
+                }
+            ],
+            "block_code": {
+                "block_num": "461",
+                "contract": "C11",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "Executive",
+            "lcd_date": {
+                "year": 2000,
+                "month": 4,
+                "day": 1,
+                "quarter": null,
+                "months_since": -205
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "CHOA CHU KANG AVENUE 4",
+            "town": "Choa Chu Kang",
+            "title": "HDB-CHOA CHU KANG",
+            "lat": 1.37817763759626,
+            "long": 103.734550487829,
+            "postal": 680461
+        },
+        {
+            "apartments": [
+                {
+                    "area": 146,
+                    "floor": 3,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 77,
+                            "price": 460000
+                        }
+                    ],
+                    "unit": 309
+                }
+            ],
+            "block_code": {
+                "block_num": "523",
+                "contract": "C5",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "Executive",
+            "lcd_date": {
+                "year": 1995,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": -267
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "CHOA CHU KANG STREET 51",
+            "town": "Choa Chu Kang",
+            "title": "HDB-CHOA CHU KANG",
+            "lat": 1.39155917752355,
+            "long": 103.740845041672,
+            "postal": 680523
+        },
+        {
+            "apartments": [
+                {
+                    "area": 146,
+                    "floor": 11,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 77,
+                            "price": 525000
+                        }
+                    ],
+                    "unit": 125
+                }
+            ],
+            "block_code": {
+                "block_num": "757",
+                "contract": "C4",
+                "neighbourhood": "N7"
+            },
+            "dpd_date": null,
+            "flat_type": "Executive",
+            "lcd_date": {
+                "year": 1995,
+                "month": 8,
+                "day": 1,
+                "quarter": null,
+                "months_since": -261
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "CHOA CHU KANG NORTH 5",
+            "town": "Choa Chu Kang",
+            "title": "HDB-CHOA CHU KANG",
+            "lat": 1.39284801770152,
+            "long": 103.74591415814,
+            "postal": 680757
+        }
+    ]
+}

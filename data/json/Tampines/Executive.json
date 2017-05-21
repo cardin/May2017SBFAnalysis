@@ -1,0 +1,44 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 143,
+                    "floor": 2,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 75,
+                            "price": 530000
+                        }
+                    ],
+                    "unit": 32
+                }
+            ],
+            "block_code": {
+                "block_num": "314",
+                "contract": "C4",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "Executive",
+            "lcd_date": {
+                "year": 1993,
+                "month": 7,
+                "day": 8,
+                "quarter": null,
+                "months_since": -286
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "TAMPINES STREET 33",
+            "town": "Tampines",
+            "title": "HDB-TAMPINES",
+            "lat": 1.35221702605243,
+            "long": 103.957126056792,
+            "postal": 520314
+        }
+    ]
+}

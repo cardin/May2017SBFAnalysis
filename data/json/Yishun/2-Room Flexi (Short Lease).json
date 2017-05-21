@@ -1,0 +1,510 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 4,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 55800
+                        },
+                        {
+                            "lease": 20,
+                            "price": 64600
+                        },
+                        {
+                            "lease": 25,
+                            "price": 71900
+                        },
+                        {
+                            "lease": 30,
+                            "price": 77900
+                        },
+                        {
+                            "lease": 35,
+                            "price": 82900
+                        },
+                        {
+                            "lease": 40,
+                            "price": 87200
+                        },
+                        {
+                            "lease": 45,
+                            "price": 90900
+                        }
+                    ],
+                    "unit": 258
+                }
+            ],
+            "block_code": {
+                "block_num": "317C",
+                "contract": "C23",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "YISHUN AVENUE 9",
+            "town": "Yishun",
+            "title": "YISHUN GREENWALK",
+            "lat": 1.4337804828784,
+            "long": 103.843105705893,
+            "postal": 763317
+        },
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 58100
+                        },
+                        {
+                            "lease": 20,
+                            "price": 67600
+                        },
+                        {
+                            "lease": 25,
+                            "price": 75400
+                        },
+                        {
+                            "lease": 30,
+                            "price": 81800
+                        },
+                        {
+                            "lease": 35,
+                            "price": 87300
+                        },
+                        {
+                            "lease": 40,
+                            "price": 91900
+                        },
+                        {
+                            "lease": 45,
+                            "price": 95800
+                        }
+                    ],
+                    "unit": 143
+                }
+            ],
+            "block_code": {
+                "block_num": "333D",
+                "contract": "C21",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "YISHUN STREET 31",
+            "town": "Yishun",
+            "title": "YISHUN RIVERWALK",
+            "lat": 1.43208986051754,
+            "long": 103.846198333971,
+            "postal": 764333
+        },
+        {
+            "apartments": [
+                {
+                    "area": 45,
+                    "floor": 7,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 53500
+                        },
+                        {
+                            "lease": 20,
+                            "price": 62600
+                        },
+                        {
+                            "lease": 25,
+                            "price": 70200
+                        },
+                        {
+                            "lease": 30,
+                            "price": 76300
+                        },
+                        {
+                            "lease": 35,
+                            "price": 81500
+                        },
+                        {
+                            "lease": 40,
+                            "price": 86000
+                        },
+                        {
+                            "lease": 45,
+                            "price": 89700
+                        }
+                    ],
+                    "unit": 620
+                }
+            ],
+            "block_code": {
+                "block_num": "701B",
+                "contract": "C18",
+                "neighbourhood": "N7"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "YISHUN AVENUE 5",
+            "town": "Yishun",
+            "title": "GOLDEN PALMS",
+            "lat": 1.4298337815061,
+            "long": 103.827384256677,
+            "postal": 762701
+        },
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 58400
+                        },
+                        {
+                            "lease": 20,
+                            "price": 67500
+                        },
+                        {
+                            "lease": 25,
+                            "price": 75100
+                        },
+                        {
+                            "lease": 30,
+                            "price": 81300
+                        },
+                        {
+                            "lease": 35,
+                            "price": 86500
+                        },
+                        {
+                            "lease": 40,
+                            "price": 91000
+                        },
+                        {
+                            "lease": 45,
+                            "price": 94800
+                        }
+                    ],
+                    "unit": 4405
+                },
+                {
+                    "area": 47,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 62900
+                        },
+                        {
+                            "lease": 20,
+                            "price": 72900
+                        },
+                        {
+                            "lease": 25,
+                            "price": 81200
+                        },
+                        {
+                            "lease": 30,
+                            "price": 88000
+                        },
+                        {
+                            "lease": 35,
+                            "price": 93800
+                        },
+                        {
+                            "lease": 40,
+                            "price": 98700
+                        },
+                        {
+                            "lease": 45,
+                            "price": 102800
+                        }
+                    ],
+                    "unit": 4405
+                },
+                {
+                    "area": 47,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 59200
+                        },
+                        {
+                            "lease": 20,
+                            "price": 68500
+                        },
+                        {
+                            "lease": 25,
+                            "price": 76200
+                        },
+                        {
+                            "lease": 30,
+                            "price": 82500
+                        },
+                        {
+                            "lease": 35,
+                            "price": 87900
+                        },
+                        {
+                            "lease": 40,
+                            "price": 92400
+                        },
+                        {
+                            "lease": 45,
+                            "price": 96200
+                        }
+                    ],
+                    "unit": 4407
+                },
+                {
+                    "area": 47,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 60900
+                        },
+                        {
+                            "lease": 20,
+                            "price": 70500
+                        },
+                        {
+                            "lease": 25,
+                            "price": 78500
+                        },
+                        {
+                            "lease": 30,
+                            "price": 85000
+                        },
+                        {
+                            "lease": 35,
+                            "price": 90600
+                        },
+                        {
+                            "lease": 40,
+                            "price": 95300
+                        },
+                        {
+                            "lease": 45,
+                            "price": 99200
+                        }
+                    ],
+                    "unit": 4407
+                },
+                {
+                    "area": 47,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 62900
+                        },
+                        {
+                            "lease": 20,
+                            "price": 72900
+                        },
+                        {
+                            "lease": 25,
+                            "price": 81200
+                        },
+                        {
+                            "lease": 30,
+                            "price": 88000
+                        },
+                        {
+                            "lease": 35,
+                            "price": 93800
+                        },
+                        {
+                            "lease": 40,
+                            "price": 98700
+                        },
+                        {
+                            "lease": 45,
+                            "price": 102800
+                        }
+                    ],
+                    "unit": 4407
+                },
+                {
+                    "area": 47,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 63400
+                        },
+                        {
+                            "lease": 20,
+                            "price": 73600
+                        },
+                        {
+                            "lease": 25,
+                            "price": 81900
+                        },
+                        {
+                            "lease": 30,
+                            "price": 88800
+                        },
+                        {
+                            "lease": 35,
+                            "price": 94600
+                        },
+                        {
+                            "lease": 40,
+                            "price": 99600
+                        },
+                        {
+                            "lease": 45,
+                            "price": 103800
+                        }
+                    ],
+                    "unit": 4407
+                }
+            ],
+            "block_code": {
+                "block_num": "813A",
+                "contract": "C15",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 6,
+            "quota_malay": 6,
+            "quota_other": 6,
+            "street": "YISHUN RING ROAD",
+            "town": "Yishun",
+            "title": "KHATIB COURT",
+            "lat": 1.41826583640092,
+            "long": 103.832595506981,
+            "postal": 761813
+        },
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 61500
+                        },
+                        {
+                            "lease": 20,
+                            "price": 71300
+                        },
+                        {
+                            "lease": 25,
+                            "price": 79400
+                        },
+                        {
+                            "lease": 30,
+                            "price": 86000
+                        },
+                        {
+                            "lease": 35,
+                            "price": 91600
+                        },
+                        {
+                            "lease": 40,
+                            "price": 96400
+                        },
+                        {
+                            "lease": 45,
+                            "price": 100400
+                        }
+                    ],
+                    "unit": 4441
+                },
+                {
+                    "area": 47,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 61500
+                        },
+                        {
+                            "lease": 20,
+                            "price": 71300
+                        },
+                        {
+                            "lease": 25,
+                            "price": 79400
+                        },
+                        {
+                            "lease": 30,
+                            "price": 86000
+                        },
+                        {
+                            "lease": 35,
+                            "price": 91600
+                        },
+                        {
+                            "lease": 40,
+                            "price": 96400
+                        },
+                        {
+                            "lease": 45,
+                            "price": 100400
+                        }
+                    ],
+                    "unit": 4443
+                }
+            ],
+            "block_code": {
+                "block_num": "813B",
+                "contract": "C15",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "YISHUN RING ROAD",
+            "town": "Yishun",
+            "title": "KHATIB COURT",
+            "lat": 1.41738958748617,
+            "long": 103.832369658329,
+            "postal": 762813
+        }
+    ]
+}

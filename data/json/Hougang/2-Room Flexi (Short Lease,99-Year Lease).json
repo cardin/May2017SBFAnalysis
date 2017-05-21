@@ -1,0 +1,152 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 43100
+                        },
+                        {
+                            "lease": 20,
+                            "price": 51100
+                        },
+                        {
+                            "lease": 25,
+                            "price": 57800
+                        },
+                        {
+                            "lease": 30,
+                            "price": 63200
+                        },
+                        {
+                            "lease": 35,
+                            "price": 67800
+                        },
+                        {
+                            "lease": 40,
+                            "price": 71800
+                        },
+                        {
+                            "lease": 45,
+                            "price": 75100
+                        },
+                        {
+                            "lease": 99,
+                            "price": 123600
+                        }
+                    ],
+                    "unit": 921
+                }
+            ],
+            "block_code": {
+                "block_num": "995A",
+                "contract": "C20",
+                "neighbourhood": "N9"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 8,
+                "day": 31,
+                "quarter": null,
+                "months_since": 27
+            },
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 16
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BUANGKOK CRESCENT",
+            "town": "Hougang",
+            "title": "BUANGKOK TROPICA",
+            "lat": 1.386538196528,
+            "long": 103.882403903763,
+            "postal": 531995
+        },
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 43700
+                        },
+                        {
+                            "lease": 20,
+                            "price": 51900
+                        },
+                        {
+                            "lease": 25,
+                            "price": 58700
+                        },
+                        {
+                            "lease": 30,
+                            "price": 64200
+                        },
+                        {
+                            "lease": 35,
+                            "price": 68900
+                        },
+                        {
+                            "lease": 40,
+                            "price": 72900
+                        },
+                        {
+                            "lease": 45,
+                            "price": 76300
+                        },
+                        {
+                            "lease": 99,
+                            "price": 125600
+                        }
+                    ],
+                    "unit": 939
+                }
+            ],
+            "block_code": {
+                "block_num": "995B",
+                "contract": "C20",
+                "neighbourhood": "N9"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 8,
+                "day": 31,
+                "quarter": null,
+                "months_since": 27
+            },
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 16
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BUANGKOK CRESCENT",
+            "town": "Hougang",
+            "title": "BUANGKOK TROPICA",
+            "lat": 1.38636852042102,
+            "long": 103.882829663803,
+            "postal": 532995
+        }
+    ]
+}

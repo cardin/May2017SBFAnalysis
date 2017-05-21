@@ -1,0 +1,44 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 147,
+                    "floor": 6,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 74,
+                            "price": 743800
+                        }
+                    ],
+                    "unit": 229
+                }
+            ],
+            "block_code": {
+                "block_num": "261",
+                "contract": "C17",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "Executive",
+            "lcd_date": {
+                "year": 1992,
+                "month": 7,
+                "day": 22,
+                "quarter": null,
+                "months_since": -298
+            },
+            "pcd_date": null,
+            "quota_chinese": 0,
+            "quota_malay": 0,
+            "quota_other": 1,
+            "street": "BISHAN STREET 22",
+            "town": "Bishan",
+            "title": "HDB-BISHAN",
+            "lat": 1.3589868933222,
+            "long": 103.843324418377,
+            "postal": 570261
+        }
+    ]
+}

@@ -1,0 +1,1642 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 103,
+                    "floor": 5,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 67,
+                            "price": 336000
+                        }
+                    ],
+                    "unit": 231
+                }
+            ],
+            "block_code": {
+                "block_num": "143",
+                "contract": "C6",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 1984,
+                "month": 12,
+                "day": 1,
+                "quarter": null,
+                "months_since": -389
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "LORONG AH SOO",
+            "town": "Hougang",
+            "title": "HDB-HOUGANG",
+            "lat": 1.35223342746654,
+            "long": 103.882841640503,
+            "postal": 530143
+        },
+        {
+            "apartments": [
+                {
+                    "area": 91,
+                    "floor": 12,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 68,
+                            "price": 257400
+                        }
+                    ],
+                    "unit": 729
+                }
+            ],
+            "block_code": {
+                "block_num": "352",
+                "contract": "C8",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 1986,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": -375
+            },
+            "pcd_date": null,
+            "quota_chinese": 0,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "HOUGANG AVENUE 7",
+            "town": "Hougang",
+            "title": "HDB-HOUGANG",
+            "lat": 1.37210569373171,
+            "long": 103.899099276298,
+            "postal": 530352
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 325200
+                        }
+                    ],
+                    "unit": 1000
+                }
+            ],
+            "block_code": {
+                "block_num": "364A",
+                "contract": "C14",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": 9
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "UPPER SERANGOON ROAD",
+            "town": "Hougang",
+            "title": "HOUGANG MEADOW",
+            "lat": 1.37060840744454,
+            "long": 103.896776019259,
+            "postal": 531364
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 321700
+                        }
+                    ],
+                    "unit": 1020
+                },
+                {
+                    "area": 92,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 353200
+                        }
+                    ],
+                    "unit": 1020
+                }
+            ],
+            "block_code": {
+                "block_num": "364B",
+                "contract": "C14",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": 9
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "UPPER SERANGOON ROAD",
+            "town": "Hougang",
+            "title": "HOUGANG MEADOW",
+            "lat": 1.37051434802162,
+            "long": 103.897132658546,
+            "postal": 532364
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 369700
+                        }
+                    ],
+                    "unit": 1040
+                },
+                {
+                    "area": 93,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 356700
+                        }
+                    ],
+                    "unit": 1050
+                },
+                {
+                    "area": 92,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 338600
+                        }
+                    ],
+                    "unit": 1054
+                }
+            ],
+            "block_code": {
+                "block_num": "365A",
+                "contract": "C14",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": 9
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "UPPER SERANGOON ROAD",
+            "town": "Hougang",
+            "title": "HOUGANG MEADOW",
+            "lat": 1.36971560040271,
+            "long": 103.897624425125,
+            "postal": 531365
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 331200
+                        }
+                    ],
+                    "unit": 1066
+                },
+                {
+                    "area": 92,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 358700
+                        }
+                    ],
+                    "unit": 1068
+                },
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 326200
+                        }
+                    ],
+                    "unit": 1070
+                }
+            ],
+            "block_code": {
+                "block_num": "365B",
+                "contract": "C14",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": 9
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "UPPER SERANGOON ROAD",
+            "town": "Hougang",
+            "title": "HOUGANG MEADOWS",
+            "lat": 1.36921025259911,
+            "long": 103.897536053606,
+            "postal": 532365
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 350700
+                        }
+                    ],
+                    "unit": 1092
+                },
+                {
+                    "area": 92,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 368900
+                        }
+                    ],
+                    "unit": 1094
+                },
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 343200
+                        }
+                    ],
+                    "unit": 1096
+                },
+                {
+                    "area": 92,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 363300
+                        }
+                    ],
+                    "unit": 1096
+                }
+            ],
+            "block_code": {
+                "block_num": "365D",
+                "contract": "C14",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": 9
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 4,
+            "quota_other": 4,
+            "street": "UPPER SERANGOON ROAD",
+            "town": "Hougang",
+            "title": "HOUGANG MEADOW",
+            "lat": 1.36961721786592,
+            "long": 103.896612783518,
+            "postal": 537365
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 11,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 315400
+                        }
+                    ],
+                    "unit": 326
+                }
+            ],
+            "block_code": {
+                "block_num": "470B",
+                "contract": "C17",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2015,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": -24
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "UPPER SERANGOON CRESCENT",
+            "town": "Hougang",
+            "title": "HOUGANG PARKVIEW",
+            "lat": 1.37893083811936,
+            "long": 103.900988286294,
+            "postal": 532470
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 15,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 321000
+                        }
+                    ],
+                    "unit": 392
+                }
+            ],
+            "block_code": {
+                "block_num": "471A",
+                "contract": "C17",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2015,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": -24
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "UPPER SERANGOON CRESCENT",
+            "town": "Hougang",
+            "title": "HOUGANG PARKVIEW",
+            "lat": 1.37814544014758,
+            "long": 103.901767342056,
+            "postal": 531471
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 18,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 342400
+                        }
+                    ],
+                    "unit": 317
+                },
+                {
+                    "area": 93,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 317100
+                        }
+                    ],
+                    "unit": 319
+                }
+            ],
+            "block_code": {
+                "block_num": "473A",
+                "contract": "C20",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": 1
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "UPPER SERANGOON CRESCENT",
+            "town": "Hougang",
+            "title": "HOUGANG PARKEDGE",
+            "lat": 1.37682896002803,
+            "long": 103.900640875151,
+            "postal": 531473
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 18,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 328700
+                        }
+                    ],
+                    "unit": 325
+                }
+            ],
+            "block_code": {
+                "block_num": "473B",
+                "contract": "C20",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": 1
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "UPPER SERANGOON CRESCENT",
+            "town": "Hougang",
+            "title": "HOUGANG PARKEDGE",
+            "lat": 1.37593551578457,
+            "long": 103.901086439499,
+            "postal": 532473
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 325600
+                        }
+                    ],
+                    "unit": 339
+                },
+                {
+                    "area": 93,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 316400
+                        }
+                    ],
+                    "unit": 349
+                }
+            ],
+            "block_code": {
+                "block_num": "473C",
+                "contract": "C20",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": 1
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "UPPER SERANGOON CRESCENT",
+            "town": "Hougang",
+            "title": "HOUGANG PARKEDGE",
+            "lat": 1.37626441903594,
+            "long": 103.901389208657,
+            "postal": 533473
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 19,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 333600
+                        }
+                    ],
+                    "unit": 530
+                }
+            ],
+            "block_code": {
+                "block_num": "476B",
+                "contract": "C18",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 3,
+                "day": 1,
+                "quarter": null,
+                "months_since": -14
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "UPPER SERANGOON VIEW",
+            "town": "Hougang",
+            "title": "HOUGANG CAPEVIEW",
+            "lat": 1.37732845210706,
+            "long": 103.904212191193,
+            "postal": 532476
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 12,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 322600
+                        }
+                    ],
+                    "unit": 544
+                }
+            ],
+            "block_code": {
+                "block_num": "476C",
+                "contract": "C18",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 3,
+                "day": 1,
+                "quarter": null,
+                "months_since": -14
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "UPPER SERANGOON VIEW",
+            "town": "Hougang",
+            "title": "HOUGANG CAPEVIEW",
+            "lat": 1.37794957092141,
+            "long": 103.904346035596,
+            "postal": 533476
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 315500
+                        }
+                    ],
+                    "unit": 558
+                }
+            ],
+            "block_code": {
+                "block_num": "477A",
+                "contract": "C18",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 3,
+                "day": 1,
+                "quarter": null,
+                "months_since": -14
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "UPPER SERANGOON VIEW",
+            "town": "Hougang",
+            "title": "HOUGANG CAPEVIEW",
+            "lat": 1.37830875820743,
+            "long": 103.903841957906,
+            "postal": 531477
+        },
+        {
+            "apartments": [
+                {
+                    "area": 95,
+                    "floor": 8,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 335200
+                        }
+                    ],
+                    "unit": 568
+                }
+            ],
+            "block_code": {
+                "block_num": "477B",
+                "contract": "C18",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 3,
+                "day": 1,
+                "quarter": null,
+                "months_since": -14
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "UPPER SERANGOON VIEW",
+            "town": "Hougang",
+            "title": "HOUGANG CAPEVIEW",
+            "lat": 1.37881205219674,
+            "long": 103.904229621367,
+            "postal": 532477
+        },
+        {
+            "apartments": [
+                {
+                    "area": 84,
+                    "floor": 2,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 68,
+                            "price": 241000
+                        }
+                    ],
+                    "unit": 414
+                }
+            ],
+            "block_code": {
+                "block_num": "614",
+                "contract": "C4A",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 1986,
+                "month": 1,
+                "day": 1,
+                "quarter": null,
+                "months_since": -376
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "HOUGANG AVENUE 8",
+            "town": "Hougang",
+            "title": "HDB-HOUGANG",
+            "lat": 1.36913651248733,
+            "long": 103.884695129711,
+            "postal": 530614
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 338000
+                        }
+                    ],
+                    "unit": 80
+                },
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 309200
+                        }
+                    ],
+                    "unit": 82
+                },
+                {
+                    "area": 92,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 336000
+                        }
+                    ],
+                    "unit": 82
+                }
+            ],
+            "block_code": {
+                "block_num": "932A",
+                "contract": "C23",
+                "neighbourhood": "N9"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 2,
+            "quota_other": 3,
+            "street": "HOUGANG AVENUE 9",
+            "town": "Hougang",
+            "title": "HOUGANG CRIMSON",
+            "lat": 1.37526558111204,
+            "long": 103.881750957344,
+            "postal": 531932
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 301700
+                        }
+                    ],
+                    "unit": 92
+                },
+                {
+                    "area": 92,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 310200
+                        }
+                    ],
+                    "unit": 92
+                },
+                {
+                    "area": 92,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 302800
+                        }
+                    ],
+                    "unit": 98
+                },
+                {
+                    "area": 92,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 321400
+                        }
+                    ],
+                    "unit": 106
+                }
+            ],
+            "block_code": {
+                "block_num": "932B",
+                "contract": "C23",
+                "neighbourhood": "N9"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 4,
+            "quota_malay": 4,
+            "quota_other": 4,
+            "street": "HOUGANG AVENUE 9",
+            "town": "Hougang",
+            "title": "HOUGANG CRIMSON",
+            "lat": 1.37512666113387,
+            "long": 103.882234927883,
+            "postal": 532932
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 319800
+                        }
+                    ],
+                    "unit": 199
+                }
+            ],
+            "block_code": {
+                "block_num": "991A",
+                "contract": "C16",
+                "neighbourhood": "N9"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 5,
+                "day": 31,
+                "quarter": null,
+                "months_since": 24
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 13
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BUANGKOK LINK",
+            "town": "Hougang",
+            "title": "BUANGKOK SQUARE",
+            "lat": 1.38430780704301,
+            "long": 103.882225801104,
+            "postal": 531991
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 279700
+                        }
+                    ],
+                    "unit": 233
+                }
+            ],
+            "block_code": {
+                "block_num": "991B",
+                "contract": "C16",
+                "neighbourhood": "N9"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 5,
+                "day": 31,
+                "quarter": null,
+                "months_since": 24
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 13
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BUANGKOK LINK",
+            "town": "Hougang",
+            "title": "BUANGKOK SQUARE",
+            "lat": 1.38398477376891,
+            "long": 103.882486324466,
+            "postal": 532991
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 290500
+                        }
+                    ],
+                    "unit": 151
+                },
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 290500
+                        }
+                    ],
+                    "unit": 153
+                },
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 279700
+                        }
+                    ],
+                    "unit": 157
+                }
+            ],
+            "block_code": {
+                "block_num": "992A",
+                "contract": "C16",
+                "neighbourhood": "N9"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 5,
+                "day": 31,
+                "quarter": null,
+                "months_since": 24
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 13
+            },
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "BUANGKOK LINK",
+            "town": "Hougang",
+            "title": "BUANGKOK SQUARE",
+            "lat": 1.38345063152546,
+            "long": 103.881982721855,
+            "postal": 531992
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 290500
+                        }
+                    ],
+                    "unit": 175
+                },
+                {
+                    "area": 93,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 295000
+                        }
+                    ],
+                    "unit": 175
+                },
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 285100
+                        }
+                    ],
+                    "unit": 179
+                },
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 285100
+                        }
+                    ],
+                    "unit": 181
+                },
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 285100
+                        }
+                    ],
+                    "unit": 183
+                },
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 285100
+                        }
+                    ],
+                    "unit": 195
+                }
+            ],
+            "block_code": {
+                "block_num": "992B",
+                "contract": "C16",
+                "neighbourhood": "N9"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 5,
+                "day": 31,
+                "quarter": null,
+                "months_since": 24
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 13
+            },
+            "quota_chinese": 6,
+            "quota_malay": 6,
+            "quota_other": 6,
+            "street": "BUANGKOK LINK",
+            "town": "Hougang",
+            "title": "BUANGKOK SQUARE",
+            "lat": 1.38382673049311,
+            "long": 103.881672473881,
+            "postal": 532992
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 321400
+                        }
+                    ],
+                    "unit": 879
+                }
+            ],
+            "block_code": {
+                "block_num": "996A",
+                "contract": "C20",
+                "neighbourhood": "N9"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 8,
+                "day": 31,
+                "quarter": null,
+                "months_since": 27
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 16
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BUANGKOK CRESCENT",
+            "town": "Hougang",
+            "title": "BUANGKOK TROPICA",
+            "lat": 1.38646844449984,
+            "long": 103.881610480948,
+            "postal": 531996
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 319000
+                        }
+                    ],
+                    "unit": 889
+                },
+                {
+                    "area": 92,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 302800
+                        }
+                    ],
+                    "unit": 897
+                },
+                {
+                    "area": 93,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 321400
+                        }
+                    ],
+                    "unit": 899
+                }
+            ],
+            "block_code": {
+                "block_num": "996B",
+                "contract": "C20",
+                "neighbourhood": "N9"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 8,
+                "day": 31,
+                "quarter": null,
+                "months_since": 27
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 16
+            },
+            "quota_chinese": 3,
+            "quota_malay": 2,
+            "quota_other": 3,
+            "street": "BUANGKOK CRESCENT",
+            "town": "Hougang",
+            "title": "BUANGKOK TROPICA",
+            "lat": 1.38611330718325,
+            "long": 103.882052260458,
+            "postal": 532996
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 319600
+                        }
+                    ],
+                    "unit": 909
+                },
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 309400
+                        }
+                    ],
+                    "unit": 913
+                }
+            ],
+            "block_code": {
+                "block_num": "996C",
+                "contract": "C20",
+                "neighbourhood": "N9"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 8,
+                "day": 31,
+                "quarter": null,
+                "months_since": 27
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 16
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "BUANGKOK CRESCENT",
+            "town": "Hougang",
+            "title": "BUNAGKOK TROPICA",
+            "lat": 1.38576793194267,
+            "long": 103.882466565347,
+            "postal": 536996
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 314600
+                        }
+                    ],
+                    "unit": 807
+                }
+            ],
+            "block_code": {
+                "block_num": "997A",
+                "contract": "C19",
+                "neighbourhood": "N9"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 10,
+                "day": 31,
+                "quarter": null,
+                "months_since": 17
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": null,
+                "day": null,
+                "quarter": 4,
+                "months_since": 7
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BUANGKOK CRESCENT",
+            "town": "Hougang",
+            "title": "BUANGKOK EDGEVIEW",
+            "lat": 1.38504599856503,
+            "long": 103.881166649447,
+            "postal": 531997
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 282500
+                        }
+                    ],
+                    "unit": 835
+                },
+                {
+                    "area": 93,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 314000
+                        }
+                    ],
+                    "unit": 835
+                },
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 316800
+                        }
+                    ],
+                    "unit": 835
+                },
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 282500
+                        }
+                    ],
+                    "unit": 839
+                }
+            ],
+            "block_code": {
+                "block_num": "997C",
+                "contract": "C19",
+                "neighbourhood": "N9"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 10,
+                "day": 31,
+                "quarter": null,
+                "months_since": 17
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": null,
+                "day": null,
+                "quarter": 4,
+                "months_since": 7
+            },
+            "quota_chinese": 4,
+            "quota_malay": 4,
+            "quota_other": 4,
+            "street": "BUANGKOK CRESCENT",
+            "town": "Hougang",
+            "title": "BUANGKOK EDGEVIEW",
+            "lat": 1.38553018206229,
+            "long": 103.881587879925,
+            "postal": 534997
+        },
+        {
+            "apartments": [
+                {
+                    "area": 94,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 296100
+                        }
+                    ],
+                    "unit": 705
+                },
+                {
+                    "area": 94,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 319800
+                        }
+                    ],
+                    "unit": 705
+                },
+                {
+                    "area": 93,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 295300
+                        }
+                    ],
+                    "unit": 721
+                }
+            ],
+            "block_code": {
+                "block_num": "998A",
+                "contract": "C18",
+                "neighbourhood": "N9"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 11,
+                "day": 30,
+                "quarter": null,
+                "months_since": 30
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 4,
+                "months_since": 19
+            },
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "BUANGKOK CRESCENT",
+            "town": "Hougang",
+            "title": "BUANGKOK PARKVISTA",
+            "lat": 1.38375782968296,
+            "long": 103.880172193688,
+            "postal": 531998
+        },
+        {
+            "apartments": [
+                {
+                    "area": 94,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 306500
+                        }
+                    ],
+                    "unit": 727
+                },
+                {
+                    "area": 94,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 313300
+                        }
+                    ],
+                    "unit": 727
+                }
+            ],
+            "block_code": {
+                "block_num": "998B",
+                "contract": "C18",
+                "neighbourhood": "N9"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 11,
+                "day": 30,
+                "quarter": null,
+                "months_since": 30
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 4,
+                "months_since": 19
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "BUANGKOK CRESCENT",
+            "town": "Hougang",
+            "title": "BUANGKOK PARKVISTA",
+            "lat": 1.38410075238237,
+            "long": 103.88050459967,
+            "postal": 532998
+        }
+    ]
+}

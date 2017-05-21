@@ -1,0 +1,124 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 121,
+                    "floor": 6,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 68,
+                            "price": 373300
+                        }
+                    ],
+                    "unit": 491
+                }
+            ],
+            "block_code": {
+                "block_num": "116",
+                "contract": "C2",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 1986,
+                "month": 1,
+                "day": 1,
+                "quarter": null,
+                "months_since": -376
+            },
+            "pcd_date": null,
+            "quota_chinese": 0,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "SERANGOON NORTH AVENUE 1",
+            "town": "Serangoon",
+            "title": "HWI YOH VILLE",
+            "lat": 1.36849213940051,
+            "long": 103.871586533919,
+            "postal": 550116
+        },
+        {
+            "apartments": [
+                {
+                    "area": 121,
+                    "floor": 4,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 68,
+                            "price": 568100
+                        }
+                    ],
+                    "unit": 182
+                }
+            ],
+            "block_code": {
+                "block_num": "242",
+                "contract": "C7",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 1986,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": -372
+            },
+            "pcd_date": null,
+            "quota_chinese": 0,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "SERANGOON AVENUE 3",
+            "town": "Serangoon",
+            "title": "HDB-SERANGOON ESTATE",
+            "lat": 1.35269591874856,
+            "long": 103.869711017596,
+            "postal": 550242
+        },
+        {
+            "apartments": [
+                {
+                    "area": 115,
+                    "floor": 2,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 81,
+                            "price": 620300
+                        }
+                    ],
+                    "unit": 44
+                }
+            ],
+            "block_code": {
+                "block_num": "256",
+                "contract": "C12",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 1999,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": -216
+            },
+            "pcd_date": null,
+            "quota_chinese": 0,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "SERANGOON CENTRAL DRIVE",
+            "town": "Serangoon",
+            "title": "HDB-SERANGOON ESTATE",
+            "lat": 1.35510216074113,
+            "long": 103.871446813638,
+            "postal": 550256
+        }
+    ]
+}

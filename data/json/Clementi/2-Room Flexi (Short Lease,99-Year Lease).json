@@ -1,0 +1,306 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 44,
+                    "floor": 11,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 61,
+                            "price": 206000
+                        }
+                    ],
+                    "unit": 116
+                }
+            ],
+            "block_code": {
+                "block_num": "344",
+                "contract": "C9A",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": {
+                "year": 1979,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": -456
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 0,
+            "street": "CLEMENTI AVENUE 5",
+            "town": "Clementi",
+            "title": "HDB-CLEMENTI",
+            "lat": 1.31812073993324,
+            "long": 103.769088401723,
+            "postal": 120344
+        },
+        {
+            "apartments": [
+                {
+                    "area": 49,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 76500
+                        },
+                        {
+                            "lease": 20,
+                            "price": 91800
+                        },
+                        {
+                            "lease": 25,
+                            "price": 104300
+                        },
+                        {
+                            "lease": 30,
+                            "price": 114600
+                        },
+                        {
+                            "lease": 35,
+                            "price": 123400
+                        },
+                        {
+                            "lease": 40,
+                            "price": 130800
+                        },
+                        {
+                            "lease": 45,
+                            "price": 137100
+                        },
+                        {
+                            "lease": 95,
+                            "price": 227600
+                        }
+                    ],
+                    "unit": 245
+                },
+                {
+                    "area": 49,
+                    "floor": 28,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 79800
+                        },
+                        {
+                            "lease": 20,
+                            "price": 95700
+                        },
+                        {
+                            "lease": 25,
+                            "price": 108800
+                        },
+                        {
+                            "lease": 30,
+                            "price": 119600
+                        },
+                        {
+                            "lease": 35,
+                            "price": 128700
+                        },
+                        {
+                            "lease": 40,
+                            "price": 136400
+                        },
+                        {
+                            "lease": 45,
+                            "price": 143000
+                        },
+                        {
+                            "lease": 95,
+                            "price": 237500
+                        }
+                    ],
+                    "unit": 249
+                }
+            ],
+            "block_code": {
+                "block_num": "418",
+                "contract": "C8",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": {
+                "year": 2013,
+                "month": 9,
+                "day": 1,
+                "quarter": null,
+                "months_since": -44
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "CLEMENTI AVENUE 1",
+            "town": "Clementi",
+            "title": "CASA CLEMENTI",
+            "lat": 1.3101757190418,
+            "long": 103.77000324485,
+            "postal": 120418
+        },
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 21,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 86300
+                        },
+                        {
+                            "lease": 20,
+                            "price": 103500
+                        },
+                        {
+                            "lease": 25,
+                            "price": 117600
+                        },
+                        {
+                            "lease": 30,
+                            "price": 129200
+                        },
+                        {
+                            "lease": 35,
+                            "price": 139100
+                        },
+                        {
+                            "lease": 40,
+                            "price": 147400
+                        },
+                        {
+                            "lease": 45,
+                            "price": 154500
+                        },
+                        {
+                            "lease": 99,
+                            "price": 257800
+                        }
+                    ],
+                    "unit": 2
+                },
+                {
+                    "area": 47,
+                    "floor": 22,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 86600
+                        },
+                        {
+                            "lease": 20,
+                            "price": 103800
+                        },
+                        {
+                            "lease": 25,
+                            "price": 118000
+                        },
+                        {
+                            "lease": 30,
+                            "price": 129600
+                        },
+                        {
+                            "lease": 35,
+                            "price": 139500
+                        },
+                        {
+                            "lease": 40,
+                            "price": 147900
+                        },
+                        {
+                            "lease": 45,
+                            "price": 155000
+                        },
+                        {
+                            "lease": 99,
+                            "price": 258600
+                        }
+                    ],
+                    "unit": 2
+                },
+                {
+                    "area": 47,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 81800
+                        },
+                        {
+                            "lease": 20,
+                            "price": 98000
+                        },
+                        {
+                            "lease": 25,
+                            "price": 111400
+                        },
+                        {
+                            "lease": 30,
+                            "price": 122400
+                        },
+                        {
+                            "lease": 35,
+                            "price": 131700
+                        },
+                        {
+                            "lease": 40,
+                            "price": 139700
+                        },
+                        {
+                            "lease": 45,
+                            "price": 146400
+                        },
+                        {
+                            "lease": 99,
+                            "price": 244200
+                        }
+                    ],
+                    "unit": 8
+                }
+            ],
+            "block_code": {
+                "block_num": "440A",
+                "contract": "C10",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 7,
+                "day": 31,
+                "quarter": null,
+                "months_since": 14
+            },
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 9,
+                "day": null,
+                "quarter": null,
+                "months_since": 4
+            },
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "CLEMENTI AVENUE 3",
+            "town": "Clementi",
+            "title": "CLEMENTI CASCADIA",
+            "lat": 1.31596600848665,
+            "long": 103.764182567276,
+            "postal": 121440
+        }
+    ]
+}

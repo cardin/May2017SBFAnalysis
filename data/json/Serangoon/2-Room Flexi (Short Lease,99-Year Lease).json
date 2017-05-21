@@ -1,0 +1,44 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 44,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 60,
+                            "price": 179500
+                        }
+                    ],
+                    "unit": 170
+                }
+            ],
+            "block_code": {
+                "block_num": "8",
+                "contract": "C0",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": {
+                "year": 1978,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": -468
+            },
+            "pcd_date": null,
+            "quota_chinese": 0,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "LORONG LEW LIAN",
+            "town": "Serangoon",
+            "title": "HDB-LORONG LEW LIAN",
+            "lat": 1.34890868855023,
+            "long": 103.876715676102,
+            "postal": 531008
+        }
+    ]
+}

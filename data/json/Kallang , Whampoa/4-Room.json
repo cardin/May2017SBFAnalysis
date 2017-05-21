@@ -1,0 +1,1526 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 90,
+                    "floor": 3,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 89,
+                            "price": 483500
+                        }
+                    ],
+                    "unit": 706
+                }
+            ],
+            "block_code": {
+                "block_num": "2A",
+                "contract": "RC24",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2006,
+                "month": 12,
+                "day": 1,
+                "quarter": null,
+                "months_since": -125
+            },
+            "pcd_date": null,
+            "quota_chinese": 0,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "UPPER BOON KENG ROAD",
+            "town": "Kallang / Whampoa",
+            "title": "KALLANG HEIGHTS",
+            "lat": 1.31373844065375,
+            "long": 103.871903293488,
+            "postal": 381002
+        },
+        {
+            "apartments": [
+                {
+                    "area": 94,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 550700
+                        }
+                    ],
+                    "unit": 500
+                },
+                {
+                    "area": 94,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 561100
+                        }
+                    ],
+                    "unit": 500
+                },
+                {
+                    "area": 95,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 524400
+                        }
+                    ],
+                    "unit": 504
+                },
+                {
+                    "area": 95,
+                    "floor": 20,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 578700
+                        }
+                    ],
+                    "unit": 504
+                },
+                {
+                    "area": 95,
+                    "floor": 23,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 589700
+                        }
+                    ],
+                    "unit": 504
+                },
+                {
+                    "area": 88,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 517500
+                        }
+                    ],
+                    "unit": 506
+                },
+                {
+                    "area": 95,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 533900
+                        }
+                    ],
+                    "unit": 508
+                },
+                {
+                    "area": 95,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 546000
+                        }
+                    ],
+                    "unit": 508
+                }
+            ],
+            "block_code": {
+                "block_num": "8A",
+                "contract": "C23B",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": 2
+            },
+            "pcd_date": null,
+            "quota_chinese": 7,
+            "quota_malay": 6,
+            "quota_other": 8,
+            "street": "UPPER BOON KENG ROAD",
+            "town": "Kallang / Whampoa",
+            "title": "KALLANG TRIVISTA",
+            "lat": 1.31292297822303,
+            "long": 103.869749922284,
+            "postal": 381008
+        },
+        {
+            "apartments": [
+                {
+                    "area": 95,
+                    "floor": 25,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 585500
+                        }
+                    ],
+                    "unit": 528
+                },
+                {
+                    "area": 95,
+                    "floor": 29,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 591000
+                        }
+                    ],
+                    "unit": 528
+                },
+                {
+                    "area": 95,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 554200
+                        }
+                    ],
+                    "unit": 534
+                }
+            ],
+            "block_code": {
+                "block_num": "8B",
+                "contract": "C23B",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": 2
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "UPPER BOON KENG ROAD",
+            "town": "Kallang / Whampoa",
+            "title": "KALLANG TRIVISTA",
+            "lat": 1.31245374000854,
+            "long": 103.870051873232,
+            "postal": 382008
+        },
+        {
+            "apartments": [
+                {
+                    "area": 95,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 530800
+                        }
+                    ],
+                    "unit": 540
+                }
+            ],
+            "block_code": {
+                "block_num": "8C",
+                "contract": "C23B",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": 2
+            },
+            "pcd_date": null,
+            "quota_chinese": 0,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "UPPER BOON KENG ROAD",
+            "town": "Kallang / Whampoa",
+            "title": "KALLANG TRIVISTA",
+            "lat": 1.31316722452963,
+            "long": 103.87082333372,
+            "postal": 383008
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 551000
+                        }
+                    ],
+                    "unit": 103
+                },
+                {
+                    "area": 93,
+                    "floor": 27,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 567800
+                        }
+                    ],
+                    "unit": 103
+                },
+                {
+                    "area": 93,
+                    "floor": 38,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 582900
+                        }
+                    ],
+                    "unit": 105
+                },
+                {
+                    "area": 93,
+                    "floor": 19,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 561100
+                        }
+                    ],
+                    "unit": 107
+                },
+                {
+                    "area": 93,
+                    "floor": 22,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 556300
+                        }
+                    ],
+                    "unit": 109
+                }
+            ],
+            "block_code": {
+                "block_num": "10A",
+                "contract": "C50A",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 12,
+                "day": 1,
+                "quarter": null,
+                "months_since": 7
+            },
+            "pcd_date": null,
+            "quota_chinese": 5,
+            "quota_malay": 5,
+            "quota_other": 5,
+            "street": "BENDEMEER ROAD",
+            "town": "Kallang / Whampoa",
+            "title": "BENDEMEER LIGHT",
+            "lat": 1.31499138887317,
+            "long": 103.86050538635,
+            "postal": 331010
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 30,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 571700
+                        }
+                    ],
+                    "unit": 115
+                },
+                {
+                    "area": 93,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 512400
+                        }
+                    ],
+                    "unit": 117
+                },
+                {
+                    "area": 93,
+                    "floor": 21,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 554600
+                        }
+                    ],
+                    "unit": 117
+                },
+                {
+                    "area": 93,
+                    "floor": 36,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 584500
+                        }
+                    ],
+                    "unit": 119
+                }
+            ],
+            "block_code": {
+                "block_num": "10B",
+                "contract": "C50A",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 12,
+                "day": 1,
+                "quarter": null,
+                "months_since": 7
+            },
+            "pcd_date": null,
+            "quota_chinese": 4,
+            "quota_malay": 4,
+            "quota_other": 4,
+            "street": "BENDEMEER ROAD",
+            "town": "Kallang / Whampoa",
+            "title": "BENDEMEER LIGHT",
+            "lat": 1.31547715332075,
+            "long": 103.860312930116,
+            "postal": 332010
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 548500
+                        }
+                    ],
+                    "unit": 127
+                },
+                {
+                    "area": 93,
+                    "floor": 39,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 598000
+                        }
+                    ],
+                    "unit": 127
+                },
+                {
+                    "area": 93,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 549600
+                        }
+                    ],
+                    "unit": 129
+                },
+                {
+                    "area": 93,
+                    "floor": 19,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 556600
+                        }
+                    ],
+                    "unit": 131
+                }
+            ],
+            "block_code": {
+                "block_num": "10C",
+                "contract": "C50A",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 12,
+                "day": 1,
+                "quarter": null,
+                "months_since": 7
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 4,
+            "quota_other": 4,
+            "street": "BENDEMEER ROAD",
+            "town": "Kallang / Whampoa",
+            "title": "BENDEMEER LIGHT",
+            "lat": 1.31584236197019,
+            "long": 103.860644539729,
+            "postal": 333010
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 30,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 583400
+                        }
+                    ],
+                    "unit": 51
+                },
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 532600
+                        }
+                    ],
+                    "unit": 53
+                },
+                {
+                    "area": 92,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 531600
+                        }
+                    ],
+                    "unit": 55
+                }
+            ],
+            "block_code": {
+                "block_num": "25A",
+                "contract": "C21",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 4,
+                "day": 30,
+                "quarter": null,
+                "months_since": 35
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 25
+            },
+            "quota_chinese": 1,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "SAINT GEORGE'S LANE",
+            "town": "Kallang / Whampoa",
+            "title": "SAINT GEORGE'S TOWERS",
+            "lat": 1.32177645251431,
+            "long": 103.861978411131,
+            "postal": 321025
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 522200
+                        }
+                    ],
+                    "unit": 17
+                }
+            ],
+            "block_code": {
+                "block_num": "26A",
+                "contract": "C21",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 4,
+                "day": 30,
+                "quarter": null,
+                "months_since": 35
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 25
+            },
+            "quota_chinese": 0,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "SAINT GEORGE'S LANE",
+            "town": "Kallang / Whampoa",
+            "title": "SAINT GEORGE'S TOWERS",
+            "lat": 1.32238262126124,
+            "long": 103.862438691917,
+            "postal": 321026
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 538600
+                        }
+                    ],
+                    "unit": 29
+                },
+                {
+                    "area": 92,
+                    "floor": 27,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 573200
+                        }
+                    ],
+                    "unit": 39
+                }
+            ],
+            "block_code": {
+                "block_num": "26B",
+                "contract": "C21",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 4,
+                "day": 30,
+                "quarter": null,
+                "months_since": 35
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 25
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "SAINT GEORGE'S LANE",
+            "town": "Kallang / Whampoa",
+            "title": "SAINT GEORGE'S TOWERS",
+            "lat": 1.32166850025133,
+            "long": 103.862718563095,
+            "postal": 322026
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 444200
+                        }
+                    ],
+                    "unit": 61
+                },
+                {
+                    "area": 93,
+                    "floor": 24,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 461800
+                        }
+                    ],
+                    "unit": 61
+                },
+                {
+                    "area": 93,
+                    "floor": 36,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 479700
+                        }
+                    ],
+                    "unit": 61
+                },
+                {
+                    "area": 93,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 404700
+                        }
+                    ],
+                    "unit": 73
+                },
+                {
+                    "area": 93,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 435900
+                        }
+                    ],
+                    "unit": 75
+                },
+                {
+                    "area": 93,
+                    "floor": 20,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 451200
+                        }
+                    ],
+                    "unit": 75
+                },
+                {
+                    "area": 93,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 423900
+                        }
+                    ],
+                    "unit": 79
+                },
+                {
+                    "area": 93,
+                    "floor": 29,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 468800
+                        }
+                    ],
+                    "unit": 79
+                },
+                {
+                    "area": 93,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 439400
+                        }
+                    ],
+                    "unit": 81
+                }
+            ],
+            "block_code": {
+                "block_num": "78",
+                "contract": "C10",
+                "neighbourhood": "N7"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": 13
+            },
+            "pcd_date": null,
+            "quota_chinese": 9,
+            "quota_malay": 9,
+            "quota_other": 9,
+            "street": "LORONG LIMAU",
+            "town": "Kallang / Whampoa",
+            "title": "WHAMPOA DEW",
+            "lat": 1.32487390208635,
+            "long": 103.855540267721,
+            "postal": 320078
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 21,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 591100
+                        }
+                    ],
+                    "unit": 280
+                },
+                {
+                    "area": 93,
+                    "floor": 25,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 603800
+                        }
+                    ],
+                    "unit": 280
+                },
+                {
+                    "area": 93,
+                    "floor": 30,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 603700
+                        }
+                    ],
+                    "unit": 280
+                },
+                {
+                    "area": 93,
+                    "floor": 21,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 602900
+                        }
+                    ],
+                    "unit": 282
+                },
+                {
+                    "area": 93,
+                    "floor": 21,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 602900
+                        }
+                    ],
+                    "unit": 284
+                }
+            ],
+            "block_code": {
+                "block_num": "113A",
+                "contract": "C20C",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 12,
+                "day": 1,
+                "quarter": null,
+                "months_since": 7
+            },
+            "pcd_date": null,
+            "quota_chinese": 5,
+            "quota_malay": 5,
+            "quota_other": 5,
+            "street": "MCNAIR ROAD",
+            "town": "Kallang / Whampoa",
+            "title": "MCNAIR TOWERS",
+            "lat": 1.32142473480889,
+            "long": 103.860195046474,
+            "postal": 322113
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 21,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 593400
+                        }
+                    ],
+                    "unit": 264
+                },
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 576100
+                        }
+                    ],
+                    "unit": 266
+                },
+                {
+                    "area": 93,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 581300
+                        }
+                    ],
+                    "unit": 268
+                },
+                {
+                    "area": 93,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 589800
+                        }
+                    ],
+                    "unit": 268
+                },
+                {
+                    "area": 93,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 569400
+                        }
+                    ],
+                    "unit": 270
+                },
+                {
+                    "area": 93,
+                    "floor": 30,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 610800
+                        }
+                    ],
+                    "unit": 270
+                }
+            ],
+            "block_code": {
+                "block_num": "113B",
+                "contract": "C20C",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 12,
+                "day": 1,
+                "quarter": null,
+                "months_since": 7
+            },
+            "pcd_date": null,
+            "quota_chinese": 6,
+            "quota_malay": 6,
+            "quota_other": 6,
+            "street": "MCNAIR ROAD",
+            "town": "Kallang / Whampoa",
+            "title": "MCNAIR TOWERS",
+            "lat": 1.32117875732865,
+            "long": 103.860568799627,
+            "postal": 323113
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 571800
+                        }
+                    ],
+                    "unit": 250
+                }
+            ],
+            "block_code": {
+                "block_num": "113C",
+                "contract": "C20C",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 12,
+                "day": 1,
+                "quarter": null,
+                "months_since": 7
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "MCNAIR ROAD",
+            "town": "Kallang / Whampoa",
+            "title": "MCNAIR TOWERS",
+            "lat": 1.32088088349613,
+            "long": 103.860332176834,
+            "postal": 324113
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 546300
+                        }
+                    ],
+                    "unit": 230
+                }
+            ],
+            "block_code": {
+                "block_num": "113D",
+                "contract": "C20C",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 12,
+                "day": 1,
+                "quarter": null,
+                "months_since": 7
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "MCNAIR ROAD",
+            "town": "Kallang / Whampoa",
+            "title": "MCNAIR TOWERS",
+            "lat": 1.32016531682988,
+            "long": 103.859859631841,
+            "postal": 325113
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 29,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 450000
+                        }
+                    ],
+                    "unit": 527
+                },
+                {
+                    "area": 93,
+                    "floor": 19,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 429100
+                        }
+                    ],
+                    "unit": 529
+                },
+                {
+                    "area": 93,
+                    "floor": 19,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 431500
+                        }
+                    ],
+                    "unit": 537
+                },
+                {
+                    "area": 93,
+                    "floor": 30,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 446500
+                        }
+                    ],
+                    "unit": 537
+                }
+            ],
+            "block_code": {
+                "block_num": "116A",
+                "contract": "C28B",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 4,
+            "quota_malay": 4,
+            "quota_other": 4,
+            "street": "JALAN TENTERAM",
+            "town": "Kallang / Whampoa",
+            "title": "TENTERAM PEAK",
+            "lat": 1.32705312503212,
+            "long": 103.860558381575,
+            "postal": 321116
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 403600
+                        }
+                    ],
+                    "unit": 541
+                }
+            ],
+            "block_code": {
+                "block_num": "116B",
+                "contract": "C28B",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 0,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "JALAN TENTERAM",
+            "town": "Kallang / Whampoa",
+            "title": "TENTERAM PEAK",
+            "lat": 1.32754908001447,
+            "long": 103.860807411661,
+            "postal": 322116
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 420600
+                        }
+                    ],
+                    "unit": 501
+                },
+                {
+                    "area": 93,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 426000
+                        }
+                    ],
+                    "unit": 501
+                },
+                {
+                    "area": 93,
+                    "floor": 30,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 450000
+                        }
+                    ],
+                    "unit": 501
+                },
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 385800
+                        }
+                    ],
+                    "unit": 503
+                },
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 421900
+                        }
+                    ],
+                    "unit": 503
+                },
+                {
+                    "area": 93,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 426000
+                        }
+                    ],
+                    "unit": 503
+                },
+                {
+                    "area": 93,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 384400
+                        }
+                    ],
+                    "unit": 511
+                },
+                {
+                    "area": 93,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 391200
+                        }
+                    ],
+                    "unit": 511
+                },
+                {
+                    "area": 93,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 420600
+                        }
+                    ],
+                    "unit": 513
+                },
+                {
+                    "area": 93,
+                    "floor": 18,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 430100
+                        }
+                    ],
+                    "unit": 513
+                },
+                {
+                    "area": 93,
+                    "floor": 25,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 439700
+                        }
+                    ],
+                    "unit": 513
+                }
+            ],
+            "block_code": {
+                "block_num": "117A",
+                "contract": "C28B",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 10,
+            "quota_malay": 11,
+            "quota_other": 11,
+            "street": "JALAN TENTERAM",
+            "town": "Kallang / Whampoa",
+            "title": "TENTERAM PEAK",
+            "lat": 1.32823358427153,
+            "long": 103.861138402914,
+            "postal": 321117
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 393100
+                        }
+                    ],
+                    "unit": 519
+                },
+                {
+                    "area": 93,
+                    "floor": 24,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 450500
+                        }
+                    ],
+                    "unit": 519
+                },
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 396800
+                        }
+                    ],
+                    "unit": 521
+                },
+                {
+                    "area": 93,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 401200
+                        }
+                    ],
+                    "unit": 521
+                },
+                {
+                    "area": 93,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 405600
+                        }
+                    ],
+                    "unit": 521
+                },
+                {
+                    "area": 93,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 409900
+                        }
+                    ],
+                    "unit": 521
+                },
+                {
+                    "area": 93,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 428400
+                        }
+                    ],
+                    "unit": 521
+                },
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 400400
+                        }
+                    ],
+                    "unit": 523
+                },
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 434100
+                        }
+                    ],
+                    "unit": 523
+                },
+                {
+                    "area": 93,
+                    "floor": 26,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 448400
+                        }
+                    ],
+                    "unit": 523
+                },
+                {
+                    "area": 93,
+                    "floor": 23,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 451600
+                        }
+                    ],
+                    "unit": 525
+                }
+            ],
+            "block_code": {
+                "block_num": "117B",
+                "contract": "C28B",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 4,
+            "quota_malay": 8,
+            "quota_other": 11,
+            "street": "JALAN TENTERAM",
+            "town": "Kallang / Whampoa",
+            "title": "TENTERAM PEAK",
+            "lat": 1.32816494843877,
+            "long": 103.860801944702,
+            "postal": 322117
+        }
+    ]
+}

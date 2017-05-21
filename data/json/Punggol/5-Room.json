@@ -1,0 +1,3898 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 386300
+                        }
+                    ],
+                    "unit": 171
+                }
+            ],
+            "block_code": {
+                "block_num": "122A",
+                "contract": "C44",
+                "neighbourhood": "S1"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": 0
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 1,
+            "street": "EDGEDALE PLAINS",
+            "town": "Punggol",
+            "title": "PUNGGOL EDGE",
+            "lat": 1.3935098121736,
+            "long": 103.909106562659,
+            "postal": 821122
+        },
+        {
+            "apartments": [
+                {
+                    "area": 112,
+                    "floor": 14,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 388300
+                        }
+                    ],
+                    "unit": 155
+                }
+            ],
+            "block_code": {
+                "block_num": "122B",
+                "contract": "C44",
+                "neighbourhood": "S1"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": 0
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "EDGEDALE PLAINS",
+            "town": "Punggol",
+            "title": "PUNGGOL EDGE",
+            "lat": 1.39415009117253,
+            "long": 103.909595974135,
+            "postal": 822122
+        },
+        {
+            "apartments": [
+                {
+                    "area": 110,
+                    "floor": 7,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 85,
+                            "price": 338000
+                        }
+                    ],
+                    "unit": 345
+                }
+            ],
+            "block_code": {
+                "block_num": "128A",
+                "contract": "C17",
+                "neighbourhood": "S1"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2003,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": -166
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "PUNGGOL FIELD WALK",
+            "town": "Punggol",
+            "title": "HDB-PUNGGOL",
+            "lat": 1.39354226277373,
+            "long": 103.912428475975,
+            "postal": 821128
+        },
+        {
+            "apartments": [
+                {
+                    "area": 110,
+                    "floor": 18,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 86,
+                            "price": 388000
+                        }
+                    ],
+                    "unit": 456
+                }
+            ],
+            "block_code": {
+                "block_num": "171B",
+                "contract": "C22",
+                "neighbourhood": "S1"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2004,
+                "month": 1,
+                "day": 1,
+                "quarter": null,
+                "months_since": -160
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "EDGEDALE PLAINS",
+            "town": "Punggol",
+            "title": "HDB-PUNGGOL",
+            "lat": 1.39497731786874,
+            "long": 103.912717529753,
+            "postal": 822171
+        },
+        {
+            "apartments": [
+                {
+                    "area": 112,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 401800
+                        }
+                    ],
+                    "unit": 244
+                },
+                {
+                    "area": 112,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 411400
+                        }
+                    ],
+                    "unit": 244
+                }
+            ],
+            "block_code": {
+                "block_num": "217A",
+                "contract": "C35",
+                "neighbourhood": "S2"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": 2
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "SUMANG WALK",
+            "town": "Punggol",
+            "title": "MATILDA PARTICO",
+            "lat": 1.40298591772062,
+            "long": 103.895020804883,
+            "postal": 821217
+        },
+        {
+            "apartments": [
+                {
+                    "area": 112,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 363900
+                        }
+                    ],
+                    "unit": 230
+                },
+                {
+                    "area": 112,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 415200
+                        }
+                    ],
+                    "unit": 230
+                },
+                {
+                    "area": 112,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 414000
+                        }
+                    ],
+                    "unit": 234
+                }
+            ],
+            "block_code": {
+                "block_num": "217B",
+                "contract": "C35",
+                "neighbourhood": "S2"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": 2
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "SUMANG WALK",
+            "town": "Punggol",
+            "title": "MATILDA PARTICO",
+            "lat": 1.40240161394666,
+            "long": 103.894934988835,
+            "postal": 822217
+        },
+        {
+            "apartments": [
+                {
+                    "area": 112,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 363300
+                        }
+                    ],
+                    "unit": 212
+                },
+                {
+                    "area": 112,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 369900
+                        }
+                    ],
+                    "unit": 224
+                }
+            ],
+            "block_code": {
+                "block_num": "217C",
+                "contract": "C35",
+                "neighbourhood": "S2"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": 2
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "SUMANG WALK",
+            "town": "Punggol",
+            "title": "MATILDA PARTICO",
+            "lat": 1.40235851000303,
+            "long": 103.895494110668,
+            "postal": 823217
+        },
+        {
+            "apartments": [
+                {
+                    "area": 112,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 376700
+                        }
+                    ],
+                    "unit": 200
+                }
+            ],
+            "block_code": {
+                "block_num": "217D",
+                "contract": "C35",
+                "neighbourhood": "S2"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": 2
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "SUMANG WALK",
+            "town": "Punggol",
+            "title": "MATILDA PARTICO",
+            "lat": 1.4020498576256,
+            "long": 103.89616616484,
+            "postal": 824217
+        },
+        {
+            "apartments": [
+                {
+                    "area": 114,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 421900
+                        }
+                    ],
+                    "unit": 202
+                },
+                {
+                    "area": 114,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 400300
+                        }
+                    ],
+                    "unit": 212
+                }
+            ],
+            "block_code": {
+                "block_num": "226A",
+                "contract": "C37",
+                "neighbourhood": "S2"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 3,
+                "day": 1,
+                "quarter": null,
+                "months_since": 10
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "SUMANG LANE",
+            "town": "Punggol",
+            "title": "THE VERANDAH @ MATILDA",
+            "lat": 1.40280002459702,
+            "long": 103.892844382704,
+            "postal": 821226
+        },
+        {
+            "apartments": [
+                {
+                    "area": 114,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 449800
+                        }
+                    ],
+                    "unit": 216
+                }
+            ],
+            "block_code": {
+                "block_num": "226B",
+                "contract": "C37",
+                "neighbourhood": "S2"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 3,
+                "day": 1,
+                "quarter": null,
+                "months_since": 10
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "SUMANG LANE",
+            "town": "Punggol",
+            "title": "THE VERANDAH @ MATILDA",
+            "lat": 1.40268497999975,
+            "long": 103.893608971394,
+            "postal": 822226
+        },
+        {
+            "apartments": [
+                {
+                    "area": 114,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 399100
+                        }
+                    ],
+                    "unit": 244
+                }
+            ],
+            "block_code": {
+                "block_num": "227A",
+                "contract": "C37",
+                "neighbourhood": "S2"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 3,
+                "day": 1,
+                "quarter": null,
+                "months_since": 10
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "SUMANG LANE",
+            "town": "Punggol",
+            "title": "THE VERANDAH @ MATILDA",
+            "lat": 1.4035892565581,
+            "long": 103.892958748314,
+            "postal": 821227
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 408700
+                        }
+                    ],
+                    "unit": 263
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 371400
+                        }
+                    ],
+                    "unit": 265
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 376400
+                        }
+                    ],
+                    "unit": 265
+                },
+                {
+                    "area": 113,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 386900
+                        }
+                    ],
+                    "unit": 265
+                }
+            ],
+            "block_code": {
+                "block_num": "231A",
+                "contract": "C40",
+                "neighbourhood": "S2"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 10,
+                "day": 31,
+                "quarter": null,
+                "months_since": 17
+            },
+            "flat_type": "5-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 9,
+                "day": null,
+                "quarter": null,
+                "months_since": 4
+            },
+            "quota_chinese": 4,
+            "quota_malay": 4,
+            "quota_other": 4,
+            "street": "SUMANG LANE",
+            "town": "Punggol",
+            "title": "MATILDA COURT",
+            "lat": 1.4020591775405,
+            "long": 103.891879097522,
+            "postal": 821231
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 364400
+                        }
+                    ],
+                    "unit": 253
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 370400
+                        }
+                    ],
+                    "unit": 253
+                },
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 382400
+                        }
+                    ],
+                    "unit": 253
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 357700
+                        }
+                    ],
+                    "unit": 255
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 363700
+                        }
+                    ],
+                    "unit": 255
+                },
+                {
+                    "area": 113,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 403900
+                        }
+                    ],
+                    "unit": 255
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 364400
+                        }
+                    ],
+                    "unit": 259
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 370400
+                        }
+                    ],
+                    "unit": 259
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 376400
+                        }
+                    ],
+                    "unit": 259
+                },
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 382400
+                        }
+                    ],
+                    "unit": 259
+                },
+                {
+                    "area": 113,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 391400
+                        }
+                    ],
+                    "unit": 259
+                },
+                {
+                    "area": 113,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 395900
+                        }
+                    ],
+                    "unit": 259
+                },
+                {
+                    "area": 113,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 397500
+                        }
+                    ],
+                    "unit": 259
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 364400
+                        }
+                    ],
+                    "unit": 261
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 370400
+                        }
+                    ],
+                    "unit": 261
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 376400
+                        }
+                    ],
+                    "unit": 261
+                },
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 382400
+                        }
+                    ],
+                    "unit": 261
+                }
+            ],
+            "block_code": {
+                "block_num": "231B",
+                "contract": "C40",
+                "neighbourhood": "S2"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 10,
+                "day": 31,
+                "quarter": null,
+                "months_since": 17
+            },
+            "flat_type": "5-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 10,
+                "day": null,
+                "quarter": null,
+                "months_since": 5
+            },
+            "quota_chinese": 17,
+            "quota_malay": 8,
+            "quota_other": 13,
+            "street": "SUMANG LANE",
+            "town": "Punggol",
+            "title": "MATILDA COURT",
+            "lat": 1.40212842361404,
+            "long": 103.891466927723,
+            "postal": 822231
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 364400
+                        }
+                    ],
+                    "unit": 385
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 370400
+                        }
+                    ],
+                    "unit": 385
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 376400
+                        }
+                    ],
+                    "unit": 385
+                },
+                {
+                    "area": 113,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 386900
+                        }
+                    ],
+                    "unit": 385
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 364400
+                        }
+                    ],
+                    "unit": 387
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 370400
+                        }
+                    ],
+                    "unit": 387
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 376400
+                        }
+                    ],
+                    "unit": 387
+                },
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 382400
+                        }
+                    ],
+                    "unit": 387
+                },
+                {
+                    "area": 113,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 386900
+                        }
+                    ],
+                    "unit": 387
+                },
+                {
+                    "area": 113,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 391400
+                        }
+                    ],
+                    "unit": 387
+                },
+                {
+                    "area": 113,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 395900
+                        }
+                    ],
+                    "unit": 387
+                },
+                {
+                    "area": 113,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 397500
+                        }
+                    ],
+                    "unit": 387
+                },
+                {
+                    "area": 113,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 399100
+                        }
+                    ],
+                    "unit": 387
+                },
+                {
+                    "area": 113,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 400700
+                        }
+                    ],
+                    "unit": 387
+                },
+                {
+                    "area": 113,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 405500
+                        }
+                    ],
+                    "unit": 387
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 357700
+                        }
+                    ],
+                    "unit": 391
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 363700
+                        }
+                    ],
+                    "unit": 391
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 369700
+                        }
+                    ],
+                    "unit": 391
+                },
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 382400
+                        }
+                    ],
+                    "unit": 391
+                },
+                {
+                    "area": 113,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 386900
+                        }
+                    ],
+                    "unit": 391
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 364400
+                        }
+                    ],
+                    "unit": 393
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 370400
+                        }
+                    ],
+                    "unit": 393
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 376400
+                        }
+                    ],
+                    "unit": 393
+                },
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 382400
+                        }
+                    ],
+                    "unit": 393
+                },
+                {
+                    "area": 113,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 386900
+                        }
+                    ],
+                    "unit": 393
+                }
+            ],
+            "block_code": {
+                "block_num": "232A",
+                "contract": "C40",
+                "neighbourhood": "S2"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 10,
+                "day": 31,
+                "quarter": null,
+                "months_since": 17
+            },
+            "flat_type": "5-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 10,
+                "day": null,
+                "quarter": null,
+                "months_since": 5
+            },
+            "quota_chinese": 25,
+            "quota_malay": 12,
+            "quota_other": 11,
+            "street": "SUMANG LANE",
+            "town": "Punggol",
+            "title": "MATILDA COURT",
+            "lat": 1.40218692671478,
+            "long": 103.891043334632,
+            "postal": 821232
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 351000
+                        }
+                    ],
+                    "unit": 379
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 363700
+                        }
+                    ],
+                    "unit": 379
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 369700
+                        }
+                    ],
+                    "unit": 379
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 364400
+                        }
+                    ],
+                    "unit": 381
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 370400
+                        }
+                    ],
+                    "unit": 381
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 376400
+                        }
+                    ],
+                    "unit": 381
+                },
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 382400
+                        }
+                    ],
+                    "unit": 381
+                },
+                {
+                    "area": 113,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 386900
+                        }
+                    ],
+                    "unit": 381
+                },
+                {
+                    "area": 113,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 391400
+                        }
+                    ],
+                    "unit": 381
+                },
+                {
+                    "area": 113,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 395900
+                        }
+                    ],
+                    "unit": 381
+                },
+                {
+                    "area": 113,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 397500
+                        }
+                    ],
+                    "unit": 381
+                },
+                {
+                    "area": 113,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 399100
+                        }
+                    ],
+                    "unit": 381
+                },
+                {
+                    "area": 113,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 402300
+                        }
+                    ],
+                    "unit": 381
+                },
+                {
+                    "area": 113,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 403900
+                        }
+                    ],
+                    "unit": 381
+                },
+                {
+                    "area": 113,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 405500
+                        }
+                    ],
+                    "unit": 381
+                },
+                {
+                    "area": 113,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 407100
+                        }
+                    ],
+                    "unit": 381
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 364400
+                        }
+                    ],
+                    "unit": 383
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 370400
+                        }
+                    ],
+                    "unit": 383
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 376400
+                        }
+                    ],
+                    "unit": 383
+                },
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 382400
+                        }
+                    ],
+                    "unit": 383
+                },
+                {
+                    "area": 113,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 386900
+                        }
+                    ],
+                    "unit": 383
+                },
+                {
+                    "area": 113,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 391400
+                        }
+                    ],
+                    "unit": 383
+                },
+                {
+                    "area": 113,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 395900
+                        }
+                    ],
+                    "unit": 383
+                },
+                {
+                    "area": 113,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 397500
+                        }
+                    ],
+                    "unit": 383
+                },
+                {
+                    "area": 113,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 399100
+                        }
+                    ],
+                    "unit": 383
+                },
+                {
+                    "area": 113,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 400700
+                        }
+                    ],
+                    "unit": 383
+                },
+                {
+                    "area": 113,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 403900
+                        }
+                    ],
+                    "unit": 383
+                },
+                {
+                    "area": 113,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 405500
+                        }
+                    ],
+                    "unit": 383
+                },
+                {
+                    "area": 113,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 407100
+                        }
+                    ],
+                    "unit": 383
+                }
+            ],
+            "block_code": {
+                "block_num": "232B",
+                "contract": "C40",
+                "neighbourhood": "S2"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 10,
+                "day": 31,
+                "quarter": null,
+                "months_since": 17
+            },
+            "flat_type": "5-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 10,
+                "day": null,
+                "quarter": null,
+                "months_since": 5
+            },
+            "quota_chinese": 29,
+            "quota_malay": 7,
+            "quota_other": 11,
+            "street": "SUMANG LANE",
+            "town": "Punggol",
+            "title": "MATILDA COURT",
+            "lat": 1.40230127551326,
+            "long": 103.890633318076,
+            "postal": 822232
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 364400
+                        }
+                    ],
+                    "unit": 313
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 370400
+                        }
+                    ],
+                    "unit": 313
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 376400
+                        }
+                    ],
+                    "unit": 313
+                },
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 382400
+                        }
+                    ],
+                    "unit": 313
+                },
+                {
+                    "area": 113,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 386900
+                        }
+                    ],
+                    "unit": 313
+                },
+                {
+                    "area": 113,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 395900
+                        }
+                    ],
+                    "unit": 313
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 364400
+                        }
+                    ],
+                    "unit": 315
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 370400
+                        }
+                    ],
+                    "unit": 315
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 376400
+                        }
+                    ],
+                    "unit": 315
+                },
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 382400
+                        }
+                    ],
+                    "unit": 315
+                },
+                {
+                    "area": 113,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 386900
+                        }
+                    ],
+                    "unit": 315
+                },
+                {
+                    "area": 113,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 391400
+                        }
+                    ],
+                    "unit": 315
+                },
+                {
+                    "area": 113,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 395900
+                        }
+                    ],
+                    "unit": 315
+                },
+                {
+                    "area": 113,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 397500
+                        }
+                    ],
+                    "unit": 315
+                },
+                {
+                    "area": 113,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 399100
+                        }
+                    ],
+                    "unit": 315
+                },
+                {
+                    "area": 113,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 400700
+                        }
+                    ],
+                    "unit": 315
+                },
+                {
+                    "area": 113,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 403900
+                        }
+                    ],
+                    "unit": 315
+                },
+                {
+                    "area": 113,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 405500
+                        }
+                    ],
+                    "unit": 315
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 337700
+                        }
+                    ],
+                    "unit": 317
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 343700
+                        }
+                    ],
+                    "unit": 317
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 349700
+                        }
+                    ],
+                    "unit": 317
+                },
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 362400
+                        }
+                    ],
+                    "unit": 317
+                },
+                {
+                    "area": 113,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 366900
+                        }
+                    ],
+                    "unit": 317
+                }
+            ],
+            "block_code": {
+                "block_num": "233B",
+                "contract": "C40",
+                "neighbourhood": "S2"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 10,
+                "day": 31,
+                "quarter": null,
+                "months_since": 17
+            },
+            "flat_type": "5-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 10,
+                "day": null,
+                "quarter": null,
+                "months_since": 5
+            },
+            "quota_chinese": 23,
+            "quota_malay": 2,
+            "quota_other": 11,
+            "street": "SUMANG LANE",
+            "town": "Punggol",
+            "title": "MATILDA COURT",
+            "lat": 1.40165253243348,
+            "long": 103.890713044889,
+            "postal": 822233
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 337700
+                        }
+                    ],
+                    "unit": 307
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 343700
+                        }
+                    ],
+                    "unit": 307
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 349700
+                        }
+                    ],
+                    "unit": 307
+                },
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 362400
+                        }
+                    ],
+                    "unit": 307
+                },
+                {
+                    "area": 113,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 366900
+                        }
+                    ],
+                    "unit": 307
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 364400
+                        }
+                    ],
+                    "unit": 309
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 376400
+                        }
+                    ],
+                    "unit": 309
+                },
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 382400
+                        }
+                    ],
+                    "unit": 309
+                },
+                {
+                    "area": 113,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 386900
+                        }
+                    ],
+                    "unit": 309
+                },
+                {
+                    "area": 113,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 391400
+                        }
+                    ],
+                    "unit": 309
+                },
+                {
+                    "area": 113,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 395900
+                        }
+                    ],
+                    "unit": 309
+                },
+                {
+                    "area": 113,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 399100
+                        }
+                    ],
+                    "unit": 309
+                },
+                {
+                    "area": 113,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 400700
+                        }
+                    ],
+                    "unit": 309
+                },
+                {
+                    "area": 113,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 402300
+                        }
+                    ],
+                    "unit": 309
+                },
+                {
+                    "area": 113,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 405500
+                        }
+                    ],
+                    "unit": 309
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 364400
+                        }
+                    ],
+                    "unit": 311
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 370400
+                        }
+                    ],
+                    "unit": 311
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 376400
+                        }
+                    ],
+                    "unit": 311
+                },
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 382400
+                        }
+                    ],
+                    "unit": 311
+                },
+                {
+                    "area": 113,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 392400
+                        }
+                    ],
+                    "unit": 311
+                }
+            ],
+            "block_code": {
+                "block_num": "233C",
+                "contract": "C40",
+                "neighbourhood": "S2"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 10,
+                "day": 31,
+                "quarter": null,
+                "months_since": 17
+            },
+            "flat_type": "5-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 10,
+                "day": null,
+                "quarter": null,
+                "months_since": 5
+            },
+            "quota_chinese": 20,
+            "quota_malay": 7,
+            "quota_other": 10,
+            "street": "SUMANG LANE",
+            "town": "Punggol",
+            "title": "MATILDA COURT",
+            "lat": 1.40173160210898,
+            "long": 103.891041471826,
+            "postal": 823233
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 364400
+                        }
+                    ],
+                    "unit": 289
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 370400
+                        }
+                    ],
+                    "unit": 289
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 376400
+                        }
+                    ],
+                    "unit": 289
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 364400
+                        }
+                    ],
+                    "unit": 291
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 370400
+                        }
+                    ],
+                    "unit": 291
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 376400
+                        }
+                    ],
+                    "unit": 291
+                },
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 382400
+                        }
+                    ],
+                    "unit": 291
+                },
+                {
+                    "area": 113,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 386900
+                        }
+                    ],
+                    "unit": 291
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 343700
+                        }
+                    ],
+                    "unit": 293
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 349700
+                        }
+                    ],
+                    "unit": 293
+                },
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 362400
+                        }
+                    ],
+                    "unit": 293
+                },
+                {
+                    "area": 113,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 366900
+                        }
+                    ],
+                    "unit": 293
+                },
+                {
+                    "area": 113,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 406200
+                        }
+                    ],
+                    "unit": 293
+                }
+            ],
+            "block_code": {
+                "block_num": "234B",
+                "contract": "C40",
+                "neighbourhood": "S2"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 10,
+                "day": 31,
+                "quarter": null,
+                "months_since": 17
+            },
+            "flat_type": "5-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 10,
+                "day": null,
+                "quarter": null,
+                "months_since": 5
+            },
+            "quota_chinese": 13,
+            "quota_malay": 9,
+            "quota_other": 9,
+            "street": "SUMANG LANE",
+            "town": "Punggol",
+            "title": "MATILDA COURT",
+            "lat": 1.40152040025259,
+            "long": 103.891564753029,
+            "postal": 822234
+        },
+        {
+            "apartments": [
+                {
+                    "area": 149,
+                    "floor": 16,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 95,
+                            "price": 580000
+                        }
+                    ],
+                    "unit": 101
+                }
+            ],
+            "block_code": {
+                "block_num": "267A",
+                "contract": "C18",
+                "neighbourhood": "S2"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2013,
+                "month": 1,
+                "day": 1,
+                "quarter": null,
+                "months_since": -52
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "PUNGGOL FIELD",
+            "town": "Punggol",
+            "title": "PUNGGOL SAPPHIRE",
+            "lat": 1.40455909402436,
+            "long": 103.897504889615,
+            "postal": 821267
+        },
+        {
+            "apartments": [
+                {
+                    "area": 112,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 470500
+                        }
+                    ],
+                    "unit": 370
+                }
+            ],
+            "block_code": {
+                "block_num": "308B",
+                "contract": "C20",
+                "neighbourhood": "S3"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 3,
+                "day": 1,
+                "quarter": null,
+                "months_since": -14
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "PUNGGOL WALK",
+            "town": "Punggol",
+            "title": "WATERWAY TERRACES I",
+            "lat": 1.40776676808474,
+            "long": 103.89958085133,
+            "postal": 822308
+        },
+        {
+            "apartments": [
+                {
+                    "area": 112,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 449800
+                        }
+                    ],
+                    "unit": 320
+                }
+            ],
+            "block_code": {
+                "block_num": "308C",
+                "contract": "C20",
+                "neighbourhood": "S3"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 3,
+                "day": 1,
+                "quarter": null,
+                "months_since": -14
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "PUNGGOL WALK",
+            "town": "Punggol",
+            "title": "WATERWAY TERRACES I",
+            "lat": 1.40800694944031,
+            "long": 103.899074357998,
+            "postal": 823308
+        },
+        {
+            "apartments": [
+                {
+                    "area": 112,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 478600
+                        }
+                    ],
+                    "unit": 504
+                },
+                {
+                    "area": 112,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 477000
+                        }
+                    ],
+                    "unit": 510
+                }
+            ],
+            "block_code": {
+                "block_num": "310A",
+                "contract": "C22",
+                "neighbourhood": "S3"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": -11
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "PUNGGOL WALK",
+            "town": "Punggol",
+            "title": "WATERWAY TERRACES II",
+            "lat": 1.40870088870468,
+            "long": 103.901326604714,
+            "postal": 821310
+        },
+        {
+            "apartments": [
+                {
+                    "area": 112,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 467500
+                        }
+                    ],
+                    "unit": 546
+                }
+            ],
+            "block_code": {
+                "block_num": "310B",
+                "contract": "C22",
+                "neighbourhood": "S3"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": -11
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "PUNGGOL WALK",
+            "town": "Punggol",
+            "title": "WATERWAY TERRACES II",
+            "lat": 1.40932267495627,
+            "long": 103.900801836373,
+            "postal": 822310
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 468700
+                        }
+                    ],
+                    "unit": 617
+                },
+                {
+                    "area": 113,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 462100
+                        }
+                    ],
+                    "unit": 619
+                }
+            ],
+            "block_code": {
+                "block_num": "314A",
+                "contract": "C31",
+                "neighbourhood": "S3"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 9,
+                "day": 1,
+                "quarter": null,
+                "months_since": 4
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "PUNGGOL WAY",
+            "town": "Punggol",
+            "title": "WATERWAY CASCADIA",
+            "lat": 1.40826187839777,
+            "long": 103.898017940475,
+            "postal": 821314
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 452300
+                        }
+                    ],
+                    "unit": 661
+                }
+            ],
+            "block_code": {
+                "block_num": "315B",
+                "contract": "C31",
+                "neighbourhood": "S3"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 9,
+                "day": 1,
+                "quarter": null,
+                "months_since": 4
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "PUNGGOL WAY",
+            "town": "Punggol",
+            "title": "WATERWAY CASCADIA",
+            "lat": 1.40795602683386,
+            "long": 103.896400767911,
+            "postal": 822315
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 449100
+                        }
+                    ],
+                    "unit": 715
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 440000
+                        }
+                    ],
+                    "unit": 723
+                }
+            ],
+            "block_code": {
+                "block_num": "316B",
+                "contract": "C31",
+                "neighbourhood": "S3"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 9,
+                "day": 1,
+                "quarter": null,
+                "months_since": 4
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "PUNGGOL WAY",
+            "town": "Punggol",
+            "title": "WATERWAY CASCADIA",
+            "lat": 1.40894665776412,
+            "long": 103.89792554782,
+            "postal": 822316
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 444600
+                        }
+                    ],
+                    "unit": 699
+                }
+            ],
+            "block_code": {
+                "block_num": "316C",
+                "contract": "C31",
+                "neighbourhood": "S3"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 9,
+                "day": 1,
+                "quarter": null,
+                "months_since": 4
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "PUNGGOL WAY",
+            "town": "Punggol",
+            "title": "WATERWAY CASCADIA",
+            "lat": 1.4089757747418,
+            "long": 103.897024808292,
+            "postal": 823316
+        },
+        {
+            "apartments": [
+                {
+                    "area": 122,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 507100
+                        }
+                    ],
+                    "unit": 895
+                },
+                {
+                    "area": 121,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 459300
+                        }
+                    ],
+                    "unit": 897
+                },
+                {
+                    "area": 113,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 462800
+                        }
+                    ],
+                    "unit": 905
+                }
+            ],
+            "block_code": {
+                "block_num": "322A",
+                "contract": "C33",
+                "neighbourhood": "S3"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 2,
+                "day": 28,
+                "quarter": null,
+                "months_since": 21
+            },
+            "flat_type": "5-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 1,
+                "months_since": 10
+            },
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 2,
+            "street": "SUMANG WALK",
+            "town": "Punggol",
+            "title": "PUNGGOL BAYVIEW",
+            "lat": 1.41139447142607,
+            "long": 103.897032401459,
+            "postal": 821322
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 402700
+                        }
+                    ],
+                    "unit": 883
+                }
+            ],
+            "block_code": {
+                "block_num": "322B",
+                "contract": "C33",
+                "neighbourhood": "S3"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 2,
+                "day": 28,
+                "quarter": null,
+                "months_since": 21
+            },
+            "flat_type": "5-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 1,
+                "months_since": 10
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "SUMANG WALK",
+            "town": "Punggol",
+            "title": "PUNGGOL BAYVIEW",
+            "lat": 1.41091588551688,
+            "long": 103.896886744995,
+            "postal": 822322
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 457900
+                        }
+                    ],
+                    "unit": 943
+                },
+                {
+                    "area": 113,
+                    "floor": 18,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 467500
+                        }
+                    ],
+                    "unit": 945
+                }
+            ],
+            "block_code": {
+                "block_num": "323A",
+                "contract": "C33",
+                "neighbourhood": "S3"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 12,
+                "day": 31,
+                "quarter": null,
+                "months_since": 31
+            },
+            "flat_type": "5-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 4,
+                "months_since": 19
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "SUMANG WALK",
+            "town": "Punggol",
+            "title": "PUNGGOL BAYVIEW",
+            "lat": 1.41239137117201,
+            "long": 103.898233670211,
+            "postal": 821323
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 412400
+                        }
+                    ],
+                    "unit": 929
+                }
+            ],
+            "block_code": {
+                "block_num": "323C",
+                "contract": "C33",
+                "neighbourhood": "S3"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 12,
+                "day": 31,
+                "quarter": null,
+                "months_since": 31
+            },
+            "flat_type": "5-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 4,
+                "months_since": 19
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "SUMANG WALK",
+            "town": "Punggol",
+            "title": "PUNGGOL BAYVIEW",
+            "lat": 1.4126667027686,
+            "long": 103.897601359974,
+            "postal": 823323
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 405300
+                        }
+                    ],
+                    "unit": 907
+                }
+            ],
+            "block_code": {
+                "block_num": "323D",
+                "contract": "C33",
+                "neighbourhood": "S3"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 12,
+                "day": 31,
+                "quarter": null,
+                "months_since": 31
+            },
+            "flat_type": "5-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 4,
+                "months_since": 19
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "SUMANG WALK",
+            "town": "Punggol",
+            "title": "PUNGGOL BAYVIEW",
+            "lat": 1.41218811745697,
+            "long": 103.897455703032,
+            "postal": 824323
+        },
+        {
+            "apartments": [
+                {
+                    "area": 116,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 475900
+                        }
+                    ],
+                    "unit": 981
+                }
+            ],
+            "block_code": {
+                "block_num": "325A",
+                "contract": "C33",
+                "neighbourhood": "S3"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 12,
+                "day": 31,
+                "quarter": null,
+                "months_since": 31
+            },
+            "flat_type": "5-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 4,
+                "months_since": 19
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "SUMANG WALK",
+            "town": "Punggol",
+            "title": "PUNGGOL BAYVIEW",
+            "lat": 1.41359660400069,
+            "long": 103.898121318524,
+            "postal": 821325
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 417000
+                        }
+                    ],
+                    "unit": 727
+                }
+            ],
+            "block_code": {
+                "block_num": "658C",
+                "contract": "C35",
+                "neighbourhood": "S6"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 10,
+                "day": 31,
+                "quarter": null,
+                "months_since": 17
+            },
+            "flat_type": "5-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": null,
+                "day": null,
+                "quarter": 4,
+                "months_since": 7
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "PUNGGOL EAST",
+            "town": "Punggol",
+            "title": "WATERWAY SUNRAY",
+            "lat": 1.4005498168889,
+            "long": 103.918650173348,
+            "postal": 823658
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 391100
+                        }
+                    ],
+                    "unit": 775
+                }
+            ],
+            "block_code": {
+                "block_num": "659A",
+                "contract": "C35",
+                "neighbourhood": "S6"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 10,
+                "day": 31,
+                "quarter": null,
+                "months_since": 17
+            },
+            "flat_type": "5-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 9,
+                "day": null,
+                "quarter": null,
+                "months_since": 4
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "PUNGGOL EAST",
+            "town": "Punggol",
+            "title": "WATERWAY SUNRAY",
+            "lat": 1.40052783312785,
+            "long": 103.919757400355,
+            "postal": 821659
+        },
+        {
+            "apartments": [
+                {
+                    "area": 112,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 407100
+                        }
+                    ],
+                    "unit": 630
+                },
+                {
+                    "area": 112,
+                    "floor": 18,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 445400
+                        }
+                    ],
+                    "unit": 630
+                },
+                {
+                    "area": 112,
+                    "floor": 19,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 442000
+                        }
+                    ],
+                    "unit": 632
+                }
+            ],
+            "block_code": {
+                "block_num": "661B",
+                "contract": "C36",
+                "neighbourhood": "S6"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": 0
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "EDGEDALE PLAINS",
+            "town": "Punggol",
+            "title": "WATERWAY SUNDEW",
+            "lat": 1.40243632878559,
+            "long": 103.916913600913,
+            "postal": 822661
+        },
+        {
+            "apartments": [
+                {
+                    "area": 112,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 413500
+                        }
+                    ],
+                    "unit": 638
+                },
+                {
+                    "area": 112,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 389200
+                        }
+                    ],
+                    "unit": 640
+                },
+                {
+                    "area": 112,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 416700
+                        }
+                    ],
+                    "unit": 640
+                }
+            ],
+            "block_code": {
+                "block_num": "661C",
+                "contract": "C36",
+                "neighbourhood": "S6"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": 0
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 1,
+            "quota_other": 3,
+            "street": "EDGEDALE PLAINS",
+            "town": "Punggol",
+            "title": "WATERWAY SUNDEW",
+            "lat": 1.40207158668281,
+            "long": 103.917480013596,
+            "postal": 823661
+        },
+        {
+            "apartments": [
+                {
+                    "area": 112,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 412500
+                        }
+                    ],
+                    "unit": 696
+                }
+            ],
+            "block_code": {
+                "block_num": "662C",
+                "contract": "C36",
+                "neighbourhood": "S6"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": 0
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "EDGEDALE PLAINS",
+            "town": "Punggol",
+            "title": "WATERWAY SUNDEW",
+            "lat": 1.40139181635048,
+            "long": 103.918513893557,
+            "postal": 823662
+        },
+        {
+            "apartments": [
+                {
+                    "area": 112,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 370300
+                        }
+                    ],
+                    "unit": 704
+                },
+                {
+                    "area": 112,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 360000
+                        }
+                    ],
+                    "unit": 706
+                },
+                {
+                    "area": 112,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 383300
+                        }
+                    ],
+                    "unit": 706
+                },
+                {
+                    "area": 112,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 430900
+                        }
+                    ],
+                    "unit": 712
+                },
+                {
+                    "area": 112,
+                    "floor": 19,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 452200
+                        }
+                    ],
+                    "unit": 712
+                }
+            ],
+            "block_code": {
+                "block_num": "662D",
+                "contract": "C36",
+                "neighbourhood": "S6"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": 0
+            },
+            "pcd_date": null,
+            "quota_chinese": 5,
+            "quota_malay": 5,
+            "quota_other": 5,
+            "street": "EDGEDALE PLAINS",
+            "town": "Punggol",
+            "title": "WATERWAY SUNDEW",
+            "lat": 1.4016725599523,
+            "long": 103.918002836686,
+            "postal": 824662
+        },
+        {
+            "apartments": [
+                {
+                    "area": 110,
+                    "floor": 18,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 396700
+                        }
+                    ],
+                    "unit": 260
+                }
+            ],
+            "block_code": {
+                "block_num": "663A",
+                "contract": "C34",
+                "neighbourhood": "S6"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": -11
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "PUNGGOL DRIVE",
+            "town": "Punggol",
+            "title": "WATERWAY SUNBEAM",
+            "lat": 1.4002434771806,
+            "long": 103.91708004,
+            "postal": 821663
+        },
+        {
+            "apartments": [
+                {
+                    "area": 110,
+                    "floor": 18,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 387500
+                        }
+                    ],
+                    "unit": 216
+                }
+            ],
+            "block_code": {
+                "block_num": "664A",
+                "contract": "C34",
+                "neighbourhood": "S6"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": -11
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "PUNGGOL DRIVE",
+            "town": "Punggol",
+            "title": "WATERWAY SUNBEAM",
+            "lat": 1.3994321826751,
+            "long": 103.917510729317,
+            "postal": 821664
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 403400
+                        }
+                    ],
+                    "unit": 542
+                },
+                {
+                    "area": 113,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 419800
+                        }
+                    ],
+                    "unit": 542
+                }
+            ],
+            "block_code": {
+                "block_num": "665C",
+                "contract": "C38",
+                "neighbourhood": "S6"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": -15
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "PUNGGOL DRIVE",
+            "town": "Punggol",
+            "title": "WATERWAY WOODCRESS",
+            "lat": 1.40149164608042,
+            "long": 103.914459128885,
+            "postal": 823665
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 441700
+                        }
+                    ],
+                    "unit": 560
+                },
+                {
+                    "area": 113,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 444400
+                        }
+                    ],
+                    "unit": 564
+                }
+            ],
+            "block_code": {
+                "block_num": "666B",
+                "contract": "C38",
+                "neighbourhood": "S6"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": -15
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "PUNGGOL DRIVE",
+            "town": "Punggol",
+            "title": "WATERWAY WOODCRESS",
+            "lat": 1.40179672508934,
+            "long": 103.915278092564,
+            "postal": 822666
+        },
+        {
+            "apartments": [
+                {
+                    "area": 112,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 430400
+                        }
+                    ],
+                    "unit": 654
+                }
+            ],
+            "block_code": {
+                "block_num": "669A",
+                "contract": "C39",
+                "neighbourhood": "S6"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": -11
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "EDGEFIELD PLAINS",
+            "town": "Punggol",
+            "title": "WATERWAY RIDGES",
+            "lat": 1.40490974914066,
+            "long": 103.913969471596,
+            "postal": 821669
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 419900
+                        }
+                    ],
+                    "unit": 722
+                },
+                {
+                    "area": 113,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 456300
+                        }
+                    ],
+                    "unit": 722
+                }
+            ],
+            "block_code": {
+                "block_num": "676B",
+                "contract": "C40",
+                "neighbourhood": "S6"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 9,
+                "day": 1,
+                "quarter": null,
+                "months_since": -8
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "PUNGGOL DRIVE",
+            "town": "Punggol",
+            "title": "WATERWAY BROOKS",
+            "lat": 1.40500508075085,
+            "long": 103.910401995798,
+            "postal": 822676
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 417700
+                        }
+                    ],
+                    "unit": 728
+                }
+            ],
+            "block_code": {
+                "block_num": "676C",
+                "contract": "C40",
+                "neighbourhood": "S6"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 9,
+                "day": 1,
+                "quarter": null,
+                "months_since": -8
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "PUNGGOL DRIVE",
+            "town": "Punggol",
+            "title": "WATERWAY BROOKS",
+            "lat": 1.40529206884305,
+            "long": 103.910662635841,
+            "postal": 823676
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 466300
+                        }
+                    ],
+                    "unit": 736
+                }
+            ],
+            "block_code": {
+                "block_num": "676D",
+                "contract": "C40",
+                "neighbourhood": "S6"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 9,
+                "day": 1,
+                "quarter": null,
+                "months_since": -8
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "PUNGGOL DRIVE",
+            "town": "Punggol",
+            "title": "WATERWAY BROOKS",
+            "lat": 1.40558108395622,
+            "long": 103.910724558733,
+            "postal": 824676
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 416300
+                        }
+                    ],
+                    "unit": 764
+                }
+            ],
+            "block_code": {
+                "block_num": "677C",
+                "contract": "C40",
+                "neighbourhood": "S6"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 9,
+                "day": 1,
+                "quarter": null,
+                "months_since": -8
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "PUNGGOL DRIVE",
+            "town": "Punggol",
+            "title": "WATERWAY BROOKS",
+            "lat": 1.40552736805656,
+            "long": 103.909857811726,
+            "postal": 823677
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 416000
+                        }
+                    ],
+                    "unit": 751
+                }
+            ],
+            "block_code": {
+                "block_num": "682A",
+                "contract": "C39B",
+                "neighbourhood": "S6"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 8,
+                "day": 1,
+                "quarter": null,
+                "months_since": 15
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "EDGEDALE PLAINS",
+            "town": "Punggol",
+            "title": "WATERWAY VIEW",
+            "lat": 1.40354774923553,
+            "long": 103.916291277867,
+            "postal": 821682
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 425500
+                        }
+                    ],
+                    "unit": 683
+                }
+            ],
+            "block_code": {
+                "block_num": "683C",
+                "contract": "C39B",
+                "neighbourhood": "S6"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 7,
+                "day": 31,
+                "quarter": null,
+                "months_since": 14
+            },
+            "flat_type": "5-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 6,
+                "day": null,
+                "quarter": null,
+                "months_since": 1
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "EDGEDALE PLAINS",
+            "town": "Punggol",
+            "title": "WATERWAY VIEW",
+            "lat": 1.4040735488328,
+            "long": 103.914648681819,
+            "postal": 823683
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 400900
+                        }
+                    ],
+                    "unit": 625
+                }
+            ],
+            "block_code": {
+                "block_num": "684B",
+                "contract": "C39B",
+                "neighbourhood": "S6"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 7,
+                "day": 31,
+                "quarter": null,
+                "months_since": 14
+            },
+            "flat_type": "5-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 4
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "EDGEDALE PLAINS",
+            "town": "Punggol",
+            "title": "WATERWAY VIEW",
+            "lat": 1.40302713233013,
+            "long": 103.915005575569,
+            "postal": 822684
+        }
+    ]
+}

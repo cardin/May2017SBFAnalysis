@@ -1,0 +1,2838 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 283400
+                        }
+                    ],
+                    "unit": 204
+                }
+            ],
+            "block_code": {
+                "block_num": "162A",
+                "contract": "C29",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": 0
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "RIVERVALE CRESCENT",
+            "town": "Sengkang",
+            "title": "RIVERVALE DELTA",
+            "lat": 1.39035961258597,
+            "long": 103.907636739734,
+            "postal": 541162
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 287400
+                        }
+                    ],
+                    "unit": 216
+                }
+            ],
+            "block_code": {
+                "block_num": "162B",
+                "contract": "C29",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": 0
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "RIVERVALE CRESCENT",
+            "town": "Sengkang",
+            "title": "RIVERVALE DELTA",
+            "lat": 1.39035967745114,
+            "long": 103.908076555691,
+            "postal": 542162
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 287900
+                        }
+                    ],
+                    "unit": 258
+                },
+                {
+                    "area": 93,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 316300
+                        }
+                    ],
+                    "unit": 258
+                },
+                {
+                    "area": 93,
+                    "floor": 18,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 325000
+                        }
+                    ],
+                    "unit": 258
+                },
+                {
+                    "area": 93,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 272900
+                        }
+                    ],
+                    "unit": 262
+                }
+            ],
+            "block_code": {
+                "block_num": "163C",
+                "contract": "C29",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": 0
+            },
+            "pcd_date": null,
+            "quota_chinese": 4,
+            "quota_malay": 4,
+            "quota_other": 4,
+            "street": "RIVERVALE CRESCENT",
+            "town": "Sengkang",
+            "title": "RIVERVALE DELTA",
+            "lat": 1.38965895052745,
+            "long": 103.9082928215,
+            "postal": 543163
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 282900
+                        }
+                    ],
+                    "unit": 284
+                }
+            ],
+            "block_code": {
+                "block_num": "164A",
+                "contract": "C29",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": 0
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "RIVERVALE CRESCENT",
+            "town": "Sengkang",
+            "title": "RIVERVALE DELTA",
+            "lat": 1.39007029696731,
+            "long": 103.907273221559,
+            "postal": 541164
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 397800
+                        }
+                    ],
+                    "unit": 502
+                },
+                {
+                    "area": 92,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 400700
+                        }
+                    ],
+                    "unit": 514
+                },
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 364400
+                        }
+                    ],
+                    "unit": 518
+                }
+            ],
+            "block_code": {
+                "block_num": "215A",
+                "contract": "C45",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": 0
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "COMPASSVALE DRIVE",
+            "town": "Sengkang",
+            "title": "COMPASSVALE MAST",
+            "lat": 1.38947868254875,
+            "long": 103.893278837452,
+            "postal": 541215
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 374100
+                        }
+                    ],
+                    "unit": 568
+                }
+            ],
+            "block_code": {
+                "block_num": "216C",
+                "contract": "C45",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": 0
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "COMPASSVALE DRIVE",
+            "town": "Sengkang",
+            "title": "COMPASSVALE MAST",
+            "lat": 1.39047361067014,
+            "long": 103.894318118954,
+            "postal": 543216
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 397500
+                        }
+                    ],
+                    "unit": 616
+                }
+            ],
+            "block_code": {
+                "block_num": "217A",
+                "contract": "C45",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": 0
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "COMPASSVALE DRIVE",
+            "town": "Sengkang",
+            "title": "COMPASSVALE MAST",
+            "lat": 1.38930950392921,
+            "long": 103.893783691204,
+            "postal": 541217
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 390800
+                        }
+                    ],
+                    "unit": 606
+                },
+                {
+                    "area": 92,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 402100
+                        }
+                    ],
+                    "unit": 608
+                },
+                {
+                    "area": 92,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 399300
+                        }
+                    ],
+                    "unit": 610
+                }
+            ],
+            "block_code": {
+                "block_num": "217B",
+                "contract": "C45",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": 0
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "COMPASSVALE DRIVE",
+            "town": "Sengkang",
+            "title": "COMPASSVALE MAST",
+            "lat": 1.38928033604775,
+            "long": 103.894345637862,
+            "postal": 542217
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 404500
+                        }
+                    ],
+                    "unit": 584
+                },
+                {
+                    "area": 93,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 388100
+                        }
+                    ],
+                    "unit": 586
+                },
+                {
+                    "area": 92,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 406000
+                        }
+                    ],
+                    "unit": 592
+                }
+            ],
+            "block_code": {
+                "block_num": "217C",
+                "contract": "C45",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": 0
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "COMPASSVALE DRIVE",
+            "town": "Sengkang",
+            "title": "COMPASSVALE MAST",
+            "lat": 1.38983599006928,
+            "long": 103.894154149578,
+            "postal": 543217
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 327400
+                        }
+                    ],
+                    "unit": 527
+                },
+                {
+                    "area": 92,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 359400
+                        }
+                    ],
+                    "unit": 527
+                },
+                {
+                    "area": 92,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 357400
+                        }
+                    ],
+                    "unit": 529
+                }
+            ],
+            "block_code": {
+                "block_num": "274A",
+                "contract": "C42",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "COMPASSVALE BOW",
+            "town": "Sengkang",
+            "title": "COMPASSVALE HELM",
+            "lat": 1.38155184972064,
+            "long": 103.890559065147,
+            "postal": 541274
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 323400
+                        }
+                    ],
+                    "unit": 515
+                },
+                {
+                    "area": 92,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 346200
+                        }
+                    ],
+                    "unit": 515
+                },
+                {
+                    "area": 92,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 353200
+                        }
+                    ],
+                    "unit": 515
+                },
+                {
+                    "area": 92,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 356600
+                        }
+                    ],
+                    "unit": 517
+                }
+            ],
+            "block_code": {
+                "block_num": "274B",
+                "contract": "C42",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 4,
+            "quota_malay": 4,
+            "quota_other": 4,
+            "street": "COMPASSVALE BOW",
+            "town": "Sengkang",
+            "title": "COMPASSVALE HELM",
+            "lat": 1.38192173868831,
+            "long": 103.890873038066,
+            "postal": 542274
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 332300
+                        }
+                    ],
+                    "unit": 509
+                },
+                {
+                    "area": 92,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 336800
+                        }
+                    ],
+                    "unit": 509
+                }
+            ],
+            "block_code": {
+                "block_num": "274C",
+                "contract": "C42",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "COMPASSVALE BOW",
+            "town": "Sengkang",
+            "title": "COMPASSVALE HELM",
+            "lat": 1.38228150257069,
+            "long": 103.891117553843,
+            "postal": 543274
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 15,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 354300
+                        }
+                    ],
+                    "unit": 541
+                },
+                {
+                    "area": 92,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 360100
+                        }
+                    ],
+                    "unit": 543
+                }
+            ],
+            "block_code": {
+                "block_num": "278A",
+                "contract": "C42",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "COMPASSVALE BOW",
+            "town": "Sengkang",
+            "title": "COMPASSVALE HELM",
+            "lat": 1.38188103722183,
+            "long": 103.890292540431,
+            "postal": 541278
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 329200
+                        }
+                    ],
+                    "unit": 555
+                }
+            ],
+            "block_code": {
+                "block_num": "278B",
+                "contract": "C42",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "COMPASSVALE BOW",
+            "town": "Sengkang",
+            "title": "COMPASSVALE HELM",
+            "lat": 1.38234952446404,
+            "long": 103.890640068582,
+            "postal": 542278
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 335500
+                        }
+                    ],
+                    "unit": 77
+                },
+                {
+                    "area": 93,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 345200
+                        }
+                    ],
+                    "unit": 81
+                }
+            ],
+            "block_code": {
+                "block_num": "286A",
+                "contract": "C43A",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "COMPASSVALE CRESCENT",
+            "town": "Sengkang",
+            "title": "COMPASSVALE CAPE",
+            "lat": 1.39735809402815,
+            "long": 103.89619536888,
+            "postal": 541286
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 316200
+                        }
+                    ],
+                    "unit": 93
+                },
+                {
+                    "area": 93,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 342100
+                        }
+                    ],
+                    "unit": 93
+                }
+            ],
+            "block_code": {
+                "block_num": "286B",
+                "contract": "C43A",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "COMPASSVALE CRESCENT",
+            "town": "Sengkang",
+            "title": "COMPASSVALE CAPE",
+            "lat": 1.39754999009434,
+            "long": 103.89559545349,
+            "postal": 542286
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 335600
+                        }
+                    ],
+                    "unit": 119
+                },
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 333600
+                        }
+                    ],
+                    "unit": 121
+                }
+            ],
+            "block_code": {
+                "block_num": "286C",
+                "contract": "C43A",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "COMPASSVALE CRESCENT",
+            "town": "Sengkang",
+            "title": "COMPASSVALE CAPE",
+            "lat": 1.39794631367752,
+            "long": 103.896376748487,
+            "postal": 543286
+        },
+        {
+            "apartments": [
+                {
+                    "area": 96,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 341400
+                        }
+                    ],
+                    "unit": 157
+                },
+                {
+                    "area": 96,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 357800
+                        }
+                    ],
+                    "unit": 157
+                },
+                {
+                    "area": 96,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 363400
+                        }
+                    ],
+                    "unit": 157
+                },
+                {
+                    "area": 96,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 358100
+                        }
+                    ],
+                    "unit": 157
+                }
+            ],
+            "block_code": {
+                "block_num": "287A",
+                "contract": "C43A",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 4,
+            "quota_malay": 4,
+            "quota_other": 4,
+            "street": "COMPASSVALE CRESCENT",
+            "town": "Sengkang",
+            "title": "COMPASSVALE CAPE",
+            "lat": 1.39830448706533,
+            "long": 103.895959126637,
+            "postal": 541287
+        },
+        {
+            "apartments": [
+                {
+                    "area": 96,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 375400
+                        }
+                    ],
+                    "unit": 165
+                }
+            ],
+            "block_code": {
+                "block_num": "287B",
+                "contract": "C43A",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 0,
+            "street": "COMPASSVALE CRESCENT",
+            "town": "Sengkang",
+            "title": "COMPASSVALE CAPE",
+            "lat": 1.39879769772592,
+            "long": 103.896078523607,
+            "postal": 542287
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 304600
+                        }
+                    ],
+                    "unit": 173
+                },
+                {
+                    "area": 93,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 330900
+                        }
+                    ],
+                    "unit": 173
+                },
+                {
+                    "area": 93,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 358800
+                        }
+                    ],
+                    "unit": 175
+                },
+                {
+                    "area": 93,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 319400
+                        }
+                    ],
+                    "unit": 177
+                }
+            ],
+            "block_code": {
+                "block_num": "287C",
+                "contract": "C43A",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 4,
+            "quota_malay": 2,
+            "quota_other": 4,
+            "street": "COMPASSVALE CRESCENT",
+            "town": "Sengkang",
+            "title": "COMPASSVALE CAPE",
+            "lat": 1.39873377285696,
+            "long": 103.896699594485,
+            "postal": 543287
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 356000
+                        }
+                    ],
+                    "unit": 377
+                },
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 340000
+                        }
+                    ],
+                    "unit": 383
+                }
+            ],
+            "block_code": {
+                "block_num": "288A",
+                "contract": "C43A",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "COMPASSVALE CRESCENT",
+            "town": "Sengkang",
+            "title": "COMPASSVALE CAPE",
+            "lat": 1.39864671982326,
+            "long": 103.897002779464,
+            "postal": 541288
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 348300
+                        }
+                    ],
+                    "unit": 349
+                }
+            ],
+            "block_code": {
+                "block_num": "288C",
+                "contract": "C43A",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "COMPASSVALE CRESCENT",
+            "town": "Sengkang",
+            "title": "COMPASSVALE CAPE",
+            "lat": 1.39838865743646,
+            "long": 103.898072715177,
+            "postal": 543288
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 342400
+                        }
+                    ],
+                    "unit": 307
+                },
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 315600
+                        }
+                    ],
+                    "unit": 309
+                },
+                {
+                    "area": 93,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 354500
+                        }
+                    ],
+                    "unit": 309
+                }
+            ],
+            "block_code": {
+                "block_num": "289A",
+                "contract": "C43A",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "COMPASSVALE CRESCENT",
+            "town": "Sengkang",
+            "title": "COMPASSVALE CAPE",
+            "lat": 1.39772087571644,
+            "long": 103.897720371229,
+            "postal": 541289
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 312500
+                        }
+                    ],
+                    "unit": 327
+                },
+                {
+                    "area": 93,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 353100
+                        }
+                    ],
+                    "unit": 329
+                },
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 340100
+                        }
+                    ],
+                    "unit": 333
+                }
+            ],
+            "block_code": {
+                "block_num": "289B",
+                "contract": "C43A",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "COMPASSVALE CRESCENT",
+            "town": "Sengkang",
+            "title": "COMPASSVALE CAPE",
+            "lat": 1.39767889426174,
+            "long": 103.897388721059,
+            "postal": 542289
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 321000
+                        }
+                    ],
+                    "unit": 7
+                }
+            ],
+            "block_code": {
+                "block_num": "293A",
+                "contract": "C43B",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": -6
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "COMPASSVALE CRESCENT",
+            "town": "Sengkang",
+            "title": "COMPASSVALE BOARDWALK",
+            "lat": 1.3965326737519,
+            "long": 103.895863682837,
+            "postal": 541293
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 12,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 353000
+                        }
+                    ],
+                    "unit": 292
+                }
+            ],
+            "block_code": {
+                "block_num": "326D",
+                "contract": "C19",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2015,
+                "month": 4,
+                "day": 1,
+                "quarter": null,
+                "months_since": -25
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "ANCHORVALE ROAD",
+            "town": "Sengkang",
+            "title": "ANCHORVALE HORIZON",
+            "lat": 1.39613052938423,
+            "long": 103.888097116033,
+            "postal": 544326
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 9,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 333500
+                        }
+                    ],
+                    "unit": 529
+                }
+            ],
+            "block_code": {
+                "block_num": "330A",
+                "contract": "C20",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2015,
+                "month": 8,
+                "day": 1,
+                "quarter": null,
+                "months_since": -21
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "ANCHORVALE STREET",
+            "town": "Sengkang",
+            "title": "ANCHORVALE HARVEST",
+            "lat": 1.39662723563943,
+            "long": 103.889865427006,
+            "postal": 541330
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 6,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 330600
+                        }
+                    ],
+                    "unit": 551
+                }
+            ],
+            "block_code": {
+                "block_num": "331A",
+                "contract": "C20",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2015,
+                "month": 8,
+                "day": 1,
+                "quarter": null,
+                "months_since": -21
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "ANCHORVALE STREET",
+            "town": "Sengkang",
+            "title": "ANCHORVALE HARVEST",
+            "lat": 1.39594975733855,
+            "long": 103.890467920512,
+            "postal": 541331
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 353400
+                        }
+                    ],
+                    "unit": 370
+                }
+            ],
+            "block_code": {
+                "block_num": "332B",
+                "contract": "C18",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2015,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": -23
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "ANCHORVALE LINK",
+            "town": "Sengkang",
+            "title": "ANCHORVALE ISLES",
+            "lat": 1.39510794817996,
+            "long": 103.891456224107,
+            "postal": 542332
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 11,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 346200
+                        }
+                    ],
+                    "unit": 304
+                }
+            ],
+            "block_code": {
+                "block_num": "333D",
+                "contract": "C18",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2015,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": -23
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "ANCHORVALE LINK",
+            "town": "Sengkang",
+            "title": "ANCHORVALE ISLES",
+            "lat": 1.3942249444613,
+            "long": 103.892243948665,
+            "postal": 544333
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 8,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 345200
+                        }
+                    ],
+                    "unit": 86
+                }
+            ],
+            "block_code": {
+                "block_num": "335B",
+                "contract": "C21",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2015,
+                "month": 12,
+                "day": 1,
+                "quarter": null,
+                "months_since": -17
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "ANCHORVALE CRESCENT",
+            "town": "Sengkang",
+            "title": "ANCHORVALE COVE",
+            "lat": 1.39857707216129,
+            "long": 103.888490151459,
+            "postal": 542335
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 324900
+                        }
+                    ],
+                    "unit": 53
+                },
+                {
+                    "area": 93,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 280700
+                        }
+                    ],
+                    "unit": 61
+                }
+            ],
+            "block_code": {
+                "block_num": "338B",
+                "contract": "C27",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": 12
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "ANCHORVALE CRESCENT",
+            "town": "Sengkang",
+            "title": "ANCHORVALE PARKVIEW",
+            "lat": 1.39953670242519,
+            "long": 103.889782176155,
+            "postal": 542338
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 302600
+                        }
+                    ],
+                    "unit": 41
+                },
+                {
+                    "area": 93,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 313200
+                        }
+                    ],
+                    "unit": 43
+                },
+                {
+                    "area": 93,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 314500
+                        }
+                    ],
+                    "unit": 43
+                },
+                {
+                    "area": 93,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 299100
+                        }
+                    ],
+                    "unit": 45
+                }
+            ],
+            "block_code": {
+                "block_num": "338C",
+                "contract": "C27",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": 12
+            },
+            "pcd_date": null,
+            "quota_chinese": 4,
+            "quota_malay": 3,
+            "quota_other": 4,
+            "street": "ANCHORVALE CRESCENT",
+            "town": "Sengkang",
+            "title": "ANCHORVALE PARKVIEW",
+            "lat": 1.4000003468992,
+            "long": 103.890076269068,
+            "postal": 543338
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 328100
+                        }
+                    ],
+                    "unit": 31
+                }
+            ],
+            "block_code": {
+                "block_num": "338D",
+                "contract": "C27",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": 12
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "ANCHORVALE CRESCENT",
+            "town": "Sengkang",
+            "title": "ANCHORVALE PARKVIEW",
+            "lat": 1.39969399135822,
+            "long": 103.888710791451,
+            "postal": 544338
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 337400
+                        }
+                    ],
+                    "unit": 233
+                }
+            ],
+            "block_code": {
+                "block_num": "351A",
+                "contract": "C28",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 4,
+                "day": 30,
+                "quarter": null,
+                "months_since": 23
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 13
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "ANCHORVALE ROAD",
+            "town": "Sengkang",
+            "title": "ANCHORVALE FIELDS",
+            "lat": 1.39415324906974,
+            "long": 103.886573936192,
+            "postal": 541351
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 325100
+                        }
+                    ],
+                    "unit": 221
+                }
+            ],
+            "block_code": {
+                "block_num": "351D",
+                "contract": "C28",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 4,
+                "day": 30,
+                "quarter": null,
+                "months_since": 23
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 13
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "ANCHORVALE ROAD",
+            "town": "Sengkang",
+            "title": "ANCHORVALE FIELDS",
+            "lat": 1.39368506050733,
+            "long": 103.886407477755,
+            "postal": 544351
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 315900
+                        }
+                    ],
+                    "unit": 98
+                }
+            ],
+            "block_code": {
+                "block_num": "416B",
+                "contract": "C20",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 1,
+                "day": 1,
+                "quarter": null,
+                "months_since": -16
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "FERNVALE LINK",
+            "town": "Sengkang",
+            "title": "FERNVALE RIVERBOW",
+            "lat": 1.39048519034445,
+            "long": 103.880509545623,
+            "postal": 792416
+        },
+        {
+            "apartments": [
+                {
+                    "area": 94,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 312500
+                        }
+                    ],
+                    "unit": 172
+                },
+                {
+                    "area": 94,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 318100
+                        }
+                    ],
+                    "unit": 182
+                }
+            ],
+            "block_code": {
+                "block_num": "417A",
+                "contract": "C19",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 6,
+                "day": 30,
+                "quarter": null,
+                "months_since": 13
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 6,
+                "day": null,
+                "quarter": null,
+                "months_since": 1
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "FERNVALE LINK",
+            "town": "Sengkang",
+            "title": "FERNVALE RIVERWALK",
+            "lat": 1.39157738825823,
+            "long": 103.880681615474,
+            "postal": 791417
+        },
+        {
+            "apartments": [
+                {
+                    "area": 94,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 309000
+                        }
+                    ],
+                    "unit": 142
+                },
+                {
+                    "area": 94,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 304800
+                        }
+                    ],
+                    "unit": 146
+                },
+                {
+                    "area": 94,
+                    "floor": 20,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 323700
+                        }
+                    ],
+                    "unit": 146
+                }
+            ],
+            "block_code": {
+                "block_num": "418B",
+                "contract": "C19",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 6,
+                "day": 30,
+                "quarter": null,
+                "months_since": 13
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 5,
+                "day": null,
+                "quarter": null,
+                "months_since": 0
+            },
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "FERNVALE LINK",
+            "town": "Sengkang",
+            "title": "FERNVALE RIVERWALK",
+            "lat": 1.39101367978172,
+            "long": 103.880194448477,
+            "postal": 792418
+        },
+        {
+            "apartments": [
+                {
+                    "area": 94,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 320200
+                        }
+                    ],
+                    "unit": 164
+                }
+            ],
+            "block_code": {
+                "block_num": "418C",
+                "contract": "C19",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 6,
+                "day": 30,
+                "quarter": null,
+                "months_since": 13
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 6,
+                "day": null,
+                "quarter": null,
+                "months_since": 1
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "FERNVALE LINK",
+            "town": "Sengkang",
+            "title": "FERNVALE RIVERWALK",
+            "lat": 1.39094543097512,
+            "long": 103.881015671961,
+            "postal": 793418
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 10,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 96,
+                            "price": 319000
+                        }
+                    ],
+                    "unit": 511
+                }
+            ],
+            "block_code": {
+                "block_num": "433A",
+                "contract": "C17",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2014,
+                "month": 10,
+                "day": 1,
+                "quarter": null,
+                "months_since": -31
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "SENGKANG WEST WAY",
+            "town": "Sengkang",
+            "title": "FERNVALE PALMS",
+            "lat": 1.39494947298113,
+            "long": 103.877566961287,
+            "postal": 791433
+        },
+        {
+            "apartments": [
+                {
+                    "area": 94,
+                    "floor": 10,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 95,
+                            "price": 351400
+                        }
+                    ],
+                    "unit": 238
+                }
+            ],
+            "block_code": {
+                "block_num": "434B",
+                "contract": "C16",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2013,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": -47
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "FERNVALE ROAD",
+            "town": "Sengkang",
+            "title": "FERNVALE RESIDENCE",
+            "lat": 1.39460960429025,
+            "long": 103.876585517065,
+            "postal": 792434
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 260100
+                        }
+                    ],
+                    "unit": 35
+                }
+            ],
+            "block_code": {
+                "block_num": "455A",
+                "contract": "C30",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 8,
+                "day": 31,
+                "quarter": null,
+                "months_since": 39
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 28
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "SENGKANG WEST AVENUE",
+            "town": "Sengkang",
+            "title": "FERNVALE WOODS",
+            "lat": 1.39157665293204,
+            "long": 103.870444622949,
+            "postal": 791455
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 265100
+                        }
+                    ],
+                    "unit": 59
+                },
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 260100
+                        }
+                    ],
+                    "unit": 61
+                },
+                {
+                    "area": 93,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 280600
+                        }
+                    ],
+                    "unit": 61
+                }
+            ],
+            "block_code": {
+                "block_num": "455B",
+                "contract": "C30",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 8,
+                "day": 31,
+                "quarter": null,
+                "months_since": 39
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 28
+            },
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "SENGKANG WEST AVENUE",
+            "town": "Sengkang",
+            "title": "FERNVALE WOODS",
+            "lat": 1.39201619223959,
+            "long": 103.870247728472,
+            "postal": 792455
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 255100
+                        }
+                    ],
+                    "unit": 338
+                }
+            ],
+            "block_code": {
+                "block_num": "456B",
+                "contract": "C30",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 8,
+                "day": 31,
+                "quarter": null,
+                "months_since": 39
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 28
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "SENGKANG WEST ROAD",
+            "town": "Sengkang",
+            "title": "FERNVALE WOODS",
+            "lat": 1.39211572540587,
+            "long": 103.869908748735,
+            "postal": 792456
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 274700
+                        }
+                    ],
+                    "unit": 428
+                },
+                {
+                    "area": 93,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 279200
+                        }
+                    ],
+                    "unit": 428
+                }
+            ],
+            "block_code": {
+                "block_num": "458A",
+                "contract": "C30",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 8,
+                "day": 31,
+                "quarter": null,
+                "months_since": 39
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 28
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "SENGKANG WEST ROAD",
+            "town": "Sengkang",
+            "title": "FERNVALE WOODS",
+            "lat": 1.39296798561099,
+            "long": 103.869578709895,
+            "postal": 791458
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 283700
+                        }
+                    ],
+                    "unit": 414
+                }
+            ],
+            "block_code": {
+                "block_num": "458B",
+                "contract": "C30",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 8,
+                "day": 31,
+                "quarter": null,
+                "months_since": 39
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 28
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "SENGKANG WEST ROAD",
+            "town": "Sengkang",
+            "title": "FERNVALE WOODS",
+            "lat": 1.39293801208568,
+            "long": 103.870196701638,
+            "postal": 792458
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 260100
+                        }
+                    ],
+                    "unit": 408
+                }
+            ],
+            "block_code": {
+                "block_num": "458C",
+                "contract": "C30",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 8,
+                "day": 31,
+                "quarter": null,
+                "months_since": 39
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 28
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "SENGKANG WEST ROAD",
+            "town": "Sengkang",
+            "title": "FERNVALE WOODS",
+            "lat": 1.39285734486635,
+            "long": 103.870875153546,
+            "postal": 793458
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 285400
+                        }
+                    ],
+                    "unit": 505
+                },
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 303700
+                        }
+                    ],
+                    "unit": 507
+                },
+                {
+                    "area": 93,
+                    "floor": 25,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 321900
+                        }
+                    ],
+                    "unit": 507
+                }
+            ],
+            "block_code": {
+                "block_num": "467A",
+                "contract": "C24",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 8,
+                "day": 1,
+                "quarter": null,
+                "months_since": -9
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "FERNVALE LINK",
+            "town": "Sengkang",
+            "title": "FERNVALE LEA",
+            "lat": 1.39798359035229,
+            "long": 103.8784589917,
+            "postal": 791467
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 21,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 318600
+                        }
+                    ],
+                    "unit": 527
+                }
+            ],
+            "block_code": {
+                "block_num": "467B",
+                "contract": "C24",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 8,
+                "day": 1,
+                "quarter": null,
+                "months_since": -9
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "FERNVALE LINK",
+            "town": "Sengkang",
+            "title": "FERNVALE LEA",
+            "lat": 1.39807105476617,
+            "long": 103.877933381661,
+            "postal": 792467
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 22,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 329400
+                        }
+                    ],
+                    "unit": 543
+                },
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 310600
+                        }
+                    ],
+                    "unit": 549
+                }
+            ],
+            "block_code": {
+                "block_num": "468B",
+                "contract": "C24",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 8,
+                "day": 1,
+                "quarter": null,
+                "months_since": -9
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "FERNVALE LINK",
+            "town": "Sengkang",
+            "title": "FERNVALE LEA",
+            "lat": 1.39745479369413,
+            "long": 103.878010391039,
+            "postal": 792468
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 21,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 318800
+                        }
+                    ],
+                    "unit": 604
+                }
+            ],
+            "block_code": {
+                "block_num": "469A",
+                "contract": "C24",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 8,
+                "day": 1,
+                "quarter": null,
+                "months_since": -9
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "SENGKANG WEST WAY",
+            "town": "Sengkang",
+            "title": "FERNVALE LEA",
+            "lat": 1.39589511654297,
+            "long": 103.878083108343,
+            "postal": 791469
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 21,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 318800
+                        }
+                    ],
+                    "unit": 616
+                }
+            ],
+            "block_code": {
+                "block_num": "469B",
+                "contract": "C24",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 8,
+                "day": 1,
+                "quarter": null,
+                "months_since": -9
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 1,
+            "street": "SENGKANG WEST WAY",
+            "town": "Sengkang",
+            "title": "FERNVALE LEA",
+            "lat": 1.39585256390142,
+            "long": 103.877684905205,
+            "postal": 792469
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 22,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 317400
+                        }
+                    ],
+                    "unit": 410
+                }
+            ],
+            "block_code": {
+                "block_num": "470A",
+                "contract": "C26",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 9,
+                "day": 1,
+                "quarter": null,
+                "months_since": -8
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "FERNVALE LINK",
+            "town": "Sengkang",
+            "title": "FERNVALE RIVERGROVE",
+            "lat": 1.39647848051794,
+            "long": 103.87949390728,
+            "postal": 791470
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 301400
+                        }
+                    ],
+                    "unit": 426
+                }
+            ],
+            "block_code": {
+                "block_num": "470C",
+                "contract": "C26",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 9,
+                "day": 1,
+                "quarter": null,
+                "months_since": -8
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "FERNVALE LINK",
+            "town": "Sengkang",
+            "title": "FERNVALE RIVERGROVE",
+            "lat": 1.39619403936397,
+            "long": 103.879992372196,
+            "postal": 793470
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 312300
+                        }
+                    ],
+                    "unit": 59
+                },
+                {
+                    "area": 93,
+                    "floor": 24,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 319200
+                        }
+                    ],
+                    "unit": 59
+                }
+            ],
+            "block_code": {
+                "block_num": "472C",
+                "contract": "C27",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 9,
+                "day": 1,
+                "quarter": null,
+                "months_since": -8
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "FERNVALE STREET",
+            "town": "Sengkang",
+            "title": "FERNVALE RIVERGROVE",
+            "lat": 1.39631552198213,
+            "long": 103.881167314758,
+            "postal": 793472
+        }
+    ]
+}

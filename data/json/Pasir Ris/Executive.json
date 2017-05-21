@@ -1,0 +1,124 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 150,
+                    "floor": 4,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 77,
+                            "price": 520000
+                        }
+                    ],
+                    "unit": 15
+                }
+            ],
+            "block_code": {
+                "block_num": "159",
+                "contract": "C1",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "Executive",
+            "lcd_date": {
+                "year": 1995,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": -267
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "PASIR RIS STREET 13",
+            "town": "Pasir Ris",
+            "title": "HDB-PASIR RIS",
+            "lat": 1.36374403779247,
+            "long": 103.961284660576,
+            "postal": 510159
+        },
+        {
+            "apartments": [
+                {
+                    "area": 147,
+                    "floor": 6,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 75,
+                            "price": 480000
+                        }
+                    ],
+                    "unit": 19
+                }
+            ],
+            "block_code": {
+                "block_num": "238",
+                "contract": "C1",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "Executive",
+            "lcd_date": {
+                "year": 1993,
+                "month": 7,
+                "day": 12,
+                "quarter": null,
+                "months_since": -286
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "PASIR RIS STREET 21",
+            "town": "Pasir Ris",
+            "title": "HDB-PASIR RIS",
+            "lat": 1.37370903858619,
+            "long": 103.96321602063,
+            "postal": 510238
+        },
+        {
+            "apartments": [
+                {
+                    "area": 149,
+                    "floor": 2,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 77,
+                            "price": 585000
+                        }
+                    ],
+                    "unit": 188
+                }
+            ],
+            "block_code": {
+                "block_num": "607",
+                "contract": "C2A",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": null,
+            "flat_type": "Executive",
+            "lcd_date": {
+                "year": 1995,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": -262
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "ELIAS ROAD",
+            "town": "Pasir Ris",
+            "title": "HDB-PASIR RIS",
+            "lat": 1.37638608282286,
+            "long": 103.942462589515,
+            "postal": 510607
+        }
+    ]
+}

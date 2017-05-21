@@ -1,0 +1,118 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 9,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 49,
+                            "price": 199000
+                        }
+                    ],
+                    "unit": 4476
+                }
+            ],
+            "block_code": {
+                "block_num": "28",
+                "contract": "C6",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": {
+                "year": 1967,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": -599
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "JALAN BUKIT MERAH",
+            "town": "Bukit Merah",
+            "title": "BRICKWORKS ESTATE",
+            "lat": 1.28640350234514,
+            "long": 103.809741989834,
+            "postal": 152028
+        },
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 84800
+                        },
+                        {
+                            "lease": 20,
+                            "price": 101200
+                        },
+                        {
+                            "lease": 25,
+                            "price": 114700
+                        },
+                        {
+                            "lease": 30,
+                            "price": 125800
+                        },
+                        {
+                            "lease": 35,
+                            "price": 135200
+                        },
+                        {
+                            "lease": 40,
+                            "price": 143200
+                        },
+                        {
+                            "lease": 45,
+                            "price": 149900
+                        },
+                        {
+                            "lease": 99,
+                            "price": 248700
+                        }
+                    ],
+                    "unit": 14
+                }
+            ],
+            "block_code": {
+                "block_num": "95A",
+                "contract": "RC53",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 4,
+                "day": 30,
+                "quarter": null,
+                "months_since": 23
+            },
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 13
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "HENDERSON ROAD",
+            "town": "Bukit Merah",
+            "title": "CITY VUE @HENDERSON",
+            "lat": 1.28660028044273,
+            "long": 103.821363610139,
+            "postal": 151095
+        }
+    ]
+}

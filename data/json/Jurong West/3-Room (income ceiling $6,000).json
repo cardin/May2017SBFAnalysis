@@ -1,0 +1,714 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 76,
+                    "floor": 8,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 54,
+                            "price": 204000
+                        }
+                    ],
+                    "unit": 101
+                }
+            ],
+            "block_code": {
+                "block_num": "120",
+                "contract": "C16",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 1972,
+                "month": 1,
+                "day": 1,
+                "quarter": null,
+                "months_since": -544
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "HO CHING ROAD",
+            "town": "Jurong West",
+            "title": "HDB-TAMAN JURONG",
+            "lat": 1.33540764836186,
+            "long": 103.724260953568,
+            "postal": 610120
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 1,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 56,
+                            "price": 199000
+                        }
+                    ],
+                    "unit": 433
+                },
+                {
+                    "area": 61,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 56,
+                            "price": 186000
+                        }
+                    ],
+                    "unit": 459
+                }
+            ],
+            "block_code": {
+                "block_num": "122",
+                "contract": "C15",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 1974,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": -515
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "YUAN CHING ROAD",
+            "town": "Jurong West",
+            "title": "NIL",
+            "lat": 1.33598546940991,
+            "long": 103.72386599203,
+            "postal": 610122
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 202000
+                        }
+                    ],
+                    "unit": 22
+                },
+                {
+                    "area": 68,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 190300
+                        }
+                    ],
+                    "unit": 24
+                },
+                {
+                    "area": 68,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 192800
+                        }
+                    ],
+                    "unit": 24
+                },
+                {
+                    "area": 68,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 193800
+                        }
+                    ],
+                    "unit": 24
+                },
+                {
+                    "area": 68,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 195800
+                        }
+                    ],
+                    "unit": 24
+                },
+                {
+                    "area": 68,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 197800
+                        }
+                    ],
+                    "unit": 24
+                },
+                {
+                    "area": 68,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 204000
+                        }
+                    ],
+                    "unit": 24
+                }
+            ],
+            "block_code": {
+                "block_num": "140A",
+                "contract": "C29B",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 5,
+                "day": 31,
+                "quarter": null,
+                "months_since": 24
+            },
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 13
+            },
+            "quota_chinese": 7,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "CORPORATION DRIVE",
+            "town": "Jurong West",
+            "title": "YUNG HO SPRING I",
+            "lat": 1.32735549941003,
+            "long": 103.723135218753,
+            "postal": 611140
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 176600
+                        }
+                    ],
+                    "unit": 78
+                }
+            ],
+            "block_code": {
+                "block_num": "140D",
+                "contract": "C29B",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 5,
+                "day": 31,
+                "quarter": null,
+                "months_since": 24
+            },
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 13
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "CORPORATION DRIVE",
+            "town": "Jurong West",
+            "title": "YUNG HO SPRING I",
+            "lat": 1.32759320275873,
+            "long": 103.724631531896,
+            "postal": 614140
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 18,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 206800
+                        }
+                    ],
+                    "unit": 23
+                },
+                {
+                    "area": 68,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 191800
+                        }
+                    ],
+                    "unit": 27
+                }
+            ],
+            "block_code": {
+                "block_num": "150A",
+                "contract": "C32",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 4,
+                "day": 30,
+                "quarter": null,
+                "months_since": 23
+            },
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 13
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "CORPORATION DRIVE",
+            "town": "Jurong West",
+            "title": "YUNG HO SPRING II",
+            "lat": 1.32672023915097,
+            "long": 103.722377848685,
+            "postal": 611150
+        },
+        {
+            "apartments": [
+                {
+                    "area": 59,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 60,
+                            "price": 182000
+                        }
+                    ],
+                    "unit": 304
+                }
+            ],
+            "block_code": {
+                "block_num": "174",
+                "contract": "C1",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 1978,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": -466
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 0,
+            "street": "BOON LAY DRIVE",
+            "town": "Jurong West",
+            "title": "BOON LAY GREEN",
+            "lat": 1.34624968110859,
+            "long": 103.709387013109,
+            "postal": 640174
+        },
+        {
+            "apartments": [
+                {
+                    "area": 59,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 60,
+                            "price": 180000
+                        }
+                    ],
+                    "unit": 342
+                }
+            ],
+            "block_code": {
+                "block_num": "175",
+                "contract": "C1",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 1978,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": -466
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 1,
+            "street": "BOON LAY DRIVE",
+            "town": "Jurong West",
+            "title": "BOON LAY GREEN",
+            "lat": 1.3466891668137,
+            "long": 103.709485323529,
+            "postal": 640175
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 200700
+                        }
+                    ],
+                    "unit": 205
+                }
+            ],
+            "block_code": {
+                "block_num": "216B",
+                "contract": "C17",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 2018,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": 14
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 0,
+            "street": "BOON LAY AVENUE",
+            "town": "Jurong West",
+            "title": "BOON LAY VIEW",
+            "lat": 1.35045090220437,
+            "long": 103.712258843807,
+            "postal": 642216
+        },
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 9,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 67,
+                            "price": 217000
+                        }
+                    ],
+                    "unit": 576
+                }
+            ],
+            "block_code": {
+                "block_num": "463",
+                "contract": "C14",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 1985,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": -383
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "JURONG WEST STREET 41",
+            "town": "Jurong West",
+            "title": "HONG KAH VILLE",
+            "lat": 1.35057698710495,
+            "long": 103.723241115887,
+            "postal": 640463
+        },
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 4,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 64,
+                            "price": 219000
+                        }
+                    ],
+                    "unit": 251
+                }
+            ],
+            "block_code": {
+                "block_num": "524",
+                "contract": "C2A",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 1982,
+                "month": 4,
+                "day": 1,
+                "quarter": null,
+                "months_since": -421
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "JURONG WEST STREET 52",
+            "town": "Jurong West",
+            "title": "HDB-JURONG WEST",
+            "lat": 1.34719762550182,
+            "long": 103.717246730837,
+            "postal": 640524
+        },
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 6,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 65,
+                            "price": 219000
+                        }
+                    ],
+                    "unit": 297
+                }
+            ],
+            "block_code": {
+                "block_num": "527",
+                "contract": "C1",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 1983,
+                "month": 8,
+                "day": 1,
+                "quarter": null,
+                "months_since": -405
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "JURONG WEST STREET 52",
+            "town": "Jurong West",
+            "title": "HDB-JURONG WEST",
+            "lat": 1.34788417193503,
+            "long": 103.716417389865,
+            "postal": 640527
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 206100
+                        }
+                    ],
+                    "unit": 1149
+                }
+            ],
+            "block_code": {
+                "block_num": "561A",
+                "contract": "C16",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 2018,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": 9
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 0,
+            "street": "JURONG WEST STREET 42",
+            "town": "Jurong West",
+            "title": "SPRING HAVEN @ JURONG",
+            "lat": 1.35429464192909,
+            "long": 103.719757228756,
+            "postal": 641561
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 240800
+                        }
+                    ],
+                    "unit": 19
+                }
+            ],
+            "block_code": {
+                "block_num": "697B",
+                "contract": "C31",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 2017,
+                "month": 10,
+                "day": 1,
+                "quarter": null,
+                "months_since": 5
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "JURONG WEST CENTRAL 3",
+            "town": "Jurong West",
+            "title": "JURONG WEST BLOSSOM",
+            "lat": 1.34068066261581,
+            "long": 103.708441475943,
+            "postal": 642697
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 255600
+                        }
+                    ],
+                    "unit": 39
+                },
+                {
+                    "area": 68,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 258600
+                        }
+                    ],
+                    "unit": 53
+                },
+                {
+                    "area": 68,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 236800
+                        }
+                    ],
+                    "unit": 55
+                },
+                {
+                    "area": 68,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 250300
+                        }
+                    ],
+                    "unit": 55
+                }
+            ],
+            "block_code": {
+                "block_num": "698A",
+                "contract": "C31",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 2017,
+                "month": 10,
+                "day": 1,
+                "quarter": null,
+                "months_since": 5
+            },
+            "pcd_date": null,
+            "quota_chinese": 4,
+            "quota_malay": 0,
+            "quota_other": 3,
+            "street": "JURONG WEST CENTRAL 3",
+            "town": "Jurong West",
+            "title": "JURONG WEST BLOSSOM",
+            "lat": 1.34105782657287,
+            "long": 103.707772779795,
+            "postal": 641698
+        }
+    ]
+}

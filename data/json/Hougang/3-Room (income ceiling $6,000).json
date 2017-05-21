@@ -1,0 +1,746 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 71,
+                    "floor": 3,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 57,
+                            "price": 194700
+                        }
+                    ],
+                    "unit": 92
+                }
+            ],
+            "block_code": {
+                "block_num": "6",
+                "contract": "C1",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 1975,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": -502
+            },
+            "pcd_date": null,
+            "quota_chinese": 0,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "HOUGANG AVENUE 3",
+            "town": "Hougang",
+            "title": "HDB-HOUGANG",
+            "lat": 1.36271446291048,
+            "long": 103.893980503167,
+            "postal": 530006
+        },
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 66,
+                            "price": 199000
+                        }
+                    ],
+                    "unit": 1319
+                }
+            ],
+            "block_code": {
+                "block_num": "108",
+                "contract": "C4",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 1984,
+                "month": 3,
+                "day": 1,
+                "quarter": null,
+                "months_since": -398
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "HOUGANG AVENUE 1",
+            "town": "Hougang",
+            "title": "HDB-HOUGANG",
+            "lat": 1.35277393315536,
+            "long": 103.890093177026,
+            "postal": 530108
+        },
+        {
+            "apartments": [
+                {
+                    "area": 66,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 96,
+                            "price": 198100
+                        }
+                    ],
+                    "unit": 1555
+                }
+            ],
+            "block_code": {
+                "block_num": "174B",
+                "contract": "C1",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 2014,
+                "month": 1,
+                "day": 1,
+                "quarter": null,
+                "months_since": -40
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "HOUGANG AVENUE 1",
+            "town": "Hougang",
+            "title": "PAYA LEBAR LODGE",
+            "lat": 1.34955516910384,
+            "long": 103.889276891994,
+            "postal": 532174
+        },
+        {
+            "apartments": [
+                {
+                    "area": 71,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 75,
+                            "price": 251500
+                        }
+                    ],
+                    "unit": 143
+                },
+                {
+                    "area": 71,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 75,
+                            "price": 233000
+                        }
+                    ],
+                    "unit": 173
+                }
+            ],
+            "block_code": {
+                "block_num": "313",
+                "contract": "C1",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 1993,
+                "month": 4,
+                "day": 1,
+                "quarter": null,
+                "months_since": -289
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "HOUGANG AVENUE 5",
+            "town": "Hougang",
+            "title": "NIL",
+            "lat": 1.36526347334326,
+            "long": 103.894770014384,
+            "postal": 530313
+        },
+        {
+            "apartments": [
+                {
+                    "area": 59,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 75,
+                            "price": 187000
+                        }
+                    ],
+                    "unit": 77
+                },
+                {
+                    "area": 59,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 75,
+                            "price": 205500
+                        }
+                    ],
+                    "unit": 91
+                },
+                {
+                    "area": 59,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 75,
+                            "price": 205500
+                        }
+                    ],
+                    "unit": 103
+                }
+            ],
+            "block_code": {
+                "block_num": "316",
+                "contract": "C1",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 1993,
+                "month": 4,
+                "day": 1,
+                "quarter": null,
+                "months_since": -289
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "HOUGANG AVENUE 7",
+            "town": "Hougang",
+            "title": "NIL",
+            "lat": 1.36498993766701,
+            "long": 103.896825570868,
+            "postal": 530316
+        },
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 226900
+                        }
+                    ],
+                    "unit": 1018
+                }
+            ],
+            "block_code": {
+                "block_num": "364A",
+                "contract": "C14",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 2018,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": 9
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "UPPER SERANGOON ROAD",
+            "town": "Hougang",
+            "title": "HOUGANG MEADOW",
+            "lat": 1.37060840744454,
+            "long": 103.896776019259,
+            "postal": 531364
+        },
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 235900
+                        }
+                    ],
+                    "unit": 1032
+                }
+            ],
+            "block_code": {
+                "block_num": "364B",
+                "contract": "C14",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 2018,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": 9
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "UPPER SERANGOON ROAD",
+            "town": "Hougang",
+            "title": "HOUGANG MEADOW",
+            "lat": 1.37051434802162,
+            "long": 103.897132658546,
+            "postal": 532364
+        },
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 233200
+                        }
+                    ],
+                    "unit": 1046
+                },
+                {
+                    "area": 67,
+                    "floor": 18,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 230900
+                        }
+                    ],
+                    "unit": 1048
+                }
+            ],
+            "block_code": {
+                "block_num": "365A",
+                "contract": "C14",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 2018,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": 9
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "UPPER SERANGOON ROAD",
+            "town": "Hougang",
+            "title": "HOUGANG MEADOW",
+            "lat": 1.36971560040271,
+            "long": 103.897624425125,
+            "postal": 531365
+        },
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 231200
+                        }
+                    ],
+                    "unit": 1062
+                },
+                {
+                    "area": 67,
+                    "floor": 18,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 237900
+                        }
+                    ],
+                    "unit": 1062
+                },
+                {
+                    "area": 67,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 214700
+                        }
+                    ],
+                    "unit": 1064
+                }
+            ],
+            "block_code": {
+                "block_num": "365B",
+                "contract": "C14",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 2018,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": 9
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "UPPER SERANGOON ROAD",
+            "town": "Hougang",
+            "title": "HOUGANG MEADOWS",
+            "lat": 1.36921025259911,
+            "long": 103.897536053606,
+            "postal": 532365
+        },
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 237900
+                        }
+                    ],
+                    "unit": 1076
+                }
+            ],
+            "block_code": {
+                "block_num": "365C",
+                "contract": "C14",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 2018,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": 9
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "UPPER SERANGOON ROAD",
+            "town": "Hougang",
+            "title": "HOUGANG MEADOW",
+            "lat": 1.36928451336936,
+            "long": 103.89713459868,
+            "postal": 533365
+        },
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 18,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 238400
+                        }
+                    ],
+                    "unit": 1088
+                },
+                {
+                    "area": 67,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 232700
+                        }
+                    ],
+                    "unit": 1090
+                }
+            ],
+            "block_code": {
+                "block_num": "365D",
+                "contract": "C14",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 2018,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": 9
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "UPPER SERANGOON ROAD",
+            "town": "Hougang",
+            "title": "HOUGANG MEADOW",
+            "lat": 1.36961721786592,
+            "long": 103.896612783518,
+            "postal": 537365
+        },
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 210200
+                        }
+                    ],
+                    "unit": 338
+                }
+            ],
+            "block_code": {
+                "block_num": "470B",
+                "contract": "C17",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 2015,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": -24
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "UPPER SERANGOON CRESCENT",
+            "town": "Hougang",
+            "title": "HOUGANG PARKVIEW",
+            "lat": 1.37893083811936,
+            "long": 103.900988286294,
+            "postal": 532470
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 213100
+                        }
+                    ],
+                    "unit": 315
+                }
+            ],
+            "block_code": {
+                "block_num": "473A",
+                "contract": "C20",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 2017,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": 1
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "UPPER SERANGOON CRESCENT",
+            "town": "Hougang",
+            "title": "HOUGANG PARKEDGE",
+            "lat": 1.37682896002803,
+            "long": 103.900640875151,
+            "postal": 531473
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 201700
+                        }
+                    ],
+                    "unit": 329
+                },
+                {
+                    "area": 68,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 207100
+                        }
+                    ],
+                    "unit": 335
+                }
+            ],
+            "block_code": {
+                "block_num": "473B",
+                "contract": "C20",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 2017,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": 1
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "UPPER SERANGOON CRESCENT",
+            "town": "Hougang",
+            "title": "HOUGANG PARKEDGE",
+            "lat": 1.37593551578457,
+            "long": 103.901086439499,
+            "postal": 532473
+        },
+        {
+            "apartments": [
+                {
+                    "area": 69,
+                    "floor": 2,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 70,
+                            "price": 199000
+                        }
+                    ],
+                    "unit": 361
+                }
+            ],
+            "block_code": {
+                "block_num": "652",
+                "contract": "C10A",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": {
+                "year": 1988,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": -348
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "HOUGANG AVENUE 8",
+            "town": "Hougang",
+            "title": "HDB-HOUGANG",
+            "lat": 1.37240804310725,
+            "long": 103.881598248704,
+            "postal": 530652
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 192600
+                        }
+                    ],
+                    "unit": 945
+                }
+            ],
+            "block_code": {
+                "block_num": "995B",
+                "contract": "C20",
+                "neighbourhood": "N9"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 8,
+                "day": 31,
+                "quarter": null,
+                "months_since": 27
+            },
+            "flat_type": "3-Room (income ceiling $6,000)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 16
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BUANGKOK CRESCENT",
+            "town": "Hougang",
+            "title": "BUANGKOK TROPICA",
+            "lat": 1.38636852042102,
+            "long": 103.882829663803,
+            "postal": 532995
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 54200
+                        },
+                        {
+                            "lease": 20,
+                            "price": 62500
+                        },
+                        {
+                            "lease": 25,
+                            "price": 69400
+                        },
+                        {
+                            "lease": 30,
+                            "price": 75000
+                        },
+                        {
+                            "lease": 35,
+                            "price": 79800
+                        },
+                        {
+                            "lease": 40,
+                            "price": 83800
+                        },
+                        {
+                            "lease": 45,
+                            "price": 87300
+                        }
+                    ],
+                    "unit": 141
+                }
+            ],
+            "block_code": {
+                "block_num": "488B",
+                "contract": "C15",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "CHOA CHU KANG AVENUE 5",
+            "town": "Choa Chu Kang",
+            "title": "SUNSHINE GARDENS",
+            "lat": 1.37697398175331,
+            "long": 103.739293156619,
+            "postal": 682488
+        }
+    ]
+}

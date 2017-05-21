@@ -1,0 +1,296 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 104,
+                    "floor": 12,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 71,
+                            "price": 311000
+                        }
+                    ],
+                    "unit": 39
+                }
+            ],
+            "block_code": {
+                "block_num": "102",
+                "contract": "C7",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 1988,
+                "month": 12,
+                "day": 1,
+                "quarter": null,
+                "months_since": -341
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 0,
+            "street": "PASIR RIS STREET 12",
+            "town": "Pasir Ris",
+            "title": "HDB-PASIR RIS",
+            "lat": 1.36748427336519,
+            "long": 103.958041055125,
+            "postal": 510102
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 13,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 71,
+                            "price": 326000
+                        }
+                    ],
+                    "unit": 447
+                }
+            ],
+            "block_code": {
+                "block_num": "122",
+                "contract": "C5",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 1989,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": -335
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 0,
+            "street": "PASIR RIS STREET 11",
+            "town": "Pasir Ris",
+            "title": "HDB-PASIR RIS",
+            "lat": 1.3665283350896,
+            "long": 103.954404987572,
+            "postal": 510122
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 13,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 366500
+                        }
+                    ],
+                    "unit": 611
+                }
+            ],
+            "block_code": {
+                "block_num": "524B",
+                "contract": "C19",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2015,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": -22
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 0,
+            "street": "PASIR RIS STREET 51",
+            "town": "Pasir Ris",
+            "title": "COSTA RIS",
+            "lat": 1.37093178459668,
+            "long": 103.947562573809,
+            "postal": 512524
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 13,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 361300
+                        }
+                    ],
+                    "unit": 501
+                },
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 358200
+                        }
+                    ],
+                    "unit": 511
+                }
+            ],
+            "block_code": {
+                "block_num": "526A",
+                "contract": "C19",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2015,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": -22
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "PASIR RIS STREET 51",
+            "town": "Pasir Ris",
+            "title": "COSTA RIS",
+            "lat": 1.36754162355293,
+            "long": 103.947105433712,
+            "postal": 511526
+        },
+        {
+            "apartments": [
+                {
+                    "area": 105,
+                    "floor": 4,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 75,
+                            "price": 306000
+                        }
+                    ],
+                    "unit": 235
+                }
+            ],
+            "block_code": {
+                "block_num": "560",
+                "contract": "C4",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 1993,
+                "month": 9,
+                "day": 1,
+                "quarter": null,
+                "months_since": -284
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 1,
+            "street": "PASIR RIS STREET 51",
+            "town": "Pasir Ris",
+            "title": "HDB-PASIR RIS",
+            "lat": 1.36676413373264,
+            "long": 103.950422811328,
+            "postal": 510560
+        },
+        {
+            "apartments": [
+                {
+                    "area": 105,
+                    "floor": 4,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 79,
+                            "price": 301000
+                        }
+                    ],
+                    "unit": 44
+                }
+            ],
+            "block_code": {
+                "block_num": "747",
+                "contract": "C7",
+                "neighbourhood": "N7"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 1996,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": -246
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "PASIR RIS STREET 71",
+            "town": "Pasir Ris",
+            "title": "HDB-PASIR RIS",
+            "lat": 1.3792208255439,
+            "long": 103.934555833334,
+            "postal": 510747
+        },
+        {
+            "apartments": [
+                {
+                    "area": 105,
+                    "floor": 5,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 78,
+                            "price": 306000
+                        }
+                    ],
+                    "unit": 306
+                }
+            ],
+            "block_code": {
+                "block_num": "766",
+                "contract": "C10",
+                "neighbourhood": "N7"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 1996,
+                "month": 10,
+                "day": 1,
+                "quarter": null,
+                "months_since": -247
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "PASIR RIS STREET 71",
+            "town": "Pasir Ris",
+            "title": "HDB-PASIR RIS",
+            "lat": 1.3759475886705,
+            "long": 103.936000878357,
+            "postal": 510766
+        }
+    ]
+}

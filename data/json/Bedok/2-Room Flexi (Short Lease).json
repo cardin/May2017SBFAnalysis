@@ -1,0 +1,204 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 37,
+                    "floor": 18,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 65100
+                        },
+                        {
+                            "lease": 20,
+                            "price": 75800
+                        },
+                        {
+                            "lease": 25,
+                            "price": 84600
+                        },
+                        {
+                            "lease": 30,
+                            "price": 91800
+                        },
+                        {
+                            "lease": 35,
+                            "price": 97900
+                        },
+                        {
+                            "lease": 40,
+                            "price": 103200
+                        },
+                        {
+                            "lease": 45,
+                            "price": 107600
+                        }
+                    ],
+                    "unit": 112
+                },
+                {
+                    "area": 47,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 80500
+                        },
+                        {
+                            "lease": 20,
+                            "price": 94000
+                        },
+                        {
+                            "lease": 25,
+                            "price": 105200
+                        },
+                        {
+                            "lease": 30,
+                            "price": 114400
+                        },
+                        {
+                            "lease": 35,
+                            "price": 122200
+                        },
+                        {
+                            "lease": 40,
+                            "price": 128800
+                        },
+                        {
+                            "lease": 45,
+                            "price": 134400
+                        }
+                    ],
+                    "unit": 122
+                },
+                {
+                    "area": 47,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 81500
+                        },
+                        {
+                            "lease": 20,
+                            "price": 95300
+                        },
+                        {
+                            "lease": 25,
+                            "price": 106700
+                        },
+                        {
+                            "lease": 30,
+                            "price": 116000
+                        },
+                        {
+                            "lease": 35,
+                            "price": 123900
+                        },
+                        {
+                            "lease": 40,
+                            "price": 130600
+                        },
+                        {
+                            "lease": 45,
+                            "price": 136300
+                        }
+                    ],
+                    "unit": 122
+                }
+            ],
+            "block_code": {
+                "block_num": "188D",
+                "contract": "C20",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 12,
+                "day": 31,
+                "quarter": null,
+                "months_since": 31
+            },
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 4,
+                "months_since": 19
+            },
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "BEDOK NORTH STREET 4",
+            "town": "Bedok",
+            "title": "FENGSHAN GREENVILLE",
+            "lat": 1.33168420406759,
+            "long": 103.940493118435,
+            "postal": 464188
+        },
+        {
+            "apartments": [
+                {
+                    "area": 35,
+                    "floor": 12,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 60900
+                        },
+                        {
+                            "lease": 20,
+                            "price": 70800
+                        },
+                        {
+                            "lease": 25,
+                            "price": 78900
+                        },
+                        {
+                            "lease": 30,
+                            "price": 85600
+                        },
+                        {
+                            "lease": 35,
+                            "price": 91300
+                        },
+                        {
+                            "lease": 40,
+                            "price": 96100
+                        },
+                        {
+                            "lease": 45,
+                            "price": 100200
+                        }
+                    ],
+                    "unit": 153
+                }
+            ],
+            "block_code": {
+                "block_num": "509B",
+                "contract": "C17",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease)",
+            "lcd_date": null,
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BEDOK NORTH STREET 3",
+            "town": "Bedok",
+            "title": "GOLDEN OAKS",
+            "lat": 1.33369345595933,
+            "long": 103.930396926009,
+            "postal": 462509
+        }
+    ]
+}

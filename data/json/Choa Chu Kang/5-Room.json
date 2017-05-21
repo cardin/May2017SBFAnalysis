@@ -1,0 +1,3864 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 121,
+                    "floor": 2,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 71,
+                            "price": 318000
+                        }
+                    ],
+                    "unit": 428
+                }
+            ],
+            "block_code": {
+                "block_num": "102",
+                "contract": "C3",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 1989,
+                "month": 4,
+                "day": 1,
+                "quarter": null,
+                "months_since": -337
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 1,
+            "street": "TECK WHYE LANE",
+            "town": "Choa Chu Kang",
+            "title": "HDB-CHOA CHU KANG",
+            "lat": 1.37708284138501,
+            "long": 103.754394432037,
+            "postal": 680102
+        },
+        {
+            "apartments": [
+                {
+                    "area": 127,
+                    "floor": 3,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 71,
+                            "price": 308000
+                        }
+                    ],
+                    "unit": 297
+                }
+            ],
+            "block_code": {
+                "block_num": "136",
+                "contract": "C6",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 1989,
+                "month": 10,
+                "day": 1,
+                "quarter": null,
+                "months_since": -331
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 0,
+            "street": "TECK WHYE LANE",
+            "town": "Choa Chu Kang",
+            "title": "HDB-CHOA CHU KANG",
+            "lat": 1.37990613707132,
+            "long": 103.751696104326,
+            "postal": 680136
+        },
+        {
+            "apartments": [
+                {
+                    "area": 123,
+                    "floor": 9,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 82,
+                            "price": 358000
+                        }
+                    ],
+                    "unit": 177
+                }
+            ],
+            "block_code": {
+                "block_num": "457",
+                "contract": "C11",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2000,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": -207
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "CHOA CHU KANG AVENUE 4",
+            "town": "Choa Chu Kang",
+            "title": "HDB-CHOA CHU KANG",
+            "lat": 1.3786354527176,
+            "long": 103.736186811602,
+            "postal": 680457
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 342900
+                        }
+                    ],
+                    "unit": 73
+                }
+            ],
+            "block_code": {
+                "block_num": "487A",
+                "contract": "C15",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": -11
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 0,
+            "street": "CHOA CHU KANG AVENUE 5",
+            "town": "Choa Chu Kang",
+            "title": "SUNSHINE GARDENS",
+            "lat": 1.37587750919488,
+            "long": 103.739113762764,
+            "postal": 681487
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 348900
+                        }
+                    ],
+                    "unit": 193
+                }
+            ],
+            "block_code": {
+                "block_num": "489A",
+                "contract": "C15",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": -11
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "CHOA CHU KANG AVENUE 5",
+            "town": "Choa Chu Kang",
+            "title": "SUNSHINE GARDENS",
+            "lat": 1.37560094818423,
+            "long": 103.740360009689,
+            "postal": 681489
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 370000
+                        }
+                    ],
+                    "unit": 307
+                }
+            ],
+            "block_code": {
+                "block_num": "490D",
+                "contract": "C15",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": -11
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 1,
+            "street": "CHOA CHU KANG AVENUE 5",
+            "town": "Choa Chu Kang",
+            "title": "SUNSHINE GARDENS",
+            "lat": 1.37602869228676,
+            "long": 103.741368197927,
+            "postal": 684490
+        },
+        {
+            "apartments": [
+                {
+                    "area": 119,
+                    "floor": 2,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 76,
+                            "price": 293000
+                        }
+                    ],
+                    "unit": 24
+                }
+            ],
+            "block_code": {
+                "block_num": "540",
+                "contract": "C6",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 1994,
+                "month": 4,
+                "day": 1,
+                "quarter": null,
+                "months_since": -277
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "CHOA CHU KANG STREET 52",
+            "town": "Choa Chu Kang",
+            "title": "HDB-CHOA CHU KANG",
+            "lat": 1.39287401160157,
+            "long": 103.743812499866,
+            "postal": 680540
+        },
+        {
+            "apartments": [
+                {
+                    "area": 110,
+                    "floor": 2,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 84,
+                            "price": 341000
+                        }
+                    ],
+                    "unit": 276
+                }
+            ],
+            "block_code": {
+                "block_num": "685A",
+                "contract": "C13",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2002,
+                "month": 9,
+                "day": 1,
+                "quarter": null,
+                "months_since": -176
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "CHOA CHU KANG CRESCENT",
+            "town": "Choa Chu Kang",
+            "title": "HDB-CHOA CHU KANG",
+            "lat": 1.40378102388883,
+            "long": 103.747662621714,
+            "postal": 681685
+        },
+        {
+            "apartments": [
+                {
+                    "area": 110,
+                    "floor": 11,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 85,
+                            "price": 356000
+                        }
+                    ],
+                    "unit": 118
+                }
+            ],
+            "block_code": {
+                "block_num": "688C",
+                "contract": "C15",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2003,
+                "month": 3,
+                "day": 1,
+                "quarter": null,
+                "months_since": -170
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 1,
+            "street": "CHOA CHU KANG CRESCENT",
+            "town": "Choa Chu Kang",
+            "title": "HDB-CHOA CHU KANG",
+            "lat": 1.40318701316165,
+            "long": 103.750993347138,
+            "postal": 683688
+        },
+        {
+            "apartments": [
+                {
+                    "area": 127,
+                    "floor": 4,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 78,
+                            "price": 393000
+                        }
+                    ],
+                    "unit": 301
+                }
+            ],
+            "block_code": {
+                "block_num": "766",
+                "contract": "C2",
+                "neighbourhood": "N7"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 1996,
+                "month": 8,
+                "day": 1,
+                "quarter": null,
+                "months_since": -249
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "CHOA CHU KANG NORTH 5",
+            "town": "Choa Chu Kang",
+            "title": "HDB-CHOA CHU KANG",
+            "lat": 1.39359497879487,
+            "long": 103.749696232859,
+            "postal": 680766
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 314400
+                        }
+                    ],
+                    "unit": 3
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 320400
+                        }
+                    ],
+                    "unit": 3
+                },
+                {
+                    "area": 113,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 364400
+                        }
+                    ],
+                    "unit": 3
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 326500
+                        }
+                    ],
+                    "unit": 5
+                }
+            ],
+            "block_code": {
+                "block_num": "801A",
+                "contract": "C1",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": 9
+            },
+            "pcd_date": null,
+            "quota_chinese": 4,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "KEAT HONG CLOSE",
+            "town": "Choa Chu Kang",
+            "title": "KEAT HONG CREST",
+            "lat": 1.3758389985438,
+            "long": 103.743196073918,
+            "postal": 681801
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 320500
+                        }
+                    ],
+                    "unit": 27
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 320500
+                        }
+                    ],
+                    "unit": 29
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 326500
+                        }
+                    ],
+                    "unit": 29
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 326600
+                        }
+                    ],
+                    "unit": 31
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 332600
+                        }
+                    ],
+                    "unit": 31
+                },
+                {
+                    "area": 113,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 358100
+                        }
+                    ],
+                    "unit": 31
+                }
+            ],
+            "block_code": {
+                "block_num": "801B",
+                "contract": "C1",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": 9
+            },
+            "pcd_date": null,
+            "quota_chinese": 6,
+            "quota_malay": 3,
+            "quota_other": 4,
+            "street": "KEAT HONG CLOSE",
+            "town": "Choa Chu Kang",
+            "title": "KEAT HONG CREST",
+            "lat": 1.37582534430829,
+            "long": 103.742824736782,
+            "postal": 682801
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 326700
+                        }
+                    ],
+                    "unit": 49
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 332800
+                        }
+                    ],
+                    "unit": 51
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 326700
+                        }
+                    ],
+                    "unit": 57
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 332700
+                        }
+                    ],
+                    "unit": 57
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 338700
+                        }
+                    ],
+                    "unit": 57
+                },
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 344700
+                        }
+                    ],
+                    "unit": 57
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 326700
+                        }
+                    ],
+                    "unit": 59
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 332700
+                        }
+                    ],
+                    "unit": 59
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 338700
+                        }
+                    ],
+                    "unit": 59
+                }
+            ],
+            "block_code": {
+                "block_num": "801D",
+                "contract": "C1",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": 9
+            },
+            "pcd_date": null,
+            "quota_chinese": 9,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "KEAT HONG CLOSE",
+            "town": "Choa Chu Kang",
+            "title": "KEAT HONG CREST",
+            "lat": 1.37513710167699,
+            "long": 103.743031170319,
+            "postal": 684801
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 326600
+                        }
+                    ],
+                    "unit": 99
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 326300
+                        }
+                    ],
+                    "unit": 103
+                },
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 332300
+                        }
+                    ],
+                    "unit": 103
+                },
+                {
+                    "area": 113,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 372200
+                        }
+                    ],
+                    "unit": 103
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 308200
+                        }
+                    ],
+                    "unit": 105
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 314200
+                        }
+                    ],
+                    "unit": 105
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 320200
+                        }
+                    ],
+                    "unit": 105
+                }
+            ],
+            "block_code": {
+                "block_num": "802A",
+                "contract": "C1",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": 9
+            },
+            "pcd_date": null,
+            "quota_chinese": 7,
+            "quota_malay": 3,
+            "quota_other": 5,
+            "street": "KEAT HONG CLOSE",
+            "town": "Choa Chu Kang",
+            "title": "KEAT HONG CREST",
+            "lat": 1.37451721200372,
+            "long": 103.743470497331,
+            "postal": 681802
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 332600
+                        }
+                    ],
+                    "unit": 77
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 338600
+                        }
+                    ],
+                    "unit": 77
+                },
+                {
+                    "area": 113,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 361300
+                        }
+                    ],
+                    "unit": 77
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 314300
+                        }
+                    ],
+                    "unit": 79
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 320300
+                        }
+                    ],
+                    "unit": 79
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 320500
+                        }
+                    ],
+                    "unit": 81
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 332500
+                        }
+                    ],
+                    "unit": 81
+                },
+                {
+                    "area": 113,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 376700
+                        }
+                    ],
+                    "unit": 81
+                }
+            ],
+            "block_code": {
+                "block_num": "802B",
+                "contract": "C1",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": 9
+            },
+            "pcd_date": null,
+            "quota_chinese": 8,
+            "quota_malay": 1,
+            "quota_other": 6,
+            "street": "KEAT HONG CLOSE",
+            "town": "Choa Chu Kang",
+            "title": "KEAT HONG CREST",
+            "lat": 1.37474326247755,
+            "long": 103.742850951205,
+            "postal": 682802
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 321300
+                        }
+                    ],
+                    "unit": 110
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 301100
+                        }
+                    ],
+                    "unit": 116
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 312800
+                        }
+                    ],
+                    "unit": 116
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 330500
+                        }
+                    ],
+                    "unit": 116
+                }
+            ],
+            "block_code": {
+                "block_num": "803C",
+                "contract": "C2",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": 0
+            },
+            "pcd_date": null,
+            "quota_chinese": 4,
+            "quota_malay": 4,
+            "quota_other": 2,
+            "street": "KEAT HONG CLOSE",
+            "town": "Choa Chu Kang",
+            "title": "KEAT HONG PRIDE",
+            "lat": 1.37338731917493,
+            "long": 103.744026034489,
+            "postal": 683803
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 330200
+                        }
+                    ],
+                    "unit": 98
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 336200
+                        }
+                    ],
+                    "unit": 98
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 301000
+                        }
+                    ],
+                    "unit": 104
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 318600
+                        }
+                    ],
+                    "unit": 104
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 324600
+                        }
+                    ],
+                    "unit": 104
+                },
+                {
+                    "area": 113,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 355700
+                        }
+                    ],
+                    "unit": 104
+                }
+            ],
+            "block_code": {
+                "block_num": "803D",
+                "contract": "C2",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": 0
+            },
+            "pcd_date": null,
+            "quota_chinese": 6,
+            "quota_malay": 4,
+            "quota_other": 5,
+            "street": "KEAT HONG CLOSE",
+            "town": "Choa Chu Kang",
+            "title": "KEAT HONG PRIDE",
+            "lat": 1.37289698327411,
+            "long": 103.744347570659,
+            "postal": 684803
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 306800
+                        }
+                    ],
+                    "unit": 26
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 306800
+                        }
+                    ],
+                    "unit": 28
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 312800
+                        }
+                    ],
+                    "unit": 28
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 306800
+                        }
+                    ],
+                    "unit": 30
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 312600
+                        }
+                    ],
+                    "unit": 34
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 318600
+                        }
+                    ],
+                    "unit": 34
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 324600
+                        }
+                    ],
+                    "unit": 34
+                },
+                {
+                    "area": 113,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 347300
+                        }
+                    ],
+                    "unit": 34
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 306800
+                        }
+                    ],
+                    "unit": 36
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 318800
+                        }
+                    ],
+                    "unit": 36
+                }
+            ],
+            "block_code": {
+                "block_num": "804B",
+                "contract": "C2",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": 0
+            },
+            "pcd_date": null,
+            "quota_chinese": 10,
+            "quota_malay": 9,
+            "quota_other": 1,
+            "street": "KEAT HONG CLOSE",
+            "town": "Choa Chu Kang",
+            "title": "KEAT HONG PRIDE",
+            "lat": 1.37311403723833,
+            "long": 103.74188877037,
+            "postal": 682804
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 336500
+                        }
+                    ],
+                    "unit": 56
+                }
+            ],
+            "block_code": {
+                "block_num": "805B",
+                "contract": "C2",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": 0
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 0,
+            "street": "KEAT HONG CLOSE",
+            "town": "Choa Chu Kang",
+            "title": "KEAT HONG PRIDE",
+            "lat": 1.37274770355779,
+            "long": 103.74315742408,
+            "postal": 682805
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 306800
+                        }
+                    ],
+                    "unit": 68
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 306800
+                        }
+                    ],
+                    "unit": 70
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 318700
+                        }
+                    ],
+                    "unit": 72
+                },
+                {
+                    "area": 113,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 338300
+                        }
+                    ],
+                    "unit": 72
+                },
+                {
+                    "area": 113,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 350600
+                        }
+                    ],
+                    "unit": 72
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 295200
+                        }
+                    ],
+                    "unit": 76
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 301200
+                        }
+                    ],
+                    "unit": 76
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 318800
+                        }
+                    ],
+                    "unit": 76
+                },
+                {
+                    "area": 113,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 349900
+                        }
+                    ],
+                    "unit": 76
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 295400
+                        }
+                    ],
+                    "unit": 78
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 313000
+                        }
+                    ],
+                    "unit": 78
+                }
+            ],
+            "block_code": {
+                "block_num": "805C",
+                "contract": "C2",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": 0
+            },
+            "pcd_date": null,
+            "quota_chinese": 11,
+            "quota_malay": 5,
+            "quota_other": 3,
+            "street": "KEAT HONG CLOSE",
+            "town": "Choa Chu Kang",
+            "title": "KEAT HONG PRIDE",
+            "lat": 1.37268736243736,
+            "long": 103.743618216079,
+            "postal": 683805
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 312800
+                        }
+                    ],
+                    "unit": 80
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 318800
+                        }
+                    ],
+                    "unit": 80
+                },
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 330600
+                        }
+                    ],
+                    "unit": 80
+                },
+                {
+                    "area": 113,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 335100
+                        }
+                    ],
+                    "unit": 80
+                },
+                {
+                    "area": 113,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 339600
+                        }
+                    ],
+                    "unit": 80
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 309700
+                        }
+                    ],
+                    "unit": 82
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 324400
+                        }
+                    ],
+                    "unit": 82
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 330400
+                        }
+                    ],
+                    "unit": 82
+                },
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 336400
+                        }
+                    ],
+                    "unit": 82
+                },
+                {
+                    "area": 113,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 340900
+                        }
+                    ],
+                    "unit": 82
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 309700
+                        }
+                    ],
+                    "unit": 84
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 318600
+                        }
+                    ],
+                    "unit": 84
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 324600
+                        }
+                    ],
+                    "unit": 84
+                },
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 330600
+                        }
+                    ],
+                    "unit": 84
+                },
+                {
+                    "area": 113,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 339600
+                        }
+                    ],
+                    "unit": 84
+                },
+                {
+                    "area": 113,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 350000
+                        }
+                    ],
+                    "unit": 84
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 306800
+                        }
+                    ],
+                    "unit": 86
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 312800
+                        }
+                    ],
+                    "unit": 86
+                },
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 324800
+                        }
+                    ],
+                    "unit": 86
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 306800
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 312800
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 318800
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 113,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 338300
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 306800
+                        }
+                    ],
+                    "unit": 90
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 312800
+                        }
+                    ],
+                    "unit": 90
+                }
+            ],
+            "block_code": {
+                "block_num": "805D",
+                "contract": "C2",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": 0
+            },
+            "pcd_date": null,
+            "quota_chinese": 25,
+            "quota_malay": 8,
+            "quota_other": 13,
+            "street": "KEAT HONG CLOSE",
+            "town": "Choa Chu Kang",
+            "title": "KEAT HONG PRIDE",
+            "lat": 1.37241665311804,
+            "long": 103.744743989242,
+            "postal": 684805
+        },
+        {
+            "apartments": [
+                {
+                    "area": 112,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 331000
+                        }
+                    ],
+                    "unit": 528
+                },
+                {
+                    "area": 112,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 337000
+                        }
+                    ],
+                    "unit": 528
+                },
+                {
+                    "area": 112,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 355100
+                        }
+                    ],
+                    "unit": 528
+                },
+                {
+                    "area": 112,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 331000
+                        }
+                    ],
+                    "unit": 530
+                }
+            ],
+            "block_code": {
+                "block_num": "807B",
+                "contract": "C4",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 4,
+                "day": 1,
+                "quarter": null,
+                "months_since": -1
+            },
+            "pcd_date": null,
+            "quota_chinese": 4,
+            "quota_malay": 4,
+            "quota_other": 2,
+            "street": "CHOA CHU KANG AVENUE 1",
+            "town": "Choa Chu Kang",
+            "title": "KEAT HONG AXIS",
+            "lat": 1.37604418165094,
+            "long": 103.745170882728,
+            "postal": 682807
+        },
+        {
+            "apartments": [
+                {
+                    "area": 112,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 324900
+                        }
+                    ],
+                    "unit": 546
+                },
+                {
+                    "area": 112,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 324900
+                        }
+                    ],
+                    "unit": 548
+                },
+                {
+                    "area": 112,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 368600
+                        }
+                    ],
+                    "unit": 548
+                },
+                {
+                    "area": 112,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 324900
+                        }
+                    ],
+                    "unit": 550
+                }
+            ],
+            "block_code": {
+                "block_num": "807C",
+                "contract": "C4",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 4,
+                "day": 1,
+                "quarter": null,
+                "months_since": -1
+            },
+            "pcd_date": null,
+            "quota_chinese": 4,
+            "quota_malay": 4,
+            "quota_other": 1,
+            "street": "CHOA CHU KANG AVENUE 1",
+            "town": "Choa Chu Kang",
+            "title": "KEAT HONG AXIS",
+            "lat": 1.37615600248369,
+            "long": 103.745821319559,
+            "postal": 683807
+        },
+        {
+            "apartments": [
+                {
+                    "area": 112,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 334000
+                        }
+                    ],
+                    "unit": 560
+                },
+                {
+                    "area": 112,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 375000
+                        }
+                    ],
+                    "unit": 560
+                },
+                {
+                    "area": 112,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 334000
+                        }
+                    ],
+                    "unit": 562
+                }
+            ],
+            "block_code": {
+                "block_num": "808A",
+                "contract": "C4",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 4,
+                "day": 1,
+                "quarter": null,
+                "months_since": -1
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "CHOA CHU KANG AVENUE 1",
+            "town": "Choa Chu Kang",
+            "title": "KEAT HONG AXIS",
+            "lat": 1.37547987566592,
+            "long": 103.745373277908,
+            "postal": 681808
+        },
+        {
+            "apartments": [
+                {
+                    "area": 112,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 331000
+                        }
+                    ],
+                    "unit": 580
+                },
+                {
+                    "area": 112,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 337000
+                        }
+                    ],
+                    "unit": 580
+                },
+                {
+                    "area": 112,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 324900
+                        }
+                    ],
+                    "unit": 582
+                },
+                {
+                    "area": 112,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 324900
+                        }
+                    ],
+                    "unit": 584
+                }
+            ],
+            "block_code": {
+                "block_num": "808B",
+                "contract": "C4",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 4,
+                "day": 1,
+                "quarter": null,
+                "months_since": -1
+            },
+            "pcd_date": null,
+            "quota_chinese": 4,
+            "quota_malay": 4,
+            "quota_other": 4,
+            "street": "CHOA CHU KANG AVENUE 1",
+            "town": "Choa Chu Kang",
+            "title": "KEAT HONG AXIS",
+            "lat": 1.37559249810915,
+            "long": 103.7460213304,
+            "postal": 682808
+        },
+        {
+            "apartments": [
+                {
+                    "area": 112,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 337000
+                        }
+                    ],
+                    "unit": 586
+                },
+                {
+                    "area": 112,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 324900
+                        }
+                    ],
+                    "unit": 588
+                },
+                {
+                    "area": 112,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 346000
+                        }
+                    ],
+                    "unit": 588
+                },
+                {
+                    "area": 112,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 331000
+                        }
+                    ],
+                    "unit": 592
+                },
+                {
+                    "area": 112,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 337000
+                        }
+                    ],
+                    "unit": 592
+                },
+                {
+                    "area": 112,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 349000
+                        }
+                    ],
+                    "unit": 592
+                }
+            ],
+            "block_code": {
+                "block_num": "808C",
+                "contract": "C4",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 4,
+                "day": 1,
+                "quarter": null,
+                "months_since": -1
+            },
+            "pcd_date": null,
+            "quota_chinese": 6,
+            "quota_malay": 4,
+            "quota_other": 6,
+            "street": "CHOA CHU KANG AVENUE 1",
+            "town": "Choa Chu Kang",
+            "title": "KEAT HONG AXIS",
+            "lat": 1.37503135118647,
+            "long": 103.746186610645,
+            "postal": 683808
+        },
+        {
+            "apartments": [
+                {
+                    "area": 112,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 334000
+                        }
+                    ],
+                    "unit": 614
+                },
+                {
+                    "area": 112,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 343100
+                        }
+                    ],
+                    "unit": 614
+                },
+                {
+                    "area": 112,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 334000
+                        }
+                    ],
+                    "unit": 616
+                },
+                {
+                    "area": 112,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 365700
+                        }
+                    ],
+                    "unit": 616
+                }
+            ],
+            "block_code": {
+                "block_num": "808D",
+                "contract": "C4",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 4,
+                "day": 1,
+                "quarter": null,
+                "months_since": -1
+            },
+            "pcd_date": null,
+            "quota_chinese": 4,
+            "quota_malay": 4,
+            "quota_other": 4,
+            "street": "CHOA CHU KANG AVENUE 1",
+            "town": "Choa Chu Kang",
+            "title": "KEAT HONG AXIS",
+            "lat": 1.37488445323868,
+            "long": 103.745409019573,
+            "postal": 684808
+        },
+        {
+            "apartments": [
+                {
+                    "area": 112,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 324900
+                        }
+                    ],
+                    "unit": 620
+                },
+                {
+                    "area": 112,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 330900
+                        }
+                    ],
+                    "unit": 620
+                },
+                {
+                    "area": 112,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 324900
+                        }
+                    ],
+                    "unit": 622
+                },
+                {
+                    "area": 112,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 330900
+                        }
+                    ],
+                    "unit": 622
+                },
+                {
+                    "area": 112,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 336900
+                        }
+                    ],
+                    "unit": 622
+                },
+                {
+                    "area": 112,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 334000
+                        }
+                    ],
+                    "unit": 624
+                },
+                {
+                    "area": 112,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 343100
+                        }
+                    ],
+                    "unit": 624
+                },
+                {
+                    "area": 112,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 370200
+                        }
+                    ],
+                    "unit": 624
+                },
+                {
+                    "area": 112,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 385900
+                        }
+                    ],
+                    "unit": 624
+                },
+                {
+                    "area": 112,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 334000
+                        }
+                    ],
+                    "unit": 626
+                },
+                {
+                    "area": 112,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 365700
+                        }
+                    ],
+                    "unit": 626
+                },
+                {
+                    "area": 112,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 324900
+                        }
+                    ],
+                    "unit": 630
+                },
+                {
+                    "area": 112,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 330900
+                        }
+                    ],
+                    "unit": 630
+                },
+                {
+                    "area": 112,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 336900
+                        }
+                    ],
+                    "unit": 630
+                },
+                {
+                    "area": 112,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 324800
+                        }
+                    ],
+                    "unit": 632
+                },
+                {
+                    "area": 112,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 330800
+                        }
+                    ],
+                    "unit": 632
+                },
+                {
+                    "area": 112,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 358000
+                        }
+                    ],
+                    "unit": 632
+                }
+            ],
+            "block_code": {
+                "block_num": "809A",
+                "contract": "C4",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 4,
+                "day": 1,
+                "quarter": null,
+                "months_since": -1
+            },
+            "pcd_date": null,
+            "quota_chinese": 17,
+            "quota_malay": 7,
+            "quota_other": 8,
+            "street": "CHOA CHU KANG AVENUE 1",
+            "town": "Choa Chu Kang",
+            "title": "KEAT HONG AXIS",
+            "lat": 1.37520977307989,
+            "long": 103.745018192833,
+            "postal": 681809
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 319300
+                        }
+                    ],
+                    "unit": 505
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 325400
+                        }
+                    ],
+                    "unit": 513
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 331400
+                        }
+                    ],
+                    "unit": 513
+                },
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 343500
+                        }
+                    ],
+                    "unit": 513
+                },
+                {
+                    "area": 113,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 363400
+                        }
+                    ],
+                    "unit": 513
+                },
+                {
+                    "area": 113,
+                    "floor": 19,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 373000
+                        }
+                    ],
+                    "unit": 513
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 325500
+                        }
+                    ],
+                    "unit": 515
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 337500
+                        }
+                    ],
+                    "unit": 515
+                }
+            ],
+            "block_code": {
+                "block_num": "810A",
+                "contract": "C6",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 8,
+            "quota_malay": 3,
+            "quota_other": 1,
+            "street": "CHOA CHU KANG AVENUE 7",
+            "town": "Choa Chu Kang",
+            "title": "KEAT HONG COLOURS",
+            "lat": 1.37454540719521,
+            "long": 103.746303582104,
+            "postal": 681810
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 325500
+                        }
+                    ],
+                    "unit": 517
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 331500
+                        }
+                    ],
+                    "unit": 517
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 337500
+                        }
+                    ],
+                    "unit": 517
+                },
+                {
+                    "area": 113,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 357000
+                        }
+                    ],
+                    "unit": 517
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 325500
+                        }
+                    ],
+                    "unit": 523
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 331500
+                        }
+                    ],
+                    "unit": 523
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 337500
+                        }
+                    ],
+                    "unit": 523
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 325500
+                        }
+                    ],
+                    "unit": 527
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 331500
+                        }
+                    ],
+                    "unit": 527
+                },
+                {
+                    "area": 113,
+                    "floor": 18,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 371400
+                        }
+                    ],
+                    "unit": 527
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 319400
+                        }
+                    ],
+                    "unit": 529
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 337500
+                        }
+                    ],
+                    "unit": 529
+                },
+                {
+                    "area": 113,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 361800
+                        }
+                    ],
+                    "unit": 529
+                }
+            ],
+            "block_code": {
+                "block_num": "810B",
+                "contract": "C6",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 13,
+            "quota_malay": 5,
+            "quota_other": 8,
+            "street": "CHOA CHU KANG AVENUE 7",
+            "town": "Choa Chu Kang",
+            "title": "KEAT HONG COLOURS",
+            "lat": 1.37422058147931,
+            "long": 103.745465540212,
+            "postal": 682810
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 319400
+                        }
+                    ],
+                    "unit": 665
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 325400
+                        }
+                    ],
+                    "unit": 665
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 331400
+                        }
+                    ],
+                    "unit": 665
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 325500
+                        }
+                    ],
+                    "unit": 669
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 313300
+                        }
+                    ],
+                    "unit": 677
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 313200
+                        }
+                    ],
+                    "unit": 677
+                },
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 325300
+                        }
+                    ],
+                    "unit": 677
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 307300
+                        }
+                    ],
+                    "unit": 679
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 313300
+                        }
+                    ],
+                    "unit": 679
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 319300
+                        }
+                    ],
+                    "unit": 679
+                },
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 325300
+                        }
+                    ],
+                    "unit": 679
+                },
+                {
+                    "area": 113,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 366300
+                        }
+                    ],
+                    "unit": 679
+                }
+            ],
+            "block_code": {
+                "block_num": "812A",
+                "contract": "C6",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 12,
+            "quota_malay": 4,
+            "quota_other": 2,
+            "street": "CHOA CHU KANG AVENUE 7",
+            "town": "Choa Chu Kang",
+            "title": "KEAT HONG COLOURS",
+            "lat": 1.37338050667007,
+            "long": 103.746795759503,
+            "postal": 681812
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 325500
+                        }
+                    ],
+                    "unit": 633
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 331500
+                        }
+                    ],
+                    "unit": 633
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 337500
+                        }
+                    ],
+                    "unit": 633
+                },
+                {
+                    "area": 113,
+                    "floor": 18,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 371400
+                        }
+                    ],
+                    "unit": 633
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 325500
+                        }
+                    ],
+                    "unit": 639
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 331500
+                        }
+                    ],
+                    "unit": 639
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 319400
+                        }
+                    ],
+                    "unit": 643
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 331500
+                        }
+                    ],
+                    "unit": 643
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 325500
+                        }
+                    ],
+                    "unit": 645
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 331500
+                        }
+                    ],
+                    "unit": 645
+                }
+            ],
+            "block_code": {
+                "block_num": "812B",
+                "contract": "C6",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 10,
+            "quota_malay": 4,
+            "quota_other": 3,
+            "street": "CHOA CHU KANG AVENUE 7",
+            "town": "Choa Chu Kang",
+            "title": "KEAT HONG COLOURS",
+            "lat": 1.37309335968107,
+            "long": 103.746392546,
+            "postal": 682812
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 325500
+                        }
+                    ],
+                    "unit": 617
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 331500
+                        }
+                    ],
+                    "unit": 617
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 337500
+                        }
+                    ],
+                    "unit": 617
+                },
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 343500
+                        }
+                    ],
+                    "unit": 617
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 325500
+                        }
+                    ],
+                    "unit": 623
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 331500
+                        }
+                    ],
+                    "unit": 623
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 337500
+                        }
+                    ],
+                    "unit": 623
+                },
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 343500
+                        }
+                    ],
+                    "unit": 623
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 319400
+                        }
+                    ],
+                    "unit": 627
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 325400
+                        }
+                    ],
+                    "unit": 627
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 331400
+                        }
+                    ],
+                    "unit": 627
+                },
+                {
+                    "area": 113,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 355700
+                        }
+                    ],
+                    "unit": 627
+                },
+                {
+                    "area": 113,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 358900
+                        }
+                    ],
+                    "unit": 627
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 319400
+                        }
+                    ],
+                    "unit": 629
+                },
+                {
+                    "area": 113,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 325400
+                        }
+                    ],
+                    "unit": 629
+                },
+                {
+                    "area": 113,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 331400
+                        }
+                    ],
+                    "unit": 629
+                },
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 337400
+                        }
+                    ],
+                    "unit": 629
+                }
+            ],
+            "block_code": {
+                "block_num": "812C",
+                "contract": "C6",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 17,
+            "quota_malay": 0,
+            "quota_other": 12,
+            "street": "CHOA CHU KANG AVENUE 7",
+            "town": "Choa Chu Kang",
+            "title": "KEAT HONG COLOURS",
+            "lat": 1.372759484753,
+            "long": 103.745919764202,
+            "postal": 683812
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 380600
+                        }
+                    ],
+                    "unit": 17
+                },
+                {
+                    "area": 113,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 381800
+                        }
+                    ],
+                    "unit": 23
+                }
+            ],
+            "block_code": {
+                "block_num": "815B",
+                "contract": "C8",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 3,
+                "day": 1,
+                "quarter": null,
+                "months_since": -2
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "CHOA CHU KANG AVENUE 7",
+            "town": "Choa Chu Kang",
+            "title": "KEAT HONG QUAD",
+            "lat": 1.37684626113985,
+            "long": 103.747376759116,
+            "postal": 682815
+        },
+        {
+            "apartments": [
+                {
+                    "area": 113,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 395500
+                        }
+                    ],
+                    "unit": 47
+                },
+                {
+                    "area": 113,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 389100
+                        }
+                    ],
+                    "unit": 49
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 328700
+                        }
+                    ],
+                    "unit": 53
+                },
+                {
+                    "area": 113,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 361700
+                        }
+                    ],
+                    "unit": 53
+                },
+                {
+                    "area": 113,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 328700
+                        }
+                    ],
+                    "unit": 55
+                },
+                {
+                    "area": 113,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 352700
+                        }
+                    ],
+                    "unit": 55
+                }
+            ],
+            "block_code": {
+                "block_num": "815C",
+                "contract": "C8",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 3,
+                "day": 1,
+                "quarter": null,
+                "months_since": -2
+            },
+            "pcd_date": null,
+            "quota_chinese": 6,
+            "quota_malay": 6,
+            "quota_other": 6,
+            "street": "CHOA CHU KANG AVENUE 7",
+            "town": "Choa Chu Kang",
+            "title": "KEAT HONG QUAD",
+            "lat": 1.37630549527174,
+            "long": 103.747462477335,
+            "postal": 683815
+        },
+        {
+            "apartments": [
+                {
+                    "area": 112,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 345200
+                        }
+                    ],
+                    "unit": 55
+                },
+                {
+                    "area": 112,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 339100
+                        }
+                    ],
+                    "unit": 57
+                },
+                {
+                    "area": 112,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 345100
+                        }
+                    ],
+                    "unit": 59
+                },
+                {
+                    "area": 112,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 357200
+                        }
+                    ],
+                    "unit": 61
+                }
+            ],
+            "block_code": {
+                "block_num": "816A",
+                "contract": "C910",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 9,
+                "day": 1,
+                "quarter": null,
+                "months_since": 4
+            },
+            "pcd_date": null,
+            "quota_chinese": 4,
+            "quota_malay": 4,
+            "quota_other": 4,
+            "street": "KEAT HONG LINK",
+            "town": "Choa Chu Kang",
+            "title": "KEAT HONG MIRAGE",
+            "lat": 1.37603151881571,
+            "long": 103.748824632963,
+            "postal": 681816
+        },
+        {
+            "apartments": [
+                {
+                    "area": 112,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 363300
+                        }
+                    ],
+                    "unit": 69
+                },
+                {
+                    "area": 112,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 392400
+                        }
+                    ],
+                    "unit": 69
+                }
+            ],
+            "block_code": {
+                "block_num": "816B",
+                "contract": "C910",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 9,
+                "day": 1,
+                "quarter": null,
+                "months_since": 4
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 1,
+            "street": "KEAT HONG LINK",
+            "town": "Choa Chu Kang",
+            "title": "KEAT HONG MIRAGE",
+            "lat": 1.37604113515341,
+            "long": 103.748460043787,
+            "postal": 682816
+        },
+        {
+            "apartments": [
+                {
+                    "area": 112,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 386300
+                        }
+                    ],
+                    "unit": 85
+                },
+                {
+                    "area": 112,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 361600
+                        }
+                    ],
+                    "unit": 87
+                },
+                {
+                    "area": 112,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 357200
+                        }
+                    ],
+                    "unit": 89
+                }
+            ],
+            "block_code": {
+                "block_num": "817A",
+                "contract": "C910",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 9,
+                "day": 1,
+                "quarter": null,
+                "months_since": 4
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "KEAT HONG LINK",
+            "town": "Choa Chu Kang",
+            "title": "KEAT HONG MIRAGE",
+            "lat": 1.37660757238156,
+            "long": 103.748545956804,
+            "postal": 681817
+        },
+        {
+            "apartments": [
+                {
+                    "area": 112,
+                    "floor": 17,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 380600
+                        }
+                    ],
+                    "unit": 103
+                }
+            ],
+            "block_code": {
+                "block_num": "817B",
+                "contract": "C910",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 9,
+                "day": 1,
+                "quarter": null,
+                "months_since": 4
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "KEAT HONG LINK",
+            "town": "Choa Chu Kang",
+            "title": "KEAT HONG MIRAGE",
+            "lat": 1.37708774602655,
+            "long": 103.748768050663,
+            "postal": 682817
+        },
+        {
+            "apartments": [
+                {
+                    "area": 112,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 385000
+                        }
+                    ],
+                    "unit": 119
+                },
+                {
+                    "area": 112,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 383100
+                        }
+                    ],
+                    "unit": 121
+                }
+            ],
+            "block_code": {
+                "block_num": "817C",
+                "contract": "C910",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 9,
+                "day": 1,
+                "quarter": null,
+                "months_since": 4
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "KEAT HONG LINK",
+            "town": "Choa Chu Kang",
+            "title": "KEAT HONG MIRAGE",
+            "lat": 1.37756652387039,
+            "long": 103.748989532974,
+            "postal": 683817
+        },
+        {
+            "apartments": [
+                {
+                    "area": 112,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 390500
+                        }
+                    ],
+                    "unit": 134
+                },
+                {
+                    "area": 112,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 397200
+                        }
+                    ],
+                    "unit": 138
+                },
+                {
+                    "area": 112,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 357200
+                        }
+                    ],
+                    "unit": 140
+                }
+            ],
+            "block_code": {
+                "block_num": "818C",
+                "contract": "C910",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 9,
+                "day": 1,
+                "quarter": null,
+                "months_since": 4
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "CHOA CHU KANG AVENUE 1",
+            "town": "Choa Chu Kang",
+            "title": "KEAT HONG MIRAGE",
+            "lat": 1.37672184041419,
+            "long": 103.748150083183,
+            "postal": 683818
+        }
+    ]
+}

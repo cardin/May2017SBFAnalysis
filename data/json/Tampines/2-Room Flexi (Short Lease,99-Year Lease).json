@@ -1,0 +1,192 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 46,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 52600
+                        },
+                        {
+                            "lease": 20,
+                            "price": 62800
+                        },
+                        {
+                            "lease": 25,
+                            "price": 71100
+                        },
+                        {
+                            "lease": 30,
+                            "price": 78000
+                        },
+                        {
+                            "lease": 35,
+                            "price": 83800
+                        },
+                        {
+                            "lease": 40,
+                            "price": 88800
+                        },
+                        {
+                            "lease": 45,
+                            "price": 93000
+                        },
+                        {
+                            "lease": 96,
+                            "price": 153600
+                        }
+                    ],
+                    "unit": 228
+                },
+                {
+                    "area": 46,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 52600
+                        },
+                        {
+                            "lease": 20,
+                            "price": 62800
+                        },
+                        {
+                            "lease": 25,
+                            "price": 71100
+                        },
+                        {
+                            "lease": 30,
+                            "price": 78000
+                        },
+                        {
+                            "lease": 35,
+                            "price": 83800
+                        },
+                        {
+                            "lease": 40,
+                            "price": 88800
+                        },
+                        {
+                            "lease": 45,
+                            "price": 93000
+                        },
+                        {
+                            "lease": 96,
+                            "price": 153600
+                        }
+                    ],
+                    "unit": 230
+                },
+                {
+                    "area": 46,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 51000
+                        },
+                        {
+                            "lease": 20,
+                            "price": 60800
+                        },
+                        {
+                            "lease": 25,
+                            "price": 69000
+                        },
+                        {
+                            "lease": 30,
+                            "price": 75600
+                        },
+                        {
+                            "lease": 35,
+                            "price": 81300
+                        },
+                        {
+                            "lease": 40,
+                            "price": 86100
+                        },
+                        {
+                            "lease": 45,
+                            "price": 90100
+                        },
+                        {
+                            "lease": 96,
+                            "price": 148800
+                        }
+                    ],
+                    "unit": 232
+                },
+                {
+                    "area": 46,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 51700
+                        },
+                        {
+                            "lease": 20,
+                            "price": 61600
+                        },
+                        {
+                            "lease": 25,
+                            "price": 69900
+                        },
+                        {
+                            "lease": 30,
+                            "price": 76600
+                        },
+                        {
+                            "lease": 35,
+                            "price": 82300
+                        },
+                        {
+                            "lease": 40,
+                            "price": 87200
+                        },
+                        {
+                            "lease": 45,
+                            "price": 91300
+                        },
+                        {
+                            "lease": 96,
+                            "price": 150800
+                        }
+                    ],
+                    "unit": 234
+                }
+            ],
+            "block_code": {
+                "block_num": "499B",
+                "contract": "C26",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": {
+                "year": 2014,
+                "month": 3,
+                "day": 1,
+                "quarter": null,
+                "months_since": -38
+            },
+            "pcd_date": null,
+            "quota_chinese": 4,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "TAMPINES AVENUE 9",
+            "town": "Tampines",
+            "title": "TAMPINES RIA",
+            "lat": 1.35887020526728,
+            "long": 103.956331658876,
+            "postal": 522499
+        }
+    ]
+}

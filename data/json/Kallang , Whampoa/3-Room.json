@@ -1,0 +1,1998 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 70,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 364700
+                        }
+                    ],
+                    "unit": 502
+                },
+                {
+                    "area": 70,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 366600
+                        }
+                    ],
+                    "unit": 512
+                }
+            ],
+            "block_code": {
+                "block_num": "8A",
+                "contract": "C23B",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": 2
+            },
+            "pcd_date": null,
+            "quota_chinese": 0,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "UPPER BOON KENG ROAD",
+            "town": "Kallang / Whampoa",
+            "title": "KALLANG TRIVISTA",
+            "lat": 1.31292297822303,
+            "long": 103.869749922284,
+            "postal": 381008
+        },
+        {
+            "apartments": [
+                {
+                    "area": 70,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 375600
+                        }
+                    ],
+                    "unit": 524
+                },
+                {
+                    "area": 70,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 378100
+                        }
+                    ],
+                    "unit": 524
+                },
+                {
+                    "area": 70,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 387500
+                        }
+                    ],
+                    "unit": 526
+                },
+                {
+                    "area": 70,
+                    "floor": 24,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 399800
+                        }
+                    ],
+                    "unit": 526
+                },
+                {
+                    "area": 70,
+                    "floor": 30,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 400200
+                        }
+                    ],
+                    "unit": 526
+                }
+            ],
+            "block_code": {
+                "block_num": "8B",
+                "contract": "C23B",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": 2
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 5,
+            "quota_other": 5,
+            "street": "UPPER BOON KENG ROAD",
+            "town": "Kallang / Whampoa",
+            "title": "KALLANG TRIVISTA",
+            "lat": 1.31245374000854,
+            "long": 103.870051873232,
+            "postal": 382008
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 345500
+                        }
+                    ],
+                    "unit": 101
+                },
+                {
+                    "area": 68,
+                    "floor": 27,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 384000
+                        }
+                    ],
+                    "unit": 101
+                },
+                {
+                    "area": 68,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 359400
+                        }
+                    ],
+                    "unit": 111
+                },
+                {
+                    "area": 68,
+                    "floor": 29,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 386000
+                        }
+                    ],
+                    "unit": 111
+                }
+            ],
+            "block_code": {
+                "block_num": "10A",
+                "contract": "C50A",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 12,
+                "day": 1,
+                "quarter": null,
+                "months_since": 7
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 4,
+            "quota_other": 4,
+            "street": "BENDEMEER ROAD",
+            "town": "Kallang / Whampoa",
+            "title": "BENDEMEER LIGHT",
+            "lat": 1.31499138887317,
+            "long": 103.86050538635,
+            "postal": 331010
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 365000
+                        }
+                    ],
+                    "unit": 113
+                },
+                {
+                    "area": 68,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 360000
+                        }
+                    ],
+                    "unit": 121
+                },
+                {
+                    "area": 68,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 365000
+                        }
+                    ],
+                    "unit": 121
+                }
+            ],
+            "block_code": {
+                "block_num": "10B",
+                "contract": "C50A",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 12,
+                "day": 1,
+                "quarter": null,
+                "months_since": 7
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "BENDEMEER ROAD",
+            "town": "Kallang / Whampoa",
+            "title": "BENDEMEER LIGHT",
+            "lat": 1.31547715332075,
+            "long": 103.860312930116,
+            "postal": 332010
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 371100
+                        }
+                    ],
+                    "unit": 133
+                }
+            ],
+            "block_code": {
+                "block_num": "10C",
+                "contract": "C50A",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 12,
+                "day": 1,
+                "quarter": null,
+                "months_since": 7
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BENDEMEER ROAD",
+            "town": "Kallang / Whampoa",
+            "title": "BENDEMEER LIGHT",
+            "lat": 1.31584236197019,
+            "long": 103.860644539729,
+            "postal": 333010
+        },
+        {
+            "apartments": [
+                {
+                    "area": 62,
+                    "floor": 5,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 86,
+                            "price": 317300
+                        }
+                    ],
+                    "unit": 45
+                }
+            ],
+            "block_code": {
+                "block_num": "15",
+                "contract": "RC45",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 2004,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": -155
+            },
+            "pcd_date": null,
+            "quota_chinese": 0,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "FARRER PARK ROAD",
+            "town": "Kallang / Whampoa",
+            "title": "FARRER PARK VIEW",
+            "lat": 1.3110434681201,
+            "long": 103.851660614786,
+            "postal": 210015
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 366900
+                        }
+                    ],
+                    "unit": 21
+                }
+            ],
+            "block_code": {
+                "block_num": "26A",
+                "contract": "C21",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 4,
+                "day": 30,
+                "quarter": null,
+                "months_since": 35
+            },
+            "flat_type": "3-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 25
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "SAINT GEORGE'S LANE",
+            "town": "Kallang / Whampoa",
+            "title": "SAINT GEORGE'S TOWERS",
+            "lat": 1.32238262126124,
+            "long": 103.862438691917,
+            "postal": 321026
+        },
+        {
+            "apartments": [
+                {
+                    "area": 59,
+                    "floor": 4,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 55,
+                            "price": 204000
+                        }
+                    ],
+                    "unit": 57
+                }
+            ],
+            "block_code": {
+                "block_num": "77",
+                "contract": "C1",
+                "neighbourhood": "N7"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 1973,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": -526
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "LORONG LIMAU",
+            "town": "Kallang / Whampoa",
+            "title": "WHAMPOA SPRING",
+            "lat": 1.32507311145545,
+            "long": 103.854803547284,
+            "postal": 320077
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 374600
+                        }
+                    ],
+                    "unit": 262
+                },
+                {
+                    "area": 68,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 376600
+                        }
+                    ],
+                    "unit": 262
+                }
+            ],
+            "block_code": {
+                "block_num": "113C",
+                "contract": "C20C",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 12,
+                "day": 1,
+                "quarter": null,
+                "months_since": 7
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 2,
+            "street": "MCNAIR ROAD",
+            "town": "Kallang / Whampoa",
+            "title": "MCNAIR TOWERS",
+            "lat": 1.32088088349613,
+            "long": 103.860332176834,
+            "postal": 324113
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 20,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 391200
+                        }
+                    ],
+                    "unit": 240
+                },
+                {
+                    "area": 68,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 358100
+                        }
+                    ],
+                    "unit": 246
+                }
+            ],
+            "block_code": {
+                "block_num": "113D",
+                "contract": "C20C",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 12,
+                "day": 1,
+                "quarter": null,
+                "months_since": 7
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "MCNAIR ROAD",
+            "town": "Kallang / Whampoa",
+            "title": "MCNAIR TOWERS",
+            "lat": 1.32016531682988,
+            "long": 103.859859631841,
+            "postal": 325113
+        },
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 261000
+                        }
+                    ],
+                    "unit": 531
+                },
+                {
+                    "area": 67,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 264000
+                        }
+                    ],
+                    "unit": 531
+                },
+                {
+                    "area": 67,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 280400
+                        }
+                    ],
+                    "unit": 531
+                },
+                {
+                    "area": 67,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 285400
+                        }
+                    ],
+                    "unit": 531
+                },
+                {
+                    "area": 67,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 286400
+                        }
+                    ],
+                    "unit": 531
+                },
+                {
+                    "area": 67,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 288400
+                        }
+                    ],
+                    "unit": 531
+                },
+                {
+                    "area": 67,
+                    "floor": 18,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 289400
+                        }
+                    ],
+                    "unit": 531
+                },
+                {
+                    "area": 67,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 255500
+                        }
+                    ],
+                    "unit": 533
+                },
+                {
+                    "area": 67,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 266400
+                        }
+                    ],
+                    "unit": 533
+                },
+                {
+                    "area": 67,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 271900
+                        }
+                    ],
+                    "unit": 533
+                },
+                {
+                    "area": 67,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 274400
+                        }
+                    ],
+                    "unit": 533
+                },
+                {
+                    "area": 67,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 277900
+                        }
+                    ],
+                    "unit": 533
+                },
+                {
+                    "area": 67,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 278900
+                        }
+                    ],
+                    "unit": 533
+                },
+                {
+                    "area": 67,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 279900
+                        }
+                    ],
+                    "unit": 533
+                },
+                {
+                    "area": 67,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 280900
+                        }
+                    ],
+                    "unit": 533
+                },
+                {
+                    "area": 67,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 281900
+                        }
+                    ],
+                    "unit": 533
+                },
+                {
+                    "area": 67,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 282900
+                        }
+                    ],
+                    "unit": 533
+                },
+                {
+                    "area": 67,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 283900
+                        }
+                    ],
+                    "unit": 533
+                },
+                {
+                    "area": 67,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 284900
+                        }
+                    ],
+                    "unit": 533
+                },
+                {
+                    "area": 67,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 285900
+                        }
+                    ],
+                    "unit": 533
+                },
+                {
+                    "area": 67,
+                    "floor": 19,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 287900
+                        }
+                    ],
+                    "unit": 533
+                },
+                {
+                    "area": 67,
+                    "floor": 20,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 288900
+                        }
+                    ],
+                    "unit": 533
+                },
+                {
+                    "area": 67,
+                    "floor": 21,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 289900
+                        }
+                    ],
+                    "unit": 533
+                },
+                {
+                    "area": 67,
+                    "floor": 22,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 290900
+                        }
+                    ],
+                    "unit": 533
+                },
+                {
+                    "area": 67,
+                    "floor": 24,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 292900
+                        }
+                    ],
+                    "unit": 533
+                },
+                {
+                    "area": 67,
+                    "floor": 25,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 293900
+                        }
+                    ],
+                    "unit": 533
+                },
+                {
+                    "area": 67,
+                    "floor": 26,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 294900
+                        }
+                    ],
+                    "unit": 533
+                },
+                {
+                    "area": 67,
+                    "floor": 27,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 295900
+                        }
+                    ],
+                    "unit": 533
+                },
+                {
+                    "area": 67,
+                    "floor": 28,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 296900
+                        }
+                    ],
+                    "unit": 533
+                },
+                {
+                    "area": 67,
+                    "floor": 29,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 297900
+                        }
+                    ],
+                    "unit": 533
+                },
+                {
+                    "area": 67,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 266400
+                        }
+                    ],
+                    "unit": 535
+                },
+                {
+                    "area": 67,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 271900
+                        }
+                    ],
+                    "unit": 535
+                },
+                {
+                    "area": 67,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 274400
+                        }
+                    ],
+                    "unit": 535
+                },
+                {
+                    "area": 67,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 276900
+                        }
+                    ],
+                    "unit": 535
+                },
+                {
+                    "area": 67,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 278900
+                        }
+                    ],
+                    "unit": 535
+                },
+                {
+                    "area": 67,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 279900
+                        }
+                    ],
+                    "unit": 535
+                },
+                {
+                    "area": 67,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 280900
+                        }
+                    ],
+                    "unit": 535
+                },
+                {
+                    "area": 67,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 281900
+                        }
+                    ],
+                    "unit": 535
+                },
+                {
+                    "area": 67,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 282900
+                        }
+                    ],
+                    "unit": 535
+                },
+                {
+                    "area": 67,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 285900
+                        }
+                    ],
+                    "unit": 535
+                },
+                {
+                    "area": 67,
+                    "floor": 21,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 289900
+                        }
+                    ],
+                    "unit": 535
+                },
+                {
+                    "area": 67,
+                    "floor": 24,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 292900
+                        }
+                    ],
+                    "unit": 535
+                },
+                {
+                    "area": 67,
+                    "floor": 27,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 295900
+                        }
+                    ],
+                    "unit": 535
+                },
+                {
+                    "area": 67,
+                    "floor": 29,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 297900
+                        }
+                    ],
+                    "unit": 535
+                }
+            ],
+            "block_code": {
+                "block_num": "116A",
+                "contract": "C28B",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 39,
+            "quota_malay": 15,
+            "quota_other": 38,
+            "street": "JALAN TENTERAM",
+            "town": "Kallang / Whampoa",
+            "title": "TENTERAM PEAK",
+            "lat": 1.32705312503212,
+            "long": 103.860558381575,
+            "postal": 321116
+        },
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 265500
+                        }
+                    ],
+                    "unit": 549
+                },
+                {
+                    "area": 67,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 275800
+                        }
+                    ],
+                    "unit": 549
+                },
+                {
+                    "area": 67,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 278800
+                        }
+                    ],
+                    "unit": 549
+                },
+                {
+                    "area": 67,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 281800
+                        }
+                    ],
+                    "unit": 549
+                },
+                {
+                    "area": 67,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 284300
+                        }
+                    ],
+                    "unit": 549
+                },
+                {
+                    "area": 67,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 286800
+                        }
+                    ],
+                    "unit": 549
+                },
+                {
+                    "area": 67,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 289300
+                        }
+                    ],
+                    "unit": 549
+                },
+                {
+                    "area": 67,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 290300
+                        }
+                    ],
+                    "unit": 549
+                },
+                {
+                    "area": 67,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 291300
+                        }
+                    ],
+                    "unit": 549
+                },
+                {
+                    "area": 67,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 292300
+                        }
+                    ],
+                    "unit": 549
+                },
+                {
+                    "area": 67,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 293300
+                        }
+                    ],
+                    "unit": 549
+                },
+                {
+                    "area": 67,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 295300
+                        }
+                    ],
+                    "unit": 549
+                },
+                {
+                    "area": 67,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 296300
+                        }
+                    ],
+                    "unit": 549
+                },
+                {
+                    "area": 67,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 298300
+                        }
+                    ],
+                    "unit": 549
+                },
+                {
+                    "area": 67,
+                    "floor": 19,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 300300
+                        }
+                    ],
+                    "unit": 549
+                },
+                {
+                    "area": 67,
+                    "floor": 20,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 301300
+                        }
+                    ],
+                    "unit": 549
+                },
+                {
+                    "area": 67,
+                    "floor": 21,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 302300
+                        }
+                    ],
+                    "unit": 549
+                },
+                {
+                    "area": 67,
+                    "floor": 22,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 303300
+                        }
+                    ],
+                    "unit": 549
+                },
+                {
+                    "area": 67,
+                    "floor": 23,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 304300
+                        }
+                    ],
+                    "unit": 549
+                },
+                {
+                    "area": 67,
+                    "floor": 24,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 305300
+                        }
+                    ],
+                    "unit": 549
+                },
+                {
+                    "area": 67,
+                    "floor": 25,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 306300
+                        }
+                    ],
+                    "unit": 549
+                },
+                {
+                    "area": 67,
+                    "floor": 26,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 307300
+                        }
+                    ],
+                    "unit": 549
+                },
+                {
+                    "area": 67,
+                    "floor": 27,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 308300
+                        }
+                    ],
+                    "unit": 549
+                },
+                {
+                    "area": 67,
+                    "floor": 28,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 309300
+                        }
+                    ],
+                    "unit": 549
+                },
+                {
+                    "area": 67,
+                    "floor": 29,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 310300
+                        }
+                    ],
+                    "unit": 549
+                },
+                {
+                    "area": 67,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 291700
+                        }
+                    ],
+                    "unit": 551
+                },
+                {
+                    "area": 67,
+                    "floor": 22,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 293400
+                        }
+                    ],
+                    "unit": 551
+                }
+            ],
+            "block_code": {
+                "block_num": "116B",
+                "contract": "C28B",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 25,
+            "quota_malay": 9,
+            "quota_other": 27,
+            "street": "JALAN TENTERAM",
+            "town": "Kallang / Whampoa",
+            "title": "TENTERAM PEAK",
+            "lat": 1.32754908001447,
+            "long": 103.860807411661,
+            "postal": 322116
+        },
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 20,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 286400
+                        }
+                    ],
+                    "unit": 505
+                },
+                {
+                    "area": 67,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 248900
+                        }
+                    ],
+                    "unit": 507
+                },
+                {
+                    "area": 67,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 254600
+                        }
+                    ],
+                    "unit": 507
+                },
+                {
+                    "area": 67,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 257100
+                        }
+                    ],
+                    "unit": 507
+                },
+                {
+                    "area": 67,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 267000
+                        }
+                    ],
+                    "unit": 507
+                },
+                {
+                    "area": 67,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 275500
+                        }
+                    ],
+                    "unit": 507
+                },
+                {
+                    "area": 67,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 278900
+                        }
+                    ],
+                    "unit": 507
+                },
+                {
+                    "area": 67,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 279900
+                        }
+                    ],
+                    "unit": 507
+                },
+                {
+                    "area": 67,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 280900
+                        }
+                    ],
+                    "unit": 507
+                },
+                {
+                    "area": 67,
+                    "floor": 19,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 282900
+                        }
+                    ],
+                    "unit": 507
+                },
+                {
+                    "area": 67,
+                    "floor": 22,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 285900
+                        }
+                    ],
+                    "unit": 507
+                },
+                {
+                    "area": 67,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 257100
+                        }
+                    ],
+                    "unit": 509
+                },
+                {
+                    "area": 67,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 262100
+                        }
+                    ],
+                    "unit": 509
+                },
+                {
+                    "area": 67,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 271500
+                        }
+                    ],
+                    "unit": 509
+                },
+                {
+                    "area": 67,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 274900
+                        }
+                    ],
+                    "unit": 509
+                },
+                {
+                    "area": 67,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 276900
+                        }
+                    ],
+                    "unit": 509
+                },
+                {
+                    "area": 67,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 277900
+                        }
+                    ],
+                    "unit": 509
+                },
+                {
+                    "area": 67,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 280900
+                        }
+                    ],
+                    "unit": 509
+                }
+            ],
+            "block_code": {
+                "block_num": "117A",
+                "contract": "C28B",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 18,
+            "quota_malay": 5,
+            "quota_other": 18,
+            "street": "JALAN TENTERAM",
+            "town": "Kallang / Whampoa",
+            "title": "TENTERAM PEAK",
+            "lat": 1.32823358427153,
+            "long": 103.861138402914,
+            "postal": 321117
+        },
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 275800
+                        }
+                    ],
+                    "unit": 515
+                },
+                {
+                    "area": 67,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 278800
+                        }
+                    ],
+                    "unit": 515
+                },
+                {
+                    "area": 67,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 294300
+                        }
+                    ],
+                    "unit": 515
+                },
+                {
+                    "area": 67,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 295300
+                        }
+                    ],
+                    "unit": 515
+                },
+                {
+                    "area": 67,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 298300
+                        }
+                    ],
+                    "unit": 515
+                },
+                {
+                    "area": 67,
+                    "floor": 27,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 308300
+                        }
+                    ],
+                    "unit": 515
+                },
+                {
+                    "area": 67,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 260600
+                        }
+                    ],
+                    "unit": 517
+                },
+                {
+                    "area": 67,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 270900
+                        }
+                    ],
+                    "unit": 517
+                },
+                {
+                    "area": 67,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 273900
+                        }
+                    ],
+                    "unit": 517
+                },
+                {
+                    "area": 67,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 284300
+                        }
+                    ],
+                    "unit": 517
+                },
+                {
+                    "area": 67,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 286800
+                        }
+                    ],
+                    "unit": 517
+                },
+                {
+                    "area": 67,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 290300
+                        }
+                    ],
+                    "unit": 517
+                },
+                {
+                    "area": 67,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 291300
+                        }
+                    ],
+                    "unit": 517
+                },
+                {
+                    "area": 67,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 292300
+                        }
+                    ],
+                    "unit": 517
+                },
+                {
+                    "area": 67,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 294300
+                        }
+                    ],
+                    "unit": 517
+                },
+                {
+                    "area": 67,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 295300
+                        }
+                    ],
+                    "unit": 517
+                },
+                {
+                    "area": 67,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 297300
+                        }
+                    ],
+                    "unit": 517
+                },
+                {
+                    "area": 67,
+                    "floor": 19,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 300300
+                        }
+                    ],
+                    "unit": 517
+                },
+                {
+                    "area": 67,
+                    "floor": 20,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 301300
+                        }
+                    ],
+                    "unit": 517
+                },
+                {
+                    "area": 67,
+                    "floor": 22,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 303300
+                        }
+                    ],
+                    "unit": 517
+                },
+                {
+                    "area": 67,
+                    "floor": 23,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 304300
+                        }
+                    ],
+                    "unit": 517
+                },
+                {
+                    "area": 67,
+                    "floor": 27,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 308300
+                        }
+                    ],
+                    "unit": 517
+                }
+            ],
+            "block_code": {
+                "block_num": "117B",
+                "contract": "C28B",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 6
+            },
+            "pcd_date": null,
+            "quota_chinese": 18,
+            "quota_malay": 8,
+            "quota_other": 22,
+            "street": "JALAN TENTERAM",
+            "town": "Kallang / Whampoa",
+            "title": "TENTERAM PEAK",
+            "lat": 1.32816494843877,
+            "long": 103.860801944702,
+            "postal": 322117
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 120,
+                    "floor": 18,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 57,
+                            "price": 738000
+                        }
+                    ],
+                    "unit": 178
+                }
+            ],
+            "block_code": {
+                "block_num": "14",
+                "contract": "C2",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "5-Room",
+            "lcd_date": {
+                "year": 1975,
+                "month": 1,
+                "day": 1,
+                "quarter": null,
+                "months_since": -508
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "MARINE TERRACE",
+            "town": "Marine Parade",
+            "title": "MARINE TERRACE BREEZE",
+            "lat": 1.30347617922705,
+            "long": 103.915411740341,
+            "postal": 440014
+        }
+    ]
+}

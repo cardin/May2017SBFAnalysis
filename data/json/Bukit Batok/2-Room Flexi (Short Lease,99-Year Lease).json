@@ -1,0 +1,1726 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 22,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 51800
+                        },
+                        {
+                            "lease": 20,
+                            "price": 61900
+                        },
+                        {
+                            "lease": 25,
+                            "price": 70300
+                        },
+                        {
+                            "lease": 30,
+                            "price": 77200
+                        },
+                        {
+                            "lease": 35,
+                            "price": 83000
+                        },
+                        {
+                            "lease": 40,
+                            "price": 88000
+                        },
+                        {
+                            "lease": 45,
+                            "price": 92200
+                        },
+                        {
+                            "lease": 99,
+                            "price": 153500
+                        }
+                    ],
+                    "unit": 208
+                },
+                {
+                    "area": 47,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 52600
+                        },
+                        {
+                            "lease": 20,
+                            "price": 62500
+                        },
+                        {
+                            "lease": 25,
+                            "price": 70700
+                        },
+                        {
+                            "lease": 30,
+                            "price": 77400
+                        },
+                        {
+                            "lease": 35,
+                            "price": 83100
+                        },
+                        {
+                            "lease": 40,
+                            "price": 87900
+                        },
+                        {
+                            "lease": 45,
+                            "price": 92000
+                        },
+                        {
+                            "lease": 99,
+                            "price": 151700
+                        }
+                    ],
+                    "unit": 210
+                },
+                {
+                    "area": 47,
+                    "floor": 20,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 53400
+                        },
+                        {
+                            "lease": 20,
+                            "price": 63500
+                        },
+                        {
+                            "lease": 25,
+                            "price": 71800
+                        },
+                        {
+                            "lease": 30,
+                            "price": 78600
+                        },
+                        {
+                            "lease": 35,
+                            "price": 84400
+                        },
+                        {
+                            "lease": 40,
+                            "price": 89300
+                        },
+                        {
+                            "lease": 45,
+                            "price": 93400
+                        },
+                        {
+                            "lease": 99,
+                            "price": 154100
+                        }
+                    ],
+                    "unit": 210
+                },
+                {
+                    "area": 47,
+                    "floor": 25,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 53400
+                        },
+                        {
+                            "lease": 20,
+                            "price": 63900
+                        },
+                        {
+                            "lease": 25,
+                            "price": 72500
+                        },
+                        {
+                            "lease": 30,
+                            "price": 79600
+                        },
+                        {
+                            "lease": 35,
+                            "price": 85600
+                        },
+                        {
+                            "lease": 40,
+                            "price": 90700
+                        },
+                        {
+                            "lease": 45,
+                            "price": 95100
+                        },
+                        {
+                            "lease": 99,
+                            "price": 158300
+                        }
+                    ],
+                    "unit": 212
+                }
+            ],
+            "block_code": {
+                "block_num": "292A",
+                "contract": "C22",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 12,
+                "day": 31,
+                "quarter": null,
+                "months_since": 19
+            },
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": null,
+                "quarter": null,
+                "months_since": 2
+            },
+            "quota_chinese": 4,
+            "quota_malay": 2,
+            "quota_other": 1,
+            "street": "BUKIT BATOK EAST AVENUE 6",
+            "town": "Bukit Batok",
+            "title": "SKYPEAK @ BUKIT BATOK",
+            "lat": 1.34472844593553,
+            "long": 103.754607613565,
+            "postal": 651292
+        },
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 44500
+                        },
+                        {
+                            "lease": 20,
+                            "price": 52800
+                        },
+                        {
+                            "lease": 25,
+                            "price": 59700
+                        },
+                        {
+                            "lease": 30,
+                            "price": 65300
+                        },
+                        {
+                            "lease": 35,
+                            "price": 70100
+                        },
+                        {
+                            "lease": 40,
+                            "price": 74200
+                        },
+                        {
+                            "lease": 45,
+                            "price": 77600
+                        },
+                        {
+                            "lease": 99,
+                            "price": 127800
+                        }
+                    ],
+                    "unit": 988
+                }
+            ],
+            "block_code": {
+                "block_num": "435B",
+                "contract": "C5",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 1,
+                "day": 31,
+                "quarter": null,
+                "months_since": 32
+            },
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 1,
+                "months_since": 22
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BUKIT BATOK WEST AVENUE 5",
+            "town": "Bukit Batok",
+            "title": "WEST EDGE @ BUKIT BATOK",
+            "lat": 1.35882272265834,
+            "long": 103.740404826736,
+            "postal": 652435
+        },
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 43100
+                        },
+                        {
+                            "lease": 20,
+                            "price": 51200
+                        },
+                        {
+                            "lease": 25,
+                            "price": 57900
+                        },
+                        {
+                            "lease": 30,
+                            "price": 63300
+                        },
+                        {
+                            "lease": 35,
+                            "price": 67900
+                        },
+                        {
+                            "lease": 40,
+                            "price": 71900
+                        },
+                        {
+                            "lease": 45,
+                            "price": 75200
+                        },
+                        {
+                            "lease": 99,
+                            "price": 123800
+                        }
+                    ],
+                    "unit": 926
+                }
+            ],
+            "block_code": {
+                "block_num": "436A",
+                "contract": "C5",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 1,
+                "day": 31,
+                "quarter": null,
+                "months_since": 32
+            },
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 1,
+                "months_since": 22
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BUKIT BATOK WEST AVENUE 5",
+            "town": "Bukit Batok",
+            "title": "WEST EDGE @ BUKIT BATOK",
+            "lat": 1.3591288318351,
+            "long": 103.739978327829,
+            "postal": 651436
+        },
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 43500
+                        },
+                        {
+                            "lease": 20,
+                            "price": 51700
+                        },
+                        {
+                            "lease": 25,
+                            "price": 58400
+                        },
+                        {
+                            "lease": 30,
+                            "price": 63900
+                        },
+                        {
+                            "lease": 35,
+                            "price": 68600
+                        },
+                        {
+                            "lease": 40,
+                            "price": 72600
+                        },
+                        {
+                            "lease": 45,
+                            "price": 75900
+                        },
+                        {
+                            "lease": 99,
+                            "price": 125000
+                        }
+                    ],
+                    "unit": 1031
+                }
+            ],
+            "block_code": {
+                "block_num": "438A",
+                "contract": "C5",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 1,
+                "day": 31,
+                "quarter": null,
+                "months_since": 32
+            },
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 1,
+                "months_since": 22
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BUKIT BATOK WEST AVENUE 8",
+            "town": "Bukit Batok",
+            "title": "WEST EDGE @ BUKIT BATOK",
+            "lat": 1.35748562372062,
+            "long": 103.740845096872,
+            "postal": 651438
+        },
+        {
+            "apartments": [
+                {
+                    "area": 38,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 29200
+                        },
+                        {
+                            "lease": 20,
+                            "price": 34600
+                        },
+                        {
+                            "lease": 25,
+                            "price": 39000
+                        },
+                        {
+                            "lease": 30,
+                            "price": 42700
+                        },
+                        {
+                            "lease": 35,
+                            "price": 45700
+                        },
+                        {
+                            "lease": 40,
+                            "price": 48400
+                        },
+                        {
+                            "lease": 45,
+                            "price": 50600
+                        },
+                        {
+                            "lease": 99,
+                            "price": 82900
+                        }
+                    ],
+                    "unit": 1053
+                }
+            ],
+            "block_code": {
+                "block_num": "438B",
+                "contract": "C5",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 1,
+                "day": 31,
+                "quarter": null,
+                "months_since": 32
+            },
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 1,
+                "months_since": 22
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BUKIT BATOK WEST AVENUE 8",
+            "town": "Bukit Batok",
+            "title": "WEST EDGE @ BUKIT BATOK",
+            "lat": 1.35788978585237,
+            "long": 103.740481164284,
+            "postal": 652438
+        },
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 46100
+                        },
+                        {
+                            "lease": 20,
+                            "price": 54700
+                        },
+                        {
+                            "lease": 25,
+                            "price": 61800
+                        },
+                        {
+                            "lease": 30,
+                            "price": 67600
+                        },
+                        {
+                            "lease": 35,
+                            "price": 72500
+                        },
+                        {
+                            "lease": 40,
+                            "price": 76700
+                        },
+                        {
+                            "lease": 45,
+                            "price": 80300
+                        },
+                        {
+                            "lease": 99,
+                            "price": 132100
+                        }
+                    ],
+                    "unit": 709
+                }
+            ],
+            "block_code": {
+                "block_num": "440A",
+                "contract": "C8",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 2,
+                "day": 28,
+                "quarter": null,
+                "months_since": 21
+            },
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": null,
+                "day": null,
+                "quarter": 4,
+                "months_since": 7
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BUKIT BATOK WEST AVENUE 8",
+            "town": "Bukit Batok",
+            "title": "WEST RIDGES @ BUKIT BATOK",
+            "lat": 1.35522654404618,
+            "long": 103.738772439227,
+            "postal": 651440
+        },
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 41400
+                        },
+                        {
+                            "lease": 20,
+                            "price": 49000
+                        },
+                        {
+                            "lease": 25,
+                            "price": 55300
+                        },
+                        {
+                            "lease": 30,
+                            "price": 60500
+                        },
+                        {
+                            "lease": 35,
+                            "price": 64900
+                        },
+                        {
+                            "lease": 40,
+                            "price": 68600
+                        },
+                        {
+                            "lease": 45,
+                            "price": 71800
+                        },
+                        {
+                            "lease": 99,
+                            "price": 117800
+                        }
+                    ],
+                    "unit": 14
+                },
+                {
+                    "area": 47,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 43100
+                        },
+                        {
+                            "lease": 20,
+                            "price": 51100
+                        },
+                        {
+                            "lease": 25,
+                            "price": 57700
+                        },
+                        {
+                            "lease": 30,
+                            "price": 63100
+                        },
+                        {
+                            "lease": 35,
+                            "price": 67700
+                        },
+                        {
+                            "lease": 40,
+                            "price": 71600
+                        },
+                        {
+                            "lease": 45,
+                            "price": 74900
+                        },
+                        {
+                            "lease": 99,
+                            "price": 123000
+                        }
+                    ],
+                    "unit": 14
+                }
+            ],
+            "block_code": {
+                "block_num": "448A",
+                "contract": "C14",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 2,
+                "day": 28,
+                "quarter": null,
+                "months_since": 21
+            },
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 1,
+                "months_since": 10
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "BUKIT BATOK WEST AVENUE 9",
+            "town": "Bukit Batok",
+            "title": "WEST VALLEY @ BUKIT BATOK",
+            "lat": 1.35286511774514,
+            "long": 103.740438584574,
+            "postal": 651448
+        },
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 39100
+                        },
+                        {
+                            "lease": 20,
+                            "price": 46200
+                        },
+                        {
+                            "lease": 25,
+                            "price": 52200
+                        },
+                        {
+                            "lease": 30,
+                            "price": 57000
+                        },
+                        {
+                            "lease": 35,
+                            "price": 61100
+                        },
+                        {
+                            "lease": 40,
+                            "price": 64600
+                        },
+                        {
+                            "lease": 45,
+                            "price": 67600
+                        },
+                        {
+                            "lease": 99,
+                            "price": 110800
+                        }
+                    ],
+                    "unit": 40
+                },
+                {
+                    "area": 47,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 42300
+                        },
+                        {
+                            "lease": 20,
+                            "price": 50200
+                        },
+                        {
+                            "lease": 25,
+                            "price": 56600
+                        },
+                        {
+                            "lease": 30,
+                            "price": 61900
+                        },
+                        {
+                            "lease": 35,
+                            "price": 66400
+                        },
+                        {
+                            "lease": 40,
+                            "price": 70200
+                        },
+                        {
+                            "lease": 45,
+                            "price": 73400
+                        },
+                        {
+                            "lease": 99,
+                            "price": 120600
+                        }
+                    ],
+                    "unit": 46
+                }
+            ],
+            "block_code": {
+                "block_num": "448C",
+                "contract": "C14",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 2,
+                "day": 28,
+                "quarter": null,
+                "months_since": 21
+            },
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 1,
+                "months_since": 10
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 1,
+            "street": "BUKIT BATOK WEST AVENUE 9",
+            "town": "Bukit Batok",
+            "title": "WEST VALLEY @ BUKIT BATOK",
+            "lat": 1.35272258284345,
+            "long": 103.741240002444,
+            "postal": 653448
+        },
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 45300
+                        },
+                        {
+                            "lease": 20,
+                            "price": 53800
+                        },
+                        {
+                            "lease": 25,
+                            "price": 60800
+                        },
+                        {
+                            "lease": 30,
+                            "price": 66600
+                        },
+                        {
+                            "lease": 35,
+                            "price": 71400
+                        },
+                        {
+                            "lease": 40,
+                            "price": 75600
+                        },
+                        {
+                            "lease": 45,
+                            "price": 79100
+                        },
+                        {
+                            "lease": 99,
+                            "price": 130400
+                        }
+                    ],
+                    "unit": 637
+                },
+                {
+                    "area": 47,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 41400
+                        },
+                        {
+                            "lease": 20,
+                            "price": 49200
+                        },
+                        {
+                            "lease": 25,
+                            "price": 55600
+                        },
+                        {
+                            "lease": 30,
+                            "price": 60800
+                        },
+                        {
+                            "lease": 35,
+                            "price": 65300
+                        },
+                        {
+                            "lease": 40,
+                            "price": 69000
+                        },
+                        {
+                            "lease": 45,
+                            "price": 72200
+                        },
+                        {
+                            "lease": 99,
+                            "price": 118900
+                        }
+                    ],
+                    "unit": 639
+                },
+                {
+                    "area": 38,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 37100
+                        },
+                        {
+                            "lease": 20,
+                            "price": 44000
+                        },
+                        {
+                            "lease": 25,
+                            "price": 49800
+                        },
+                        {
+                            "lease": 30,
+                            "price": 54500
+                        },
+                        {
+                            "lease": 35,
+                            "price": 58400
+                        },
+                        {
+                            "lease": 40,
+                            "price": 61800
+                        },
+                        {
+                            "lease": 45,
+                            "price": 64700
+                        },
+                        {
+                            "lease": 99,
+                            "price": 106600
+                        }
+                    ],
+                    "unit": 647
+                }
+            ],
+            "block_code": {
+                "block_num": "450A",
+                "contract": "C16",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 2,
+                "day": 28,
+                "quarter": null,
+                "months_since": 21
+            },
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 1,
+                "months_since": 10
+            },
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "BUKIT BATOK WEST AVENUE 6",
+            "town": "Bukit Batok",
+            "title": "WEST TERRA @ BUKIT BATOK",
+            "lat": 1.35279091158201,
+            "long": 103.744536033565,
+            "postal": 651450
+        },
+        {
+            "apartments": [
+                {
+                    "area": 47,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 44600
+                        },
+                        {
+                            "lease": 20,
+                            "price": 52900
+                        },
+                        {
+                            "lease": 25,
+                            "price": 59800
+                        },
+                        {
+                            "lease": 30,
+                            "price": 65500
+                        },
+                        {
+                            "lease": 35,
+                            "price": 70300
+                        },
+                        {
+                            "lease": 40,
+                            "price": 74400
+                        },
+                        {
+                            "lease": 45,
+                            "price": 77900
+                        },
+                        {
+                            "lease": 99,
+                            "price": 128300
+                        }
+                    ],
+                    "unit": 713
+                },
+                {
+                    "area": 47,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 46300
+                        },
+                        {
+                            "lease": 20,
+                            "price": 55000
+                        },
+                        {
+                            "lease": 25,
+                            "price": 62200
+                        },
+                        {
+                            "lease": 30,
+                            "price": 68100
+                        },
+                        {
+                            "lease": 35,
+                            "price": 73100
+                        },
+                        {
+                            "lease": 40,
+                            "price": 77400
+                        },
+                        {
+                            "lease": 45,
+                            "price": 81000
+                        },
+                        {
+                            "lease": 99,
+                            "price": 133500
+                        }
+                    ],
+                    "unit": 713
+                },
+                {
+                    "area": 47,
+                    "floor": 19,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 48200
+                        },
+                        {
+                            "lease": 20,
+                            "price": 57300
+                        },
+                        {
+                            "lease": 25,
+                            "price": 64800
+                        },
+                        {
+                            "lease": 30,
+                            "price": 70900
+                        },
+                        {
+                            "lease": 35,
+                            "price": 76100
+                        },
+                        {
+                            "lease": 40,
+                            "price": 80600
+                        },
+                        {
+                            "lease": 45,
+                            "price": 84300
+                        },
+                        {
+                            "lease": 99,
+                            "price": 139100
+                        }
+                    ],
+                    "unit": 713
+                },
+                {
+                    "area": 47,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 42400
+                        },
+                        {
+                            "lease": 20,
+                            "price": 50300
+                        },
+                        {
+                            "lease": 25,
+                            "price": 56900
+                        },
+                        {
+                            "lease": 30,
+                            "price": 62300
+                        },
+                        {
+                            "lease": 35,
+                            "price": 66800
+                        },
+                        {
+                            "lease": 40,
+                            "price": 70700
+                        },
+                        {
+                            "lease": 45,
+                            "price": 74000
+                        },
+                        {
+                            "lease": 99,
+                            "price": 121800
+                        }
+                    ],
+                    "unit": 715
+                },
+                {
+                    "area": 47,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 44600
+                        },
+                        {
+                            "lease": 20,
+                            "price": 53400
+                        },
+                        {
+                            "lease": 25,
+                            "price": 60700
+                        },
+                        {
+                            "lease": 30,
+                            "price": 66700
+                        },
+                        {
+                            "lease": 35,
+                            "price": 71800
+                        },
+                        {
+                            "lease": 40,
+                            "price": 76100
+                        },
+                        {
+                            "lease": 45,
+                            "price": 79700
+                        },
+                        {
+                            "lease": 99,
+                            "price": 133000
+                        }
+                    ],
+                    "unit": 717
+                },
+                {
+                    "area": 47,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 41700
+                        },
+                        {
+                            "lease": 20,
+                            "price": 49500
+                        },
+                        {
+                            "lease": 25,
+                            "price": 55900
+                        },
+                        {
+                            "lease": 30,
+                            "price": 61200
+                        },
+                        {
+                            "lease": 35,
+                            "price": 65600
+                        },
+                        {
+                            "lease": 40,
+                            "price": 69400
+                        },
+                        {
+                            "lease": 45,
+                            "price": 72600
+                        },
+                        {
+                            "lease": 99,
+                            "price": 119600
+                        }
+                    ],
+                    "unit": 719
+                },
+                {
+                    "area": 47,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 44800
+                        },
+                        {
+                            "lease": 20,
+                            "price": 53200
+                        },
+                        {
+                            "lease": 25,
+                            "price": 60100
+                        },
+                        {
+                            "lease": 30,
+                            "price": 65800
+                        },
+                        {
+                            "lease": 35,
+                            "price": 70600
+                        },
+                        {
+                            "lease": 40,
+                            "price": 74700
+                        },
+                        {
+                            "lease": 45,
+                            "price": 78200
+                        },
+                        {
+                            "lease": 99,
+                            "price": 128900
+                        }
+                    ],
+                    "unit": 719
+                },
+                {
+                    "area": 47,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 46400
+                        },
+                        {
+                            "lease": 20,
+                            "price": 55100
+                        },
+                        {
+                            "lease": 25,
+                            "price": 62300
+                        },
+                        {
+                            "lease": 30,
+                            "price": 68200
+                        },
+                        {
+                            "lease": 35,
+                            "price": 73200
+                        },
+                        {
+                            "lease": 40,
+                            "price": 77500
+                        },
+                        {
+                            "lease": 45,
+                            "price": 81100
+                        },
+                        {
+                            "lease": 99,
+                            "price": 133700
+                        }
+                    ],
+                    "unit": 723
+                },
+                {
+                    "area": 47,
+                    "floor": 21,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 48000
+                        },
+                        {
+                            "lease": 20,
+                            "price": 57000
+                        },
+                        {
+                            "lease": 25,
+                            "price": 64500
+                        },
+                        {
+                            "lease": 30,
+                            "price": 70600
+                        },
+                        {
+                            "lease": 35,
+                            "price": 75800
+                        },
+                        {
+                            "lease": 40,
+                            "price": 80200
+                        },
+                        {
+                            "lease": 45,
+                            "price": 84000
+                        },
+                        {
+                            "lease": 99,
+                            "price": 138500
+                        }
+                    ],
+                    "unit": 723
+                }
+            ],
+            "block_code": {
+                "block_num": "451A",
+                "contract": "C16",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 2,
+                "day": 28,
+                "quarter": null,
+                "months_since": 21
+            },
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 1,
+                "months_since": 10
+            },
+            "quota_chinese": 9,
+            "quota_malay": 9,
+            "quota_other": 9,
+            "street": "BUKIT BATOK WEST AVENUE 6",
+            "town": "Bukit Batok",
+            "title": "WEST TERRA @ BUKIT BATOK",
+            "lat": 1.35304899382256,
+            "long": 103.742932562787,
+            "postal": 651451
+        },
+        {
+            "apartments": [
+                {
+                    "area": 48,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 40300
+                        },
+                        {
+                            "lease": 20,
+                            "price": 48300
+                        },
+                        {
+                            "lease": 25,
+                            "price": 54900
+                        },
+                        {
+                            "lease": 30,
+                            "price": 60300
+                        },
+                        {
+                            "lease": 35,
+                            "price": 64800
+                        },
+                        {
+                            "lease": 40,
+                            "price": 68700
+                        },
+                        {
+                            "lease": 45,
+                            "price": 72000
+                        },
+                        {
+                            "lease": 99,
+                            "price": 120100
+                        }
+                    ],
+                    "unit": 41
+                },
+                {
+                    "area": 48,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 42700
+                        },
+                        {
+                            "lease": 20,
+                            "price": 50700
+                        },
+                        {
+                            "lease": 25,
+                            "price": 57300
+                        },
+                        {
+                            "lease": 30,
+                            "price": 62700
+                        },
+                        {
+                            "lease": 35,
+                            "price": 67200
+                        },
+                        {
+                            "lease": 40,
+                            "price": 71100
+                        },
+                        {
+                            "lease": 45,
+                            "price": 74400
+                        },
+                        {
+                            "lease": 99,
+                            "price": 122500
+                        }
+                    ],
+                    "unit": 45
+                },
+                {
+                    "area": 48,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 45900
+                        },
+                        {
+                            "lease": 20,
+                            "price": 54500
+                        },
+                        {
+                            "lease": 25,
+                            "price": 61600
+                        },
+                        {
+                            "lease": 30,
+                            "price": 67500
+                        },
+                        {
+                            "lease": 35,
+                            "price": 72400
+                        },
+                        {
+                            "lease": 40,
+                            "price": 76600
+                        },
+                        {
+                            "lease": 45,
+                            "price": 80200
+                        },
+                        {
+                            "lease": 99,
+                            "price": 132100
+                        }
+                    ],
+                    "unit": 45
+                }
+            ],
+            "block_code": {
+                "block_num": "460B",
+                "contract": "C12",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 4,
+                "day": 30,
+                "quarter": null,
+                "months_since": 35
+            },
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 25
+            },
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "BUKIT BATOK WEST AVENUE 9",
+            "town": "Bukit Batok",
+            "title": "WEST QUARRY @ BUKIT BATOK",
+            "lat": 1.35370592391879,
+            "long": 103.739150308425,
+            "postal": 652460
+        },
+        {
+            "apartments": [
+                {
+                    "area": 48,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 42400
+                        },
+                        {
+                            "lease": 20,
+                            "price": 50800
+                        },
+                        {
+                            "lease": 25,
+                            "price": 57800
+                        },
+                        {
+                            "lease": 30,
+                            "price": 63500
+                        },
+                        {
+                            "lease": 35,
+                            "price": 68300
+                        },
+                        {
+                            "lease": 40,
+                            "price": 72400
+                        },
+                        {
+                            "lease": 45,
+                            "price": 75800
+                        },
+                        {
+                            "lease": 99,
+                            "price": 126500
+                        }
+                    ],
+                    "unit": 55
+                },
+                {
+                    "area": 48,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 42200
+                        },
+                        {
+                            "lease": 20,
+                            "price": 50500
+                        },
+                        {
+                            "lease": 25,
+                            "price": 57400
+                        },
+                        {
+                            "lease": 30,
+                            "price": 63100
+                        },
+                        {
+                            "lease": 35,
+                            "price": 67900
+                        },
+                        {
+                            "lease": 40,
+                            "price": 71900
+                        },
+                        {
+                            "lease": 45,
+                            "price": 75400
+                        },
+                        {
+                            "lease": 99,
+                            "price": 125700
+                        }
+                    ],
+                    "unit": 59
+                }
+            ],
+            "block_code": {
+                "block_num": "460C",
+                "contract": "C12",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 4,
+                "day": 30,
+                "quarter": null,
+                "months_since": 35
+            },
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 25
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "BUKIT BATOK WEST AVENUE 9",
+            "town": "Bukit Batok",
+            "title": "WEST QUARRY @ BUKIT BATOK",
+            "lat": 1.35332661921438,
+            "long": 103.739335851293,
+            "postal": 653460
+        },
+        {
+            "apartments": [
+                {
+                    "area": 48,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 40000
+                        },
+                        {
+                            "lease": 20,
+                            "price": 47400
+                        },
+                        {
+                            "lease": 25,
+                            "price": 53500
+                        },
+                        {
+                            "lease": 30,
+                            "price": 58600
+                        },
+                        {
+                            "lease": 35,
+                            "price": 62800
+                        },
+                        {
+                            "lease": 40,
+                            "price": 66400
+                        },
+                        {
+                            "lease": 45,
+                            "price": 69500
+                        },
+                        {
+                            "lease": 99,
+                            "price": 114300
+                        }
+                    ],
+                    "unit": 71
+                },
+                {
+                    "area": 38,
+                    "floor": 19,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 15,
+                            "price": 35900
+                        },
+                        {
+                            "lease": 20,
+                            "price": 43000
+                        },
+                        {
+                            "lease": 25,
+                            "price": 48900
+                        },
+                        {
+                            "lease": 30,
+                            "price": 53700
+                        },
+                        {
+                            "lease": 35,
+                            "price": 57700
+                        },
+                        {
+                            "lease": 40,
+                            "price": 61200
+                        },
+                        {
+                            "lease": 45,
+                            "price": 64100
+                        },
+                        {
+                            "lease": 99,
+                            "price": 106900
+                        }
+                    ],
+                    "unit": 75
+                }
+            ],
+            "block_code": {
+                "block_num": "460D",
+                "contract": "C12",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 4,
+                "day": 30,
+                "quarter": null,
+                "months_since": 35
+            },
+            "flat_type": "2-Room Flexi (Short Lease/99-Year Lease)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 25
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "BUKIT BATOK WEST AVENUE 9",
+            "town": "Bukit Batok",
+            "title": "WEST QUARRY @ BUKIT BATOK",
+            "lat": 1.35357038229404,
+            "long": 103.740214836034,
+            "postal": 654460
+        }
+    ]
+}

@@ -1,0 +1,550 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 67,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 247500
+                        }
+                    ],
+                    "unit": 300
+                }
+            ],
+            "block_code": {
+                "block_num": "308C",
+                "contract": "C20",
+                "neighbourhood": "S3"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $12,000)",
+            "lcd_date": {
+                "year": 2016,
+                "month": 3,
+                "day": 1,
+                "quarter": null,
+                "months_since": -14
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "PUNGGOL WALK",
+            "town": "Punggol",
+            "title": "WATERWAY TERRACES I",
+            "lat": 1.40800694944031,
+            "long": 103.899074357998,
+            "postal": 823308
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 237300
+                        }
+                    ],
+                    "unit": 609
+                }
+            ],
+            "block_code": {
+                "block_num": "314A",
+                "contract": "C31",
+                "neighbourhood": "S3"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $12,000)",
+            "lcd_date": {
+                "year": 2017,
+                "month": 9,
+                "day": 1,
+                "quarter": null,
+                "months_since": 4
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "PUNGGOL WAY",
+            "town": "Punggol",
+            "title": "WATERWAY CASCADIA",
+            "lat": 1.40826187839777,
+            "long": 103.898017940475,
+            "postal": 821314
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 236300
+                        }
+                    ],
+                    "unit": 651
+                },
+                {
+                    "area": 68,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 235300
+                        }
+                    ],
+                    "unit": 653
+                },
+                {
+                    "area": 68,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 241300
+                        }
+                    ],
+                    "unit": 653
+                }
+            ],
+            "block_code": {
+                "block_num": "315A",
+                "contract": "C31",
+                "neighbourhood": "S3"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $12,000)",
+            "lcd_date": {
+                "year": 2017,
+                "month": 9,
+                "day": 1,
+                "quarter": null,
+                "months_since": 4
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "PUNGGOL WAY",
+            "town": "Punggol",
+            "title": "WATERWAY CASCADIA",
+            "lat": 1.40831677374219,
+            "long": 103.897052983922,
+            "postal": 821315
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 245300
+                        }
+                    ],
+                    "unit": 677
+                }
+            ],
+            "block_code": {
+                "block_num": "315B",
+                "contract": "C31",
+                "neighbourhood": "S3"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $12,000)",
+            "lcd_date": {
+                "year": 2017,
+                "month": 9,
+                "day": 1,
+                "quarter": null,
+                "months_since": 4
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "PUNGGOL WAY",
+            "town": "Punggol",
+            "title": "WATERWAY CASCADIA",
+            "lat": 1.40795602683386,
+            "long": 103.896400767911,
+            "postal": 822315
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 235300
+                        }
+                    ],
+                    "unit": 719
+                }
+            ],
+            "block_code": {
+                "block_num": "316B",
+                "contract": "C31",
+                "neighbourhood": "S3"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $12,000)",
+            "lcd_date": {
+                "year": 2017,
+                "month": 9,
+                "day": 1,
+                "quarter": null,
+                "months_since": 4
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "PUNGGOL WAY",
+            "town": "Punggol",
+            "title": "WATERWAY CASCADIA",
+            "lat": 1.40894665776412,
+            "long": 103.89792554782,
+            "postal": 822316
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 18,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 218700
+                        }
+                    ],
+                    "unit": 614
+                }
+            ],
+            "block_code": {
+                "block_num": "661A",
+                "contract": "C36",
+                "neighbourhood": "S6"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $12,000)",
+            "lcd_date": {
+                "year": 2017,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": 0
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "EDGEDALE PLAINS",
+            "town": "Punggol",
+            "title": "WATERWAY SUNDEW",
+            "lat": 1.40303056639259,
+            "long": 103.917080721325,
+            "postal": 821661
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 218000
+                        }
+                    ],
+                    "unit": 672
+                },
+                {
+                    "area": 68,
+                    "floor": 18,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 227000
+                        }
+                    ],
+                    "unit": 672
+                }
+            ],
+            "block_code": {
+                "block_num": "662B",
+                "contract": "C36",
+                "neighbourhood": "S6"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $12,000)",
+            "lcd_date": {
+                "year": 2017,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": 0
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "EDGEDALE PLAINS",
+            "town": "Punggol",
+            "title": "WATERWAY SUNDEW",
+            "lat": 1.40172153675658,
+            "long": 103.918690999509,
+            "postal": 822662
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 229400
+                        }
+                    ],
+                    "unit": 612
+                },
+                {
+                    "area": 68,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 230400
+                        }
+                    ],
+                    "unit": 614
+                }
+            ],
+            "block_code": {
+                "block_num": "670A",
+                "contract": "C39",
+                "neighbourhood": "S6"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $12,000)",
+            "lcd_date": {
+                "year": 2016,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": -11
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "EDGEFIELD PLAINS",
+            "town": "Punggol",
+            "title": "WATERWAY RIDGES",
+            "lat": 1.40538341177794,
+            "long": 103.912960755392,
+            "postal": 821670
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 210100
+                        }
+                    ],
+                    "unit": 636
+                },
+                {
+                    "area": 67,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 226500
+                        }
+                    ],
+                    "unit": 646
+                }
+            ],
+            "block_code": {
+                "block_num": "670C",
+                "contract": "C39",
+                "neighbourhood": "S6"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $12,000)",
+            "lcd_date": {
+                "year": 2016,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": -11
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 0,
+            "street": "EDGEFIELD PLAINS",
+            "town": "Punggol",
+            "title": "WATERWAY RIDGES",
+            "lat": 1.40534285786676,
+            "long": 103.913933278721,
+            "postal": 823670
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 209400
+                        }
+                    ],
+                    "unit": 757
+                }
+            ],
+            "block_code": {
+                "block_num": "682A",
+                "contract": "C39B",
+                "neighbourhood": "S6"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $12,000)",
+            "lcd_date": {
+                "year": 2018,
+                "month": 8,
+                "day": 1,
+                "quarter": null,
+                "months_since": 15
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "EDGEDALE PLAINS",
+            "town": "Punggol",
+            "title": "WATERWAY VIEW",
+            "lat": 1.40354774923553,
+            "long": 103.916291277867,
+            "postal": 821682
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 219400
+                        }
+                    ],
+                    "unit": 727
+                }
+            ],
+            "block_code": {
+                "block_num": "682C",
+                "contract": "C39B",
+                "neighbourhood": "S6"
+            },
+            "dpd_date": null,
+            "flat_type": "3-Room (income ceiling $12,000)",
+            "lcd_date": {
+                "year": 2018,
+                "month": 8,
+                "day": 1,
+                "quarter": null,
+                "months_since": 15
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "EDGEDALE PLAINS",
+            "town": "Punggol",
+            "title": "WATERWAY VIEW",
+            "lat": 1.4036198945767,
+            "long": 103.915524665337,
+            "postal": 823682
+        },
+        {
+            "apartments": [
+                {
+                    "area": 68,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 215800
+                        }
+                    ],
+                    "unit": 713
+                }
+            ],
+            "block_code": {
+                "block_num": "683A",
+                "contract": "C39B",
+                "neighbourhood": "S6"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 7,
+                "day": 31,
+                "quarter": null,
+                "months_since": 14
+            },
+            "flat_type": "3-Room (income ceiling $12,000)",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 6,
+                "day": null,
+                "quarter": null,
+                "months_since": 1
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "EDGEDALE PLAINS",
+            "town": "Punggol",
+            "title": "WATERWAY VIEW",
+            "lat": 1.40426344394423,
+            "long": 103.915371364318,
+            "postal": 821683
+        }
+    ]
+}

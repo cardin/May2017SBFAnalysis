@@ -1,0 +1,84 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 83,
+                    "floor": 4,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 67,
+                            "price": 404700
+                        }
+                    ],
+                    "unit": 220
+                }
+            ],
+            "block_code": {
+                "block_num": "208",
+                "contract": "C8",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 1985,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": -378
+            },
+            "pcd_date": null,
+            "quota_chinese": 0,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "SERANGOON CENTRAL",
+            "town": "Serangoon",
+            "title": "HDB-SERANGOON ESTATE",
+            "lat": 1.35411101087632,
+            "long": 103.873717631044,
+            "postal": 550208
+        },
+        {
+            "apartments": [
+                {
+                    "area": 100,
+                    "floor": 6,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 79,
+                            "price": 334000
+                        }
+                    ],
+                    "unit": 93
+                }
+            ],
+            "block_code": {
+                "block_num": "554",
+                "contract": "C17",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 1997,
+                "month": 8,
+                "day": 1,
+                "quarter": null,
+                "months_since": -237
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "SERANGOON NORTH AVENUE 3",
+            "town": "Serangoon",
+            "title": "HDB-SERANGOON NORTH ESTATE",
+            "lat": 1.37196720849203,
+            "long": 103.870390127568,
+            "postal": 550554
+        }
+    ]
+}

@@ -1,0 +1,2412 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 84,
+                    "floor": 8,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 67,
+                            "price": 228000
+                        }
+                    ],
+                    "unit": 409
+                }
+            ],
+            "block_code": {
+                "block_num": "112",
+                "contract": "C6",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 1985,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": -378
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "YISHUN RING ROAD",
+            "town": "Yishun",
+            "title": "CHONG PANG VALE",
+            "lat": 1.43416864539748,
+            "long": 103.829054979214,
+            "postal": 760112
+        },
+        {
+            "apartments": [
+                {
+                    "area": 91,
+                    "floor": 3,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 67,
+                            "price": 246000
+                        }
+                    ],
+                    "unit": 479
+                }
+            ],
+            "block_code": {
+                "block_num": "122",
+                "contract": "C7",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 1984,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": -390
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "YISHUN STREET 11",
+            "town": "Yishun",
+            "title": "CHONG PANG VIEW",
+            "lat": 1.43499758920058,
+            "long": 103.831124796378,
+            "postal": 760122
+        },
+        {
+            "apartments": [
+                {
+                    "area": 98,
+                    "floor": 6,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 67,
+                            "price": 306000
+                        }
+                    ],
+                    "unit": 153
+                }
+            ],
+            "block_code": {
+                "block_num": "212",
+                "contract": "C1",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 1985,
+                "month": 4,
+                "day": 1,
+                "quarter": null,
+                "months_since": -385
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "YISHUN STREET 21",
+            "town": "Yishun",
+            "title": "YISHUN PALM SPRING",
+            "lat": 1.43178317320576,
+            "long": 103.837438436698,
+            "postal": 760212
+        },
+        {
+            "apartments": [
+                {
+                    "area": 104,
+                    "floor": 2,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 67,
+                            "price": 261000
+                        }
+                    ],
+                    "unit": 215
+                }
+            ],
+            "block_code": {
+                "block_num": "250",
+                "contract": "C9",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 1985,
+                "month": 5,
+                "day": 1,
+                "quarter": null,
+                "months_since": -384
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "YISHUN AVENUE 9",
+            "town": "Yishun",
+            "title": "YISHUN SUNSHINE",
+            "lat": 1.43553062556876,
+            "long": 103.84167355912,
+            "postal": 760250
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 304300
+                        }
+                    ],
+                    "unit": 83
+                }
+            ],
+            "block_code": {
+                "block_num": "334A",
+                "contract": "C21",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2015,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": -18
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "YISHUN STREET 31",
+            "town": "Yishun",
+            "title": "YISHUN RIVERWALK",
+            "lat": 1.43290624174602,
+            "long": 103.844695383832,
+            "postal": 761334
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 308600
+                        }
+                    ],
+                    "unit": 71
+                }
+            ],
+            "block_code": {
+                "block_num": "335A",
+                "contract": "C21",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2015,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": -18
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "YISHUN STREET 31",
+            "town": "Yishun",
+            "title": "YISHUN RIVERWALK",
+            "lat": 1.43328052675088,
+            "long": 103.844436750229,
+            "postal": 761335
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 298800
+                        }
+                    ],
+                    "unit": 1930
+                }
+            ],
+            "block_code": {
+                "block_num": "342B",
+                "contract": "C20",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 1,
+                "day": 1,
+                "quarter": null,
+                "months_since": -16
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "YISHUN RING ROAD",
+            "town": "Yishun",
+            "title": "YISHUN NATURA",
+            "lat": 1.43024596089698,
+            "long": 103.844838329616,
+            "postal": 762342
+        },
+        {
+            "apartments": [
+                {
+                    "area": 96,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 323300
+                        }
+                    ],
+                    "unit": 1946
+                }
+            ],
+            "block_code": {
+                "block_num": "342C",
+                "contract": "C20",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 1,
+                "day": 1,
+                "quarter": null,
+                "months_since": -16
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "YISHUN RING ROAD",
+            "town": "Yishun",
+            "title": "YISHUN NATURA",
+            "lat": 1.42991891753487,
+            "long": 103.844367469818,
+            "postal": 763342
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 282900
+                        }
+                    ],
+                    "unit": 110
+                }
+            ],
+            "block_code": {
+                "block_num": "426B",
+                "contract": "C4",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2015,
+                "month": 3,
+                "day": 1,
+                "quarter": null,
+                "months_since": -26
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "YISHUN AVENUE 11",
+            "town": "Yishun",
+            "title": "FLORAL SPRING @ YISHUN",
+            "lat": 1.42272148459632,
+            "long": 103.846366899948,
+            "postal": 762426
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 291700
+                        }
+                    ],
+                    "unit": 583
+                },
+                {
+                    "area": 92,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 288900
+                        }
+                    ],
+                    "unit": 585
+                }
+            ],
+            "block_code": {
+                "block_num": "431C",
+                "contract": "C7",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2015,
+                "month": 9,
+                "day": 1,
+                "quarter": null,
+                "months_since": -20
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 1,
+            "street": "YISHUN AVENUE 1",
+            "town": "Yishun",
+            "title": "VISTA SPRING @ YISHUN",
+            "lat": 1.42019719250118,
+            "long": 103.84650450091,
+            "postal": 763431
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 315300
+                        }
+                    ],
+                    "unit": 482
+                }
+            ],
+            "block_code": {
+                "block_num": "501A",
+                "contract": "C1",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 1,
+                "day": 1,
+                "quarter": null,
+                "months_since": 8
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "YISHUN STREET 51",
+            "town": "Yishun",
+            "title": "PALM BREEZE @ YISHUN",
+            "lat": 1.41658108381253,
+            "long": 103.840452461694,
+            "postal": 761501
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 299400
+                        }
+                    ],
+                    "unit": 476
+                },
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 294100
+                        }
+                    ],
+                    "unit": 478
+                }
+            ],
+            "block_code": {
+                "block_num": "501B",
+                "contract": "C1",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 1,
+                "day": 1,
+                "quarter": null,
+                "months_since": 8
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "YISHUN STREET 51",
+            "town": "Yishun",
+            "title": "PALM BREEZE @ YISHUN",
+            "lat": 1.4170390939146,
+            "long": 103.840552679333,
+            "postal": 762501
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 316700
+                        }
+                    ],
+                    "unit": 404
+                },
+                {
+                    "area": 92,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 329700
+                        }
+                    ],
+                    "unit": 406
+                },
+                {
+                    "area": 92,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 303100
+                        }
+                    ],
+                    "unit": 420
+                }
+            ],
+            "block_code": {
+                "block_num": "502A",
+                "contract": "C1",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 1,
+                "day": 1,
+                "quarter": null,
+                "months_since": 8
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 2,
+            "quota_other": 1,
+            "street": "YISHUN STREET 51",
+            "town": "Yishun",
+            "title": "PALM BREEZE @ YISHUN",
+            "lat": 1.41639284301347,
+            "long": 103.841369327832,
+            "postal": 761502
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 303100
+                        }
+                    ],
+                    "unit": 428
+                }
+            ],
+            "block_code": {
+                "block_num": "502B",
+                "contract": "C1",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 1,
+                "day": 1,
+                "quarter": null,
+                "months_since": 8
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "YISHUN STREET 51",
+            "town": "Yishun",
+            "title": "PALM BREEZE @ YISHUN",
+            "lat": 1.4168217021613,
+            "long": 103.841552685497,
+            "postal": 762502
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 315300
+                        }
+                    ],
+                    "unit": 440
+                }
+            ],
+            "block_code": {
+                "block_num": "502C",
+                "contract": "C1",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 1,
+                "day": 1,
+                "quarter": null,
+                "months_since": 8
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "YISHUN STREET 51",
+            "town": "Yishun",
+            "title": "PALM BREEZE @ YISHUN",
+            "lat": 1.41732367870069,
+            "long": 103.841553015551,
+            "postal": 763502
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 293300
+                        }
+                    ],
+                    "unit": 460
+                }
+            ],
+            "block_code": {
+                "block_num": "502D",
+                "contract": "C1",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 1,
+                "day": 1,
+                "quarter": null,
+                "months_since": 8
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "YISHUN STREET 51",
+            "town": "Yishun",
+            "title": "PALM BREEZE @ YISHUN",
+            "lat": 1.41733110853486,
+            "long": 103.840860029881,
+            "postal": 764502
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 98,
+                            "price": 263500
+                        }
+                    ],
+                    "unit": 120
+                }
+            ],
+            "block_code": {
+                "block_num": "504C",
+                "contract": "C2",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2016,
+                "month": 3,
+                "day": 1,
+                "quarter": null,
+                "months_since": -14
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "YISHUN STREET 51",
+            "town": "Yishun",
+            "title": "ACACIA BREEZE @ YISHUN",
+            "lat": 1.41796444214742,
+            "long": 103.843464849594,
+            "postal": 763504
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 312100
+                        }
+                    ],
+                    "unit": 132
+                },
+                {
+                    "area": 93,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 309700
+                        }
+                    ],
+                    "unit": 134
+                },
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 311100
+                        }
+                    ],
+                    "unit": 134
+                },
+                {
+                    "area": 93,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 312100
+                        }
+                    ],
+                    "unit": 136
+                },
+                {
+                    "area": 93,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 316300
+                        }
+                    ],
+                    "unit": 136
+                }
+            ],
+            "block_code": {
+                "block_num": "506B",
+                "contract": "C4",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 4,
+                "day": 1,
+                "quarter": null,
+                "months_since": 11
+            },
+            "pcd_date": null,
+            "quota_chinese": 5,
+            "quota_malay": 0,
+            "quota_other": 2,
+            "street": "YISHUN AVENUE 4",
+            "town": "Yishun",
+            "title": "ANGSANA BREEZE @ YISHUN",
+            "lat": 1.41581792749072,
+            "long": 103.840677928722,
+            "postal": 762506
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 281500
+                        }
+                    ],
+                    "unit": 98
+                },
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 316300
+                        }
+                    ],
+                    "unit": 98
+                },
+                {
+                    "area": 93,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 314900
+                        }
+                    ],
+                    "unit": 106
+                },
+                {
+                    "area": 93,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 290500
+                        }
+                    ],
+                    "unit": 108
+                },
+                {
+                    "area": 93,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 295200
+                        }
+                    ],
+                    "unit": 112
+                }
+            ],
+            "block_code": {
+                "block_num": "507A",
+                "contract": "C4",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 4,
+                "day": 1,
+                "quarter": null,
+                "months_since": 11
+            },
+            "pcd_date": null,
+            "quota_chinese": 5,
+            "quota_malay": 4,
+            "quota_other": 4,
+            "street": "YISHUN AVENUE 4",
+            "town": "Yishun",
+            "title": "ANGSANA BREEZE @ YISHUN",
+            "lat": 1.41528579220047,
+            "long": 103.839846819606,
+            "postal": 761507
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 314900
+                        }
+                    ],
+                    "unit": 90
+                }
+            ],
+            "block_code": {
+                "block_num": "508A",
+                "contract": "C4",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 4,
+                "day": 1,
+                "quarter": null,
+                "months_since": 11
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "YISHUN AVENUE 4",
+            "town": "Yishun",
+            "title": "ANGSANA BREEZE @ YISHUN",
+            "lat": 1.41477557437493,
+            "long": 103.839550401283,
+            "postal": 761508
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 293500
+                        }
+                    ],
+                    "unit": 10
+                }
+            ],
+            "block_code": {
+                "block_num": "509A",
+                "contract": "C4",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 4,
+                "day": 1,
+                "quarter": null,
+                "months_since": 11
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "YISHUN AVENUE 4",
+            "town": "Yishun",
+            "title": "ANGSANA BREEZE @ YISHUN",
+            "lat": 1.41371268694035,
+            "long": 103.839528594029,
+            "postal": 761509
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 315900
+                        }
+                    ],
+                    "unit": 20
+                },
+                {
+                    "area": 93,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 312300
+                        }
+                    ],
+                    "unit": 20
+                },
+                {
+                    "area": 93,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 313700
+                        }
+                    ],
+                    "unit": 20
+                }
+            ],
+            "block_code": {
+                "block_num": "509B",
+                "contract": "C4",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 4,
+                "day": 1,
+                "quarter": null,
+                "months_since": 11
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 2,
+            "quota_other": 3,
+            "street": "YISHUN AVENUE 4",
+            "town": "Yishun",
+            "title": "ANGSANA BREEZE @ YISHUN",
+            "lat": 1.41380194757037,
+            "long": 103.840131481441,
+            "postal": 762509
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 307400
+                        }
+                    ],
+                    "unit": 38
+                }
+            ],
+            "block_code": {
+                "block_num": "509C",
+                "contract": "C4",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 4,
+                "day": 1,
+                "quarter": null,
+                "months_since": 11
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 0,
+            "street": "YISHUN AVENUE 4",
+            "town": "Yishun",
+            "title": "ANGSANA BREEZE @ YISHUN",
+            "lat": 1.41430422409892,
+            "long": 103.840416958905,
+            "postal": 763509
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 288800
+                        }
+                    ],
+                    "unit": 415
+                },
+                {
+                    "area": 93,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 315000
+                        }
+                    ],
+                    "unit": 417
+                }
+            ],
+            "block_code": {
+                "block_num": "511A",
+                "contract": "C6",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 8,
+                "day": 1,
+                "quarter": null,
+                "months_since": 3
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "YISHUN STREET 51",
+            "town": "Yishun",
+            "title": "OLEANDER BREEZE @ YISHUN",
+            "lat": 1.41566783698477,
+            "long": 103.8414467223,
+            "postal": 761511
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 329700
+                        }
+                    ],
+                    "unit": 425
+                },
+                {
+                    "area": 93,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 306600
+                        }
+                    ],
+                    "unit": 433
+                }
+            ],
+            "block_code": {
+                "block_num": "511B",
+                "contract": "C6",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 8,
+                "day": 1,
+                "quarter": null,
+                "months_since": 3
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "YISHUN STREET 51",
+            "town": "Yishun",
+            "title": "OLEANDER BREEZE @ YISHUN",
+            "lat": 1.41560329075564,
+            "long": 103.842414606217,
+            "postal": 762511
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 279300
+                        }
+                    ],
+                    "unit": 509
+                },
+                {
+                    "area": 93,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 293300
+                        }
+                    ],
+                    "unit": 509
+                },
+                {
+                    "area": 93,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 312800
+                        }
+                    ],
+                    "unit": 513
+                }
+            ],
+            "block_code": {
+                "block_num": "512A",
+                "contract": "C6",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 8,
+                "day": 1,
+                "quarter": null,
+                "months_since": 3
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 0,
+            "quota_other": 3,
+            "street": "YISHUN STREET 51",
+            "town": "Yishun",
+            "title": "OLEANDER BREEZE @ YISHUN",
+            "lat": 1.41427601038773,
+            "long": 103.841120715272,
+            "postal": 761512
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 298600
+                        }
+                    ],
+                    "unit": 479
+                },
+                {
+                    "area": 93,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 305100
+                        }
+                    ],
+                    "unit": 479
+                },
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 294900
+                        }
+                    ],
+                    "unit": 483
+                },
+                {
+                    "area": 93,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 311100
+                        }
+                    ],
+                    "unit": 485
+                },
+                {
+                    "area": 93,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 312500
+                        }
+                    ],
+                    "unit": 485
+                }
+            ],
+            "block_code": {
+                "block_num": "512B",
+                "contract": "C6",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 8,
+                "day": 1,
+                "quarter": null,
+                "months_since": 3
+            },
+            "pcd_date": null,
+            "quota_chinese": 5,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "YISHUN STREET 51",
+            "town": "Yishun",
+            "title": "OLEANDER BREEZE @ YISHUN",
+            "lat": 1.41470407444545,
+            "long": 103.842112573707,
+            "postal": 762512
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 308300
+                        }
+                    ],
+                    "unit": 459
+                },
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 279000
+                        }
+                    ],
+                    "unit": 465
+                },
+                {
+                    "area": 93,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 312500
+                        }
+                    ],
+                    "unit": 467
+                },
+                {
+                    "area": 93,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 293300
+                        }
+                    ],
+                    "unit": 477
+                },
+                {
+                    "area": 93,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 313900
+                        }
+                    ],
+                    "unit": 477
+                }
+            ],
+            "block_code": {
+                "block_num": "512C",
+                "contract": "C6",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 8,
+                "day": 1,
+                "quarter": null,
+                "months_since": 3
+            },
+            "pcd_date": null,
+            "quota_chinese": 5,
+            "quota_malay": 2,
+            "quota_other": 3,
+            "street": "YISHUN STREET 51",
+            "town": "Yishun",
+            "title": "OLEANDER BREEZE @ YISHUN",
+            "lat": 1.41495395852056,
+            "long": 103.842660534342,
+            "postal": 763512
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 294500
+                        }
+                    ],
+                    "unit": 385
+                }
+            ],
+            "block_code": {
+                "block_num": "513A",
+                "contract": "C8",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": 9
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "YISHUN STREET 51",
+            "town": "Yishun",
+            "title": "SARACA BREEZE @ YISHUN",
+            "lat": 1.41604047766781,
+            "long": 103.843489408772,
+            "postal": 761513
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 314400
+                        }
+                    ],
+                    "unit": 367
+                },
+                {
+                    "area": 93,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 297000
+                        }
+                    ],
+                    "unit": 373
+                }
+            ],
+            "block_code": {
+                "block_num": "513B",
+                "contract": "C8",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": 9
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 1,
+            "street": "YISHUN STREET 51",
+            "town": "Yishun",
+            "title": "SARACA BREEZE @ YISHUN",
+            "lat": 1.41572202507357,
+            "long": 103.84364770638,
+            "postal": 762513
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 318500
+                        }
+                    ],
+                    "unit": 327
+                },
+                {
+                    "area": 93,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 307500
+                        }
+                    ],
+                    "unit": 329
+                },
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 323500
+                        }
+                    ],
+                    "unit": 331
+                },
+                {
+                    "area": 93,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 314100
+                        }
+                    ],
+                    "unit": 339
+                }
+            ],
+            "block_code": {
+                "block_num": "513D",
+                "contract": "C8",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": 9
+            },
+            "pcd_date": null,
+            "quota_chinese": 4,
+            "quota_malay": 4,
+            "quota_other": 4,
+            "street": "YISHUN STREET 51",
+            "town": "Yishun",
+            "title": "SARACA BREEZE @ YISHUN",
+            "lat": 1.4156328868938,
+            "long": 103.844326949162,
+            "postal": 764513
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 281000
+                        }
+                    ],
+                    "unit": 592
+                }
+            ],
+            "block_code": {
+                "block_num": "671B",
+                "contract": "C19",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 1,
+                "day": 1,
+                "quarter": null,
+                "months_since": 8
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "YISHUN AVENUE 4",
+            "town": "Yishun",
+            "title": "VINE GROVE @ YISHUN",
+            "lat": 1.41878341784761,
+            "long": 103.842760847841,
+            "postal": 762671
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 288500
+                        }
+                    ],
+                    "unit": 536
+                },
+                {
+                    "area": 93,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 299600
+                        }
+                    ],
+                    "unit": 540
+                },
+                {
+                    "area": 93,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 283400
+                        }
+                    ],
+                    "unit": 546
+                }
+            ],
+            "block_code": {
+                "block_num": "672B",
+                "contract": "C19",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 1,
+                "day": 1,
+                "quarter": null,
+                "months_since": 8
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "YISHUN AVENUE 4",
+            "town": "Yishun",
+            "title": "VINE GROVE @ YISHUN",
+            "lat": 1.4185908072813,
+            "long": 103.841823925238,
+            "postal": 762672
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 289500
+                        }
+                    ],
+                    "unit": 556
+                },
+                {
+                    "area": 93,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 303300
+                        }
+                    ],
+                    "unit": 568
+                },
+                {
+                    "area": 93,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 294400
+                        }
+                    ],
+                    "unit": 570
+                },
+                {
+                    "area": 93,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 299600
+                        }
+                    ],
+                    "unit": 576
+                }
+            ],
+            "block_code": {
+                "block_num": "672C",
+                "contract": "C19",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 1,
+                "day": 1,
+                "quarter": null,
+                "months_since": 8
+            },
+            "pcd_date": null,
+            "quota_chinese": 4,
+            "quota_malay": 4,
+            "quota_other": 4,
+            "street": "YISHUN AVENUE 4",
+            "town": "Yishun",
+            "title": "VINE GROVE @ YISHUN",
+            "lat": 1.41836093867259,
+            "long": 103.842650670571,
+            "postal": 763672
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 270300
+                        }
+                    ],
+                    "unit": 642
+                }
+            ],
+            "block_code": {
+                "block_num": "673A",
+                "contract": "C17",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": 18
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "YISHUN AVENUE 4",
+            "town": "Yishun",
+            "title": "FERN GROVE @ YISHUN",
+            "lat": 1.41999780154793,
+            "long": 103.841999790902,
+            "postal": 761673
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 270800
+                        }
+                    ],
+                    "unit": 678
+                },
+                {
+                    "area": 93,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 297000
+                        }
+                    ],
+                    "unit": 690
+                }
+            ],
+            "block_code": {
+                "block_num": "673C",
+                "contract": "C17",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 10,
+                "day": 31,
+                "quarter": null,
+                "months_since": 17
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": null,
+                "day": null,
+                "quarter": 4,
+                "months_since": 7
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 1,
+            "street": "YISHUN AVENUE 4",
+            "town": "Yishun",
+            "title": "FERN GROVE @ YISHUN",
+            "lat": 1.4210500796771,
+            "long": 103.842206313585,
+            "postal": 763673
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 288300
+                        }
+                    ],
+                    "unit": 758
+                }
+            ],
+            "block_code": {
+                "block_num": "675A",
+                "contract": "C17",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 10,
+                "day": 31,
+                "quarter": null,
+                "months_since": 17
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 8,
+                "day": null,
+                "quarter": null,
+                "months_since": 3
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "YISHUN AVENUE 4",
+            "town": "Yishun",
+            "title": "FERN GROVE @ YISHUN",
+            "lat": 1.41937514773823,
+            "long": 103.843225964125,
+            "postal": 761675
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 298100
+                        }
+                    ],
+                    "unit": 790
+                },
+                {
+                    "area": 93,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 279200
+                        }
+                    ],
+                    "unit": 792
+                },
+                {
+                    "area": 93,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 294200
+                        }
+                    ],
+                    "unit": 796
+                },
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 271300
+                        }
+                    ],
+                    "unit": 798
+                }
+            ],
+            "block_code": {
+                "block_num": "675C",
+                "contract": "C17",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 10,
+                "day": 31,
+                "quarter": null,
+                "months_since": 17
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 5,
+                "day": null,
+                "quarter": null,
+                "months_since": 0
+            },
+            "quota_chinese": 4,
+            "quota_malay": 4,
+            "quota_other": 3,
+            "street": "YISHUN AVENUE 4",
+            "town": "Yishun",
+            "title": "FERN GROVE @ YISHUN",
+            "lat": 1.41942653983801,
+            "long": 103.842181861126,
+            "postal": 763675
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 294900
+                        }
+                    ],
+                    "unit": 818
+                }
+            ],
+            "block_code": {
+                "block_num": "675D",
+                "contract": "C17",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 10,
+                "day": 31,
+                "quarter": null,
+                "months_since": 17
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 9,
+                "day": null,
+                "quarter": null,
+                "months_since": 4
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "YISHUN AVENUE 4",
+            "town": "Yishun",
+            "title": "FERN GROVE @ YISHUN",
+            "lat": 1.41973599096205,
+            "long": 103.84270367205,
+            "postal": 764675
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 281700
+                        }
+                    ],
+                    "unit": 1914
+                }
+            ],
+            "block_code": {
+                "block_num": "676A",
+                "contract": "C20",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 9,
+                "day": 30,
+                "quarter": null,
+                "months_since": 16
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 4
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 0,
+            "street": "YISHUN RING ROAD",
+            "town": "Yishun",
+            "title": "PARK GROVE @ YISHUN",
+            "lat": 1.42145644490401,
+            "long": 103.843466406951,
+            "postal": 761676
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 275200
+                        }
+                    ],
+                    "unit": 1932
+                },
+                {
+                    "area": 93,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 302600
+                        }
+                    ],
+                    "unit": 1932
+                }
+            ],
+            "block_code": {
+                "block_num": "676C",
+                "contract": "C20",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 9,
+                "day": 30,
+                "quarter": null,
+                "months_since": 16
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": null,
+                "quarter": null,
+                "months_since": 2
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "YISHUN RING ROAD",
+            "town": "Yishun",
+            "title": "PARK GROVE @ YISHUN",
+            "lat": 1.42148523397245,
+            "long": 103.842476387165,
+            "postal": 763676
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 292400
+                        }
+                    ],
+                    "unit": 1996
+                }
+            ],
+            "block_code": {
+                "block_num": "677A",
+                "contract": "C20",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 9,
+                "day": 30,
+                "quarter": null,
+                "months_since": 16
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": null,
+                "quarter": null,
+                "months_since": 2
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "YISHUN RING ROAD",
+            "town": "Yishun",
+            "title": "PARK GROVE @ YISHUN",
+            "lat": 1.42197637237376,
+            "long": 103.843316797548,
+            "postal": 761677
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 303200
+                        }
+                    ],
+                    "unit": 1964
+                }
+            ],
+            "block_code": {
+                "block_num": "677C",
+                "contract": "C20",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 9,
+                "day": 30,
+                "quarter": null,
+                "months_since": 16
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 6,
+                "day": null,
+                "quarter": null,
+                "months_since": 1
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 0,
+            "street": "YISHUN RING ROAD",
+            "town": "Yishun",
+            "title": "PARK GROVE @ YISHUN",
+            "lat": 1.42203450983178,
+            "long": 103.84206234392,
+            "postal": 763677
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 4,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 66,
+                            "price": 268000
+                        }
+                    ],
+                    "unit": 136
+                }
+            ],
+            "block_code": {
+                "block_num": "712",
+                "contract": "C2",
+                "neighbourhood": "N7"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 1984,
+                "month": 4,
+                "day": 1,
+                "quarter": null,
+                "months_since": -397
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "YISHUN AVENUE 5",
+            "town": "Yishun",
+            "title": "CHONG PANG GREEN",
+            "lat": 1.42785215049804,
+            "long": 103.827781339299,
+            "postal": 760712
+        },
+        {
+            "apartments": [
+                {
+                    "area": 104,
+                    "floor": 3,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 67,
+                            "price": 298000
+                        }
+                    ],
+                    "unit": 75
+                }
+            ],
+            "block_code": {
+                "block_num": "726",
+                "contract": "C5",
+                "neighbourhood": "N7"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 1985,
+                "month": 10,
+                "day": 1,
+                "quarter": null,
+                "months_since": -379
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "YISHUN STREET 71",
+            "town": "Yishun",
+            "title": "KHATIB SPRING",
+            "lat": 1.42653621365271,
+            "long": 103.830668784342,
+            "postal": 760726
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 3,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 66,
+                            "price": 260000
+                        }
+                    ],
+                    "unit": 374
+                }
+            ],
+            "block_code": {
+                "block_num": "732",
+                "contract": "C6",
+                "neighbourhood": "N7"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 1984,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": -394
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "YISHUN AVENUE 5",
+            "town": "Yishun",
+            "title": "NEE SOON CENTRAL VISTA",
+            "lat": 1.42903445415476,
+            "long": 103.830336353437,
+            "postal": 760732
+        },
+        {
+            "apartments": [
+                {
+                    "area": 91,
+                    "floor": 9,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 66,
+                            "price": 319000
+                        }
+                    ],
+                    "unit": 196
+                }
+            ],
+            "block_code": {
+                "block_num": "752",
+                "contract": "C8",
+                "neighbourhood": "N7"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 1984,
+                "month": 4,
+                "day": 1,
+                "quarter": null,
+                "months_since": -397
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "YISHUN STREET 72",
+            "town": "Yishun",
+            "title": "NEE SOON CENTRAL GREEN",
+            "lat": 1.42723761189085,
+            "long": 103.834050197556,
+            "postal": 760752
+        }
+    ]
+}

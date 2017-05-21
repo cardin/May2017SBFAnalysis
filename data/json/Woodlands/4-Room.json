@@ -1,0 +1,1572 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 279300
+                        }
+                    ],
+                    "unit": 625
+                },
+                {
+                    "area": 93,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 286300
+                        }
+                    ],
+                    "unit": 625
+                }
+            ],
+            "block_code": {
+                "block_num": "183B",
+                "contract": "C26",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 9,
+                "day": 30,
+                "quarter": null,
+                "months_since": 28
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 16
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "WOODLANDS STREET 13",
+            "town": "Woodlands",
+            "title": "MARSILING GREENVIEW",
+            "lat": 1.43511880809721,
+            "long": 103.777142798069,
+            "postal": 732183
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 246700
+                        }
+                    ],
+                    "unit": 671
+                },
+                {
+                    "area": 93,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 277500
+                        }
+                    ],
+                    "unit": 671
+                },
+                {
+                    "area": 93,
+                    "floor": 29,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 311800
+                        }
+                    ],
+                    "unit": 673
+                }
+            ],
+            "block_code": {
+                "block_num": "185B",
+                "contract": "C26",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 9,
+                "day": 30,
+                "quarter": null,
+                "months_since": 28
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 16
+            },
+            "quota_chinese": 3,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "WOODLANDS STREET 13",
+            "town": "Woodlands",
+            "title": "MARSILING GREENVIEW",
+            "lat": 1.435856503832,
+            "long": 103.776294109996,
+            "postal": 732185
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 286000
+                        }
+                    ],
+                    "unit": 653
+                }
+            ],
+            "block_code": {
+                "block_num": "185C",
+                "contract": "C26",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 9,
+                "day": 30,
+                "quarter": null,
+                "months_since": 28
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 16
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "WOODLANDS STREET 13",
+            "town": "Woodlands",
+            "title": "MARSILING GREENVIEW",
+            "lat": 1.43588503875871,
+            "long": 103.776598268666,
+            "postal": 733185
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 269500
+                        }
+                    ],
+                    "unit": 626
+                },
+                {
+                    "area": 93,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 270800
+                        }
+                    ],
+                    "unit": 628
+                }
+            ],
+            "block_code": {
+                "block_num": "573A",
+                "contract": "C16",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 5,
+                "day": 31,
+                "quarter": null,
+                "months_since": 12
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": null,
+                "quarter": null,
+                "months_since": 2
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 0,
+            "street": "WOODLANDS DRIVE 16",
+            "town": "Woodlands",
+            "title": "WOODLANDS GLEN",
+            "lat": 1.43128103413155,
+            "long": 103.798018240512,
+            "postal": 731573
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 246800
+                        }
+                    ],
+                    "unit": 654
+                },
+                {
+                    "area": 93,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 275600
+                        }
+                    ],
+                    "unit": 654
+                }
+            ],
+            "block_code": {
+                "block_num": "573B",
+                "contract": "C16",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 5,
+                "day": 31,
+                "quarter": null,
+                "months_since": 12
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 6,
+                "day": null,
+                "quarter": null,
+                "months_since": 1
+            },
+            "quota_chinese": 2,
+            "quota_malay": 1,
+            "quota_other": 0,
+            "street": "WOODLANDS DRIVE 16",
+            "town": "Woodlands",
+            "title": "WOODLANDS GLEN",
+            "lat": 1.43084072475672,
+            "long": 103.797770248134,
+            "postal": 732573
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 251900
+                        }
+                    ],
+                    "unit": 700
+                },
+                {
+                    "area": 93,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 270800
+                        }
+                    ],
+                    "unit": 700
+                },
+                {
+                    "area": 93,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 273600
+                        }
+                    ],
+                    "unit": 704
+                },
+                {
+                    "area": 93,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 256400
+                        }
+                    ],
+                    "unit": 712
+                },
+                {
+                    "area": 93,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 277300
+                        }
+                    ],
+                    "unit": 712
+                }
+            ],
+            "block_code": {
+                "block_num": "574A",
+                "contract": "C16",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 5,
+                "day": 31,
+                "quarter": null,
+                "months_since": 12
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 5,
+                "day": null,
+                "quarter": null,
+                "months_since": 0
+            },
+            "quota_chinese": 5,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "WOODLANDS DRIVE 16",
+            "town": "Woodlands",
+            "title": "WOODLANDS GLEN",
+            "lat": 1.43009191759024,
+            "long": 103.797488334456,
+            "postal": 731574
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 272200
+                        }
+                    ],
+                    "unit": 748
+                }
+            ],
+            "block_code": {
+                "block_num": "574B",
+                "contract": "C16",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": 13
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 0,
+            "street": "WOODLANDS DRIVE 16",
+            "town": "Woodlands",
+            "title": "WOODLANDS GLEN",
+            "lat": 1.42968120982979,
+            "long": 103.79721983981,
+            "postal": 732574
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 294800
+                        }
+                    ],
+                    "unit": 15
+                },
+                {
+                    "area": 93,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 289000
+                        }
+                    ],
+                    "unit": 19
+                },
+                {
+                    "area": 93,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 301200
+                        }
+                    ],
+                    "unit": 21
+                }
+            ],
+            "block_code": {
+                "block_num": "691A",
+                "contract": "C6",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 5,
+                "day": 31,
+                "quarter": null,
+                "months_since": 12
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 6,
+                "day": null,
+                "quarter": null,
+                "months_since": 1
+            },
+            "quota_chinese": 3,
+            "quota_malay": 2,
+            "quota_other": 0,
+            "street": "WOODLANDS DRIVE 73",
+            "town": "Woodlands",
+            "title": "ADMIRALTY FLORA",
+            "lat": 1.44030360618928,
+            "long": 103.806660428381,
+            "postal": 731691
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 278400
+                        }
+                    ],
+                    "unit": 29
+                },
+                {
+                    "area": 93,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 298500
+                        }
+                    ],
+                    "unit": 29
+                },
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 301400
+                        }
+                    ],
+                    "unit": 39
+                }
+            ],
+            "block_code": {
+                "block_num": "691B",
+                "contract": "C6",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 5,
+                "day": 31,
+                "quarter": null,
+                "months_since": 12
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 5,
+                "day": null,
+                "quarter": null,
+                "months_since": 0
+            },
+            "quota_chinese": 3,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "WOODLANDS DRIVE 73",
+            "town": "Woodlands",
+            "title": "ADMIRALTY FLORA",
+            "lat": 1.44029954686918,
+            "long": 103.805892631539,
+            "postal": 732691
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 302500
+                        }
+                    ],
+                    "unit": 47
+                },
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 268000
+                        }
+                    ],
+                    "unit": 49
+                }
+            ],
+            "block_code": {
+                "block_num": "691C",
+                "contract": "C6",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 5,
+                "day": 31,
+                "quarter": null,
+                "months_since": 12
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 6,
+                "day": null,
+                "quarter": null,
+                "months_since": 1
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 1,
+            "street": "WOODLANDS DRIVE 73",
+            "town": "Woodlands",
+            "title": "ADMIRALTY FLORA",
+            "lat": 1.43981455081877,
+            "long": 103.806041331649,
+            "postal": 733691
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 305100
+                        }
+                    ],
+                    "unit": 55
+                }
+            ],
+            "block_code": {
+                "block_num": "691D",
+                "contract": "C6",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 5,
+                "day": 31,
+                "quarter": null,
+                "months_since": 12
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 6,
+                "day": null,
+                "quarter": null,
+                "months_since": 1
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 0,
+            "street": "WOODLANDS DRIVE 73",
+            "town": "Woodlands",
+            "title": "ADMIRALTY FLORA",
+            "lat": 1.43951622531019,
+            "long": 103.805687652889,
+            "postal": 734691
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 284700
+                        }
+                    ],
+                    "unit": 725
+                },
+                {
+                    "area": 92,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 288300
+                        }
+                    ],
+                    "unit": 731
+                }
+            ],
+            "block_code": {
+                "block_num": "693B",
+                "contract": "C22",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 8,
+                "day": 31,
+                "quarter": null,
+                "months_since": 15
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 8,
+                "day": null,
+                "quarter": null,
+                "months_since": 3
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 1,
+            "street": "WOODLANDS AVENUE 6",
+            "town": "Woodlands",
+            "title": "ADMIRALTY GROVE",
+            "lat": 1.43850605916388,
+            "long": 103.804250612304,
+            "postal": 732693
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 281700
+                        }
+                    ],
+                    "unit": 32
+                }
+            ],
+            "block_code": {
+                "block_num": "694B",
+                "contract": "C22",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 8,
+                "day": 31,
+                "quarter": null,
+                "months_since": 15
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 8,
+                "day": null,
+                "quarter": null,
+                "months_since": 3
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "WOODLANDS DRIVE 62",
+            "town": "Woodlands",
+            "title": "ADMIRALTY GROVE",
+            "lat": 1.43913929900175,
+            "long": 103.804976766892,
+            "postal": 732694
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 275200
+                        }
+                    ],
+                    "unit": 56
+                }
+            ],
+            "block_code": {
+                "block_num": "694C",
+                "contract": "C22",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 8,
+                "day": 31,
+                "quarter": null,
+                "months_since": 15
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 4
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "WOODLANDS DRIVE 62",
+            "town": "Woodlands",
+            "title": "ADMIRALTY GROVE",
+            "lat": 1.43882273055926,
+            "long": 103.80571417998,
+            "postal": 733694
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 276600
+                        }
+                    ],
+                    "unit": 92
+                }
+            ],
+            "block_code": {
+                "block_num": "694D",
+                "contract": "C22",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 8,
+                "day": 31,
+                "quarter": null,
+                "months_since": 15
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 4
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "WOODLANDS DRIVE 62",
+            "town": "Woodlands",
+            "title": "ADMIRALTY GROVE",
+            "lat": 1.43860258381125,
+            "long": 103.805091219141,
+            "postal": 734694
+        },
+        {
+            "apartments": [
+                {
+                    "area": 88,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 284000
+                        }
+                    ],
+                    "unit": 10
+                }
+            ],
+            "block_code": {
+                "block_num": "717A",
+                "contract": "C34",
+                "neighbourhood": "N7"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 12,
+                "day": 1,
+                "quarter": null,
+                "months_since": 7
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "WOODLANDS DRIVE 70",
+            "town": "Woodlands",
+            "title": "ADMIRALTY VISTA",
+            "lat": 1.44053859925969,
+            "long": 103.798668787427,
+            "postal": 731717
+        },
+        {
+            "apartments": [
+                {
+                    "area": 88,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 279500
+                        }
+                    ],
+                    "unit": 24
+                },
+                {
+                    "area": 88,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 301500
+                        }
+                    ],
+                    "unit": 24
+                },
+                {
+                    "area": 88,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 295400
+                        }
+                    ],
+                    "unit": 26
+                }
+            ],
+            "block_code": {
+                "block_num": "717B",
+                "contract": "C34",
+                "neighbourhood": "N7"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 12,
+                "day": 1,
+                "quarter": null,
+                "months_since": 7
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "WOODLANDS DRIVE 70",
+            "town": "Woodlands",
+            "title": "ADMIRALTY VISTA",
+            "lat": 1.44137023315007,
+            "long": 103.798542723674,
+            "postal": 732717
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 12,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 281300
+                        }
+                    ],
+                    "unit": 67
+                }
+            ],
+            "block_code": {
+                "block_num": "780D",
+                "contract": "C26",
+                "neighbourhood": "N7"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2015,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": -22
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 0,
+            "street": "WOODLANDS CRESCENT",
+            "town": "Woodlands",
+            "title": "WOODLANDS DEW",
+            "lat": 1.44811996098033,
+            "long": 103.801945841636,
+            "postal": 734780
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 287600
+                        }
+                    ],
+                    "unit": 47
+                }
+            ],
+            "block_code": {
+                "block_num": "783A",
+                "contract": "C29",
+                "neighbourhood": "N7"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 6,
+                "day": 30,
+                "quarter": null,
+                "months_since": 13
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": null,
+                "quarter": null,
+                "months_since": 2
+            },
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "WOODLANDS RISE",
+            "town": "Woodlands",
+            "title": "WOODLANDS PASTURE I",
+            "lat": 1.44741298788731,
+            "long": 103.803743181555,
+            "postal": 731783
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 283800
+                        }
+                    ],
+                    "unit": 35
+                }
+            ],
+            "block_code": {
+                "block_num": "783B",
+                "contract": "C29",
+                "neighbourhood": "N7"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 6,
+                "day": 30,
+                "quarter": null,
+                "months_since": 13
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": null,
+                "quarter": null,
+                "months_since": 2
+            },
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "WOODLANDS RISE",
+            "town": "Woodlands",
+            "title": "WOODLANDS PASTURE I",
+            "lat": 1.44700744261805,
+            "long": 103.803806064462,
+            "postal": 732783
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 287700
+                        }
+                    ],
+                    "unit": 7
+                },
+                {
+                    "area": 93,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 282700
+                        }
+                    ],
+                    "unit": 11
+                }
+            ],
+            "block_code": {
+                "block_num": "783C",
+                "contract": "C29",
+                "neighbourhood": "N7"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 6,
+                "day": 30,
+                "quarter": null,
+                "months_since": 13
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": null,
+                "quarter": null,
+                "months_since": 2
+            },
+            "quota_chinese": 2,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "WOODLANDS RISE",
+            "town": "Woodlands",
+            "title": "WOODLANDS PASTURE I",
+            "lat": 1.44660656350278,
+            "long": 103.803606292016,
+            "postal": 733783
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 297000
+                        }
+                    ],
+                    "unit": 19
+                }
+            ],
+            "block_code": {
+                "block_num": "783D",
+                "contract": "C29",
+                "neighbourhood": "N7"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 6,
+                "day": 30,
+                "quarter": null,
+                "months_since": 13
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": null,
+                "quarter": null,
+                "months_since": 2
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "WOODLANDS RISE",
+            "town": "Woodlands",
+            "title": "WOODLANDS PASTURE I",
+            "lat": 1.44696927881345,
+            "long": 103.803370127698,
+            "postal": 734783
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 289400
+                        }
+                    ],
+                    "unit": 2
+                }
+            ],
+            "block_code": {
+                "block_num": "784A",
+                "contract": "C30",
+                "neighbourhood": "N7"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 6,
+                "day": 30,
+                "quarter": null,
+                "months_since": 13
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 5,
+                "day": null,
+                "quarter": null,
+                "months_since": 0
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "WOODLANDS RISE",
+            "town": "Woodlands",
+            "title": "WOODLANDS PASTURE II",
+            "lat": 1.4453269331255,
+            "long": 103.805149387629,
+            "postal": 731784
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 264900
+                        }
+                    ],
+                    "unit": 24
+                }
+            ],
+            "block_code": {
+                "block_num": "784B",
+                "contract": "C30",
+                "neighbourhood": "N7"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 6,
+                "day": 30,
+                "quarter": null,
+                "months_since": 13
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 5,
+                "day": null,
+                "quarter": null,
+                "months_since": 0
+            },
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "WOODLANDS RISE",
+            "town": "Woodlands",
+            "title": "WOODLANDS PASTURE II",
+            "lat": 1.44552286862044,
+            "long": 103.80485578111,
+            "postal": 732784
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 260300
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 274000
+                        }
+                    ],
+                    "unit": 92
+                }
+            ],
+            "block_code": {
+                "block_num": "785B",
+                "contract": "C30",
+                "neighbourhood": "N7"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": 14
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 1,
+            "quota_other": 2,
+            "street": "WOODLANDS RISE",
+            "town": "Woodlands",
+            "title": "WOODLANDS PASTURE II",
+            "lat": 1.4462707831396,
+            "long": 103.80543142859,
+            "postal": 732785
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 266600
+                        }
+                    ],
+                    "unit": 64
+                },
+                {
+                    "area": 93,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 273000
+                        }
+                    ],
+                    "unit": 64
+                }
+            ],
+            "block_code": {
+                "block_num": "785C",
+                "contract": "C30",
+                "neighbourhood": "N7"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": 14
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 1,
+            "street": "WOODLANDS RISE",
+            "town": "Woodlands",
+            "title": "WOODLANDS PASTURE II",
+            "lat": 1.44592276177261,
+            "long": 103.805863389906,
+            "postal": 733785
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 279200
+                        }
+                    ],
+                    "unit": 221
+                },
+                {
+                    "area": 93,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 314700
+                        }
+                    ],
+                    "unit": 221
+                },
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 306900
+                        }
+                    ],
+                    "unit": 223
+                }
+            ],
+            "block_code": {
+                "block_num": "889A",
+                "contract": "C21",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": 2
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 2,
+            "street": "WOODLANDS DRIVE 50",
+            "town": "Woodlands",
+            "title": "TREETRAIL@WOODLANDS",
+            "lat": 1.4375623420963,
+            "long": 103.793320189052,
+            "postal": 731889
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 300500
+                        }
+                    ],
+                    "unit": 261
+                },
+                {
+                    "area": 93,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 299100
+                        }
+                    ],
+                    "unit": 269
+                }
+            ],
+            "block_code": {
+                "block_num": "889D",
+                "contract": "C21",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": 2
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "WOODLANDS DRIVE 50",
+            "town": "Woodlands",
+            "title": "TREETRAIL@WOODLANDS",
+            "lat": 1.43778127256864,
+            "long": 103.792079496533,
+            "postal": 734889
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 308600
+                        }
+                    ],
+                    "unit": 293
+                },
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 267200
+                        }
+                    ],
+                    "unit": 301
+                }
+            ],
+            "block_code": {
+                "block_num": "890B",
+                "contract": "C21",
+                "neighbourhood": "N8"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": 2
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "WOODLANDS DRIVE 50",
+            "town": "Woodlands",
+            "title": "TREETRAIL@WOODLANDS",
+            "lat": 1.43823874589711,
+            "long": 103.792452185805,
+            "postal": 732890
+        }
+    ]
+}

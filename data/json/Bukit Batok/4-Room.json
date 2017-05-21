@@ -1,0 +1,3956 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 20,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 370800
+                        }
+                    ],
+                    "unit": 219
+                },
+                {
+                    "area": 92,
+                    "floor": 22,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 373600
+                        }
+                    ],
+                    "unit": 219
+                },
+                {
+                    "area": 92,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 366000
+                        }
+                    ],
+                    "unit": 225
+                }
+            ],
+            "block_code": {
+                "block_num": "194A",
+                "contract": "C13",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": 2
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "BUKIT BATOK WEST AVENUE 6",
+            "town": "Bukit Batok",
+            "title": "SKYLINE I @ BUKIT BATOK",
+            "lat": 1.3446805012879,
+            "long": 103.7455138661,
+            "postal": 651194
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 21,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 384200
+                        }
+                    ],
+                    "unit": 229
+                },
+                {
+                    "area": 92,
+                    "floor": 26,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 391200
+                        }
+                    ],
+                    "unit": 229
+                },
+                {
+                    "area": 92,
+                    "floor": 24,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 381300
+                        }
+                    ],
+                    "unit": 243
+                }
+            ],
+            "block_code": {
+                "block_num": "194B",
+                "contract": "C13",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": 2
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "BUKIT BATOK WEST AVENUE 6",
+            "town": "Bukit Batok",
+            "title": "SKYLINE I @ BUKIT BATOK",
+            "lat": 1.34513283900191,
+            "long": 103.744861953262,
+            "postal": 652194
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 331800
+                        }
+                    ],
+                    "unit": 200
+                },
+                {
+                    "area": 93,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 333800
+                        }
+                    ],
+                    "unit": 200
+                },
+                {
+                    "area": 93,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 346800
+                        }
+                    ],
+                    "unit": 200
+                }
+            ],
+            "block_code": {
+                "block_num": "292A",
+                "contract": "C22",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 12,
+                "day": 31,
+                "quarter": null,
+                "months_since": 19
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": null,
+                "quarter": null,
+                "months_since": 2
+            },
+            "quota_chinese": 3,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "BUKIT BATOK EAST AVENUE 6",
+            "town": "Bukit Batok",
+            "title": "SKYPEAK @ BUKIT BATOK",
+            "lat": 1.34472844593553,
+            "long": 103.754607613565,
+            "postal": 651292
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 31,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 376600
+                        }
+                    ],
+                    "unit": 216
+                },
+                {
+                    "area": 93,
+                    "floor": 24,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 374200
+                        }
+                    ],
+                    "unit": 222
+                }
+            ],
+            "block_code": {
+                "block_num": "292B",
+                "contract": "C22",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 12,
+                "day": 31,
+                "quarter": null,
+                "months_since": 19
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 10,
+                "day": null,
+                "quarter": null,
+                "months_since": 5
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "BUKIT BATOK EAST AVENUE 6",
+            "town": "Bukit Batok",
+            "title": "SKYPEAK @ BUKIT BATOK",
+            "lat": 1.34477953186314,
+            "long": 103.753961675829,
+            "postal": 652292
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 37,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 401300
+                        }
+                    ],
+                    "unit": 236
+                }
+            ],
+            "block_code": {
+                "block_num": "292C",
+                "contract": "C22",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 12,
+                "day": 31,
+                "quarter": null,
+                "months_since": 19
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 10,
+                "day": null,
+                "quarter": null,
+                "months_since": 5
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BUKIT BATOK EAST AVENUE 6",
+            "town": "Bukit Batok",
+            "title": "SKYPEAK @ BUKIT BATOK",
+            "lat": 1.34497578759801,
+            "long": 103.753614683753,
+            "postal": 653292
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 325300
+                        }
+                    ],
+                    "unit": 504
+                },
+                {
+                    "area": 93,
+                    "floor": 23,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 366800
+                        }
+                    ],
+                    "unit": 506
+                },
+                {
+                    "area": 93,
+                    "floor": 25,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 369600
+                        }
+                    ],
+                    "unit": 508
+                },
+                {
+                    "area": 93,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 363400
+                        }
+                    ],
+                    "unit": 510
+                }
+            ],
+            "block_code": {
+                "block_num": "293A",
+                "contract": "C22",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 12,
+                "day": 31,
+                "quarter": null,
+                "months_since": 19
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 10,
+                "day": null,
+                "quarter": null,
+                "months_since": 5
+            },
+            "quota_chinese": 4,
+            "quota_malay": 4,
+            "quota_other": 4,
+            "street": "BUKIT BATOK STREET 21",
+            "town": "Bukit Batok",
+            "title": "SKYPEAK @ BUKIT BATOK",
+            "lat": 1.34593565587379,
+            "long": 103.754650908839,
+            "postal": 651293
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 334200
+                        }
+                    ],
+                    "unit": 516
+                },
+                {
+                    "area": 92,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 345200
+                        }
+                    ],
+                    "unit": 516
+                },
+                {
+                    "area": 92,
+                    "floor": 38,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 410700
+                        }
+                    ],
+                    "unit": 516
+                },
+                {
+                    "area": 92,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 361500
+                        }
+                    ],
+                    "unit": 518
+                }
+            ],
+            "block_code": {
+                "block_num": "293B",
+                "contract": "C22",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 12,
+                "day": 31,
+                "quarter": null,
+                "months_since": 19
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 10,
+                "day": null,
+                "quarter": null,
+                "months_since": 5
+            },
+            "quota_chinese": 4,
+            "quota_malay": 4,
+            "quota_other": 4,
+            "street": "BUKIT BATOK STREET 21",
+            "town": "Bukit Batok",
+            "title": "SKYPEAK @ BUKIT BATOK",
+            "lat": 1.34594925522119,
+            "long": 103.754248349899,
+            "postal": 652293
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 22,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 368300
+                        }
+                    ],
+                    "unit": 530
+                }
+            ],
+            "block_code": {
+                "block_num": "293C",
+                "contract": "C22",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 12,
+                "day": 31,
+                "quarter": null,
+                "months_since": 19
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 9,
+                "day": null,
+                "quarter": null,
+                "months_since": 4
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BUKIT BATOK STREET 21",
+            "town": "Bukit Batok",
+            "title": "SKYPEAK @ BUKIT BATOK",
+            "lat": 1.34537093479437,
+            "long": 103.75498944775,
+            "postal": 653293
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 352800
+                        }
+                    ],
+                    "unit": 536
+                },
+                {
+                    "area": 93,
+                    "floor": 19,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 361200
+                        }
+                    ],
+                    "unit": 542
+                }
+            ],
+            "block_code": {
+                "block_num": "293D",
+                "contract": "C22",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 12,
+                "day": 31,
+                "quarter": null,
+                "months_since": 19
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 9,
+                "day": null,
+                "quarter": null,
+                "months_since": 4
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "BUKIT BATOK STREET 21",
+            "town": "Bukit Batok",
+            "title": "SKYPEAK @ BUKIT BATOK",
+            "lat": 1.34502077023726,
+            "long": 103.755285866092,
+            "postal": 654293
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 18,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 363000
+                        }
+                    ],
+                    "unit": 86
+                }
+            ],
+            "block_code": {
+                "block_num": "296C",
+                "contract": "C23",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 3,
+                "day": 1,
+                "quarter": null,
+                "months_since": 10
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BUKIT BATOK STREET 22",
+            "town": "Bukit Batok",
+            "title": "SKYLINE II @ BUKIT BATOK",
+            "lat": 1.34369796674695,
+            "long": 103.748158134407,
+            "postal": 653296
+        },
+        {
+            "apartments": [
+                {
+                    "area": 103,
+                    "floor": 2,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 68,
+                            "price": 246000
+                        }
+                    ],
+                    "unit": 282
+                }
+            ],
+            "block_code": {
+                "block_num": "417",
+                "contract": "C3",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 1986,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": -371
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 0,
+            "street": "BUKIT BATOK WEST AVENUE 4",
+            "town": "Bukit Batok",
+            "title": "HDB-BUKIT BATOK",
+            "lat": 1.36289099092183,
+            "long": 103.746539240126,
+            "postal": 650417
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 288300
+                        }
+                    ],
+                    "unit": 982
+                }
+            ],
+            "block_code": {
+                "block_num": "435B",
+                "contract": "C5",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 1,
+                "day": 31,
+                "quarter": null,
+                "months_since": 32
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 1,
+                "months_since": 22
+            },
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "BUKIT BATOK WEST AVENUE 5",
+            "town": "Bukit Batok",
+            "title": "WEST EDGE @ BUKIT BATOK",
+            "lat": 1.35882272265834,
+            "long": 103.740404826736,
+            "postal": 652435
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 303700
+                        }
+                    ],
+                    "unit": 902
+                },
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 273100
+                        }
+                    ],
+                    "unit": 908
+                },
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 313200
+                        }
+                    ],
+                    "unit": 914
+                }
+            ],
+            "block_code": {
+                "block_num": "437A",
+                "contract": "C5",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 1,
+                "day": 31,
+                "quarter": null,
+                "months_since": 32
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 1,
+                "months_since": 22
+            },
+            "quota_chinese": 3,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BUKIT BATOK WEST AVENUE 5",
+            "town": "Bukit Batok",
+            "title": "WEST EDGE @ BUKIT BATOK",
+            "lat": 1.35817441794576,
+            "long": 103.739218140966,
+            "postal": 651437
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 282900
+                        }
+                    ],
+                    "unit": 1059
+                }
+            ],
+            "block_code": {
+                "block_num": "438C",
+                "contract": "C5",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 1,
+                "day": 31,
+                "quarter": null,
+                "months_since": 32
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 1,
+                "months_since": 22
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BUKIT BATOK WEST AVENUE 8",
+            "town": "Bukit Batok",
+            "title": "WEST EDGE @ BUKIT BATOK",
+            "lat": 1.35775731757847,
+            "long": 103.739408616622,
+            "postal": 653438
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 304900
+                        }
+                    ],
+                    "unit": 963
+                },
+                {
+                    "area": 93,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 309300
+                        }
+                    ],
+                    "unit": 963
+                },
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 313300
+                        }
+                    ],
+                    "unit": 979
+                }
+            ],
+            "block_code": {
+                "block_num": "439B",
+                "contract": "C5",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 1,
+                "day": 31,
+                "quarter": null,
+                "months_since": 32
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 1,
+                "months_since": 22
+            },
+            "quota_chinese": 3,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BUKIT BATOK WEST AVENUE 8",
+            "town": "Bukit Batok",
+            "title": "WEST EDGE @ BUKIT BATOK",
+            "lat": 1.35721494856746,
+            "long": 103.739342992281,
+            "postal": 652439
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 311900
+                        }
+                    ],
+                    "unit": 941
+                }
+            ],
+            "block_code": {
+                "block_num": "439C",
+                "contract": "C5",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 1,
+                "day": 31,
+                "quarter": null,
+                "months_since": 32
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 1,
+                "months_since": 22
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BUKIT BATOK WEST AVENUE 8",
+            "town": "Bukit Batok",
+            "title": "WEST EDGE @ BUKIT BATOK",
+            "lat": 1.35762861295928,
+            "long": 103.738857524407,
+            "postal": 653439
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 283600
+                        }
+                    ],
+                    "unit": 729
+                },
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 283600
+                        }
+                    ],
+                    "unit": 731
+                },
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 288100
+                        }
+                    ],
+                    "unit": 731
+                },
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 278100
+                        }
+                    ],
+                    "unit": 735
+                },
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 283700
+                        }
+                    ],
+                    "unit": 737
+                }
+            ],
+            "block_code": {
+                "block_num": "440B",
+                "contract": "C8",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 2,
+                "day": 28,
+                "quarter": null,
+                "months_since": 21
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": null,
+                "day": null,
+                "quarter": 4,
+                "months_since": 7
+            },
+            "quota_chinese": 5,
+            "quota_malay": 4,
+            "quota_other": 0,
+            "street": "BUKIT BATOK WEST AVENUE 8",
+            "town": "Bukit Batok",
+            "title": "WEST RIDGES @ BUKIT BATOK",
+            "lat": 1.35513845452595,
+            "long": 103.738218129089,
+            "postal": 652440
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 288200
+                        }
+                    ],
+                    "unit": 739
+                },
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 288200
+                        }
+                    ],
+                    "unit": 741
+                },
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 283600
+                        }
+                    ],
+                    "unit": 745
+                },
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 288100
+                        }
+                    ],
+                    "unit": 745
+                },
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 283600
+                        }
+                    ],
+                    "unit": 747
+                },
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 288100
+                        }
+                    ],
+                    "unit": 747
+                },
+                {
+                    "area": 92,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 292600
+                        }
+                    ],
+                    "unit": 747
+                }
+            ],
+            "block_code": {
+                "block_num": "440C",
+                "contract": "C8",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 2,
+                "day": 28,
+                "quarter": null,
+                "months_since": 21
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 9,
+                "day": null,
+                "quarter": null,
+                "months_since": 4
+            },
+            "quota_chinese": 7,
+            "quota_malay": 5,
+            "quota_other": 0,
+            "street": "BUKIT BATOK WEST AVENUE 8",
+            "town": "Bukit Batok",
+            "title": "WEST RIDGES @ BUKIT BATOK",
+            "lat": 1.35513827041002,
+            "long": 103.737861245907,
+            "postal": 653440
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 283600
+                        }
+                    ],
+                    "unit": 761
+                },
+                {
+                    "area": 92,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 292600
+                        }
+                    ],
+                    "unit": 761
+                },
+                {
+                    "area": 92,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 297100
+                        }
+                    ],
+                    "unit": 761
+                },
+                {
+                    "area": 92,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 300600
+                        }
+                    ],
+                    "unit": 761
+                },
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 283600
+                        }
+                    ],
+                    "unit": 763
+                },
+                {
+                    "area": 92,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 292600
+                        }
+                    ],
+                    "unit": 763
+                },
+                {
+                    "area": 92,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 302100
+                        }
+                    ],
+                    "unit": 763
+                },
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 288200
+                        }
+                    ],
+                    "unit": 767
+                },
+                {
+                    "area": 92,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 292700
+                        }
+                    ],
+                    "unit": 767
+                },
+                {
+                    "area": 92,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 292700
+                        }
+                    ],
+                    "unit": 769
+                },
+                {
+                    "area": 92,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 319100
+                        }
+                    ],
+                    "unit": 769
+                }
+            ],
+            "block_code": {
+                "block_num": "440D",
+                "contract": "C8",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 2,
+                "day": 28,
+                "quarter": null,
+                "months_since": 21
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 9,
+                "day": null,
+                "quarter": null,
+                "months_since": 4
+            },
+            "quota_chinese": 11,
+            "quota_malay": 5,
+            "quota_other": 1,
+            "street": "BUKIT BATOK WEST AVENUE 8",
+            "town": "Bukit Batok",
+            "title": "WEST RIDGES @ BUKIT BATOK",
+            "lat": 1.35513838763697,
+            "long": 103.737031493813,
+            "postal": 654440
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 283600
+                        }
+                    ],
+                    "unit": 905
+                },
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 288100
+                        }
+                    ],
+                    "unit": 905
+                },
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 283600
+                        }
+                    ],
+                    "unit": 907
+                },
+                {
+                    "area": 92,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 303600
+                        }
+                    ],
+                    "unit": 907
+                },
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 278000
+                        }
+                    ],
+                    "unit": 909
+                },
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 283600
+                        }
+                    ],
+                    "unit": 911
+                },
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 288100
+                        }
+                    ],
+                    "unit": 911
+                },
+                {
+                    "area": 92,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 292600
+                        }
+                    ],
+                    "unit": 911
+                },
+                {
+                    "area": 92,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 297100
+                        }
+                    ],
+                    "unit": 911
+                },
+                {
+                    "area": 92,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 300600
+                        }
+                    ],
+                    "unit": 911
+                },
+                {
+                    "area": 92,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 304100
+                        }
+                    ],
+                    "unit": 911
+                },
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 283600
+                        }
+                    ],
+                    "unit": 913
+                },
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 288100
+                        }
+                    ],
+                    "unit": 913
+                },
+                {
+                    "area": 92,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 297100
+                        }
+                    ],
+                    "unit": 913
+                }
+            ],
+            "block_code": {
+                "block_num": "441B",
+                "contract": "C8",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 2,
+                "day": 28,
+                "quarter": null,
+                "months_since": 21
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 1,
+                "months_since": 10
+            },
+            "quota_chinese": 14,
+            "quota_malay": 8,
+            "quota_other": 2,
+            "street": "BUKIT BATOK WEST AVENUE 8",
+            "town": "Bukit Batok",
+            "title": "WEST RIDGES @ BUKIT BATOK",
+            "lat": 1.3560032722824,
+            "long": 103.738549101393,
+            "postal": 652441
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 283600
+                        }
+                    ],
+                    "unit": 921
+                },
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 288100
+                        }
+                    ],
+                    "unit": 921
+                },
+                {
+                    "area": 92,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 292600
+                        }
+                    ],
+                    "unit": 921
+                },
+                {
+                    "area": 92,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 297100
+                        }
+                    ],
+                    "unit": 921
+                },
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 283600
+                        }
+                    ],
+                    "unit": 923
+                },
+                {
+                    "area": 92,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 292600
+                        }
+                    ],
+                    "unit": 923
+                },
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 283600
+                        }
+                    ],
+                    "unit": 925
+                }
+            ],
+            "block_code": {
+                "block_num": "441C",
+                "contract": "C8",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 2,
+                "day": 28,
+                "quarter": null,
+                "months_since": 21
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": null,
+                "day": null,
+                "quarter": 4,
+                "months_since": 7
+            },
+            "quota_chinese": 7,
+            "quota_malay": 5,
+            "quota_other": 0,
+            "street": "BUKIT BATOK WEST AVENUE 8",
+            "town": "Bukit Batok",
+            "title": "WEST RIDGES @ BUKIT BATOK",
+            "lat": 1.35556816773845,
+            "long": 103.738704484722,
+            "postal": 653441
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 282500
+                        }
+                    ],
+                    "unit": 875
+                },
+                {
+                    "area": 92,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 287000
+                        }
+                    ],
+                    "unit": 875
+                },
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 278100
+                        }
+                    ],
+                    "unit": 877
+                },
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 282600
+                        }
+                    ],
+                    "unit": 877
+                },
+                {
+                    "area": 92,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 287100
+                        }
+                    ],
+                    "unit": 877
+                },
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 272500
+                        }
+                    ],
+                    "unit": 879
+                },
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 277000
+                        }
+                    ],
+                    "unit": 879
+                },
+                {
+                    "area": 92,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 281500
+                        }
+                    ],
+                    "unit": 879
+                }
+            ],
+            "block_code": {
+                "block_num": "442A",
+                "contract": "C8",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 2,
+                "day": 28,
+                "quarter": null,
+                "months_since": 21
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": null,
+                "day": null,
+                "quarter": 4,
+                "months_since": 7
+            },
+            "quota_chinese": 8,
+            "quota_malay": 5,
+            "quota_other": 0,
+            "street": "BUKIT BATOK WEST AVENUE 8",
+            "town": "Bukit Batok",
+            "title": "WEST RIDGES @ BUKIT BATOK",
+            "lat": 1.35660480719739,
+            "long": 103.738628185843,
+            "postal": 651442
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 272500
+                        }
+                    ],
+                    "unit": 851
+                },
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 277000
+                        }
+                    ],
+                    "unit": 851
+                },
+                {
+                    "area": 92,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 281500
+                        }
+                    ],
+                    "unit": 851
+                },
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 272500
+                        }
+                    ],
+                    "unit": 853
+                },
+                {
+                    "area": 92,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 291600
+                        }
+                    ],
+                    "unit": 853
+                },
+                {
+                    "area": 92,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 298000
+                        }
+                    ],
+                    "unit": 853
+                },
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 282500
+                        }
+                    ],
+                    "unit": 855
+                }
+            ],
+            "block_code": {
+                "block_num": "442B",
+                "contract": "C8",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 2,
+                "day": 28,
+                "quarter": null,
+                "months_since": 21
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": null,
+                "day": null,
+                "quarter": 4,
+                "months_since": 7
+            },
+            "quota_chinese": 7,
+            "quota_malay": 3,
+            "quota_other": 0,
+            "street": "BUKIT BATOK WEST AVENUE 8",
+            "town": "Bukit Batok",
+            "title": "WEST RIDGES @ BUKIT BATOK",
+            "lat": 1.35713363707319,
+            "long": 103.73817224451,
+            "postal": 652442
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 278000
+                        }
+                    ],
+                    "unit": 841
+                },
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 282500
+                        }
+                    ],
+                    "unit": 841
+                },
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 272500
+                        }
+                    ],
+                    "unit": 843
+                },
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 272500
+                        }
+                    ],
+                    "unit": 845
+                },
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 277000
+                        }
+                    ],
+                    "unit": 845
+                },
+                {
+                    "area": 92,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 312700
+                        }
+                    ],
+                    "unit": 845
+                }
+            ],
+            "block_code": {
+                "block_num": "442C",
+                "contract": "C8",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 2,
+                "day": 28,
+                "quarter": null,
+                "months_since": 21
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": null,
+                "day": null,
+                "quarter": 4,
+                "months_since": 7
+            },
+            "quota_chinese": 6,
+            "quota_malay": 4,
+            "quota_other": 0,
+            "street": "BUKIT BATOK WEST AVENUE 8",
+            "town": "Bukit Batok",
+            "title": "WEST RIDGES @ BUKIT BATOK",
+            "lat": 1.35713364367425,
+            "long": 103.737972739621,
+            "postal": 653442
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 278000
+                        }
+                    ],
+                    "unit": 819
+                },
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 288100
+                        }
+                    ],
+                    "unit": 819
+                },
+                {
+                    "area": 92,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 292600
+                        }
+                    ],
+                    "unit": 819
+                },
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 283600
+                        }
+                    ],
+                    "unit": 821
+                },
+                {
+                    "area": 92,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 310400
+                        }
+                    ],
+                    "unit": 821
+                }
+            ],
+            "block_code": {
+                "block_num": "443A",
+                "contract": "C8",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 2,
+                "day": 28,
+                "quarter": null,
+                "months_since": 21
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": null,
+                "day": null,
+                "quarter": 4,
+                "months_since": 7
+            },
+            "quota_chinese": 5,
+            "quota_malay": 4,
+            "quota_other": 0,
+            "street": "BUKIT BATOK WEST AVENUE 8",
+            "town": "Bukit Batok",
+            "title": "WEST RIDGES @ BUKIT BATOK",
+            "lat": 1.3565327730106,
+            "long": 103.737760469396,
+            "postal": 651443
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 282500
+                        }
+                    ],
+                    "unit": 807
+                },
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 283600
+                        }
+                    ],
+                    "unit": 809
+                },
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 288100
+                        }
+                    ],
+                    "unit": 809
+                },
+                {
+                    "area": 92,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 292600
+                        }
+                    ],
+                    "unit": 809
+                },
+                {
+                    "area": 92,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 297100
+                        }
+                    ],
+                    "unit": 809
+                },
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 283600
+                        }
+                    ],
+                    "unit": 811
+                },
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 288100
+                        }
+                    ],
+                    "unit": 811
+                },
+                {
+                    "area": 92,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 297100
+                        }
+                    ],
+                    "unit": 811
+                },
+                {
+                    "area": 92,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 300600
+                        }
+                    ],
+                    "unit": 811
+                },
+                {
+                    "area": 92,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 304100
+                        }
+                    ],
+                    "unit": 811
+                },
+                {
+                    "area": 92,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 287100
+                        }
+                    ],
+                    "unit": 813
+                },
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 278100
+                        }
+                    ],
+                    "unit": 815
+                },
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 282600
+                        }
+                    ],
+                    "unit": 815
+                },
+                {
+                    "area": 92,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 291500
+                        }
+                    ],
+                    "unit": 815
+                },
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 278000
+                        }
+                    ],
+                    "unit": 817
+                },
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 282500
+                        }
+                    ],
+                    "unit": 817
+                },
+                {
+                    "area": 92,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 287000
+                        }
+                    ],
+                    "unit": 817
+                },
+                {
+                    "area": 92,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 319600
+                        }
+                    ],
+                    "unit": 817
+                }
+            ],
+            "block_code": {
+                "block_num": "443B",
+                "contract": "C8",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 2,
+                "day": 28,
+                "quarter": null,
+                "months_since": 21
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": null,
+                "day": null,
+                "quarter": 4,
+                "months_since": 7
+            },
+            "quota_chinese": 18,
+            "quota_malay": 6,
+            "quota_other": 1,
+            "street": "BUKIT BATOK WEST AVENUE 8",
+            "town": "Bukit Batok",
+            "title": "WEST RIDGES @ BUKIT BATOK",
+            "lat": 1.35612327530866,
+            "long": 103.737831166898,
+            "postal": 652443
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 283600
+                        }
+                    ],
+                    "unit": 793
+                },
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 288100
+                        }
+                    ],
+                    "unit": 793
+                },
+                {
+                    "area": 92,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 292600
+                        }
+                    ],
+                    "unit": 793
+                },
+                {
+                    "area": 92,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 297100
+                        }
+                    ],
+                    "unit": 793
+                },
+                {
+                    "area": 92,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 300600
+                        }
+                    ],
+                    "unit": 793
+                },
+                {
+                    "area": 92,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 304100
+                        }
+                    ],
+                    "unit": 793
+                },
+                {
+                    "area": 92,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 307600
+                        }
+                    ],
+                    "unit": 793
+                },
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 283600
+                        }
+                    ],
+                    "unit": 795
+                },
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 288100
+                        }
+                    ],
+                    "unit": 795
+                },
+                {
+                    "area": 92,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 292600
+                        }
+                    ],
+                    "unit": 795
+                },
+                {
+                    "area": 92,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 297100
+                        }
+                    ],
+                    "unit": 795
+                },
+                {
+                    "area": 92,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 300600
+                        }
+                    ],
+                    "unit": 795
+                },
+                {
+                    "area": 92,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 304100
+                        }
+                    ],
+                    "unit": 795
+                }
+            ],
+            "block_code": {
+                "block_num": "443C",
+                "contract": "C8",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 2,
+                "day": 28,
+                "quarter": null,
+                "months_since": 21
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": null,
+                "quarter": null,
+                "months_since": 2
+            },
+            "quota_chinese": 13,
+            "quota_malay": 4,
+            "quota_other": 1,
+            "street": "BUKIT BATOK WEST AVENUE 8",
+            "town": "Bukit Batok",
+            "title": "WEST RIDGES @ BUKIT BATOK",
+            "lat": 1.35557897178102,
+            "long": 103.737833820151,
+            "postal": 653443
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 272500
+                        }
+                    ],
+                    "unit": 781
+                },
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 282500
+                        }
+                    ],
+                    "unit": 781
+                },
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 283600
+                        }
+                    ],
+                    "unit": 783
+                },
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 288100
+                        }
+                    ],
+                    "unit": 783
+                },
+                {
+                    "area": 92,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 292600
+                        }
+                    ],
+                    "unit": 783
+                },
+                {
+                    "area": 92,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 283600
+                        }
+                    ],
+                    "unit": 785
+                },
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 288100
+                        }
+                    ],
+                    "unit": 785
+                },
+                {
+                    "area": 92,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 292600
+                        }
+                    ],
+                    "unit": 785
+                },
+                {
+                    "area": 92,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 297100
+                        }
+                    ],
+                    "unit": 785
+                }
+            ],
+            "block_code": {
+                "block_num": "443D",
+                "contract": "C8",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 2,
+                "day": 28,
+                "quarter": null,
+                "months_since": 21
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 5,
+                "day": null,
+                "quarter": null,
+                "months_since": 0
+            },
+            "quota_chinese": 9,
+            "quota_malay": 4,
+            "quota_other": 0,
+            "street": "BUKIT BATOK WEST AVENUE 8",
+            "town": "Bukit Batok",
+            "title": "WEST RIDGES @ BUKIT BATOK",
+            "lat": 1.3555934171552,
+            "long": 103.737118247972,
+            "postal": 654443
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 315100
+                        }
+                    ],
+                    "unit": 417
+                },
+                {
+                    "area": 92,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 304700
+                        }
+                    ],
+                    "unit": 421
+                },
+                {
+                    "area": 92,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 335500
+                        }
+                    ],
+                    "unit": 421
+                },
+                {
+                    "area": 92,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 328600
+                        }
+                    ],
+                    "unit": 425
+                },
+                {
+                    "area": 92,
+                    "floor": 19,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 342900
+                        }
+                    ],
+                    "unit": 425
+                }
+            ],
+            "block_code": {
+                "block_num": "445A",
+                "contract": "C13",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 12,
+                "day": 31,
+                "quarter": null,
+                "months_since": 19
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": null,
+                "day": null,
+                "quarter": 4,
+                "months_since": 7
+            },
+            "quota_chinese": 5,
+            "quota_malay": 5,
+            "quota_other": 5,
+            "street": "BUKIT BATOK WEST AVENUE 8",
+            "town": "Bukit Batok",
+            "title": "WEST CREST @ BUKIT BATOK",
+            "lat": 1.35097375237188,
+            "long": 103.739239600594,
+            "postal": 651445
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 329100
+                        }
+                    ],
+                    "unit": 447
+                },
+                {
+                    "area": 92,
+                    "floor": 21,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 333800
+                        }
+                    ],
+                    "unit": 447
+                }
+            ],
+            "block_code": {
+                "block_num": "445B",
+                "contract": "C13",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 12,
+                "day": 31,
+                "quarter": null,
+                "months_since": 19
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": null,
+                "day": null,
+                "quarter": 4,
+                "months_since": 7
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "BUKIT BATOK WEST AVENUE 8",
+            "town": "Bukit Batok",
+            "title": "WEST CREST @ BUKIT BATOK",
+            "lat": 1.35107338797801,
+            "long": 103.738755804134,
+            "postal": 652445
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 318700
+                        }
+                    ],
+                    "unit": 409
+                }
+            ],
+            "block_code": {
+                "block_num": "446A",
+                "contract": "C13",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 12,
+                "day": 31,
+                "quarter": null,
+                "months_since": 19
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 8,
+                "day": null,
+                "quarter": null,
+                "months_since": 3
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BUKIT BATOK WEST AVENUE 8",
+            "town": "Bukit Batok",
+            "title": "WEST CREST @ BUKIT BATOK",
+            "lat": 1.35037949696829,
+            "long": 103.739192418106,
+            "postal": 651446
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 264500
+                        }
+                    ],
+                    "unit": 52
+                },
+                {
+                    "area": 93,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 283300
+                        }
+                    ],
+                    "unit": 52
+                }
+            ],
+            "block_code": {
+                "block_num": "448C",
+                "contract": "C14",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 2,
+                "day": 28,
+                "quarter": null,
+                "months_since": 21
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 1,
+                "months_since": 10
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 0,
+            "street": "BUKIT BATOK WEST AVENUE 9",
+            "town": "Bukit Batok",
+            "title": "WEST VALLEY @ BUKIT BATOK",
+            "lat": 1.35272258284345,
+            "long": 103.741240002444,
+            "postal": 653448
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 306700
+                        }
+                    ],
+                    "unit": 66
+                },
+                {
+                    "area": 93,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 310100
+                        }
+                    ],
+                    "unit": 66
+                },
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 269200
+                        }
+                    ],
+                    "unit": 68
+                },
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 269800
+                        }
+                    ],
+                    "unit": 70
+                },
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 269800
+                        }
+                    ],
+                    "unit": 72
+                },
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 269800
+                        }
+                    ],
+                    "unit": 76
+                },
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 298800
+                        }
+                    ],
+                    "unit": 76
+                },
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 269800
+                        }
+                    ],
+                    "unit": 78
+                },
+                {
+                    "area": 93,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 287800
+                        }
+                    ],
+                    "unit": 78
+                },
+                {
+                    "area": 93,
+                    "floor": 18,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 310900
+                        }
+                    ],
+                    "unit": 78
+                }
+            ],
+            "block_code": {
+                "block_num": "449A",
+                "contract": "C14",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 2,
+                "day": 28,
+                "quarter": null,
+                "months_since": 21
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 1,
+                "months_since": 10
+            },
+            "quota_chinese": 10,
+            "quota_malay": 10,
+            "quota_other": 8,
+            "street": "BUKIT BATOK WEST AVENUE 9",
+            "town": "Bukit Batok",
+            "title": "WEST VALLEY @ BUKIT BATOK",
+            "lat": 1.35234861922855,
+            "long": 103.74151018118,
+            "postal": 651449
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 273700
+                        }
+                    ],
+                    "unit": 80
+                },
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 269800
+                        }
+                    ],
+                    "unit": 84
+                },
+                {
+                    "area": 93,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 295000
+                        }
+                    ],
+                    "unit": 84
+                },
+                {
+                    "area": 93,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 303600
+                        }
+                    ],
+                    "unit": 86
+                },
+                {
+                    "area": 93,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 308100
+                        }
+                    ],
+                    "unit": 88
+                },
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 269800
+                        }
+                    ],
+                    "unit": 90
+                },
+                {
+                    "area": 93,
+                    "floor": 19,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 307200
+                        }
+                    ],
+                    "unit": 90
+                },
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 264500
+                        }
+                    ],
+                    "unit": 92
+                },
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 304500
+                        }
+                    ],
+                    "unit": 92
+                },
+                {
+                    "area": 93,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 311200
+                        }
+                    ],
+                    "unit": 96
+                },
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 269800
+                        }
+                    ],
+                    "unit": 98
+                }
+            ],
+            "block_code": {
+                "block_num": "449B",
+                "contract": "C14",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 2,
+                "day": 28,
+                "quarter": null,
+                "months_since": 21
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 1,
+                "months_since": 10
+            },
+            "quota_chinese": 11,
+            "quota_malay": 11,
+            "quota_other": 0,
+            "street": "BUKIT BATOK WEST AVENUE 9",
+            "town": "Bukit Batok",
+            "title": "WEST VALLEY @ BUKIT BATOK",
+            "lat": 1.35197886358707,
+            "long": 103.741081176999,
+            "postal": 652449
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 312400
+                        }
+                    ],
+                    "unit": 605
+                }
+            ],
+            "block_code": {
+                "block_num": "450B",
+                "contract": "C16",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 2,
+                "day": 28,
+                "quarter": null,
+                "months_since": 21
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 1,
+                "months_since": 10
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BUKIT BATOK WEST AVENUE 6",
+            "town": "Bukit Batok",
+            "title": "WEST TERRA @ BUKIT BATOK",
+            "lat": 1.35235753004528,
+            "long": 103.744395918688,
+            "postal": 652450
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 321900
+                        }
+                    ],
+                    "unit": 619
+                },
+                {
+                    "area": 93,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 327500
+                        }
+                    ],
+                    "unit": 635
+                }
+            ],
+            "block_code": {
+                "block_num": "450C",
+                "contract": "C16",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 2,
+                "day": 28,
+                "quarter": null,
+                "months_since": 21
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 1,
+                "months_since": 10
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "BUKIT BATOK WEST AVENUE 6",
+            "town": "Bukit Batok",
+            "title": "WEST TERRA @ BUKIT BATOK",
+            "lat": 1.35204142276074,
+            "long": 103.743844813254,
+            "postal": 653450
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 328800
+                        }
+                    ],
+                    "unit": 689
+                },
+                {
+                    "area": 93,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 336800
+                        }
+                    ],
+                    "unit": 693
+                }
+            ],
+            "block_code": {
+                "block_num": "451B",
+                "contract": "C16",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 2,
+                "day": 28,
+                "quarter": null,
+                "months_since": 21
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 1,
+                "months_since": 10
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "BUKIT BATOK WEST AVENUE 6",
+            "town": "Bukit Batok",
+            "title": "WEST TERRA @ BUKIT BATOK",
+            "lat": 1.3524838135689,
+            "long": 103.743414725495,
+            "postal": 652451
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 331300
+                        }
+                    ],
+                    "unit": 733
+                },
+                {
+                    "area": 93,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 303400
+                        }
+                    ],
+                    "unit": 735
+                },
+                {
+                    "area": 93,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 307200
+                        }
+                    ],
+                    "unit": 735
+                },
+                {
+                    "area": 93,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 312400
+                        }
+                    ],
+                    "unit": 737
+                },
+                {
+                    "area": 93,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 324300
+                        }
+                    ],
+                    "unit": 737
+                }
+            ],
+            "block_code": {
+                "block_num": "452A",
+                "contract": "C16",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 2,
+                "day": 28,
+                "quarter": null,
+                "months_since": 21
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 1,
+                "months_since": 10
+            },
+            "quota_chinese": 5,
+            "quota_malay": 5,
+            "quota_other": 5,
+            "street": "BUKIT BATOK WEST AVENUE 6",
+            "town": "Bukit Batok",
+            "title": "WEST TERRA @ BUKIT BATOK",
+            "lat": 1.3526534321597,
+            "long": 103.742573096086,
+            "postal": 651452
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 330000
+                        }
+                    ],
+                    "unit": 751
+                }
+            ],
+            "block_code": {
+                "block_num": "453A",
+                "contract": "C16",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 2,
+                "day": 28,
+                "quarter": null,
+                "months_since": 21
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 1,
+                "months_since": 10
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BUKIT BATOK WEST AVENUE 6",
+            "town": "Bukit Batok",
+            "title": "WEST TERRA @ BUKIT BATOK",
+            "lat": 1.35227488305447,
+            "long": 103.742253260513,
+            "postal": 651453
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 326000
+                        }
+                    ],
+                    "unit": 765
+                },
+                {
+                    "area": 93,
+                    "floor": 15,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 333000
+                        }
+                    ],
+                    "unit": 769
+                }
+            ],
+            "block_code": {
+                "block_num": "453B",
+                "contract": "C16",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 2,
+                "day": 28,
+                "quarter": null,
+                "months_since": 21
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 1,
+                "months_since": 10
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "BUKIT BATOK WEST AVENUE 6",
+            "town": "Bukit Batok",
+            "title": "WEST TERRA @ BUKIT BATOK",
+            "lat": 1.35202191803834,
+            "long": 103.742688635431,
+            "postal": 652453
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 275500
+                        }
+                    ],
+                    "unit": 21
+                },
+                {
+                    "area": 93,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 299600
+                        }
+                    ],
+                    "unit": 21
+                },
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 315700
+                        }
+                    ],
+                    "unit": 25
+                }
+            ],
+            "block_code": {
+                "block_num": "460A",
+                "contract": "C12",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 4,
+                "day": 30,
+                "quarter": null,
+                "months_since": 35
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 25
+            },
+            "quota_chinese": 3,
+            "quota_malay": 2,
+            "quota_other": 3,
+            "street": "BUKIT BATOK WEST AVENUE 9",
+            "town": "Bukit Batok",
+            "title": "WEST QUARRY @ BUKIT BATOK",
+            "lat": 1.35426046045609,
+            "long": 103.739309747692,
+            "postal": 651460
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 311500
+                        }
+                    ],
+                    "unit": 51
+                }
+            ],
+            "block_code": {
+                "block_num": "460C",
+                "contract": "C12",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 4,
+                "day": 30,
+                "quarter": null,
+                "months_since": 35
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 25
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BUKIT BATOK WEST AVENUE 9",
+            "town": "Bukit Batok",
+            "title": "WEST QUARRY @ BUKIT BATOK",
+            "lat": 1.35332661921438,
+            "long": 103.739335851293,
+            "postal": 653460
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 286100
+                        }
+                    ],
+                    "unit": 79
+                },
+                {
+                    "area": 93,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 299600
+                        }
+                    ],
+                    "unit": 81
+                },
+                {
+                    "area": 93,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 325900
+                        }
+                    ],
+                    "unit": 81
+                }
+            ],
+            "block_code": {
+                "block_num": "460D",
+                "contract": "C12",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 4,
+                "day": 30,
+                "quarter": null,
+                "months_since": 35
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 25
+            },
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "BUKIT BATOK WEST AVENUE 9",
+            "town": "Bukit Batok",
+            "title": "WEST QUARRY @ BUKIT BATOK",
+            "lat": 1.35357038229404,
+            "long": 103.740214836034,
+            "postal": 654460
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 330200
+                        }
+                    ],
+                    "unit": 704
+                },
+                {
+                    "area": 93,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 327400
+                        }
+                    ],
+                    "unit": 708
+                },
+                {
+                    "area": 93,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 319100
+                        }
+                    ],
+                    "unit": 710
+                }
+            ],
+            "block_code": {
+                "block_num": "461A",
+                "contract": "C10",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 8,
+                "day": 31,
+                "quarter": null,
+                "months_since": 27
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 16
+            },
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 2,
+            "street": "BUKIT BATOK WEST AVENUE 8",
+            "town": "Bukit Batok",
+            "title": "WEST ROCK @ BUKIT BATOK",
+            "lat": 1.35492017502698,
+            "long": 103.739973160067,
+            "postal": 651461
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 308500
+                        }
+                    ],
+                    "unit": 720
+                },
+                {
+                    "area": 93,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 320400
+                        }
+                    ],
+                    "unit": 722
+                }
+            ],
+            "block_code": {
+                "block_num": "461B",
+                "contract": "C10",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 8,
+                "day": 31,
+                "quarter": null,
+                "months_since": 27
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 16
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 1,
+            "street": "BUKIT BATOK WEST AVENUE 8",
+            "town": "Bukit Batok",
+            "title": "WEST ROCK @ BUKIT BATOK",
+            "lat": 1.35521232611041,
+            "long": 103.740183600705,
+            "postal": 652461
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 310100
+                        }
+                    ],
+                    "unit": 754
+                }
+            ],
+            "block_code": {
+                "block_num": "461D",
+                "contract": "C10",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 8,
+                "day": 31,
+                "quarter": null,
+                "months_since": 27
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 16
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "BUKIT BATOK WEST AVENUE 8",
+            "town": "Bukit Batok",
+            "title": "WEST ROCK @ BUKIT BATOK",
+            "lat": 1.35445321126229,
+            "long": 103.740357147518,
+            "postal": 654461
+        }
+    ]
+}

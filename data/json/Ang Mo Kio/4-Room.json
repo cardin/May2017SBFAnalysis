@@ -1,0 +1,742 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 88,
+                    "floor": 10,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 58,
+                            "price": 331500
+                        }
+                    ],
+                    "unit": 877
+                }
+            ],
+            "block_code": {
+                "block_num": "215",
+                "contract": "C1",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 1976,
+                "month": 4,
+                "day": 1,
+                "quarter": null,
+                "months_since": -493
+            },
+            "pcd_date": null,
+            "quota_chinese": 0,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "ANG MO KIO AVENUE 1",
+            "town": "Ang Mo Kio",
+            "title": "ANG MO KIO 22",
+            "lat": 1.36655830166124,
+            "long": 103.841624082978,
+            "postal": 560215
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 436800
+                        }
+                    ],
+                    "unit": 149
+                },
+                {
+                    "area": 92,
+                    "floor": 14,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 459400
+                        }
+                    ],
+                    "unit": 149
+                }
+            ],
+            "block_code": {
+                "block_num": "260A",
+                "contract": "C32",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": 13
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "ANG MO KIO STREET 21",
+            "town": "Ang Mo Kio",
+            "title": "KEBUN BARU COURT",
+            "lat": 1.36928635136606,
+            "long": 103.834127552582,
+            "postal": 561260
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 459400
+                        }
+                    ],
+                    "unit": 153
+                },
+                {
+                    "area": 93,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 436700
+                        }
+                    ],
+                    "unit": 161
+                },
+                {
+                    "area": 93,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 447200
+                        }
+                    ],
+                    "unit": 161
+                }
+            ],
+            "block_code": {
+                "block_num": "260B",
+                "contract": "C32",
+                "neighbourhood": "N2"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 6,
+                "day": 1,
+                "quarter": null,
+                "months_since": 13
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "ANG MO KIO STREET 21",
+            "town": "Ang Mo Kio",
+            "title": "KEBUN BARU COURT",
+            "lat": 1.36886318809976,
+            "long": 103.833950058661,
+            "postal": 562260
+        },
+        {
+            "apartments": [
+                {
+                    "area": 95,
+                    "floor": 8,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 88,
+                            "price": 471200
+                        }
+                    ],
+                    "unit": 353
+                }
+            ],
+            "block_code": {
+                "block_num": "309A",
+                "contract": "RC9",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2006,
+                "month": 4,
+                "day": 1,
+                "quarter": null,
+                "months_since": -133
+            },
+            "pcd_date": null,
+            "quota_chinese": 0,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "ANG MO KIO STREET 31",
+            "town": "Ang Mo Kio",
+            "title": "TECK GHEE VISTA",
+            "lat": 1.36503184225505,
+            "long": 103.84530169441,
+            "postal": 562309
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 402600
+                        }
+                    ],
+                    "unit": 1
+                },
+                {
+                    "area": 93,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 412400
+                        }
+                    ],
+                    "unit": 3
+                }
+            ],
+            "block_code": {
+                "block_num": "455A",
+                "contract": "C25",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 3,
+                "day": 1,
+                "quarter": null,
+                "months_since": 10
+            },
+            "pcd_date": null,
+            "quota_chinese": 0,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "ANG MO KIO STREET 44",
+            "town": "Ang Mo Kio",
+            "title": "TECK GHEE PARKVIEW",
+            "lat": 1.3681737624116,
+            "long": 103.857520553516,
+            "postal": 561455
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 434700
+                        }
+                    ],
+                    "unit": 19
+                }
+            ],
+            "block_code": {
+                "block_num": "455B",
+                "contract": "C25",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 3,
+                "day": 1,
+                "quarter": null,
+                "months_since": 10
+            },
+            "pcd_date": null,
+            "quota_chinese": 0,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "ANG MO KIO STREET 44",
+            "town": "Ang Mo Kio",
+            "title": "TECK GHEE PARKVIEW",
+            "lat": 1.36833017912555,
+            "long": 103.858495667837,
+            "postal": 562455
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 425800
+                        }
+                    ],
+                    "unit": 27
+                },
+                {
+                    "area": 93,
+                    "floor": 17,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 437800
+                        }
+                    ],
+                    "unit": 27
+                },
+                {
+                    "area": 93,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 422900
+                        }
+                    ],
+                    "unit": 33
+                },
+                {
+                    "area": 93,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 431000
+                        }
+                    ],
+                    "unit": 33
+                },
+                {
+                    "area": 93,
+                    "floor": 24,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 447500
+                        }
+                    ],
+                    "unit": 35
+                }
+            ],
+            "block_code": {
+                "block_num": "455C",
+                "contract": "C25",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 3,
+                "day": 1,
+                "quarter": null,
+                "months_since": 10
+            },
+            "pcd_date": null,
+            "quota_chinese": 0,
+            "quota_malay": 5,
+            "quota_other": 5,
+            "street": "ANG MO KIO STREET 44",
+            "town": "Ang Mo Kio",
+            "title": "TECK GHEE PARKVIEW",
+            "lat": 1.36856484754811,
+            "long": 103.857943144204,
+            "postal": 563455
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 8,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 61,
+                            "price": 342000
+                        }
+                    ],
+                    "unit": 910
+                }
+            ],
+            "block_code": {
+                "block_num": "470",
+                "contract": "C16",
+                "neighbourhood": "N4"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 1979,
+                "month": 11,
+                "day": 1,
+                "quarter": null,
+                "months_since": -450
+            },
+            "pcd_date": null,
+            "quota_chinese": 0,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "ANG MO KIO AVENUE 10",
+            "town": "Ang Mo Kio",
+            "title": "TECK GHEE HORIZON",
+            "lat": 1.36409807919404,
+            "long": 103.856694220704,
+            "postal": 560470
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 515400
+                        }
+                    ],
+                    "unit": 11
+                },
+                {
+                    "area": 93,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 507700
+                        }
+                    ],
+                    "unit": 15
+                }
+            ],
+            "block_code": {
+                "block_num": "590A",
+                "contract": "C26",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 1,
+                "day": 31,
+                "quarter": null,
+                "months_since": 20
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": null,
+                "quarter": null,
+                "months_since": 2
+            },
+            "quota_chinese": 0,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "ANG MO KIO STREET 51",
+            "town": "Ang Mo Kio",
+            "title": "CHENG SAN COURT",
+            "lat": 1.37122178516984,
+            "long": 103.853853154442,
+            "postal": 561590
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 506200
+                        }
+                    ],
+                    "unit": 31
+                }
+            ],
+            "block_code": {
+                "block_num": "590B",
+                "contract": "C26",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 1,
+                "day": 31,
+                "quarter": null,
+                "months_since": 20
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 9,
+                "day": null,
+                "quarter": null,
+                "months_since": 4
+            },
+            "quota_chinese": 0,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "ANG MO KIO STREET 51",
+            "town": "Ang Mo Kio",
+            "title": "CHENG SAN COURT",
+            "lat": 1.37118642598514,
+            "long": 103.852980282648,
+            "postal": 562590
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 473800
+                        }
+                    ],
+                    "unit": 35
+                },
+                {
+                    "area": 93,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 478300
+                        }
+                    ],
+                    "unit": 35
+                },
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 473800
+                        }
+                    ],
+                    "unit": 37
+                },
+                {
+                    "area": 93,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 478300
+                        }
+                    ],
+                    "unit": 37
+                },
+                {
+                    "area": 93,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 482800
+                        }
+                    ],
+                    "unit": 37
+                },
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 490600
+                        }
+                    ],
+                    "unit": 41
+                },
+                {
+                    "area": 93,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 516000
+                        }
+                    ],
+                    "unit": 41
+                },
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 482200
+                        }
+                    ],
+                    "unit": 45
+                },
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 482200
+                        }
+                    ],
+                    "unit": 47
+                },
+                {
+                    "area": 93,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 486700
+                        }
+                    ],
+                    "unit": 47
+                },
+                {
+                    "area": 93,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 521600
+                        }
+                    ],
+                    "unit": 47
+                },
+                {
+                    "area": 93,
+                    "floor": 27,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 541200
+                        }
+                    ],
+                    "unit": 47
+                }
+            ],
+            "block_code": {
+                "block_num": "591A",
+                "contract": "C26",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 1,
+                "day": 31,
+                "quarter": null,
+                "months_since": 20
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": null,
+                "day": null,
+                "quarter": 4,
+                "months_since": 7
+            },
+            "quota_chinese": 0,
+            "quota_malay": 12,
+            "quota_other": 12,
+            "street": "ANG MO KIO STREET 51",
+            "town": "Ang Mo Kio",
+            "title": "CHENG SAN COURT",
+            "lat": 1.37093324079317,
+            "long": 103.851940766136,
+            "postal": 561591
+        },
+        {
+            "apartments": [
+                {
+                    "area": 91,
+                    "floor": 2,
+                    "is_repurchased": true,
+                    "lease_price_list": [
+                        {
+                            "lease": 62,
+                            "price": 328700
+                        }
+                    ],
+                    "unit": 1119
+                }
+            ],
+            "block_code": {
+                "block_num": "612",
+                "contract": "C2",
+                "neighbourhood": "N6"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 1980,
+                "month": 8,
+                "day": 1,
+                "quarter": null,
+                "months_since": -441
+            },
+            "pcd_date": null,
+            "quota_chinese": 0,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "ANG MO KIO AVENUE 4",
+            "town": "Ang Mo Kio",
+            "title": "YIO CHU KANG GREEN",
+            "lat": 1.37890786858735,
+            "long": 103.838598541016,
+            "postal": 560612
+        }
+    ]
+}

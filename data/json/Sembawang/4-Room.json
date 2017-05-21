@@ -1,0 +1,1260 @@
+{
+    "blocks": [
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 265400
+                        }
+                    ],
+                    "unit": 483
+                }
+            ],
+            "block_code": {
+                "block_num": "104A",
+                "contract": "C2",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 6,
+                "day": 30,
+                "quarter": null,
+                "months_since": 13
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 6,
+                "day": null,
+                "quarter": null,
+                "months_since": 1
+            },
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "CANBERRA STREET",
+            "town": "Sembawang",
+            "title": "EASTBROOK @ CANBERRA",
+            "lat": 1.45036083357963,
+            "long": 103.832264216095,
+            "postal": 751104
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 268200
+                        }
+                    ],
+                    "unit": 593
+                }
+            ],
+            "block_code": {
+                "block_num": "107B",
+                "contract": "C2",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 7,
+                "day": 1,
+                "quarter": null,
+                "months_since": 14
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "CANBERRA STREET",
+            "town": "Sembawang",
+            "title": "EASTBROOK @ CANBERRA",
+            "lat": 1.44916591171602,
+            "long": 103.83350690389,
+            "postal": 752107
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 13,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 283900
+                        }
+                    ],
+                    "unit": 43
+                }
+            ],
+            "block_code": {
+                "block_num": "108B",
+                "contract": "C4",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 4,
+                "day": 30,
+                "quarter": null,
+                "months_since": 11
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": null,
+                "quarter": null,
+                "months_since": 2
+            },
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "CANBERRA WALK",
+            "town": "Sembawang",
+            "title": "EASTLAWN @ CANBERRA",
+            "lat": 1.44818951673355,
+            "long": 103.831856910403,
+            "postal": 752108
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 282500
+                        }
+                    ],
+                    "unit": 29
+                }
+            ],
+            "block_code": {
+                "block_num": "108C",
+                "contract": "C4",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 4,
+                "day": 30,
+                "quarter": null,
+                "months_since": 11
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": null,
+                "quarter": null,
+                "months_since": 2
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 0,
+            "street": "CANBERRA WALK",
+            "town": "Sembawang",
+            "title": "EASTLAWN @ CANBERRA",
+            "lat": 1.44735330149204,
+            "long": 103.831796158318,
+            "postal": 753108
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 272700
+                        }
+                    ],
+                    "unit": 135
+                }
+            ],
+            "block_code": {
+                "block_num": "115B",
+                "contract": "C5",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 6,
+                "day": 30,
+                "quarter": null,
+                "months_since": 13
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": null,
+                "quarter": null,
+                "months_since": 2
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 0,
+            "street": "CANBERRA WALK",
+            "town": "Sembawang",
+            "title": "EASTLACE @ CANBERRA",
+            "lat": 1.44631122878784,
+            "long": 103.829416902418,
+            "postal": 752115
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 282000
+                        }
+                    ],
+                    "unit": 165
+                }
+            ],
+            "block_code": {
+                "block_num": "115C",
+                "contract": "C5",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 6,
+                "day": 30,
+                "quarter": null,
+                "months_since": 13
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": null,
+                "quarter": null,
+                "months_since": 2
+            },
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "CANBERRA WALK",
+            "town": "Sembawang",
+            "title": "EASTLACE @ CANBERRA",
+            "lat": 1.44607590012956,
+            "long": 103.829826244984,
+            "postal": 753115
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 292500
+                        }
+                    ],
+                    "unit": 325
+                }
+            ],
+            "block_code": {
+                "block_num": "119B",
+                "contract": "C7",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 2,
+                "day": 1,
+                "quarter": null,
+                "months_since": 9
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "CANBERRA CRESCENT",
+            "town": "Sembawang",
+            "title": "EASTWAVE @ CANBERRA",
+            "lat": 1.44637018640137,
+            "long": 103.831577506465,
+            "postal": 752119
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 288600
+                        }
+                    ],
+                    "unit": 709
+                },
+                {
+                    "area": 93,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 259200
+                        }
+                    ],
+                    "unit": 715
+                }
+            ],
+            "block_code": {
+                "block_num": "121A",
+                "contract": "C8",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 1,
+                "day": 1,
+                "quarter": null,
+                "months_since": 8
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 0,
+            "quota_other": 1,
+            "street": "CANBERRA STREET",
+            "town": "Sembawang",
+            "title": "EASTBANK @ CANBERRA",
+            "lat": 1.44760186603833,
+            "long": 103.833517820559,
+            "postal": 751121
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 291400
+                        }
+                    ],
+                    "unit": 737
+                }
+            ],
+            "block_code": {
+                "block_num": "121C",
+                "contract": "C8",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 1,
+                "day": 1,
+                "quarter": null,
+                "months_since": 8
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "CANBERRA STREET",
+            "town": "Sembawang",
+            "title": "EASTBANK @ CANBERRA",
+            "lat": 1.44744539468377,
+            "long": 103.834503117404,
+            "postal": 753121
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 284600
+                        }
+                    ],
+                    "unit": 743
+                }
+            ],
+            "block_code": {
+                "block_num": "121D",
+                "contract": "C8",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 1,
+                "day": 1,
+                "quarter": null,
+                "months_since": 8
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 0,
+            "street": "CANBERRA STREET",
+            "town": "Sembawang",
+            "title": "EASTBANK @ CANBERRA",
+            "lat": 1.44703776237184,
+            "long": 103.833923460819,
+            "postal": 754121
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 262900
+                        }
+                    ],
+                    "unit": 560
+                }
+            ],
+            "block_code": {
+                "block_num": "128C",
+                "contract": "C10",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2018,
+                "month": 9,
+                "day": 30,
+                "quarter": null,
+                "months_since": 16
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2017,
+                "month": 7,
+                "day": null,
+                "quarter": null,
+                "months_since": 2
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 0,
+            "street": "CANBERRA STREET",
+            "town": "Sembawang",
+            "title": "EASTCROWN @ CANBERRA",
+            "lat": 1.44465291670595,
+            "long": 103.833896699052,
+            "postal": 753128
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 253700
+                        }
+                    ],
+                    "unit": 644
+                },
+                {
+                    "area": 93,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 280700
+                        }
+                    ],
+                    "unit": 646
+                }
+            ],
+            "block_code": {
+                "block_num": "129A",
+                "contract": "C10",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 10,
+                "day": 1,
+                "quarter": null,
+                "months_since": 17
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 0,
+            "quota_other": 2,
+            "street": "CANBERRA STREET",
+            "town": "Sembawang",
+            "title": "EASTCROWN @ CANBERRA",
+            "lat": 1.44525877844282,
+            "long": 103.832559243456,
+            "postal": 751129
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 266200
+                        }
+                    ],
+                    "unit": 600
+                },
+                {
+                    "area": 93,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 269700
+                        }
+                    ],
+                    "unit": 624
+                }
+            ],
+            "block_code": {
+                "block_num": "129B",
+                "contract": "C10",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 10,
+                "day": 1,
+                "quarter": null,
+                "months_since": 17
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 1,
+            "quota_other": 2,
+            "street": "CANBERRA STREET",
+            "town": "Sembawang",
+            "title": "EASTCROWN @ CANBERRA",
+            "lat": 1.44486581232276,
+            "long": 103.832973072246,
+            "postal": 752129
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 2,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 258600
+                        }
+                    ],
+                    "unit": 590
+                },
+                {
+                    "area": 93,
+                    "floor": 7,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 278500
+                        }
+                    ],
+                    "unit": 592
+                }
+            ],
+            "block_code": {
+                "block_num": "129C",
+                "contract": "C10",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 10,
+                "day": 1,
+                "quarter": null,
+                "months_since": 17
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 1,
+            "quota_other": 2,
+            "street": "CANBERRA STREET",
+            "town": "Sembawang",
+            "title": "EASTCROWN @ CANBERRA",
+            "lat": 1.44419462807799,
+            "long": 103.833182402279,
+            "postal": 753129
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 253500
+                        }
+                    ],
+                    "unit": 445
+                },
+                {
+                    "area": 93,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 249000
+                        }
+                    ],
+                    "unit": 447
+                },
+                {
+                    "area": 93,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 248800
+                        }
+                    ],
+                    "unit": 449
+                }
+            ],
+            "block_code": {
+                "block_num": "130A",
+                "contract": "C10",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 10,
+                "day": 1,
+                "quarter": null,
+                "months_since": 17
+            },
+            "pcd_date": null,
+            "quota_chinese": 3,
+            "quota_malay": 3,
+            "quota_other": 3,
+            "street": "CANBERRA CRESCENT",
+            "town": "Sembawang",
+            "title": "EASTCROWN @ CANBERRA",
+            "lat": 1.4447639261162,
+            "long": 103.831866874987,
+            "postal": 751130
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 253500
+                        }
+                    ],
+                    "unit": 455
+                },
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 278200
+                        }
+                    ],
+                    "unit": 455
+                }
+            ],
+            "block_code": {
+                "block_num": "130B",
+                "contract": "C10",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2018,
+                "month": 10,
+                "day": 1,
+                "quarter": null,
+                "months_since": 17
+            },
+            "pcd_date": null,
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "CANBERRA CRESCENT",
+            "town": "Sembawang",
+            "title": "EASTCROWN @ CANBERRA",
+            "lat": 1.44438525789551,
+            "long": 103.832077519963,
+            "postal": 752130
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 278500
+                        }
+                    ],
+                    "unit": 526
+                }
+            ],
+            "block_code": {
+                "block_num": "131A",
+                "contract": "C12",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 8,
+                "day": 31,
+                "quarter": null,
+                "months_since": 39
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 28
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "CANBERRA CRESCENT",
+            "town": "Sembawang",
+            "title": "EASTLINK I @ CANBERRA",
+            "lat": 1.44372340899626,
+            "long": 103.831027075319,
+            "postal": 751131
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 3,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 277500
+                        }
+                    ],
+                    "unit": 516
+                },
+                {
+                    "area": 92,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 295700
+                        }
+                    ],
+                    "unit": 516
+                }
+            ],
+            "block_code": {
+                "block_num": "132A",
+                "contract": "C12",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 8,
+                "day": 31,
+                "quarter": null,
+                "months_since": 39
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 28
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 2,
+            "street": "CANBERRA CRESCENT",
+            "town": "Sembawang",
+            "title": "EASTLINK I @ CANBERRA",
+            "lat": 1.44343727702649,
+            "long": 103.831268697471,
+            "postal": 751132
+        },
+        {
+            "apartments": [
+                {
+                    "area": 92,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 291400
+                        }
+                    ],
+                    "unit": 51
+                }
+            ],
+            "block_code": {
+                "block_num": "132B",
+                "contract": "C12",
+                "neighbourhood": "N1"
+            },
+            "dpd_date": {
+                "year": 2020,
+                "month": 8,
+                "day": 31,
+                "quarter": null,
+                "months_since": 39
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2019,
+                "month": null,
+                "day": null,
+                "quarter": 3,
+                "months_since": 28
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "CANBERRA VIEW",
+            "town": "Sembawang",
+            "title": "EASTLINK I @ CANBERRA",
+            "lat": 1.44312203722884,
+            "long": 103.831650744888,
+            "postal": 752132
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 278100
+                        }
+                    ],
+                    "unit": 847
+                },
+                {
+                    "area": 93,
+                    "floor": 8,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 277900
+                        }
+                    ],
+                    "unit": 853
+                }
+            ],
+            "block_code": {
+                "block_num": "362A",
+                "contract": "C8",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 4,
+                "day": 30,
+                "quarter": null,
+                "months_since": 23
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 13
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 1,
+            "street": "SEMBAWANG CRESCENT",
+            "town": "Sembawang",
+            "title": "SUN NATURA",
+            "lat": 1.44719485060318,
+            "long": 103.814007986875,
+            "postal": 751362
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 5,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 273200
+                        }
+                    ],
+                    "unit": 719
+                }
+            ],
+            "block_code": {
+                "block_num": "363A",
+                "contract": "C8",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 4,
+                "day": 30,
+                "quarter": null,
+                "months_since": 23
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 2,
+                "months_since": 13
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 1,
+            "street": "SEMBAWANG CRESCENT",
+            "town": "Sembawang",
+            "title": "SUN NATURA",
+            "lat": 1.44576016585331,
+            "long": 103.814267716736,
+            "postal": 751363
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 9,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 291600
+                        }
+                    ],
+                    "unit": 123
+                },
+                {
+                    "area": 93,
+                    "floor": 10,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 283600
+                        }
+                    ],
+                    "unit": 131
+                }
+            ],
+            "block_code": {
+                "block_num": "365B",
+                "contract": "C7",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 3,
+                "day": 31,
+                "quarter": null,
+                "months_since": 22
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 1,
+                "months_since": 10
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 0,
+            "street": "SEMBAWANG CRESCENT",
+            "town": "Sembawang",
+            "title": "SUN BREEZE",
+            "lat": 1.44396286350097,
+            "long": 103.817361902182,
+            "postal": 752365
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 12,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 286400
+                        }
+                    ],
+                    "unit": 141
+                },
+                {
+                    "area": 93,
+                    "floor": 6,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 273800
+                        }
+                    ],
+                    "unit": 143
+                }
+            ],
+            "block_code": {
+                "block_num": "365C",
+                "contract": "C7",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 3,
+                "day": 31,
+                "quarter": null,
+                "months_since": 22
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 1,
+                "months_since": 10
+            },
+            "quota_chinese": 2,
+            "quota_malay": 2,
+            "quota_other": 1,
+            "street": "SEMBAWANG CRESCENT",
+            "town": "Sembawang",
+            "title": "SUN BREEZE",
+            "lat": 1.44339578695382,
+            "long": 103.816986885504,
+            "postal": 753365
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 11,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 99,
+                            "price": 279700
+                        }
+                    ],
+                    "unit": 179
+                }
+            ],
+            "block_code": {
+                "block_num": "366A",
+                "contract": "C7",
+                "neighbourhood": "N3"
+            },
+            "dpd_date": {
+                "year": 2019,
+                "month": 3,
+                "day": 31,
+                "quarter": null,
+                "months_since": 22
+            },
+            "flat_type": "4-Room",
+            "lcd_date": null,
+            "pcd_date": {
+                "year": 2018,
+                "month": null,
+                "day": null,
+                "quarter": 1,
+                "months_since": 10
+            },
+            "quota_chinese": 1,
+            "quota_malay": 1,
+            "quota_other": 0,
+            "street": "SEMBAWANG CRESCENT",
+            "town": "Sembawang",
+            "title": "SUN BREEZE",
+            "lat": 1.44380050698252,
+            "long": 103.816211984803,
+            "postal": 751366
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 4,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 291500
+                        }
+                    ],
+                    "unit": 36
+                }
+            ],
+            "block_code": {
+                "block_num": "592C",
+                "contract": "C1B",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2015,
+                "month": 4,
+                "day": 1,
+                "quarter": null,
+                "months_since": -25
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 1,
+            "street": "MONTREAL LINK",
+            "town": "Sembawang",
+            "title": "MONTREAL VILLE",
+            "lat": 1.45093932083215,
+            "long": 103.828070536752,
+            "postal": 753592
+        },
+        {
+            "apartments": [
+                {
+                    "area": 93,
+                    "floor": 16,
+                    "is_repurchased": false,
+                    "lease_price_list": [
+                        {
+                            "lease": 97,
+                            "price": 321300
+                        }
+                    ],
+                    "unit": 66
+                }
+            ],
+            "block_code": {
+                "block_num": "593A",
+                "contract": "C1B",
+                "neighbourhood": "N5"
+            },
+            "dpd_date": null,
+            "flat_type": "4-Room",
+            "lcd_date": {
+                "year": 2015,
+                "month": 4,
+                "day": 1,
+                "quarter": null,
+                "months_since": -25
+            },
+            "pcd_date": null,
+            "quota_chinese": 1,
+            "quota_malay": 0,
+            "quota_other": 1,
+            "street": "MONTREAL LINK",
+            "town": "Sembawang",
+            "title": "MONTREAL VILLE",
+            "lat": 1.4515471607471,
+            "long": 103.827907536375,
+            "postal": 751593
+        }
+    ]
+}
