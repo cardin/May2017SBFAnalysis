@@ -1,0 +1,13 @@
+# Git
+/.git
+
+# Visual Studio
+/.vs
+*.sln
+*.pyproj*
+
+# Python specifics
+*/pycache/*
+*.pyc
+/env
+*/.mypy_cache/*

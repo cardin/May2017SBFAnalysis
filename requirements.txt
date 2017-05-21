@@ -1,0 +1,5 @@
+beautifulsoup4==4.6.0
+html5lib==0.999999999
+pip==9.0.1
+pylint==1.7.1
+requests==2.14.2
